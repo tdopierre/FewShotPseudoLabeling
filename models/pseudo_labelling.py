@@ -1,8 +1,10 @@
+from scipy.cluster.hierarchy import linkage, to_tree
 import numpy as np
 from util.data import load_data_jsonl, Vocab
+from util.tree import get_unique_label_trees
 from models.embedders import Embedder
 from sklearn.metrics import pairwise_distances
-from sklearn.neighbors import NearestNeighbors, kneighbors_graph
+from sklearn.neighbors import NearestNeighbors
 from scipy.linalg import fractional_matrix_power, eigh
 
 
@@ -31,10 +33,10 @@ def get_nKNN_pseudo_labels(w, labeled_data, unlabeled_data, temperature=10):
         z_i_bar.sort()
 
         recovered_label = labels_vocab.labels[z_i.argmax()]
-        recovered_score = z_i.max()
+        recovered_score = z_i_bar.max()
 
         recovered.append(dict(
-            input=data['input'],
+            data=data.copy(),
             pseudo_label=recovered_label,
             pseudo_label_score=recovered_score
         ))
@@ -112,3 +114,62 @@ class SpectralPseudoLabeler:
         w_prime = (normed_eigs @ normed_eigs.T).astype(np.float32)
 
         return get_nKNN_pseudo_labels(w_prime, labeled_data, unlabeled_data, temperature=temperature)
+
+
+class HierarchicalPseudoLabeler:
+    def __init__(self, embedder: Embedder):
+        self.embedder = embedder  # type: Embedder
+
+    def find_pseudo_labels(
+            self,
+            labeled_file_path: str,
+            unlabeled_file_path: str,
+            temperature: int = 10
+    ):
+        labeled_data = load_data_jsonl(
+            labeled_file_path,
+        )
+
+        unlabeled_data = load_data_jsonl(
+            unlabeled_file_path,
+        )
+
+        labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
+        unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data]))
+        labels = [d['label'] for d in labeled_data] + ['' for _ in unlabeled_data]
+        embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
+
+        Z = linkage(embeddings, 'ward')
+        root_tree = to_tree(Z)
+        trees = get_unique_label_trees(root_tree=root_tree, labels=labels)
+
+        recovered = list()
+        for tree, path in trees:
+            output = list()
+
+            # Get all indices in the tree
+            order = tree.pre_order()
+            tree_labels = [labels[ix] for ix in order]
+
+            # Case when all elements of tree are unlabelled
+            if set(tree_labels) == {''}:
+                recovered += output
+                continue
+
+            # Case when samples are mixed (labeled & unlabeled), but with a unique label
+            # Get the label
+            label = [l for o, l in zip(order, tree_labels) if len(labels[o])][0]
+
+            # Iterate over items
+            for ix in order:
+                # Case if item is unlabeled
+                if labels[ix] == '':
+                    # score = 1 - distances[global_indices[ix]][already_labelled_global_indices].mean()
+                    dat = unlabeled_data[ix - len(labeled_data)].copy()
+                    output.append(dict(
+                        data=dat,
+                        pseudo_label=label,
+                        # score=score
+                    ))
+            recovered += output
+        return recovered
