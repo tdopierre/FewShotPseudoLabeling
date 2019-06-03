@@ -6,14 +6,17 @@ class Logger:
     def __init__(self, name, logs_path=None, level=logging.INFO,
                  log_format='%(asctime)s [%(levelname)s] %(message)s'):
         if name in logging.Logger.manager.loggerDict:
-            self._init_from_existant(name=name)
+            self._init_from_existant(name=name, level=level)
         else:
             self._init_from_scratch(logs_path, name, level, log_format)
         self._init_logging_functions()
 
-    def _init_from_existant(self, name):
+    def _init_from_existant(self, name, level=None):
         self.logger = logging.getLogger(name)
-        self.level = self.logger.level
+        if level:
+            self.level = level
+            self.logger.setLevel(level)
+            # self.level = self.logger.level
 
     def _init_from_scratch(self, logs_path, name, level=logging.INFO,
                            log_format='%(asctime)s [%(levelname)s] %(message)s'):

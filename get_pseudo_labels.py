@@ -5,7 +5,9 @@ from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler
     AggregatedPseudoLabeler
 from models.embedders import FastTextEmbedder
 from util.data import save_data_jsonl
+from util.logging import Logger
 import datetime
+import logging
 
 
 def get_args():
@@ -17,12 +19,20 @@ def get_args():
     # Language to use to embed sentences
     args_parser.add_argument('--language', type=str, required=True, help='Language of data')
 
-    # Input files, as well as file formats
+    # Input files
     args_parser.add_argument('--input-labeled-file', type=str, required=True, help='Path to labeled file')
     args_parser.add_argument('--input-unlabeled-file', type=str, required=True, help='Path to unlabeled file')
 
     # Output location
-    args_parser.add_argument('--output', type=str, default=f'runs/{datetime.datetime.now().isoformat()}')
+    args_parser.add_argument('--output', type=str, help='Output location to save pseudo labels',
+                             default=f'runs/{datetime.datetime.now().isoformat()}')
+
+    # Batch size to process unlabeled data
+    args_parser.add_argument('--batch-size', type=int, default=None, help='batch size to process unlabeled data')
+
+    # Verbosity
+    args_parser.add_argument("-v", "--verbose", help="increase output verbosity",
+                             action="store_true")
     return args_parser.parse_args()
 
 
@@ -40,6 +50,10 @@ def main():
     args_dict = vars(args)
     check_args(args)
 
+    level = logging.DEBUG if args.verbose else logging.WARNING
+    logger = Logger('FSID', level=level)
+
+    logger.info('Loading embedder...')
     embedder = FastTextEmbedder(language=args.language)
     if args.method == 'nKNN':
         pseudo_labeler = NaiveKNNPseudoLabeler(embedder=embedder)
@@ -51,9 +65,11 @@ def main():
         pseudo_labeler = AggregatedPseudoLabeler(embedder=embedder)
     else:
         raise NotImplementedError
+    logger.info('Finding pseudo-labels...')
     pseudo_labels = pseudo_labeler.find_pseudo_labels(
         labeled_file_path=args.input_labeled_file,
-        unlabeled_file_path=args.input_unlabeled_file
+        unlabeled_file_path=args.input_unlabeled_file,
+        **args_dict
     )
     os.makedirs(args.output)
     with open(os.path.join(args.output, 'args.json'), 'w') as file:

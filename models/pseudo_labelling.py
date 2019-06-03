@@ -1,11 +1,14 @@
 from scipy.cluster.hierarchy import linkage, to_tree
 import numpy as np
-from util.data import load_data_jsonl, Vocab
+from util.data import load_data_jsonl, Vocab, chunks
 from util.tree import get_unique_label_trees
+from util.logging import Logger
 from models.embedders import Embedder
 from sklearn.metrics import pairwise_distances
 from sklearn.neighbors import NearestNeighbors
 from scipy.linalg import fractional_matrix_power, eigh
+
+logger = Logger('FSID')
 
 
 def get_nKNN_pseudo_labels(w, labeled_data, unlabeled_data, temperature=10):
@@ -51,7 +54,8 @@ class NaiveKNNPseudoLabeler:
             self,
             labeled_file_path: str,
             unlabeled_file_path: str,
-            temperature: int = 10
+            temperature: int = 10,
+            **kwargs
     ):
         labeled_data = load_data_jsonl(
             labeled_file_path,
@@ -79,7 +83,8 @@ class SpectralPseudoLabeler:
             self,
             labeled_file_path: str,
             unlabeled_file_path: str,
-            temperature: int = 10
+            temperature: int = 10,
+            **kwargs
     ):
         labeled_data = load_data_jsonl(
             labeled_file_path,
@@ -124,7 +129,9 @@ class HierarchicalPseudoLabeler:
             self,
             labeled_file_path: str,
             unlabeled_file_path: str,
-            temperature: int = 10
+            temperature: int = 10,
+            batch_size: int = None,
+            **kwargs
     ):
         labeled_data = load_data_jsonl(
             labeled_file_path,
@@ -133,73 +140,82 @@ class HierarchicalPseudoLabeler:
         unlabeled_data = load_data_jsonl(
             unlabeled_file_path,
         )
+        if not batch_size:
+            batch_size = len(unlabeled_data)
+        unlabeled_data_chunks = chunks(unlabeled_data, batch_size)
+        n_batches = len(range(0, len(unlabeled_data), batch_size))
 
+        all_recovered = list()
         labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
-        unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data]))
-        labels = [d['label'] for d in labeled_data] + ['' for _ in unlabeled_data]
-        labels_vocab = Vocab([d['label'] for d in labeled_data])
-        embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
 
-        # Build similarity matrix
-        w = (1 - pairwise_distances(embeddings, embeddings, metric='cosine')).astype(np.float32)
+        for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
+            logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
+            labels = [d['label'] for d in labeled_data] + ['' for _ in unlabeled_data_chunk]
+            labels_vocab = Vocab([d['label'] for d in labeled_data])
+            embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
 
-        # Extracts splits of W for each label. Will be used to compute score
-        w_label = dict()
-        for label in labels_vocab.labels:
-            labelled_global_indices = [ix for ix, d in enumerate(labeled_data) if d['label'] == label]
-            w_label[label] = w[:, labelled_global_indices]
+            # Build similarity matrix
+            w = (1 - pairwise_distances(embeddings, embeddings, metric='cosine')).astype(np.float32)
 
-        # Build hierarchical tree, bottom to top
-        Z = linkage(embeddings, 'ward')
-        root_tree = to_tree(Z)
+            # Extracts splits of W for each label. Will be used to compute score
+            w_label = dict()
+            for label in labels_vocab.labels:
+                labelled_global_indices = [ix for ix, d in enumerate(labeled_data) if d['label'] == label]
+                w_label[label] = w[:, labelled_global_indices]
 
-        # Split tree, top to bottom
-        trees = get_unique_label_trees(root_tree=root_tree, labels=labels)
+            # Build hierarchical tree, bottom to top
+            Z = linkage(embeddings, 'ward')
+            root_tree = to_tree(Z)
 
-        # Recover data
-        recovered = list()
-        for tree, path in trees:
-            output = list()
+            # Split tree, top to bottom
+            trees = get_unique_label_trees(root_tree=root_tree, labels=labels)
 
-            # Get all indices in the tree
-            order = tree.pre_order()
-            tree_labels = [labels[ix] for ix in order]
+            # Recover data
+            recovered = list()
+            for tree, path in trees:
+                output = list()
 
-            # Case when all elements of tree are unlabelled
-            if set(tree_labels) == {''}:
+                # Get all indices in the tree
+                order = tree.pre_order()
+                tree_labels = [labels[ix] for ix in order]
+
+                # Case when all elements of tree are unlabelled
+                if set(tree_labels) == {''}:
+                    recovered += output
+                    continue
+
+                # Case when samples are mixed (labeled & unlabeled), but with a unique label
+                # Get the label
+                pseudo_label = [l for o, l in zip(order, tree_labels) if len(labels[o])][0]
+
+                # Iterate over items
+                for ix in order:
+                    # Case if item is unlabeled
+                    if labels[ix] == '':
+                        # Compute score
+                        global_ix = ix
+                        z_i = np.array([
+                            w_label[label][global_ix].mean()
+                            for label in labels_vocab.labels
+                        ])
+                        # temperature
+                        z_i *= temperature
+                        z_i_bar = np.exp(z_i)
+                        z_i_bar /= z_i_bar.sum()
+
+                        pseudo_label_score = float(z_i_bar[labels_vocab(pseudo_label)])
+
+                        # Output
+                        dat = unlabeled_data_chunk[ix - len(labeled_data)].copy()
+                        output.append(dict(
+                            data=dat,
+                            pseudo_label=pseudo_label,
+                            pseudo_label_score=pseudo_label_score
+                        ))
                 recovered += output
-                continue
-
-            # Case when samples are mixed (labeled & unlabeled), but with a unique label
-            # Get the label
-            pseudo_label = [l for o, l in zip(order, tree_labels) if len(labels[o])][0]
-
-            # Iterate over items
-            for ix in order:
-                # Case if item is unlabeled
-                if labels[ix] == '':
-                    # Compute score
-                    global_ix = ix
-                    z_i = np.array([
-                        w_label[label][global_ix].mean()
-                        for label in labels_vocab.labels
-                    ])
-                    # temperature
-                    z_i *= temperature
-                    z_i_bar = np.exp(z_i)
-                    z_i_bar /= z_i_bar.sum()
-
-                    pseudo_label_score = float(z_i_bar[labels_vocab(pseudo_label)])
-
-                    # Output
-                    dat = unlabeled_data[ix - len(labeled_data)].copy()
-                    output.append(dict(
-                        data=dat,
-                        pseudo_label=pseudo_label,
-                        pseudo_label_score=pseudo_label_score
-                    ))
-            recovered += output
-        return recovered
+            all_recovered += recovered
+        return all_recovered
 
 
 class AggregatedPseudoLabeler:
@@ -213,22 +229,26 @@ class AggregatedPseudoLabeler:
             self,
             labeled_file_path: str,
             unlabeled_file_path: str,
-            temperature: int = 10
+            temperature: int = 10,
+            **kwargs
     ):
         nknn_pseudo_labels = self.nknn_labeler.find_pseudo_labels(
             labeled_file_path=labeled_file_path,
             unlabeled_file_path=unlabeled_file_path,
-            temperature=temperature
+            temperature=temperature,
+            **kwargs
         )
         spectral_pseudo_labels = self.spectral_labeler.find_pseudo_labels(
             labeled_file_path=labeled_file_path,
             unlabeled_file_path=unlabeled_file_path,
-            temperature=temperature
+            temperature=temperature,
+            **kwargs
         )
         hierarchical_pseudo_labels = self.hierarchical_labeler.find_pseudo_labels(
             labeled_file_path=labeled_file_path,
             unlabeled_file_path=unlabeled_file_path,
-            temperature=temperature
+            temperature=temperature,
+            **kwargs
         )
 
         nknn_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in nknn_pseudo_labels]

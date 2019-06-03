@@ -15,6 +15,12 @@ def save_data_jsonl(data, file_path):
             file.write(json.dumps(d, ensure_ascii=False) + '\n')
 
 
+def chunks(l, n):
+    """Yield successive n-sized chunks from l."""
+    for i in range(0, len(l), n):
+        yield l[i:i + n]
+
+
 class Vocab:
     def __init__(self, labels_list):
         uniq_labels_list = sorted(set(labels_list))
