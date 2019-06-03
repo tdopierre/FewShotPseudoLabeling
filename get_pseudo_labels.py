@@ -1,7 +1,8 @@
 import json
 import os
 import argparse
-from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler, HierarchicalPseudoLabeler
+from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler, HierarchicalPseudoLabeler, \
+    AggregatedPseudoLabeler
 from models.embedders import FastTextEmbedder
 from util.data import save_data_jsonl
 import datetime
@@ -46,6 +47,8 @@ def main():
         pseudo_labeler = SpectralPseudoLabeler(embedder=embedder)
     elif args.method == 'hierarchical':
         pseudo_labeler = HierarchicalPseudoLabeler(embedder=embedder)
+    elif args.method == 'aggregated':
+        pseudo_labeler = AggregatedPseudoLabeler(embedder=embedder)
     else:
         raise NotImplementedError
     pseudo_labels = pseudo_labeler.find_pseudo_labels(
