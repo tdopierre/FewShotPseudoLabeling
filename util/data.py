@@ -3,10 +3,16 @@ import json
 
 def load_data_jsonl(file_path):
     out = list()
-    with open(file_path) as file:
+    with open(file_path, 'r') as file:
         for line in file:
             out.append(json.loads(line.strip()))
     return out
+
+
+def save_data_jsonl(data, file_path):
+    with open(file_path, 'w') as file:
+        for d in data:
+            file.write(json.dumps(d, ensure_ascii=False) + '\n')
 
 
 class Vocab:
