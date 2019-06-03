@@ -137,12 +137,26 @@ class HierarchicalPseudoLabeler:
         labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
         unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data]))
         labels = [d['label'] for d in labeled_data] + ['' for _ in unlabeled_data]
+        labels_vocab = Vocab([d['label'] for d in labeled_data])
         embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
 
+        # Build similarity matrix
+        w = (1 - pairwise_distances(embeddings, embeddings, metric='cosine')).astype(np.float32)
+
+        # Extracts splits of W for each label. Will be used to compute score
+        w_label = dict()
+        for label in labels_vocab.labels:
+            labelled_global_indices = [ix for ix, d in enumerate(labeled_data) if d['label'] == label]
+            w_label[label] = w[:, labelled_global_indices]
+
+        # Build hierarchical tree, bottom to top
         Z = linkage(embeddings, 'ward')
         root_tree = to_tree(Z)
+
+        # Split tree, top to bottom
         trees = get_unique_label_trees(root_tree=root_tree, labels=labels)
 
+        # Recover data
         recovered = list()
         for tree, path in trees:
             output = list()
@@ -158,18 +172,31 @@ class HierarchicalPseudoLabeler:
 
             # Case when samples are mixed (labeled & unlabeled), but with a unique label
             # Get the label
-            label = [l for o, l in zip(order, tree_labels) if len(labels[o])][0]
+            pseudo_label = [l for o, l in zip(order, tree_labels) if len(labels[o])][0]
 
             # Iterate over items
             for ix in order:
                 # Case if item is unlabeled
                 if labels[ix] == '':
-                    # score = 1 - distances[global_indices[ix]][already_labelled_global_indices].mean()
+                    # Compute score
+                    global_ix = ix
+                    z_i = np.array([
+                        w_label[label][global_ix].mean()
+                        for label in labels_vocab.labels
+                    ])
+                    # temperature
+                    z_i *= temperature
+                    z_i_bar = np.exp(z_i)
+                    z_i_bar /= z_i_bar.sum()
+
+                    pseudo_label_score = float(z_i_bar[labels_vocab(pseudo_label)])
+
+                    # Output
                     dat = unlabeled_data[ix - len(labeled_data)].copy()
                     output.append(dict(
                         data=dat,
-                        pseudo_label=label,
-                        # score=score
+                        pseudo_label=pseudo_label,
+                        pseudo_label_score=pseudo_label_score
                     ))
             recovered += output
         return recovered
@@ -206,8 +233,10 @@ class AggregatedPseudoLabeler:
 
         nknn_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in nknn_pseudo_labels]
         spectral_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in spectral_pseudo_labels]
-        hierarchical_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in hierarchical_pseudo_labels]
+        hierarchical_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in
+                                                    hierarchical_pseudo_labels]
 
-        common = set(nknn_sentences_and_pseudo_labels) & set(spectral_sentences_and_pseudo_labels) & set(hierarchical_sentences_and_pseudo_labels)
+        common = set(nknn_sentences_and_pseudo_labels) & set(spectral_sentences_and_pseudo_labels) & set(
+            hierarchical_sentences_and_pseudo_labels)
 
         return [d for d in hierarchical_pseudo_labels if (d['data']['input'], d['pseudo_label']) in common]
