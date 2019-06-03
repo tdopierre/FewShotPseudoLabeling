@@ -173,3 +173,41 @@ class HierarchicalPseudoLabeler:
                     ))
             recovered += output
         return recovered
+
+
+class AggregatedPseudoLabeler:
+    def __init__(self, embedder: Embedder):
+        self.embedder = embedder  # type: Embedder
+        self.nknn_labeler = NaiveKNNPseudoLabeler(embedder=self.embedder)
+        self.spectral_labeler = SpectralPseudoLabeler(embedder=self.embedder)
+        self.hierarchical_labeler = HierarchicalPseudoLabeler(embedder=self.embedder)
+
+    def find_pseudo_labels(
+            self,
+            labeled_file_path: str,
+            unlabeled_file_path: str,
+            temperature: int = 10
+    ):
+        nknn_pseudo_labels = self.nknn_labeler.find_pseudo_labels(
+            labeled_file_path=labeled_file_path,
+            unlabeled_file_path=unlabeled_file_path,
+            temperature=temperature
+        )
+        spectral_pseudo_labels = self.spectral_labeler.find_pseudo_labels(
+            labeled_file_path=labeled_file_path,
+            unlabeled_file_path=unlabeled_file_path,
+            temperature=temperature
+        )
+        hierarchical_pseudo_labels = self.hierarchical_labeler.find_pseudo_labels(
+            labeled_file_path=labeled_file_path,
+            unlabeled_file_path=unlabeled_file_path,
+            temperature=temperature
+        )
+
+        nknn_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in nknn_pseudo_labels]
+        spectral_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in spectral_pseudo_labels]
+        hierarchical_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in hierarchical_pseudo_labels]
+
+        common = set(nknn_sentences_and_pseudo_labels) & set(spectral_sentences_and_pseudo_labels) & set(hierarchical_sentences_and_pseudo_labels)
+
+        return [d for d in hierarchical_pseudo_labels if (d['data']['input'], d['pseudo_label']) in common]
