@@ -41,7 +41,7 @@ def get_nKNN_pseudo_labels(w, labeled_data, unlabeled_data, temperature=10):
         recovered.append(dict(
             data=data.copy(),
             pseudo_label=recovered_label,
-            pseudo_label_score=recovered_score
+            pseudo_label_score=float(recovered_score)
         ))
     return recovered
 
@@ -55,6 +55,7 @@ class NaiveKNNPseudoLabeler:
             labeled_file_path: str,
             unlabeled_file_path: str,
             temperature: int = 10,
+            batch_size: int = None,
             **kwargs
     ):
         labeled_data = load_data_jsonl(
@@ -65,14 +66,22 @@ class NaiveKNNPseudoLabeler:
             unlabeled_file_path,
         )
 
+        if not batch_size:
+            batch_size = len(unlabeled_data)
+        unlabeled_data_chunks = chunks(unlabeled_data, batch_size)
+        n_batches = len(range(0, len(unlabeled_data), batch_size))
+
+        all_recovered = list()
         labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
-        unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data]))
 
-        embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
+        for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
+            logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
+            embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
+            w = (1 - pairwise_distances(embeddings, embeddings, metric='cosine')).astype(np.float32)
+            all_recovered += get_nKNN_pseudo_labels(w, labeled_data, unlabeled_data_chunk, temperature=temperature)
 
-        w = (1 - pairwise_distances(embeddings, embeddings, metric='cosine')).astype(np.float32)
-
-        return get_nKNN_pseudo_labels(w, labeled_data, unlabeled_data, temperature=temperature)
+        return all_recovered
 
 
 class SpectralPseudoLabeler:
@@ -84,6 +93,7 @@ class SpectralPseudoLabeler:
             labeled_file_path: str,
             unlabeled_file_path: str,
             temperature: int = 10,
+            batch_size: int = None,
             **kwargs
     ):
         labeled_data = load_data_jsonl(
@@ -94,31 +104,43 @@ class SpectralPseudoLabeler:
             unlabeled_file_path,
         )
 
+        if not batch_size:
+            batch_size = len(unlabeled_data)
+        unlabeled_data_chunks = chunks(unlabeled_data, batch_size)
+        n_batches = len(range(0, len(unlabeled_data), batch_size))
+
+        all_recovered = list()
         labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
-        unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data]))
 
-        embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
+        for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
+            logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
+            embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
 
-        nn = NearestNeighbors(n_neighbors=10, metric='cosine')
-        nn.fit(embeddings)
-        graph = nn.kneighbors_graph().toarray()
-        w = (graph.T + graph > 0).astype(int)
+            # todo
+            nn = NearestNeighbors(n_neighbors=10, metric='cosine')
+            nn.fit(embeddings)
+            graph = nn.kneighbors_graph().toarray()
+            w = (graph.T + graph > 0).astype(int)
 
-        # D
-        d = np.diag(w.sum(0))
-        d_half = fractional_matrix_power(d, -0.5)
+            # D
+            d = np.diag(w.sum(0))
+            d_half = fractional_matrix_power(d, -0.5)
 
-        # Normalized laplacian
-        l_sym = np.eye(len(w)) - d_half @ w @ d_half
+            # Normalized laplacian
+            l_sym = np.eye(len(w)) - d_half @ w @ d_half
 
-        # Eigen decomposition
-        eigs = eigh(l_sym, eigvals=(1, 31))
-        normed_eigs = eigs[1] / np.sqrt(eigs[0])
+            # Eigen decomposition
+            eigs = eigh(l_sym, eigvals=(1, min(31, len(l_sym)-1)))
+            normed_eigs = eigs[1] / np.sqrt(eigs[0])
 
-        # W_prime
-        w_prime = (normed_eigs @ normed_eigs.T).astype(np.float32)
+            # W_prime
+            w_prime = (normed_eigs @ normed_eigs.T).astype(np.float32)
 
-        return get_nKNN_pseudo_labels(w_prime, labeled_data, unlabeled_data, temperature=temperature)
+            all_recovered += get_nKNN_pseudo_labels(w_prime, labeled_data, unlabeled_data_chunk,
+                                                    temperature=temperature)
+
+        return all_recovered
 
 
 class HierarchicalPseudoLabeler:
