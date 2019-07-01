@@ -6,6 +6,8 @@ from util.logging import Logger
 from models.embedders import Embedder
 from sklearn.metrics import pairwise_distances
 from sklearn.neighbors import NearestNeighbors
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
 from scipy.linalg import fractional_matrix_power, eigh
 
 logger = Logger('FSID')
@@ -117,7 +119,6 @@ class SpectralPseudoLabeler:
             unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
             embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
 
-            # todo
             nn = NearestNeighbors(n_neighbors=10, metric='cosine')
             nn.fit(embeddings)
             graph = nn.kneighbors_graph().toarray()
@@ -131,7 +132,7 @@ class SpectralPseudoLabeler:
             l_sym = np.eye(len(w)) - d_half @ w @ d_half
 
             # Eigen decomposition
-            eigs = eigh(l_sym, eigvals=(1, min(31, len(l_sym)-1)))
+            eigs = eigh(l_sym, eigvals=(1, min(31, len(l_sym) - 1)))
             normed_eigs = eigs[1] / np.sqrt(eigs[0])
 
             # W_prime
@@ -282,3 +283,108 @@ class AggregatedPseudoLabeler:
             hierarchical_sentences_and_pseudo_labels)
 
         return [d for d in hierarchical_pseudo_labels if (d['data']['input'], d['pseudo_label']) in common]
+
+
+class SelfTrainingPseudoLabeler:
+    def __init__(self):
+        pass
+
+    def fit(self, path):
+        pass
+
+    def predict(self, path):
+        pass
+
+
+class TFIDFSelfTrainingPseudoLabeler(SelfTrainingPseudoLabeler):
+    def __init__(self):
+        super(TFIDFSelfTrainingPseudoLabeler, self).__init__()
+
+    def fit(self, path):
+        train_data = load_data_jsonl(path)
+        self.tfidf = TfidfVectorizer()
+        X = self.tfidf.fit_transform([str(d['input']) for d in train_data])
+        self.logreg = LogisticRegression(C=100.0)
+        self.labels_vocab = Vocab([d['label'] for d in train_data])
+        y = [self.labels_vocab(d['label']) for d in train_data]
+        self.logreg.fit(X, y)
+
+    def find_pseudo_labels(
+            self,
+            labeled_file_path: str,
+            unlabeled_file_path: str,
+            batch_size: int = None,
+            **kwargs
+    ):
+        self.fit(labeled_file_path)
+        unlabeled_data = load_data_jsonl(unlabeled_file_path)
+
+        if not batch_size:
+            batch_size = len(unlabeled_data)
+        unlabeled_data_chunks = chunks(unlabeled_data, batch_size)
+        n_batches = len(range(0, len(unlabeled_data), batch_size))
+
+        recovered = list()
+
+        for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
+            logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
+            X = self.tfidf.transform([str(d['input']) for d in unlabeled_data_chunk])
+            predictions = self.logreg.predict_proba(X)
+            pseudo_labels = predictions.argmax(1)
+            pseudo_labels_scores = predictions.max(1)
+
+            for original_data, pseudo_label, pseudo_label_score in zip(
+                    unlabeled_data_chunk, pseudo_labels, pseudo_labels_scores):
+                recovered.append(dict(
+                    data=original_data.copy(),
+                    pseudo_label=self.labels_vocab(pseudo_label, rev=True),
+                    pseudo_label_score=float(pseudo_label_score)
+                ))
+        return recovered
+
+
+class EmbeddedSelfTrainingPseudoLabeler(SelfTrainingPseudoLabeler):
+    def __init__(self, embedder: Embedder):
+        super(EmbeddedSelfTrainingPseudoLabeler, self).__init__()
+        self.embedder = embedder
+
+    def fit(self, path):
+        train_data = load_data_jsonl(path)
+        X = self.embedder.embed_sentences([str(d['input']) for d in train_data])
+        self.logreg = LogisticRegression(C=100.0)
+        self.labels_vocab = Vocab([d['label'] for d in train_data])
+        y = [self.labels_vocab(d['label']) for d in train_data]
+        self.logreg.fit(X, y)
+
+    def find_pseudo_labels(
+            self,
+            labeled_file_path: str,
+            unlabeled_file_path: str,
+            batch_size: int = None,
+            **kwargs
+    ):
+        self.fit(labeled_file_path)
+        unlabeled_data = load_data_jsonl(unlabeled_file_path)
+
+        if not batch_size:
+            batch_size = len(unlabeled_data)
+        unlabeled_data_chunks = chunks(unlabeled_data, batch_size)
+        n_batches = len(range(0, len(unlabeled_data), batch_size))
+
+        recovered = list()
+
+        for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
+            logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
+            X = self.embedder.embed_sentences([str(d['input']) for d in unlabeled_data_chunk])
+            predictions = self.logreg.predict_proba(X)
+            pseudo_labels = predictions.argmax(1)
+            pseudo_labels_scores = predictions.max(1)
+
+            for original_data, pseudo_label, pseudo_label_score in zip(
+                    unlabeled_data_chunk, pseudo_labels, pseudo_labels_scores):
+                recovered.append(dict(
+                    data=original_data.copy(),
+                    pseudo_label=self.labels_vocab(pseudo_label, rev=True),
+                    pseudo_label_score=float(pseudo_label_score)
+                ))
+        return recovered

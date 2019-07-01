@@ -31,5 +31,5 @@ class FastTextEmbedder(Embedder):
         return current_model_path
 
     def embed_sentences(self, sentences):
-        embeddings = [self.fasttext.get_sentence_vector(s) for s in sentences]
+        embeddings = [self.fasttext.get_sentence_vector(str(s)) for s in sentences]
         return embeddings

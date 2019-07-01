@@ -109,3 +109,6 @@ venv.bak/
 
 # runs
 runs/
+
+# envrc
+.envrc
