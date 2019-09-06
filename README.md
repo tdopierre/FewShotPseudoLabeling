@@ -39,6 +39,7 @@ python get_pseudo_labels.py hierarchical \
     --language en \
     --input-labeled-file path/to/jsonl/labeled/file \
     --input-unlabeled-file path/to/jsonl/unlabeled/file \
+    --embedder fastText \
     --output path/to/output
 ```
 This script will compute pseudo labels using labeled and unlabeled data. The default output location is `runs/`.
