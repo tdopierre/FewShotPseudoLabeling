@@ -16,10 +16,10 @@ pipenv shell
 
 ### Embedding models
 In order to use this repository, you must provide a path to embeddings models.
-Such paths are defined in **util/constants.py**. The default path is set to **~/.models**
+Such paths are defined in `util/constants.py`. The default path is set to `$HOME/.models/`
 
 Default embeddings are from [FastText](https://fasttext.cc/), and can be downloaded [here](https://fasttext.cc/docs/en/crawl-vectors.html).
-You must download the *bin* file, and it must be named *cc.${LANGUAGE}.300.bin*
+You must download the *bin* file, and it must be named `cc.${LANGUAGE}.300.bin`
 
 ### Input file formats
 This repository uses the [JSON Lines](http://jsonlines.org/) format for input files. Example:
@@ -28,7 +28,8 @@ This repository uses the [JSON Lines](http://jsonlines.org/) format for input fi
 {"input":"open the door", "label":"OpenDoor"}
 ...
 ```
-This is also the format of the output file containing pseudo-labels. 
+This is also the format of the output file containing pseudo-labels. For the unlabeled jsonl file, only the `input` key
+is required 
 
 ## Usage
 ### Finding pseudo labels
@@ -40,4 +41,4 @@ python get_pseudo_labels.py hierarchical \
     --input-unlabeled-file path/to/jsonl/unlabeled/file \
     --output path/to/output
 ```
-This script will compute pseudo labels using labeled and unlabeled data. The default output location is **runs/**.
+This script will compute pseudo labels using labeled and unlabeled data. The default output location is `runs/`.

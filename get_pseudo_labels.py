@@ -1,9 +1,8 @@
 import json
 import os
 import argparse
-from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler, HierarchicalPseudoLabeler, \
-    AggregatedPseudoLabeler, TFIDFSelfTrainingPseudoLabeler, EmbeddedSelfTrainingPseudoLabeler
-from models.embedders import FastTextEmbedder
+from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler, HierarchicalPseudoLabeler, AggregatedPseudoLabeler
+from models.embedders import FastTextEmbedder, ELMoEmbedder
 from util.data import save_data_jsonl
 from util.logging import Logger
 import datetime
@@ -15,9 +14,11 @@ def get_args():
 
     # Pseudo-labeling method
     args_parser.add_argument('method', type=str,
-                             choices=['nKNN', 'spectral', 'hierarchical', 'aggregated', 'self-training/tfidf',
-                                      'self-training/embedded'])
+                             choices=['nKNN', 'spectral', 'hierarchical', 'aggregated'])
 
+    # Embedder to use
+    args_parser.add_argument("--embedder", type=str,
+                             choices=["fastText", "elmo"], default="fastText")
     # Language to use to embed sentences
     args_parser.add_argument('--language', type=str, required=True, help='Language of data')
 
@@ -55,28 +56,22 @@ def main():
     level = logging.DEBUG if args.verbose else logging.WARNING
     logger = Logger('FSID', level=level)
 
-    if args.method == 'nKNN':
-        logger.info('Loading embedder...')
+    logger.info('Loading embedder...')
+    if args.embedder == "fastText":
         embedder = FastTextEmbedder(language=args.language)
+    elif args.embedder == "elmo":
+        embedder = ELMoEmbedder(language=args.language)
+    else:
+        raise NotImplementedError
+
+    if args.method == 'nKNN':
         pseudo_labeler = NaiveKNNPseudoLabeler(embedder=embedder)
     elif args.method == 'spectral':
-        logger.info('Loading embedder...')
-        embedder = FastTextEmbedder(language=args.language)
         pseudo_labeler = SpectralPseudoLabeler(embedder=embedder)
     elif args.method == 'hierarchical':
-        logger.info('Loading embedder...')
-        embedder = FastTextEmbedder(language=args.language)
         pseudo_labeler = HierarchicalPseudoLabeler(embedder=embedder)
     elif args.method == 'aggregated':
-        logger.info('Loading embedder...')
-        embedder = FastTextEmbedder(language=args.language)
         pseudo_labeler = AggregatedPseudoLabeler(embedder=embedder)
-    elif args.method == 'self-training/tfidf':
-        pseudo_labeler = TFIDFSelfTrainingPseudoLabeler()
-    elif args.method == 'self-training/embedded':
-        logger.info('Loading embedder...')
-        embedder = FastTextEmbedder(language=args.language)
-        pseudo_labeler = EmbeddedSelfTrainingPseudoLabeler(embedder=embedder)
     else:
         raise NotImplementedError
     logger.info('Finding pseudo-labels...')
