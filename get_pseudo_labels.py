@@ -1,8 +1,8 @@
 import json
 import os
 import argparse
-from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler, HierarchicalPseudoLabeler, AggregatedPseudoLabeler
-from models.embedders import FastTextEmbedder, ELMoEmbedder
+from models.pseudo_labelling import NaiveKNNPseudoLabeler, SpectralPseudoLabeler, FoldUnfoldPseudoLabeler, AggregatedPseudoLabeler
+from models.embedders import FastTextEmbedder, ELMoEmbedder, BERTEmbedder
 from util.data import save_data_jsonl
 from util.logging import Logger
 import datetime
@@ -14,13 +14,16 @@ def get_args():
 
     # Pseudo-labeling method
     args_parser.add_argument('method', type=str,
-                             choices=['nKNN', 'spectral', 'hierarchical', 'aggregated'])
+                             choices=['nKNN', 'spectral', 'fold-unfold', 'aggregated'])
 
     # Embedder to use
-    args_parser.add_argument("--embedder", type=str,
-                             choices=["fastText", "elmo"], default="fastText")
+    args_parser.add_argument("--embedder", type=str, choices=["fastText", "elmo", "bert"])
+
     # Language to use to embed sentences
-    args_parser.add_argument('--language', type=str, required=True, help='Language of data')
+    args_parser.add_argument('--language', type=str, required=False, help='Language of data')
+
+    # If bert embedder is selected
+    args_parser.add_argument("--model-name-or-path", type=str, required=False, help="Path/Name of bert model to use")
 
     # Input files
     args_parser.add_argument('--input-labeled-file', type=str, required=True, help='Path to labeled file')
@@ -61,6 +64,8 @@ def main():
         embedder = FastTextEmbedder(language=args.language)
     elif args.embedder == "elmo":
         embedder = ELMoEmbedder(language=args.language)
+    elif args.embedder == "bert":
+        embedder = BERTEmbedder(args.model_name_or_path)
     else:
         raise NotImplementedError
 
@@ -68,8 +73,8 @@ def main():
         pseudo_labeler = NaiveKNNPseudoLabeler(embedder=embedder)
     elif args.method == 'spectral':
         pseudo_labeler = SpectralPseudoLabeler(embedder=embedder)
-    elif args.method == 'hierarchical':
-        pseudo_labeler = HierarchicalPseudoLabeler(embedder=embedder)
+    elif args.method == 'fold-unfold':
+        pseudo_labeler = FoldUnfoldPseudoLabeler(embedder=embedder)
     elif args.method == 'aggregated':
         pseudo_labeler = AggregatedPseudoLabeler(embedder=embedder)
     else:

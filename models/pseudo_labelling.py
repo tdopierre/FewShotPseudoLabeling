@@ -144,7 +144,7 @@ class SpectralPseudoLabeler:
         return all_recovered
 
 
-class HierarchicalPseudoLabeler:
+class FoldUnfoldPseudoLabeler:
     def __init__(self, embedder: Embedder):
         self.embedder = embedder  # type: Embedder
 
@@ -246,7 +246,7 @@ class AggregatedPseudoLabeler:
         self.embedder = embedder  # type: Embedder
         self.nknn_labeler = NaiveKNNPseudoLabeler(embedder=self.embedder)
         self.spectral_labeler = SpectralPseudoLabeler(embedder=self.embedder)
-        self.hierarchical_labeler = HierarchicalPseudoLabeler(embedder=self.embedder)
+        self.hierarchical_labeler = FoldUnfoldPseudoLabeler(embedder=self.embedder)
 
     def find_pseudo_labels(
             self,
