@@ -1,5 +1,6 @@
-# Few Shot Intent Detection
+# Few-shot Pseudo-Labeling for Intent Detection
 
+This repository contains code for the paper **Few-shot Pseudo-Labeling for Intent Detection**.
 ## Before using the repository
 ### Install
 This repository uses the [Pipenv](https://github.com/pypa/pipenv) environment.
@@ -18,7 +19,9 @@ pipenv shell
 In order to use this repository, you must provide a path to embeddings models.
 Such paths are defined in `util/constants.py`. The default path is set to `$HOME/.models/`
 
-Default embeddings are from [FastText](https://fasttext.cc/), and can be downloaded [here](https://fasttext.cc/docs/en/crawl-vectors.html).
+You can also use transformers, by specifying either a name of a model or a path to it.
+
+[FastText](https://fasttext.cc/) embeddings can be downloaded [here](https://fasttext.cc/docs/en/crawl-vectors.html).
 You must download the *bin* file, and it must be named `cc.${LANGUAGE}.300.bin`
 
 ### Input file formats
