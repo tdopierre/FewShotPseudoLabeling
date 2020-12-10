@@ -1,0 +1,17 @@
+{"label": "taxi", "sentence": "Find a taxi service close to me."}
+{"label": "maths", "sentence": "3*2=6"}
+{"label": "podcasts", "sentence": "Could you skip ahead to the next episode?"}
+{"label": "recipe", "sentence": "Find a recipe for German chocolate cake."}
+{"label": "volume_other", "sentence": "improve volume clarity"}
+{"label": "radio", "sentence": "i need you to turn on the radio"}
+{"label": "traffic", "sentence": "what about the newyork city traffic?"}
+{"label": "wemo_on", "sentence": "Can you turn on the demo plug socket?"}
+{"label": "order", "sentence": "Hey Olly, order a side of hot wings with my previous order."}
+{"label": "confirm", "sentence": "i'd like you check my last instruction please."}
+{"label": "praise", "sentence": "you are awesome, i appreciate it."}
+{"label": "hue_lightchange", "sentence": "Can you change the colour to red"}
+{"label": "negate", "sentence": "please correct the wrong command."}
+{"label": "hue_lightoff", "sentence": "turn off all the lights"}
+{"label": "audiobook", "sentence": "play book"}
+{"label": "greet", "sentence": "How are you?"}
+{"label": "movies", "sentence": "suggest movies and songs that I would like, but that aren't necessarily like ones I've already said I like"}

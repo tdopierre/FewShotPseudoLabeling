@@ -1,0 +1,493 @@
+{"label": "cleaning", "sentence": "Robot, do the whole house now"}
+{"label": "radio", "sentence": "Radio"}
+{"label": "volume_mute", "sentence": "Sound off please."}
+{"label": "explain", "sentence": "clarify more on your answers please."}
+{"label": "taxi", "sentence": "please reserve the next taxi a 9:00 AM"}
+{"label": "explain", "sentence": "please will you clarify me more on that."}
+{"label": "joke", "sentence": "Show me a funny joke."}
+{"label": "createoradd", "sentence": "New list please"}
+{"label": "music", "sentence": "Switch to my workout playlist"}
+{"label": "music", "sentence": "I want to hear Beyonce."}
+{"label": "explain", "sentence": "can you again rephrase me on your answers."}
+{"label": "volume_up", "sentence": "Increase volume to 50%"}
+{"label": "explain", "sentence": "s2, i could not catch up with you."}
+{"label": "taxi", "sentence": "Book me Golden Taxi for today at 5pm."}
+{"label": "joke", "sentence": "Find me a joke related to baseball."}
+{"label": "addcontact", "sentence": "Add a new email address which is Starktony721@Gmail.com"}
+{"label": "music", "sentence": "play ride music track"}
+{"label": "music", "sentence": "Please play shape of you by Ed Sheeran."}
+{"label": "volume_up", "sentence": "I need you to have the volume louder"}
+{"label": "music", "sentence": "Find some classical music by Beethoven and play it."}
+{"label": "music", "sentence": "can you play some music for me?"}
+{"label": "querycontact", "sentence": "Check in contacts"}
+{"label": "music", "sentence": "Play something from Keane's Hopes and Fears album."}
+{"label": "cleaning", "sentence": "Robot, vacuum the living room now"}
+{"label": "radio", "sentence": "Alexa change the radio station"}
+{"label": "maths", "sentence": "What is 200 divided by 10"}
+{"label": "maths", "sentence": "Can you add up 13+5+9 for me?"}
+{"label": "cleaning", "sentence": "vacuum the living room in 10 minutes"}
+{"label": "music", "sentence": "Start playing music."}
+{"label": "explain", "sentence": "s2, i can't get last sentence."}
+{"label": "order", "sentence": "Call the nearest thai restaurant with delivery"}
+{"label": "movies", "sentence": "Name a rom-com movie playing in and around New York theatres."}
+{"label": "order", "sentence": "Call PF Chang's to order me Egg Foo Young."}
+{"label": "maths", "sentence": "3*2=6"}
+{"label": "explain", "sentence": "s2, i am unclear about what you said."}
+{"label": "radio", "sentence": "play comedy from any fm channel"}
+{"label": "explain", "sentence": "s2, can not get this."}
+{"label": "radio", "sentence": "put on station 105.3"}
+{"label": "explain", "sentence": "can you clarify more on that."}
+{"label": "radio", "sentence": "Please play the top 40's hits in pandora"}
+{"label": "createoradd", "sentence": "Re-add eggs to the list"}
+{"label": "music", "sentence": "play lupe fiasco"}
+{"label": "game", "sentence": "play scabble with me"}
+{"label": "game", "sentence": "Please begin clash of clans"}
+{"label": "explain", "sentence": "please further explain your answers to me."}
+{"label": "stock", "sentence": "How effective will be to buy NIKE stock"}
+{"label": "joke", "sentence": "say joke"}
+{"label": "music", "sentence": "Please paly for me Elvis Preley song again"}
+{"label": "radio", "sentence": "turn on radio"}
+{"label": "music", "sentence": "Play Me the latest song of Adele"}
+{"label": "volume_up", "sentence": "Up the volume, the sound is too low"}
+{"label": "music", "sentence": "Next song will be Raindrops Keep Fallin On My Head."}
+{"label": "music", "sentence": "play Third Day"}
+{"label": "game", "sentence": "play game"}
+{"label": "taxi", "sentence": "call a taxi for me to arrive tonight at 5"}
+{"label": "music", "sentence": "Can you turn on country music?"}
+{"label": "stock", "sentence": "Stock price for GMB."}
+{"label": "music", "sentence": "PDA name: play the song xxx xxx"}
+{"label": "music", "sentence": "I want to hear Limelight by Rush"}
+{"label": "music", "sentence": "run indian folk song"}
+{"label": "radio", "sentence": "PDA: Turn the radio to 106.7 FM"}
+{"label": "music", "sentence": "Play that song next"}
+{"label": "order", "sentence": "Can you order me takeout?"}
+{"label": "taxi", "sentence": "book a taxi to the airport for tomorrow morning"}
+{"label": "music", "sentence": "Alexa play pandora 90's dance party"}
+{"label": "explain", "sentence": "s1, please elaborate further on it to me."}
+{"label": "radio", "sentence": "Can you play radio for me."}
+{"label": "joke", "sentence": "What's your favorite joke?"}
+{"label": "stock", "sentence": "did apple stocks go up or down"}
+{"label": "radio", "sentence": "start radio x on programm y"}
+{"label": "stock", "sentence": "Amazon stock price"}
+{"label": "music", "sentence": "wd"}
+{"label": "order", "sentence": "Can you look up Chinese takeout near here?"}
+{"label": "maths", "sentence": "What is the square root of 42?"}
+{"label": "music", "sentence": "play the most popular bluegrass music"}
+{"label": "music", "sentence": "Put on Cannibal Queen"}
+{"label": "music", "sentence": "Let's play that song again"}
+{"label": "order", "sentence": "schedule pizza takeout for 7 p.m."}
+{"label": "radio", "sentence": "Turn (program) on xmtune"}
+{"label": "order", "sentence": "I feel like having soup for lunch. Order from Wangs Kitchen restaurant, a chicken manchow soup."}
+{"label": "music", "sentence": "Please open my music application and play Games by Disturbed"}
+{"label": "radio", "sentence": "Ok Google, can you start 98.7"}
+{"label": "music", "sentence": "Play Firework by Katy Perry."}
+{"label": "explain", "sentence": "don't get this."}
+{"label": "cleaning", "sentence": "Start vacuuming now, please."}
+{"label": "stock", "sentence": "What is the price of Starbuck's stock?"}
+{"label": "volume_mute", "sentence": "Can you mute when I am not home?"}
+{"label": "explain", "sentence": "further clarify what you just said please."}
+{"label": "order", "sentence": "Order me a large ham and olive pizza from Dominos."}
+{"label": "music", "sentence": "Play song after this"}
+{"label": "radio", "sentence": "alexa turn on PDR AM."}
+{"label": "music", "sentence": "Play 2112 by Rush."}
+{"label": "explain", "sentence": "would you further rephrase me about your words."}
+{"label": "radio", "sentence": "have remainder of the program to listen"}
+{"label": "music", "sentence": "Can you play the instrumentals of"}
+{"label": "game", "sentence": "Play Criket"}
+{"label": "createoradd", "sentence": "Add these documents to the things I need to travel with."}
+{"label": "explain", "sentence": "this was not clear to me."}
+{"label": "volume_mute", "sentence": "Mute for 2 hours."}
+{"label": "music", "sentence": "Please play classical music."}
+{"label": "maths", "sentence": "PLZ, SOLVE THIS MATH."}
+{"label": "volume_up", "sentence": "Please turn the music up."}
+{"label": "music", "sentence": "XXX. Thats the song i would like you to play for me."}
+{"label": "radio", "sentence": "PDA, turn the radio to kiss fm."}
+{"label": "radio", "sentence": "Get me Osteen on sirius?"}
+{"label": "order", "sentence": "Open the internet."}
+{"label": "volume_mute", "sentence": "set to mute"}
+{"label": "taxi", "sentence": "PDA, Book a taxi/Uber"}
+{"label": "taxi", "sentence": "Please call a taxi to arrive at 4:00 and take me to the Manor Theater."}
+{"label": "music", "sentence": "My favorite music please"}
+{"label": "stock", "sentence": "current stock price x"}
+{"label": "stock", "sentence": "stock price"}
+{"label": "game", "sentence": "Play Flappy Bird."}
+{"label": "explain", "sentence": "again rephrase what you just said now please."}
+{"label": "cleaning", "sentence": "Hey go from off to ON my vaccuum in 5 minutes"}
+{"label": "radio", "sentence": "Turn on channel BBC radio 1 please."}
+{"label": "explain", "sentence": "please further elaborate your response."}
+{"label": "music", "sentence": "Play R&B music"}
+{"label": "createoradd", "sentence": "add a item"}
+{"label": "explain", "sentence": "s1, please elaborate me on what you have said further."}
+{"label": "music", "sentence": "Open spotify and play list 5"}
+{"label": "maths", "sentence": "What is twelve divided by four?"}
+{"label": "radio", "sentence": "Let's play 90s hits on the radio"}
+{"label": "explain", "sentence": "please would you elaborate me about what you have said once again."}
+{"label": "taxi", "sentence": "I need you to book a taxi for me."}
+{"label": "game", "sentence": "play keno"}
+{"label": "music", "sentence": "Open the playlist"}
+{"label": "music", "sentence": "PDA, access pop playlist."}
+{"label": "game", "sentence": "Play chess app"}
+{"label": "music", "sentence": "Please replay that song I just listened to."}
+{"label": "game", "sentence": "Play game with me"}
+{"label": "querycontact", "sentence": "Does contact Mona has an email as well?"}
+{"label": "querycontact", "sentence": "Find John Smith in Contacts"}
+{"label": "volume_up", "sentence": "set the volume higher"}
+{"label": "music", "sentence": "favorite foke"}
+{"label": "volume_up", "sentence": "Could you speak louder?"}
+{"label": "radio", "sentence": "Load Sirius and play a rock and roll show."}
+{"label": "maths", "sentence": "what is the answer to that question"}
+{"label": "querycontact", "sentence": "Raju phone book"}
+{"label": "createoradd", "sentence": "Can you please create a list for me"}
+{"label": "volume_up", "sentence": "I cant hear a thing"}
+{"label": "music", "sentence": "Play metallica on shuffle."}
+{"label": "explain", "sentence": "didn't understand your answers."}
+{"label": "music", "sentence": "nobody knows by Pink"}
+{"label": "addcontact", "sentence": "alexa add sam@gmail.com to my contacts list"}
+{"label": "stock", "sentence": "what is the current stock price of...."}
+{"label": "querycontact", "sentence": "How do I contact Charles?"}
+{"label": "querycontact", "sentence": "open the profile of Allen from my contact"}
+{"label": "explain", "sentence": "could you clarify me on this once again please."}
+{"label": "maths", "sentence": "Olly, answer the equation 8x7"}
+{"label": "music", "sentence": "Start up a Bjork album for me."}
+{"label": "music", "sentence": "Please play songs in music player only Arijit singh's."}
+{"label": "createoradd", "sentence": "Please start a new list"}
+{"label": "querycontact", "sentence": "call XXX"}
+{"label": "joke", "sentence": "make me smile by telling a joke"}
+{"label": "music", "sentence": "Let me hear my no. 1 favorite play list"}
+{"label": "cleaning", "sentence": "Robot, vacuum the hallway now"}
+{"label": "radio", "sentence": "Play the college baseball game"}
+{"label": "radio", "sentence": "play pandora"}
+{"label": "radio", "sentence": "play alex jones in radio"}
+{"label": "explain", "sentence": "this is not clear to me."}
+{"label": "music", "sentence": "Olly play music from my fav pianist"}
+{"label": "radio", "sentence": "Can you play a rap station?"}
+{"label": "music", "sentence": "Play this song on 12am"}
+{"label": "movies", "sentence": "Recommend a movie for me."}
+{"label": "querycontact", "sentence": "make a call to"}
+{"label": "cleaning", "sentence": "get the roomba to start cleaning"}
+{"label": "explain", "sentence": "what do you mean by saying this."}
+{"label": "explain", "sentence": "would you further clarify the last sentence."}
+{"label": "explain", "sentence": "i am unclear about the last sentence."}
+{"label": "game", "sentence": "I want to play a trivia game."}
+{"label": "movies", "sentence": "play a movie I'll like"}
+{"label": "music", "sentence": "Spotify"}
+{"label": "music", "sentence": "Play playlist WORKOUT"}
+{"label": "taxi", "sentence": "Book taxi to New York City"}
+{"label": "explain", "sentence": "couldn't understand your answers."}
+{"label": "music", "sentence": "Please play songs of Arijit Singh."}
+{"label": "explain", "sentence": "s2, i don't get your words."}
+{"label": "music", "sentence": "Alexa, please play the song Over the rainbow"}
+{"label": "radio", "sentence": "Internals"}
+{"label": "querycontact", "sentence": "tell contact mobile number"}
+{"label": "music", "sentence": "Play for me music by The Beatles"}
+{"label": "createoradd", "sentence": "Add grocery shopping to today's to-do list."}
+{"label": "cleaning", "sentence": "Power up the vacuum."}
+{"label": "music", "sentence": "I would like to hear Heathens by Twenty one Pilots."}
+{"label": "music", "sentence": "Play the song 'doggie style' in continuous mode"}
+{"label": "explain", "sentence": "do not get this."}
+{"label": "explain", "sentence": "i can't catch up with you."}
+{"label": "game", "sentence": "play games"}
+{"label": "radio", "sentence": "Put on Radio mango"}
+{"label": "explain", "sentence": "could you please elaborate me further on your answers."}
+{"label": "volume_up", "sentence": "Please speak loud."}
+{"label": "cleaning", "sentence": "PDA, I want to turn on the robot vacuum cleaner."}
+{"label": "music", "sentence": "Play this song"}
+{"label": "explain", "sentence": "s1, explain further please."}
+{"label": "music", "sentence": "go to menu"}
+{"label": "music", "sentence": "Pandora"}
+{"label": "movies", "sentence": "Olly, what movie are playing  near me?"}
+{"label": "taxi", "sentence": "hail taxi!"}
+{"label": "game", "sentence": "Play a game of Chess with me."}
+{"label": "movies", "sentence": "Deadpool"}
+{"label": "querycontact", "sentence": "Call Raju phone number"}
+{"label": "createoradd", "sentence": "PDA can you create a list for me."}
+{"label": "order", "sentence": "will it be warm"}
+{"label": "music", "sentence": "ricky matin"}
+{"label": "dislikeness", "sentence": "I hate this song. Please remember that so that I don't hear this song ever again."}
+{"label": "cleaning", "sentence": "i need you to turn on the vacuum cleaner"}
+{"label": "volume_mute", "sentence": "Please be silent until I tell you not to be"}
+{"label": "createoradd", "sentence": "include an item to a list"}
+{"label": "radio", "sentence": "play x radio channel"}
+{"label": "explain", "sentence": "i am not so clear about what you have said."}
+{"label": "radio", "sentence": "Go the the station FM 96.5"}
+{"label": "maths", "sentence": "How many inches make one feet?"}
+{"label": "music", "sentence": "Move this song to up next"}
+{"label": "createoradd", "sentence": "create list"}
+{"label": "order", "sentence": "Noodles 1 pack, Make it as takeaway"}
+{"label": "createoradd", "sentence": "I think I ran out of this can you add it to my list?"}
+{"label": "explain", "sentence": "i was not clear about your words."}
+{"label": "music", "sentence": "Play best hits from given artist,"}
+{"label": "taxi", "sentence": "I need a ride to the airport"}
+{"label": "radio", "sentence": "Only 99.9 FM is to be played on the radio"}
+{"label": "maths", "sentence": "what is the square root of 97"}
+{"label": "movies", "sentence": "Showtimes for nearest theater"}
+{"label": "addcontact", "sentence": "Save email id"}
+{"label": "music", "sentence": "Play songs by Bryan Adams."}
+{"label": "explain", "sentence": "could not understand your answers."}
+{"label": "music", "sentence": "Play the Celine Dion song from the Titanic movie."}
+{"label": "game", "sentence": "Do you want to play Monopoly with me?"}
+{"label": "music", "sentence": "start play recently added playlist"}
+{"label": "game", "sentence": "Let's play scrabble."}
+{"label": "addcontact", "sentence": "Add this email to my address book."}
+{"label": "music", "sentence": "please play the song 'joy to the world'"}
+{"label": "movies", "sentence": "PDA: What is a movie like Star Wars?"}
+{"label": "game", "sentence": "Can you do Name That Tune?"}
+{"label": "cleaning", "sentence": "Run the vacuum cleaner"}
+{"label": "music", "sentence": "play music from where you left off"}
+{"label": "querycontact", "sentence": "Do I have the contact of Tara John?"}
+{"label": "createoradd", "sentence": "Please add deodorant to my shopping list."}
+{"label": "music", "sentence": "play Hula Hoop next"}
+{"label": "music", "sentence": "Alexa, Play Baby One More Time."}
+{"label": "maths", "sentence": "what is 0/0?"}
+{"label": "radio", "sentence": "Please start radio"}
+{"label": "cleaning", "sentence": "Does the robot vacuum cleaner have to be plugged in?"}
+{"label": "explain", "sentence": "further explain me on the last sentence please."}
+{"label": "radio", "sentence": "Play Football news from RadioOne"}
+{"label": "createoradd", "sentence": "PDA, start list."}
+{"label": "music", "sentence": "ENJOYMENT"}
+{"label": "radio", "sentence": "Start radio channel x"}
+{"label": "game", "sentence": "let's play fifa2016, you'll be the keeper and never change position."}
+{"label": "volume_up", "sentence": "Please increase the volume to maximum"}
+{"label": "music", "sentence": "play lady gaga starting with poker face"}
+{"label": "movies", "sentence": "theaters near to me"}
+{"label": "stock", "sentence": "How is the current stock price looking for Charmin?"}
+{"label": "taxi", "sentence": "Call a taxi for me"}
+{"label": "radio", "sentence": "search for Gary McNamara in radio"}
+{"label": "explain", "sentence": "s2, i can not quite catch that."}
+{"label": "music", "sentence": "Alexa, play 90's hip hop."}
+{"label": "explain", "sentence": "explain further please."}
+{"label": "volume_mute", "sentence": "Set volume to zero."}
+{"label": "addcontact", "sentence": "Cortana, open up contacts and add, email, something@gmail.com."}
+{"label": "explain", "sentence": "please explain me about your words once again."}
+{"label": "explain", "sentence": "could you clarify further on what you said now to me please."}
+{"label": "querycontact", "sentence": "Where Seth lives?"}
+{"label": "radio", "sentence": "Please turn on NPR on the living room speaker."}
+{"label": "radio", "sentence": "Please find me a country music station."}
+{"label": "createoradd", "sentence": "Please add sugar to my grocery list."}
+{"label": "movies", "sentence": "Olly what movies are playing near me?"}
+{"label": "game", "sentence": "how about a game of snakes and ladders?"}
+{"label": "createoradd", "sentence": "Add soup to my shopping list."}
+{"label": "radio", "sentence": "88.9 FM please"}
+{"label": "querycontact", "sentence": "Please delete the contacts that I havent spoken to in 3 of months"}
+{"label": "radio", "sentence": "Play the next howard stern show on the radio."}
+{"label": "volume_up", "sentence": "please turn up the volume"}
+{"label": "order", "sentence": "Can you order me some pizza?"}
+{"label": "music", "sentence": "Can you play songs about breakups?"}
+{"label": "music", "sentence": "Play Joy Division."}
+{"label": "stock", "sentence": "Google IBM stock prices"}
+{"label": "querycontact", "sentence": "What is John Smith's number?"}
+{"label": "taxi", "sentence": "I need a taxi ride now"}
+{"label": "addcontact", "sentence": "Enter atdfd@yahoo.com into my contact list"}
+{"label": "music", "sentence": "Play for me music by Michael Jackson"}
+{"label": "stock", "sentence": "How much does one share of stock in Lego cost?"}
+{"label": "order", "sentence": "Can I order take out food at this time?"}
+{"label": "music", "sentence": "play the song title"}
+{"label": "joke", "sentence": "Say a good joke for me right now"}
+{"label": "music", "sentence": "play any song of arijit singh."}
+{"label": "explain", "sentence": "that is not so clear."}
+{"label": "order", "sentence": "order a pizza for me"}
+{"label": "querycontact", "sentence": "What is Jill's home phone number?"}
+{"label": "explain", "sentence": "s2, i am unclear about your answer."}
+{"label": "radio", "sentence": "Red FM chit chat auto tune"}
+{"label": "stock", "sentence": "What is the going rate for Wells Fargo stock?"}
+{"label": "querycontact", "sentence": "when is john's birthday?"}
+{"label": "radio", "sentence": "ON THE RADIO, IT IS TIME FOR GOOD MUSIC."}
+{"label": "maths", "sentence": "what is the square root of 34?"}
+{"label": "stock", "sentence": "Give me the stock price of Apple"}
+{"label": "stock", "sentence": "how much is amazon stock?"}
+{"label": "joke", "sentence": "look for a joke"}
+{"label": "volume_mute", "sentence": "Can you place the sound on mute?"}
+{"label": "taxi", "sentence": "schedule city cab from home to airport at 8 a.m."}
+{"label": "volume_mute", "sentence": "Stop making sounds for 40 minutes."}
+{"label": "taxi", "sentence": "Call a taxi to pick me up right now."}
+{"label": "taxi", "sentence": "Book a taxi"}
+{"label": "order", "sentence": "Hey, call the nearest Chinese restaurant for a takeaway"}
+{"label": "explain", "sentence": "please elaborate that once again."}
+{"label": "radio", "sentence": "Start the radio Olly."}
+{"label": "createoradd", "sentence": "Make a list of camera photos"}
+{"label": "volume_mute", "sentence": "goodnight"}
+{"label": "music", "sentence": "Play my favorite music right now"}
+{"label": "explain", "sentence": "please elaborate me about your answers further."}
+{"label": "music", "sentence": "Echo, play 'I Can't Feel My Face.'"}
+{"label": "music", "sentence": "Play song by Daddy Yankee"}
+{"label": "explain", "sentence": "again rephrase to me please."}
+{"label": "music", "sentence": "Play all albums by Bad Religion"}
+{"label": "createoradd", "sentence": "Add new item to list."}
+{"label": "music", "sentence": "play my first favorite song on loop"}
+{"label": "maths", "sentence": "How much is 1+1?"}
+{"label": "joke", "sentence": "Joke please"}
+{"label": "addcontact", "sentence": "add this email to a new contact"}
+{"label": "volume_up", "sentence": "Increase the volume to max, please."}
+{"label": "radio", "sentence": "please play station X on the radio."}
+{"label": "music", "sentence": "Can you play some Jazz"}
+{"label": "explain", "sentence": "please clarify more on what you just said now to me."}
+{"label": "volume_mute", "sentence": "I'm in a meeting, please do not speak."}
+{"label": "cleaning", "sentence": "it's dirty here, make some noise!"}
+{"label": "stock", "sentence": "stocks fb"}
+{"label": "explain", "sentence": "i was not so clear about it."}
+{"label": "cleaning", "sentence": "Turn on the robot vacuum."}
+{"label": "game", "sentence": "Please open and play chess with me"}
+{"label": "taxi", "sentence": "Get me an uber"}
+{"label": "taxi", "sentence": "Find an Uber that can get me to the airport now."}
+{"label": "radio", "sentence": "start radio BBC one"}
+{"label": "music", "sentence": "Can you play Call Me by Aretha Franklin after this song is finished playing."}
+{"label": "music", "sentence": "Play next song of my selected"}
+{"label": "music", "sentence": "Music, led Zeppelin, houses of the holy"}
+{"label": "movies", "sentence": "PDA: Olly...whats a new sci-fi movie?"}
+{"label": "maths", "sentence": "How any times does 50 go into 1 million?"}
+{"label": "music", "sentence": "Play classic rock"}
+{"label": "explain", "sentence": "your words is not so clear."}
+{"label": "joke", "sentence": "say something funny"}
+{"label": "maths", "sentence": "Whats 10 percent  off 40 dollars"}
+{"label": "createoradd", "sentence": "Create a new list for my birthday plans"}
+{"label": "order", "sentence": "Place an order for a pepperoni pizza at Papa Johns."}
+{"label": "music", "sentence": "Play music from workout playlist"}
+{"label": "addcontact", "sentence": "Here's an email address"}
+{"label": "music", "sentence": "set a classic 80's music"}
+{"label": "movies", "sentence": "kung fu panda 3"}
+{"label": "explain", "sentence": "would you explain more on your response to me."}
+{"label": "music", "sentence": "Play walking list"}
+{"label": "radio", "sentence": "play radia"}
+{"label": "joke", "sentence": "Tell me a joke about chickens."}
+{"label": "stock", "sentence": "How much is Apple stock worth?"}
+{"label": "stock", "sentence": "Give me the  opening stock price of Intel today"}
+{"label": "radio", "sentence": "Open Spotify and play personal channel."}
+{"label": "music", "sentence": "Play Hip Hop Songs"}
+{"label": "createoradd", "sentence": "write down these items"}
+{"label": "cleaning", "sentence": "Activate robot vacuum cleaner"}
+{"label": "music", "sentence": "open songs from Major Lazer"}
+{"label": "radio", "sentence": "tune in to Bob and Tom"}
+{"label": "explain", "sentence": "i couldn't catch that."}
+{"label": "radio", "sentence": "Tune in to my favorite radio station please."}
+{"label": "stock", "sentence": "Find current stock pricing for stock in Samsung."}
+{"label": "explain", "sentence": "can you please explain more on last sentence to me."}
+{"label": "volume_mute", "sentence": "set music system to mute"}
+{"label": "explain", "sentence": "s1, elaborate me about your response once again please."}
+{"label": "music", "sentence": "I like to listen to Jazz"}
+{"label": "music", "sentence": "purple haze"}
+{"label": "game", "sentence": "Please start clash of clans"}
+{"label": "explain", "sentence": "i am not clear about your answers."}
+{"label": "createoradd", "sentence": "make a catalogue"}
+{"label": "querycontact", "sentence": "Please contact Michael M from my list with this text."}
+{"label": "music", "sentence": "Alexa, play song Over the rainbow"}
+{"label": "radio", "sentence": "radio 95.5"}
+{"label": "explain", "sentence": "last sentence is not so clear."}
+{"label": "querycontact", "sentence": "Is Hayden still living on Turnpike Lane?"}
+{"label": "game", "sentence": "play my favorite game.by name xxxxx"}
+{"label": "music", "sentence": "Play the song next to the one playing now."}
+{"label": "music", "sentence": "Indie"}
+{"label": "music", "sentence": "play 80s music playlist"}
+{"label": "createoradd", "sentence": "Please add oranges to my grocery list."}
+{"label": "dislikeness", "sentence": "i don't like this band"}
+{"label": "volume_mute", "sentence": "Turn off the PDA's sound"}
+{"label": "music", "sentence": "Play music by that artist."}
+{"label": "music", "sentence": "Play my <insert genre> playlist"}
+{"label": "music", "sentence": "Play my '90s R&B playlist."}
+{"label": "joke", "sentence": "Funny joke"}
+{"label": "music", "sentence": "Play some Christian music"}
+{"label": "createoradd", "sentence": "Make a list about selena gomez concert schedule"}
+{"label": "stock", "sentence": "were the stocks rising or declining."}
+{"label": "music", "sentence": "play me a song of adele"}
+{"label": "explain", "sentence": "i was not clear about your answer."}
+{"label": "music", "sentence": "start music app and play a song for me"}
+{"label": "music", "sentence": "Siri, play Shake It Off"}
+{"label": "explain", "sentence": "would you again elaborate please."}
+{"label": "volume_up", "sentence": "Olly, please speak up."}
+{"label": "order", "sentence": "Any fast food meal offers"}
+{"label": "explain", "sentence": "s1, please will you rephrase further on what you have said."}
+{"label": "order", "sentence": "I would like to pickup a veggie sub with a cookie from Subway."}
+{"label": "music", "sentence": "Play best hits."}
+{"label": "explain", "sentence": "elaborate me further on your answer please."}
+{"label": "game", "sentence": "i'm thinking of a number 1-10"}
+{"label": "explain", "sentence": "please clarify once again."}
+{"label": "joke", "sentence": "olly make me happy"}
+{"label": "createoradd", "sentence": "Add butter to the list"}
+{"label": "taxi", "sentence": "Schedule me a taxi for after my Thursday meeting."}
+{"label": "querycontact", "sentence": "what is jeff's number"}
+{"label": "volume_mute", "sentence": "Set mute mode for one hour."}
+{"label": "querycontact", "sentence": "what is john's phone number?"}
+{"label": "maths", "sentence": "answer for 3x4"}
+{"label": "music", "sentence": "Turn on the playlist I have decicated to rock music."}
+{"label": "createoradd", "sentence": "produce a new register"}
+{"label": "stock", "sentence": "is now a good time to sell some euros?"}
+{"label": "explain", "sentence": "please can you once again elaborate to me."}
+{"label": "music", "sentence": "Shuffle my workout playlist"}
+{"label": "music", "sentence": "Please play any music created in the 1980's decade."}
+{"label": "music", "sentence": "Play some Lady Gaga."}
+{"label": "cleaning", "sentence": "Start the vacuum cleaner"}
+{"label": "order", "sentence": "Hey Olly, order two wings with french fries from the Chinese food store."}
+{"label": "music", "sentence": "Play the list from my favorites"}
+{"label": "explain", "sentence": "this was not clear."}
+{"label": "cleaning", "sentence": "Please run <insert vacuum name>"}
+{"label": "music", "sentence": "play the second song from anirudh's song."}
+{"label": "music", "sentence": "Play the song @"}
+{"label": "stock", "sentence": "I want to figure out the stock on microsoft"}
+{"label": "radio", "sentence": "play the the sweet song on radio"}
+{"label": "cleaning", "sentence": "Start the 'vacuum cleaner'."}
+{"label": "volume_mute", "sentence": "stop it."}
+{"label": "music", "sentence": "Music from the 1960s"}
+{"label": "radio", "sentence": "Make my radio turn on"}
+{"label": "music", "sentence": "Play my favourite playlist"}
+{"label": "music", "sentence": "Play some tunes for me"}
+{"label": "querycontact", "sentence": "Apply search and check"}
+{"label": "explain", "sentence": "i can not catch up with you."}
+{"label": "music", "sentence": "Sing to me"}
+{"label": "game", "sentence": "How about playing a game of guess the word I'm thinking of?"}
+{"label": "explain", "sentence": "s1, will you elaborate me about that once again."}
+{"label": "querycontact", "sentence": "what is joe joe's home address"}
+{"label": "movies", "sentence": "What movies are playing at theatres near me"}
+{"label": "radio", "sentence": "Play random radio station."}
+{"label": "explain", "sentence": "s1, please clarify me about this further."}
+{"label": "createoradd", "sentence": "Create a blank list."}
+{"label": "explain", "sentence": "your answer is not clear."}
+{"label": "stock", "sentence": "What's the stock price for Tesco?"}
+{"label": "taxi", "sentence": "I need a taxi at 8 tomorrow morning to take me to work."}
+{"label": "order", "sentence": "Hey PDA, order me some take out from Jason's Deli"}
+{"label": "volume_mute", "sentence": "Don't speak for a while"}
+{"label": "radio", "sentence": "recorded program may be listened on future days"}
+{"label": "volume_up", "sentence": "Speaker volume (increase/decrease)"}
+{"label": "joke", "sentence": "What is your best joke"}
+{"label": "radio", "sentence": "Olly, open Pandora and play 'workout'"}
+{"label": "volume_mute", "sentence": "PDA please mute for 5 minutes"}
+{"label": "createoradd", "sentence": "fresh list"}
+{"label": "volume_up", "sentence": "PDA, Turn up your volume"}
+{"label": "music", "sentence": "After this song ends I want to hear Hotel California next."}
+{"label": "music", "sentence": "play all rock songs"}
+{"label": "radio", "sentence": "I wish to listen that radio channel"}
+{"label": "radio", "sentence": "I want to hear this week's Midweek Motorsport."}
+{"label": "volume_up", "sentence": "Turn up the volume on my speakers."}
+{"label": "music", "sentence": "Please find me 80's music"}
+{"label": "explain", "sentence": "can't understand that."}
+{"label": "radio", "sentence": "Activate radio and tune into 989"}
+{"label": "querycontact", "sentence": "Give me Charles telephone number."}
+{"label": "explain", "sentence": "your answer is not so clear to me."}
+{"label": "music", "sentence": "Play new Rihanna song"}
+{"label": "addcontact", "sentence": "add this email to my contacts"}
+{"label": "radio", "sentence": "select station you want"}
+{"label": "radio", "sentence": "I want to hear the JIm and Bob show on 103.3."}
+{"label": "explain", "sentence": "would you please further clarify me on your words."}
+{"label": "radio", "sentence": "PDA, Radio Please"}
+{"label": "order", "sentence": "can I order takeaway dinner from byron's?"}
+{"label": "stock", "sentence": "current price of GOOGL please"}
+{"label": "music", "sentence": "tune in some music"}
+{"label": "volume_mute", "sentence": "please do not answer"}
+{"label": "explain", "sentence": "s1, rephrase this further."}
+{"label": "game", "sentence": "Open parcheese game for you and i."}
+{"label": "stock", "sentence": "What is the price for Marvel?"}
+{"label": "maths", "sentence": "Can you take 5 and divide it by 3?"}
+{"label": "createoradd", "sentence": "Please put bread on the grocery list"}
+{"label": "game", "sentence": "Open tic tac toe"}
+{"label": "music", "sentence": "I want to listen to Classic Rock"}
+{"label": "music", "sentence": "PDA: Would you start my evening playlist"}
+{"label": "music", "sentence": "play metallica"}
+{"label": "explain", "sentence": "s2, did not get your words."}
+{"label": "stock", "sentence": "stock exchange rates"}
+{"label": "createoradd", "sentence": "I need to create a new to do list."}
+{"label": "music", "sentence": "Download the latest folk songs having rating of 4 star or above and play all without shuffle."}
+{"label": "stock", "sentence": "Give me the current trend on the stocks for Facebook and McDonalds."}
+{"label": "dislikeness", "sentence": "Remember that I do not like this music."}
+{"label": "createoradd", "sentence": "Grocery list add eggs"}
+{"label": "createoradd", "sentence": "Can you create a new list in the playlist?"}
+{"label": "stock", "sentence": "Olly, Whats the stock price of apple?"}
+{"label": "explain", "sentence": "can you please further elaborate what you just said."}
+{"label": "game", "sentence": "Please play football with me"}

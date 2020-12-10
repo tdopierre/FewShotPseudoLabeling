@@ -1,0 +1,1346 @@
+{"label": "remove", "sentence": "delete calendar item"}
+{"label": "hue_lightup", "sentence": "please increase the light of table lamp"}
+{"label": "post", "sentence": "tweet complaint"}
+{"label": "query", "sentence": "Find updates from Vicki's Facebook from Mardi Gras day"}
+{"label": "greet", "sentence": "How are you?"}
+{"label": "query", "sentence": "Is it snowing right now?"}
+{"label": "quirky", "sentence": "What's your favourite tv show?"}
+{"label": "query", "sentence": "Please give me directions to a park  near me"}
+{"label": "dontcare", "sentence": "doesn't really matter to me."}
+{"label": "convert", "sentence": "The time difference between Lagos and New York is what?"}
+{"label": "set", "sentence": "meeting ___ set reminder"}
+{"label": "quirky", "sentence": "what is the exact difference between the language of telugu and tamil"}
+{"label": "factoid", "sentence": "How old is Mariah Carey?"}
+{"label": "podcasts", "sentence": "Olly, play This Week For Dinner now."}
+{"label": "likeness", "sentence": "I want to listen daily to this song"}
+{"label": "factoid", "sentence": "Is the celebrity single or married."}
+{"label": "query", "sentence": "what genre is this?"}
+{"label": "locations", "sentence": "show shops around second street"}
+{"label": "query", "sentence": "Tell me what's happening next Thursday."}
+{"label": "factoid", "sentence": "google...."}
+{"label": "set", "sentence": "Remind me the wedding on time to buy a present"}
+{"label": "query", "sentence": "Who has written to me or mentioned me in social media?"}
+{"label": "remove", "sentence": "leave calendar blank"}
+{"label": "factoid", "sentence": "What is the capital city of Colorado?"}
+{"label": "query", "sentence": "When will my meeting with Sandy occur?"}
+{"label": "remove", "sentence": "Wipe everything on my calendar."}
+{"label": "factoid", "sentence": "what is a fijord"}
+{"label": "query", "sentence": "is my daughter's play friday night?"}
+{"label": "factoid", "sentence": "What is the biggest city in the world?"}
+{"label": "query", "sentence": "Who wrote the song I just wanna dance with you?"}
+{"label": "post", "sentence": "Complain about Walmart service"}
+{"label": "remove", "sentence": "Delete my meeting for 1:00 PM on March 19th."}
+{"label": "factoid", "sentence": "What is the boiling point of water?"}
+{"label": "set", "sentence": "Notify me the day before the horse race at Santa Anita on March 7th."}
+{"label": "query", "sentence": "did trey sand any messages?"}
+{"label": "query", "sentence": "please tell about the alarms"}
+{"label": "query", "sentence": "Check my spam email for phishing."}
+{"label": "set", "sentence": "I am unavailable from 4 to 6 in the evening tomorrow. Mark my calendar."}
+{"label": "locations", "sentence": "Are there any veg restaurants in Phoenix?"}
+{"label": "query", "sentence": "What day and time is the Acme meeting in San Diego, California?"}
+{"label": "query", "sentence": "Is it sunny?"}
+{"label": "quirky", "sentence": "Hi, you there"}
+{"label": "query", "sentence": "What time is my next appointment?"}
+{"label": "factoid", "sentence": "What is the circumference of the Earth?"}
+{"label": "set", "sentence": "I want you to make alert in the evening about upcoming meeting"}
+{"label": "query", "sentence": "What is currently breaking news?"}
+{"label": "query", "sentence": "Are there any available train tickets to reserve?"}
+{"label": "set", "sentence": "remind me to brush my teeth at three thirty"}
+{"label": "query", "sentence": "What day of the week is my birthday this year?"}
+{"label": "query", "sentence": "whats the time?"}
+{"label": "set", "sentence": "PDA, Remind me of the event in my calendar."}
+{"label": "query", "sentence": "I have new email."}
+{"label": "factoid", "sentence": "Is San Francisco near Berkeley?"}
+{"label": "set", "sentence": "fix alarm"}
+{"label": "quirky", "sentence": "What's the cheapest marathon to enter within 50 miles of here?"}
+{"label": "dontcare", "sentence": "i would not know, olly."}
+{"label": "remove", "sentence": "delete appointment at time"}
+{"label": "quirky", "sentence": "Is this shop is good or bad"}
+{"label": "query", "sentence": "Please tell me where the fair is going to be this year."}
+{"label": "query", "sentence": "Pull up the shopping list."}
+{"label": "locations", "sentence": "whats around, PDA."}
+{"label": "query", "sentence": "What's the temp in  Flint, MI?"}
+{"label": "set", "sentence": "set the alarm in my calendar events before 5 mins"}
+{"label": "remove", "sentence": "get rid of a list"}
+{"label": "query", "sentence": "Make sure I have nothing to do on Friday."}
+{"label": "quirky", "sentence": "I am in bad mood, tell me a joke"}
+{"label": "query", "sentence": "How much Indianapolis Express will take to reach texas."}
+{"label": "set", "sentence": "set an alarm for seven thirty a.m."}
+{"label": "query", "sentence": "update latest news"}
+{"label": "factoid", "sentence": "How many stray animals are saved every year?"}
+{"label": "query", "sentence": "do I need umbrella today?"}
+{"label": "convert", "sentence": "What is the time at Singapore when or time is 5 pm"}
+{"label": "currency", "sentence": "Which is worth more? The US Dollar or the Euro?"}
+{"label": "factoid", "sentence": "What is the location of Moldova?"}
+{"label": "query", "sentence": "Can you read my list off to me?"}
+{"label": "query", "sentence": "Ask for the weather today evening"}
+{"label": "set", "sentence": "add a marriage celebration party on this sunday"}
+{"label": "post", "sentence": "Please send a tweet to Food Lion about not having a clean restroom."}
+{"label": "post", "sentence": "PDA, I didn't get the product on time, send a tweet to JCPenney,"}
+{"label": "podcasts", "sentence": "I want to play the next episode of this podcast"}
+{"label": "query", "sentence": "what is the timing of bagmati express"}
+{"label": "post", "sentence": "Tweet comcast and tell them their service is down again."}
+{"label": "query", "sentence": "When is the next train to London?"}
+{"label": "query", "sentence": "List out my upcoming events?"}
+{"label": "quirky", "sentence": "I was chased by a dog"}
+{"label": "quirky", "sentence": "Lets converse on the subject."}
+{"label": "set", "sentence": "set a notification on 3rd march about company meeting"}
+{"label": "query", "sentence": "Olly alert me of an email from Dave about the meeting"}
+{"label": "factoid", "sentence": "Where is Pategonia?"}
+{"label": "query", "sentence": "What time is it in New York City right now?"}
+{"label": "greet", "sentence": "good day"}
+{"label": "query", "sentence": "Will there be sunset at 5:30 pm tomorrow."}
+{"label": "query", "sentence": "List of Playback of A.R Rahman collections"}
+{"label": "likeness", "sentence": "Rate this song five stars and save the rating."}
+{"label": "query", "sentence": "Give me the current time"}
+{"label": "query", "sentence": "Do i need a jacket"}
+{"label": "query", "sentence": "Can you tell me what happened to my social media?"}
+{"label": "query", "sentence": "show me yesterdays weather"}
+{"label": "query", "sentence": "What is next in my calendar?"}
+{"label": "remove", "sentence": "Turn off my first alarm"}
+{"label": "query", "sentence": "we don't expect rain tomorrow, right?"}
+{"label": "remove", "sentence": "Please delete my grocery list in entirety."}
+{"label": "podcasts", "sentence": "Let me hear that podcast"}
+{"label": "query", "sentence": "What is the song currently playing?"}
+{"label": "query", "sentence": "list emails from jim for today"}
+{"label": "set", "sentence": "add event in calendar and mention others"}
+{"label": "currency", "sentence": "Doller rate"}
+{"label": "remove", "sentence": "Erase that from my calendar"}
+{"label": "query", "sentence": "Have I gotten any new messages since yesterday?"}
+{"label": "likeness", "sentence": "the song makes me remember certain memories"}
+{"label": "quirky", "sentence": "What's on your mind?"}
+{"label": "podcasts", "sentence": "Can you pull up the Dave Ramsey podcast that aired on Monday."}
+{"label": "query", "sentence": "Whats the current weather?"}
+{"label": "query", "sentence": "Up coming events"}
+{"label": "quirky", "sentence": "PDA I am leaving early today."}
+{"label": "convert", "sentence": "convert 23:30 from GMT +4:30 to GMT -2:00"}
+{"label": "post", "sentence": "Tweet Comcast to say their service is down."}
+{"label": "podcasts", "sentence": "I want to listen to a sports podcast."}
+{"label": "query", "sentence": "What are the latest articles from Yahoo News?"}
+{"label": "remove", "sentence": "Ok Google, delete Eric's bday from the calendar."}
+{"label": "query", "sentence": "how to go the nearest mall asap?"}
+{"label": "factoid", "sentence": "what movies have brad douriff been in?"}
+{"label": "set", "sentence": "get ready for the upcoming meeting before the given time"}
+{"label": "query", "sentence": "Where is my meeting today located?"}
+{"label": "query", "sentence": "did I get anything new from my boss?"}
+{"label": "set", "sentence": "Mark tuesday for a meeting with John."}
+{"label": "set", "sentence": "set an alarm for next tuesdays meeting"}
+{"label": "currency", "sentence": "What is the exchange rate between the British pound and the US doillar?"}
+{"label": "query", "sentence": "Pull up all outgoing emails from yesterday."}
+{"label": "set", "sentence": "Text your lost Android phone to turn the ringer volume up 100%"}
+{"label": "order", "sentence": "What is the best pizza near me that delivers"}
+{"label": "query", "sentence": "Olly, should I wear a coat outside?"}
+{"label": "podcasts", "sentence": "Move to the next episode of Hipsterhood."}
+{"label": "query", "sentence": "What is tomorrows date?"}
+{"label": "query", "sentence": "What reminders do I have today?"}
+{"label": "quirky", "sentence": "Give me some health tips"}
+{"label": "query", "sentence": "HELLO, WHAT TIME IT IS NOW?"}
+{"label": "query", "sentence": "Uh, what does the current date happen to be, PDA?"}
+{"label": "order", "sentence": "Could you please help me to order some Sushi from Deliveroo?"}
+{"label": "query", "sentence": "Are there any unread messages in my inbox?"}
+{"label": "query", "sentence": "What are the latest tweets from the new york times"}
+{"label": "remove", "sentence": "reset all events in calender"}
+{"label": "quirky", "sentence": "Show me a video about new mobile launches this year"}
+{"label": "query", "sentence": "PDA do i have any appointments set for tomorrow?"}
+{"label": "query", "sentence": "Is it friday."}
+{"label": "query", "sentence": "Do I have any new emails from Kellogg?"}
+{"label": "quirky", "sentence": "Tell me about the current relationship between Russia and the USA."}
+{"label": "query", "sentence": "PDA: When does the last  train to Clarksville leave?"}
+{"label": "quirky", "sentence": "Pause the movie and find director or cast commentary about the scene I just watched."}
+{"label": "dontcare", "sentence": "does not matter with me."}
+{"label": "quirky", "sentence": "Olly I would like to know about Jane's party."}
+{"label": "quirky", "sentence": "i would like to crack jokes"}
+{"label": "remove", "sentence": "cancel all meetings for today"}
+{"label": "query", "sentence": "What is the current time in Delhi?"}
+{"label": "remove", "sentence": "Format the calendar"}
+{"label": "query", "sentence": "Ten day forecast for Baltimore"}
+{"label": "query", "sentence": "Tell me latest BBC news"}
+{"label": "query", "sentence": "Who was the chief guest of the event?"}
+{"label": "query", "sentence": "What are the names of all my saved lists"}
+{"label": "query", "sentence": "Name the people that sent me an email today?"}
+{"label": "locations", "sentence": "What shops are around here?"}
+{"label": "quirky", "sentence": "Where does Kate Middleton buy her kids clothes."}
+{"label": "set", "sentence": "make appointment for next friday"}
+{"label": "query", "sentence": "is there a train ticket available for boston tomorrow?"}
+{"label": "remove", "sentence": "Cancel all events for today and mark me busy"}
+{"label": "query", "sentence": "show the playlist"}
+{"label": "query", "sentence": "who is the latest sender?"}
+{"label": "set", "sentence": "Alexa, remind me daily about Inauguration Function"}
+{"label": "query", "sentence": "Should I take my umbrella to work today?"}
+{"label": "query", "sentence": "schedule"}
+{"label": "set", "sentence": "Set the event to recur on the first Monday of the month"}
+{"label": "query", "sentence": "do i have any mails"}
+{"label": "query", "sentence": "Are there any recent emails with thisome subject line"}
+{"label": "query", "sentence": "check the weather app to see if"}
+{"label": "query", "sentence": "Siri, please read me today's news"}
+{"label": "query", "sentence": "Who is the artist of the current song playing?"}
+{"label": "query", "sentence": "check email and what is the latest subject?"}
+{"label": "factoid", "sentence": "Is it better to invest or save?"}
+{"label": "factoid", "sentence": "Tell me about the height of mount everest."}
+{"label": "quirky", "sentence": "Today I searched all over for my phone and couldn't find it Olly."}
+{"label": "set", "sentence": "Remind me that I have a meeting at 3pm tomorrow."}
+{"label": "post", "sentence": "Tell consumer service in a tweet that if they don't improve I will take my business elsewhere."}
+{"label": "factoid", "sentence": "info about africa"}
+{"label": "remove", "sentence": "Please delete all my calendar events"}
+{"label": "query", "sentence": "How long will it take me to go to the train station from here?"}
+{"label": "query", "sentence": "Tell me my meetings this Wednesday morning"}
+{"label": "query", "sentence": "What time is the train to San francisco due?"}
+{"label": "query", "sentence": "What time is it in Singapore?"}
+{"label": "query", "sentence": "I've heard this riff before - what song stole this riff - it's exactly the same!"}
+{"label": "query", "sentence": "Will the weather today be cloudy"}
+{"label": "query", "sentence": "what date is my anniversary"}
+{"label": "remove", "sentence": "Delete all details of my calendar"}
+{"label": "query", "sentence": "Have I gotten any emails in the last couple of days?"}
+{"label": "query", "sentence": "How to I get to Cape Cod?"}
+{"label": "query", "sentence": "list all the lists on this device."}
+{"label": "podcasts", "sentence": "Take me to the next episode if her story."}
+{"label": "query", "sentence": "what lists must i remember"}
+{"label": "query", "sentence": "what is the weather report"}
+{"label": "set", "sentence": "Create a new reminder at 3pm"}
+{"label": "query", "sentence": "Is the aniversary event on 22nd of this month true"}
+{"label": "remove", "sentence": "away off or take off a specific calender event"}
+{"label": "query", "sentence": "What is the most convenient hour to catch a train to York on Saturday?"}
+{"label": "query", "sentence": "tell me a date"}
+{"label": "query", "sentence": "i finished my to do list"}
+{"label": "post", "sentence": "Tweet Target about how poorly their service was"}
+{"label": "query", "sentence": "What notifications do I have in social media?"}
+{"label": "query", "sentence": "from which movie is the song"}
+{"label": "query", "sentence": "What lists have I created?"}
+{"label": "query", "sentence": "What do I have to do this week?"}
+{"label": "factoid", "sentence": "What bra size is julianne hough?"}
+{"label": "query", "sentence": "what information do i have on reminders"}
+{"label": "query", "sentence": "Send me current news for the day"}
+{"label": "query", "sentence": "what did ben email me"}
+{"label": "locations", "sentence": "is there any Chinese places in Benton AR"}
+{"label": "query", "sentence": "What is todays weather forcast?"}
+{"label": "quirky", "sentence": "Tell me about celebrity"}
+{"label": "factoid", "sentence": "what is the distance from my current location to downtown Toronto?"}
+{"label": "dontcare", "sentence": "really i wouldn't mind, olly."}
+{"label": "set", "sentence": "set the alarm for 7 am every day"}
+{"label": "factoid", "sentence": "Where can I find Japan?"}
+{"label": "dontcare", "sentence": "i don't really mind for any one."}
+{"label": "query", "sentence": "What is going on with Obamacare?"}
+{"label": "factoid", "sentence": "Is Steph Curry married?"}
+{"label": "remove", "sentence": "Please remove the list."}
+{"label": "query", "sentence": "When is Easter?"}
+{"label": "remove", "sentence": "Remove the SMS recipient which have initials S"}
+{"label": "volume_other", "sentence": "change the volume of the speakers"}
+{"label": "likeness", "sentence": "I like this song, what is it? Can you please repeat it once?"}
+{"label": "currency", "sentence": "What is the exchange rate between U.S. and Canada?"}
+{"label": "remove", "sentence": "Delete events for ***."}
+{"label": "hue_lightup", "sentence": "Please brighten the lights"}
+{"label": "query", "sentence": "What are the upcoming reminders?"}
+{"label": "set", "sentence": "Alert me 30 minutes before my meeting at 3pm tomorrow."}
+{"label": "hue_lighton", "sentence": "It is dark, we need additional lighting, please adjust."}
+{"label": "post", "sentence": "Tweet a negative review to @companyname"}
+{"label": "remove", "sentence": "Please remove the grocery list from my set of lists."}
+{"label": "set", "sentence": "Please add this event to my calendar"}
+{"label": "query", "sentence": "Is anyone likes my latest photo?"}
+{"label": "query", "sentence": "Is snow coming tonight?"}
+{"label": "set", "sentence": "Calendar event. send invite, Bill Malinda"}
+{"label": "hue_lighton", "sentence": "Turn on all upstairs lights."}
+{"label": "factoid", "sentence": "what is the distance from some particular place"}
+{"label": "query", "sentence": "When did dave matthews email me about the contract?"}
+{"label": "query", "sentence": "Appointments this wednesday"}
+{"label": "quirky", "sentence": "Tell me how to go Bali without airplane with lowest cost option, time doesn't matter I have 200 days  travel time and Only $5000 to spend."}
+{"label": "podcasts", "sentence": "I want to listen to the latest Mike and mike podcast."}
+{"label": "query", "sentence": "How many events on my list?"}
+{"label": "hue_lightup", "sentence": "PDA, connect to lights"}
+{"label": "query", "sentence": "Check the news."}
+{"label": "set", "sentence": "Set up an event recurring throughout the month."}
+{"label": "set", "sentence": "remind me tomorrow at 10am about the meeting"}
+{"label": "query", "sentence": "Is there any pending reminder for me"}
+{"label": "currency", "sentence": "What is the current exchange rate for Yen to Euros?"}
+{"label": "quirky", "sentence": "How do I save money on groceries for family of 6?"}
+{"label": "query", "sentence": "evening"}
+{"label": "query", "sentence": "what's the time in China right now?"}
+{"label": "query", "sentence": "With whom do I have appointment today"}
+{"label": "locations", "sentence": "Help me locate a shop that sells clothes for classy ladies."}
+{"label": "query", "sentence": "What's my calendar today"}
+{"label": "remove", "sentence": "Cancel next event."}
+{"label": "podcasts", "sentence": "what are my top played podcasts"}
+{"label": "factoid", "sentence": "find area"}
+{"label": "query", "sentence": "Refresh the inbox and update about any unread mails"}
+{"label": "currency", "sentence": "currency exchange rate"}
+{"label": "remove", "sentence": "erase item from list"}
+{"label": "query", "sentence": "Show me my new emails."}
+{"label": "remove", "sentence": "Can you empty my calendar?"}
+{"label": "query", "sentence": "What will the weather be like for this week?"}
+{"label": "quirky", "sentence": "why people who reads may not be the most courteous and well-born?"}
+{"label": "dontcare", "sentence": "i wouldn't really bother."}
+{"label": "quirky", "sentence": "I am tired"}
+{"label": "set", "sentence": "Remind me I take mom to the hairdresser's Thursday at 11:00 am."}
+{"label": "query", "sentence": "What time is it right now in Pacific time?"}
+{"label": "query", "sentence": "do I need a coat today"}
+{"label": "factoid", "sentence": "Explain the Book of Daniel to me"}
+{"label": "order", "sentence": "Place an order for a combo platter from China Buffet."}
+{"label": "query", "sentence": "tell me how are the results of assembly elections in Delhi going to come out?"}
+{"label": "post", "sentence": "Ok Google, tweet McDonald's down Reseda has terrible service."}
+{"label": "currency", "sentence": "Is the exchange rate changed from yesterday"}
+{"label": "query", "sentence": "Read to me all the e-mails from contact about subject."}
+{"label": "remove", "sentence": "erase the meeting tomorrow at 10am"}
+{"label": "query", "sentence": "What do I have for today?"}
+{"label": "query", "sentence": "find coding tutorials"}
+{"label": "factoid", "sentence": "Google Michael Jackson"}
+{"label": "quirky", "sentence": "what I do not like"}
+{"label": "query", "sentence": "whats the weeks forecast"}
+{"label": "query", "sentence": "pull up list"}
+{"label": "set", "sentence": "Remind me every year/week/month on this date of"}
+{"label": "query", "sentence": "Should i wear a jacket to work?"}
+{"label": "set", "sentence": "remind me about Games of Thrones at seven pm each Sunday for the next three months"}
+{"label": "set", "sentence": "add 'christmas' on 25-December-2017 at 'sara's place'"}
+{"label": "query", "sentence": "tomorrow is a sunny day, right?"}
+{"label": "query", "sentence": "Olly, is there any current news on the presidential election?"}
+{"label": "factoid", "sentence": "can you give me the details of indian embassy"}
+{"label": "dontcare", "sentence": "i have no idea for what to select."}
+{"label": "query", "sentence": "What is the weather forecast for Seattle?"}
+{"label": "quirky", "sentence": "I need to ask you: how many angels can dance on a pinhead?"}
+{"label": "order", "sentence": "Takeaway : Noodles 1 pack"}
+{"label": "set", "sentence": "Add my meeting in Google office tomorrow, 10 AM"}
+{"label": "quirky", "sentence": "I wish it had wider range of conversation"}
+{"label": "remove", "sentence": "PDA, open memos"}
+{"label": "post", "sentence": "'nice!' can you post this to my facebook?"}
+{"label": "quirky", "sentence": "Do you feel more like a machine or a person?"}
+{"label": "query", "sentence": "what to i have a my to do list"}
+{"label": "factoid", "sentence": "PDA: Whats going to be the forecast tomorrow for Outer Nowhereville?"}
+{"label": "query", "sentence": "where the event will be"}
+{"label": "query", "sentence": "How much time is a train to there"}
+{"label": "query", "sentence": "what time is it in someplace?"}
+{"label": "query", "sentence": "Hey, what is the time?"}
+{"label": "set", "sentence": "remind upcoming meeting with eminem"}
+{"label": "query", "sentence": "Olly, tell me whats going on tomorrow"}
+{"label": "post", "sentence": "I would want you to tweet for me at India Consumer Complaints Forum regarding the late delivery of gas cylinder."}
+{"label": "query", "sentence": "Are there any news on the weather?"}
+{"label": "likeness", "sentence": "Please add this song to my playlist favorites"}
+{"label": "query", "sentence": "PDA: I'm back PDA, any new emails since I left?"}
+{"label": "remove", "sentence": "find list and remove apple"}
+{"label": "query", "sentence": "by our scores"}
+{"label": "factoid", "sentence": "How old is Barack Obamba?"}
+{"label": "query", "sentence": "When is the party this weekend?"}
+{"label": "factoid", "sentence": "What is the temperature in Indianapolis, Indiana?"}
+{"label": "factoid", "sentence": "PLEASE TELL ME WHAT IS THE FORMULA FOR THE PERIMETER OF A RECTANGLE?"}
+{"label": "set", "sentence": "Remind me of Sarah's birthday three days ahead of time."}
+{"label": "currency", "sentence": "How much US money do I get from 1000 kroner?"}
+{"label": "quirky", "sentence": "Can I mine for gold on any public land?"}
+{"label": "factoid", "sentence": "Which was longest river in the world"}
+{"label": "set", "sentence": "send apologies to all the attendees of the upcomming Tavern lunch"}
+{"label": "post", "sentence": "Write a complaint to alza.cz for the tablet I bought today"}
+{"label": "quirky", "sentence": "clear out the problem"}
+{"label": "factoid", "sentence": "Where is the alps located"}
+{"label": "query", "sentence": "What is the time in the Pacific time zone at this very moment?"}
+{"label": "query", "sentence": "What's the weather like in Toronto?"}
+{"label": "query", "sentence": "what time is the parade set for today"}
+{"label": "remove", "sentence": "Delete my latest event."}
+{"label": "query", "sentence": "When is my order ready?"}
+{"label": "quirky", "sentence": "Suggestions for future"}
+{"label": "query", "sentence": "latest news story"}
+{"label": "locations", "sentence": "Olly where is a nearby park where I can go running?"}
+{"label": "query", "sentence": "Alarm if any new reply from the boss"}
+{"label": "query", "sentence": "Whats the latest news?"}
+{"label": "query", "sentence": "what alarms are set"}
+{"label": "podcasts", "sentence": "Play next episode of this podcast"}
+{"label": "set", "sentence": "Please add event in calendar"}
+{"label": "remove", "sentence": "delete the dentist appointment next week"}
+{"label": "factoid", "sentence": "Did Prince have children?"}
+{"label": "set", "sentence": "Create a new daily event."}
+{"label": "set", "sentence": "Remind me everyday at 2 PM for lunch"}
+{"label": "quirky", "sentence": "Lets talk. I am bored right now."}
+{"label": "likeness", "sentence": "yes, I Like to save opinion on song playing and which player suppoert that song."}
+{"label": "query", "sentence": "I always pay attention"}
+{"label": "query", "sentence": "any death news in times of india."}
+{"label": "quirky", "sentence": "who are you"}
+{"label": "query", "sentence": "Is it sunny in Springfield?"}
+{"label": "query", "sentence": "show unread"}
+{"label": "quirky", "sentence": "wake me only after the sun is up on Sundays"}
+{"label": "remove", "sentence": "Turn off all of my alarms"}
+{"label": "set", "sentence": "Please add a 4 p.m. appointment for every Tuesday."}
+{"label": "query", "sentence": "Does Monday's meeting at 8am include Chuck Ingerman?"}
+{"label": "podcasts", "sentence": "Open podcast player"}
+{"label": "query", "sentence": "What went on in the world today?"}
+{"label": "quirky", "sentence": "Tell me more about the Japan Day Festival."}
+{"label": "query", "sentence": "what time is it in los angeles"}
+{"label": "factoid", "sentence": "What you know about Jhon Abraham Lincon"}
+{"label": "remove", "sentence": "Make blank on july 3 calender"}
+{"label": "set", "sentence": "Set up a meeting with my sons teacher for Friday."}
+{"label": "set", "sentence": "Set an alarm for 5 minutes from now."}
+{"label": "factoid", "sentence": "Does Pink have a new baby?"}
+{"label": "factoid", "sentence": "is angeline having a new movie this year"}
+{"label": "set", "sentence": "will you remind me to go to hockey class every Sunday afternoon?"}
+{"label": "query", "sentence": "Check emails from Jane Doe"}
+{"label": "set", "sentence": "I WANT YOU TO REMEBER ME TO TAKE MY RAIN COAT BECAUSE IT MAY RAIN."}
+{"label": "post", "sentence": "Post that I am going to Walmart for Shopping"}
+{"label": "order", "sentence": "find restaurant order food name"}
+{"label": "set", "sentence": "remind me please"}
+{"label": "set", "sentence": "6 am alarm please"}
+{"label": "query", "sentence": "any news from Agnes?"}
+{"label": "query", "sentence": "What is the latest poll on the public view of President Trump?"}
+{"label": "query", "sentence": "Tell me about the latest environmental news."}
+{"label": "remove", "sentence": "Delete next event on calendar"}
+{"label": "query", "sentence": "who has covered this song?"}
+{"label": "locations", "sentence": "Olly, what's close by for dinner?"}
+{"label": "query", "sentence": "Is it 10:00?"}
+{"label": "post", "sentence": "Hello google, post my current status on twitter mentioning A great trip to Paris with friends and family."}
+{"label": "query", "sentence": "Next train to Orlando"}
+{"label": "set", "sentence": "Schedule a sales meeting for Wednesday at 11am"}
+{"label": "query", "sentence": "Olly, do I have an appointment for January the third?"}
+{"label": "query", "sentence": "i just ordered food, call and see it has been delivered"}
+{"label": "dontcare", "sentence": "have no idea for which to choose, olly."}
+{"label": "query", "sentence": "Can you tell me what's on the schedule for tomorrow?"}
+{"label": "locations", "sentence": "PDA, what is the best Italian restaurant around here?"}
+{"label": "currency", "sentence": "How much is one dollar in euros?"}
+{"label": "query", "sentence": "Whay day does Easter fall on this year?"}
+{"label": "query", "sentence": "I have my lists, right? What are they?"}
+{"label": "post", "sentence": "Have a moan at Easyjet"}
+{"label": "post", "sentence": "Tweet a complaint about poor drainage system"}
+{"label": "query", "sentence": "Please give me all updates on the election."}
+{"label": "query", "sentence": "Did the bitcoin go past 1000 mark yesterday? What is position of bitcoin as of now?"}
+{"label": "query", "sentence": "What is today's exact date?"}
+{"label": "set", "sentence": "Add shopping to my calendar for tomorrow."}
+{"label": "remove", "sentence": "Next event is canceled"}
+{"label": "query", "sentence": "Please read me headlines from Washington Post"}
+{"label": "dontcare", "sentence": "doesn't matter to me."}
+{"label": "remove", "sentence": "Delete next event on my calendar"}
+{"label": "remove", "sentence": "Remove Yams"}
+{"label": "podcasts", "sentence": "Play the next episode"}
+{"label": "query", "sentence": "Tell me the soup of the day at Panera Bread Restaurant"}
+{"label": "set", "sentence": "Save the date October 1st Ann and I are going to lunch at 2pm"}
+{"label": "query", "sentence": "what is the weather in utah"}
+{"label": "query", "sentence": "Please check and tell me about the reminders i have placed today"}
+{"label": "query", "sentence": "What's the exact time we get food delivered once we place an order for food."}
+{"label": "quirky", "sentence": "the traffic today was the worst i've seen."}
+{"label": "set", "sentence": "Mark pick-up Leonard every Tuesday at 3pm."}
+{"label": "post", "sentence": "complaint to dept. for overpricing"}
+{"label": "currency", "sentence": "What is the exchange rates in this region"}
+{"label": "set", "sentence": "yes its must"}
+{"label": "locations", "sentence": "where is a petrol station in 0.5 mile radius?"}
+{"label": "query", "sentence": "What's the humidity level?"}
+{"label": "query", "sentence": "Is calendar event true?"}
+{"label": "currency", "sentence": "tell me the best exchange rate"}
+{"label": "factoid", "sentence": "geography melbourne"}
+{"label": "query", "sentence": "can you locate some gospel music for me"}
+{"label": "factoid", "sentence": "how tall is Mel Gibson"}
+{"label": "query", "sentence": "Information"}
+{"label": "query", "sentence": "which time train dep"}
+{"label": "quirky", "sentence": "what would be a good romantic dinner?"}
+{"label": "query", "sentence": "Who is this?"}
+{"label": "query", "sentence": "ute me about <unk>"}
+{"label": "query", "sentence": "Please list the senders of received emails from the last three days."}
+{"label": "query", "sentence": "tell me the weather in utah"}
+{"label": "query", "sentence": "What is the current date?"}
+{"label": "dontcare", "sentence": "i have no idea about what to do."}
+{"label": "query", "sentence": "Report alarm settings."}
+{"label": "order", "sentence": "Can I order out?"}
+{"label": "remove", "sentence": "Please delete bananas from my shopping list."}
+{"label": "remove", "sentence": "Delete all events and content from my calender."}
+{"label": "set", "sentence": "Notify me when I am supposed to attend the dance recital on March 5th."}
+{"label": "query", "sentence": "Tell me the weather."}
+{"label": "factoid", "sentence": "show rihanas bio"}
+{"label": "podcasts", "sentence": "Plaease play forward episode in quantico."}
+{"label": "factoid", "sentence": "Whay is the geographic area of Sudan"}
+{"label": "locations", "sentence": "where is mcdo?"}
+{"label": "currency", "sentence": "What is the exchange rate as of today"}
+{"label": "query", "sentence": "Please tell me what's on the list"}
+{"label": "locations", "sentence": "tell me pizza restaurants close by."}
+{"label": "set", "sentence": "Remind me about my business meeting at 3:45pm"}
+{"label": "query", "sentence": "Tell me what's happening on social media"}
+{"label": "query", "sentence": "Show me any emails received in the last hour"}
+{"label": "set", "sentence": "Be sure to remind me of this"}
+{"label": "query", "sentence": "Read the email sent by this contact"}
+{"label": "query", "sentence": "check any emai if i got from rohan."}
+{"label": "podcasts", "sentence": "Play the most current episode of Levin"}
+{"label": "query", "sentence": "What time do I have down for Susan's Party?"}
+{"label": "dontcare", "sentence": "have no idea for which to choose."}
+{"label": "dontcare", "sentence": "this doesn't matter with me, olly."}
+{"label": "factoid", "sentence": "how was tthe first president of us"}
+{"label": "quirky", "sentence": "PDA i'm driving please auto answer my calls on speaker phone."}
+{"label": "podcasts", "sentence": "Can I see the next episode of the podcast?"}
+{"label": "query", "sentence": "can you tell me what alarms i have set"}
+{"label": "locations", "sentence": "Where is the closer Starbucks?"}
+{"label": "query", "sentence": "What time is the earliest train to Glasgow?"}
+{"label": "post", "sentence": "Tweet to Ikea costumer service the following, I'm not happy with this new KLM product"}
+{"label": "podcasts", "sentence": "Play me the most popular podcast on iTunes."}
+{"label": "factoid", "sentence": "Where is George W. Bush from?"}
+{"label": "order", "sentence": "Find the nearest Olive Garden that has take out service."}
+{"label": "query", "sentence": "What day does Halloween fall on this year?"}
+{"label": "factoid", "sentence": "how far is US from india"}
+{"label": "query", "sentence": "its sunny today?"}
+{"label": "factoid", "sentence": "What is the size of the United States?"}
+{"label": "remove", "sentence": "Delete meeting schduled with John on 21 March"}
+{"label": "convert", "sentence": "When it's 10 pm here what time is it in Brisbane?"}
+{"label": "factoid", "sentence": "Who is the Prime Minister of India"}
+{"label": "dontcare", "sentence": "wouldn't really bother, olly."}
+{"label": "query", "sentence": "What the highest likes on facebook?"}
+{"label": "set", "sentence": "Remind me about the upcoming national holiday."}
+{"label": "quirky", "sentence": "Please rub my back"}
+{"label": "query", "sentence": "What are my next scheduels?"}
+{"label": "factoid", "sentence": "Which river in Germany is the biggest?"}
+{"label": "currency", "sentence": "what is the u.s. dollar exuivalent of 1 euro"}
+{"label": "set", "sentence": "It's my mother's birthday today Olly, send me a notification every year on this date."}
+{"label": "query", "sentence": "What is the time in Ajmer ?"}
+{"label": "query", "sentence": "Is it raining tonight?"}
+{"label": "quirky", "sentence": "I would love to share my meal with you"}
+{"label": "query", "sentence": "PDA what's on the calendar today?"}
+{"label": "currency", "sentence": "has pound value decreased"}
+{"label": "remove", "sentence": "Delete the song What If in my music."}
+{"label": "query", "sentence": "When is the best time to travel to Canada? What airport to use?"}
+{"label": "factoid", "sentence": "where is place?"}
+{"label": "query", "sentence": "Will gloves come in handy on Tuesday?"}
+{"label": "query", "sentence": "Tell me this song"}
+{"label": "query", "sentence": "Let me see my most recent emails"}
+{"label": "query", "sentence": "What street do i take to get to downtown?"}
+{"label": "podcasts", "sentence": "Start the podcast"}
+{"label": "set", "sentence": "I'd like to update my calendar."}
+{"label": "query", "sentence": "Is the city  hot or cold in terms of temperature .If it is a coastal area,then is the humidity high or low."}
+{"label": "set", "sentence": "set a reminder"}
+{"label": "currency", "sentence": "Dollar rupees exchange rate"}
+{"label": "dontcare", "sentence": "i don't really mind for whatever."}
+{"label": "query", "sentence": "Did you set the alarm for 5 AM?"}
+{"label": "query", "sentence": "Send me alert on any new topic on politics"}
+{"label": "set", "sentence": "I've got a meeting by tonight 7:00PM, please mute the music for an hour"}
+{"label": "factoid", "sentence": "how tall is Jobe Bryant?"}
+{"label": "dontcare", "sentence": "this is unimportant with me, olly."}
+{"label": "dontcare", "sentence": "anything is fine to me, olly."}
+{"label": "query", "sentence": "Show me the time in New York City."}
+{"label": "query", "sentence": "locate address for myrtle beach state fair"}
+{"label": "query", "sentence": "Please advise what the current news is on Fox News?"}
+{"label": "query", "sentence": "Is there anything on my calendar"}
+{"label": "dontcare", "sentence": "would not really mind for whatever."}
+{"label": "currency", "sentence": "How does the dollar compare to the pound?"}
+{"label": "dontcare", "sentence": "wouldn't care."}
+{"label": "query", "sentence": "Alert me when the outside temperature reaches 68 degrees"}
+{"label": "factoid", "sentence": "How many people live in Los Angeles?"}
+{"label": "order", "sentence": "Can you order me some pizza?"}
+{"label": "podcasts", "sentence": "show me podcasts"}
+{"label": "dontcare", "sentence": "any one would be good for me."}
+{"label": "factoid", "sentence": "geo info"}
+{"label": "set", "sentence": "set reminder at 3 pm"}
+{"label": "set", "sentence": "Hey, add dentist appointment on Tuesday 4pm"}
+{"label": "query", "sentence": "What's the latest email I have?"}
+{"label": "factoid", "sentence": "Siri, how long has Susumu Hirasawa been creating music?"}
+{"label": "hue_lightup", "sentence": "increase the bright of the light"}
+{"label": "query", "sentence": "What is the latest update on the weather in Harrisburg Pennsylvania?"}
+{"label": "likeness", "sentence": "opinion pb"}
+{"label": "quirky", "sentence": "Olly, i fell at work today."}
+{"label": "convert", "sentence": "If it is noon in Virginia, what time is it in California?"}
+{"label": "query", "sentence": "Can you tell me what time is it in New York?"}
+{"label": "post", "sentence": "post this message in facebook"}
+{"label": "query", "sentence": "Will Sting be in Tampa Florida soon"}
+{"label": "factoid", "sentence": "help me in knowing the background of person X"}
+{"label": "factoid", "sentence": "What is the home city of the Bolshoi theatre?"}
+{"label": "query", "sentence": "does jack have a meeting in the morning?"}
+{"label": "query", "sentence": "Is Gus's a take out place?"}
+{"label": "factoid", "sentence": "Olly, what was Tom Cruise's last starring role?"}
+{"label": "set", "sentence": "Please arrange to wake me up at 3.00 am alarm"}
+{"label": "post", "sentence": "Send a tweet to at modcloth that I don't like that they wouldn't honor sales prices for me."}
+{"label": "set", "sentence": "Mark dad's retirement dinner for April fourth."}
+{"label": "remove", "sentence": "Please remove the next event on my calender"}
+{"label": "podcasts", "sentence": "Olly, can we listen to Reply All podcast"}
+{"label": "query", "sentence": "Is it going to rain on my birthday?"}
+{"label": "query", "sentence": "Read my grocery list"}
+{"label": "post", "sentence": "Send complaint via tweet to J Crew."}
+{"label": "query", "sentence": "CNN Headlines"}
+{"label": "set", "sentence": "Please tell me about a hour before Thursday about my hair appointment."}
+{"label": "query", "sentence": "What is on my shopping list?"}
+{"label": "query", "sentence": "How many text messages has John  Smith sent me in the last 12 months?"}
+{"label": "query", "sentence": "10 past seven"}
+{"label": "query", "sentence": "What is today's forecast for Berlin?"}
+{"label": "query", "sentence": "Who sing We are the world?"}
+{"label": "query", "sentence": "I need to know current weather in New York city"}
+{"label": "set", "sentence": "please add party at chucky cheese to calander"}
+{"label": "query", "sentence": "Physical education drill Marilyn"}
+{"label": "remove", "sentence": "Remove calendar events for this week"}
+{"label": "order", "sentence": "Order a meal from a nice restaurant"}
+{"label": "query", "sentence": "popular culture news"}
+{"label": "set", "sentence": "google calendar. add event for march 21st"}
+{"label": "query", "sentence": "directions please"}
+{"label": "query", "sentence": "remind me to check morning news update"}
+{"label": "query", "sentence": "please take me to Wall Street journal"}
+{"label": "query", "sentence": "Chicago time"}
+{"label": "query", "sentence": "whats happening in pop industry"}
+{"label": "set", "sentence": "make a list of management staff for the 20th oct meeting"}
+{"label": "query", "sentence": "How many Fridays are there in May?"}
+{"label": "query", "sentence": "Remove old emails from trash"}
+{"label": "remove", "sentence": "Clear event from calendar and refresh."}
+{"label": "query", "sentence": "Do I have any alarms set, Olly?"}
+{"label": "query", "sentence": "directions to place"}
+{"label": "set", "sentence": "Add practice to calendar on Feb 4 at King's Park at 2 p.m.."}
+{"label": "query", "sentence": "friday forecast"}
+{"label": "query", "sentence": "transcribe email <unk>"}
+{"label": "remove", "sentence": "Please remove task list"}
+{"label": "order", "sentence": "I am in need of some pizza, what's the closest place that delivers?"}
+{"label": "factoid", "sentence": "who assassinated lincoln"}
+{"label": "set", "sentence": "Calendar event with these people"}
+{"label": "post", "sentence": "write tweet to Bank of America"}
+{"label": "query", "sentence": "How cold will it get each night this week?"}
+{"label": "convert", "sentence": "PDA, what time will it be locally at 9AM Bangalore, India, time?"}
+{"label": "query", "sentence": "Show me weather list for tomorrow"}
+{"label": "query", "sentence": "route to melbourne"}
+{"label": "query", "sentence": "what does my morning look like tomorrow?"}
+{"label": "quirky", "sentence": "How can I make your day a little better?"}
+{"label": "locations", "sentence": "Olly, give me all ice cream shops within 2 miles"}
+{"label": "factoid", "sentence": "How many cities are on international borders?"}
+{"label": "set", "sentence": "set alarm reminder for calendar"}
+{"label": "query", "sentence": "Tell me my list names."}
+{"label": "query", "sentence": "What did I tell Susan in my last email?"}
+{"label": "quirky", "sentence": "PDA I am going to work today."}
+{"label": "quirky", "sentence": "get it"}
+{"label": "query", "sentence": "The last Friday of the month lands on what day?"}
+{"label": "post", "sentence": "Tweet for me the complaint about drainage choke up"}
+{"label": "query", "sentence": "Tell me about all the events this month on Facebook and which one's my friends are going to?"}
+{"label": "remove", "sentence": "Clear event"}
+{"label": "hue_lightup", "sentence": "brighten up the lighting"}
+{"label": "query", "sentence": "Weather in Leisure City"}
+{"label": "query", "sentence": "check for hot news in times of india."}
+{"label": "locations", "sentence": "Olly can you find a nice restaurant downtown?"}
+{"label": "dontcare", "sentence": "that does not matter to me."}
+{"label": "query", "sentence": "Could you tell me what today's date is?"}
+{"label": "query", "sentence": "Is it storming right now?"}
+{"label": "query", "sentence": "What are the lyrics to this song."}
+{"label": "query", "sentence": "show new emails from katey"}
+{"label": "quirky", "sentence": "It is already late."}
+{"label": "query", "sentence": "How many unread messages have i got PDA?"}
+{"label": "set", "sentence": "Wake me up at time"}
+{"label": "query", "sentence": "is there any email with <unk>"}
+{"label": "convert", "sentence": "If it is 12 hours ahead of eastern standard centaur time, what's the time in the Philippines now?"}
+{"label": "query", "sentence": "Olly, find my food."}
+{"label": "quirky", "sentence": "Is mile marker 65 where the hanging tree is located?"}
+{"label": "set", "sentence": "Set calendar info for albert's marriage"}
+{"label": "query", "sentence": "What is the 5 days forecast looking like in New York City?"}
+{"label": "order", "sentence": "Order a large plain pizza from Mimo's for me."}
+{"label": "remove", "sentence": "Alexa, remove dinner with Mike from my calendar."}
+{"label": "query", "sentence": "How is weather in New York City?"}
+{"label": "factoid", "sentence": "What is Nicole McGoat's net worth?"}
+{"label": "factoid", "sentence": "What's the capital of Kazakhstan?"}
+{"label": "query", "sentence": "Hey PDA, Did i get any new emails?"}
+{"label": "query", "sentence": "Do I have banana in my shopping list"}
+{"label": "query", "sentence": "Any new emails?"}
+{"label": "query", "sentence": "check if any alarm is there after 5am"}
+{"label": "dontcare", "sentence": "have no idea for which to select."}
+{"label": "set", "sentence": "remind me an email to my sister"}
+{"label": "set", "sentence": "Remind me to send that email later"}
+{"label": "remove", "sentence": "Find the list you want to delete."}
+{"label": "set", "sentence": "Calender henvich marriage"}
+{"label": "query", "sentence": "How is the weather in San Francisco"}
+{"label": "set", "sentence": "Can you set an alarm for 7 am?"}
+{"label": "dontcare", "sentence": "have no idea."}
+{"label": "factoid", "sentence": "Olly how many stars has SWAT received on IMDB"}
+{"label": "set", "sentence": "New event, lunch, Outback"}
+{"label": "query", "sentence": "Did anyone win the powerball lottery yesterday?"}
+{"label": "query", "sentence": "Do I have an Amazon list saved?"}
+{"label": "query", "sentence": "Latest news feed from facebook"}
+{"label": "set", "sentence": "Please put on an alarm for 8am"}
+{"label": "remove", "sentence": "remove birthday from calendar"}
+{"label": "query", "sentence": "Keep me up to date with news on certain topics."}
+{"label": "query", "sentence": "Next train to D.C."}
+{"label": "query", "sentence": "what time is it in Atlanta?"}
+{"label": "query", "sentence": "When is the next train to Glasgow from Aberdeen?"}
+{"label": "quirky", "sentence": "see if there is something related to my job"}
+{"label": "post", "sentence": "send a tweet to kroger about being overcharged for groceries"}
+{"label": "factoid", "sentence": "How hilly is it in Sacramento?"}
+{"label": "remove", "sentence": "hey siri cancel my next appointment"}
+{"label": "query", "sentence": "Show me the latest emails from Amazon."}
+{"label": "quirky", "sentence": "Hi This is john, I would like to know the special dish for today."}
+{"label": "post", "sentence": "I have a complaint."}
+{"label": "quirky", "sentence": "Get with new one."}
+{"label": "order", "sentence": "Yo PDA  order take out from Jason's Deli on 6th ave"}
+{"label": "post", "sentence": "please post to jeff"}
+{"label": "factoid", "sentence": "Tell me about Michael Jackson"}
+{"label": "podcasts", "sentence": "Play my favorite podcast, please."}
+{"label": "factoid", "sentence": "How many times was Richard Nixon married?"}
+{"label": "quirky", "sentence": "What does Priyanka Chopra do to look beautiful."}
+{"label": "set", "sentence": "Plan a meeting with John on 21 Mar at 11 AM"}
+{"label": "quirky", "sentence": "what mistakes do you usually make"}
+{"label": "query", "sentence": "Domino's has takeaway, right?"}
+{"label": "quirky", "sentence": "What do you want to do today?"}
+{"label": "post", "sentence": "log a complaint wash machine to samsung consumer service with model number cs001"}
+{"label": "dontcare", "sentence": "any one is fine for me, olly."}
+{"label": "query", "sentence": "What time is it now in New York?"}
+{"label": "query", "sentence": "99.9 FM is currently playing what music?"}
+{"label": "query", "sentence": "Is 21st of the week is Saturday?"}
+{"label": "query", "sentence": "What will the temperatures be for the next week?"}
+{"label": "query", "sentence": "Olly do I have an alarm set for tomorrow."}
+{"label": "quirky", "sentence": "it would be great if PDA can give you law consultations"}
+{"label": "query", "sentence": "What is the name of that song?"}
+{"label": "remove", "sentence": "delete the list please"}
+{"label": "set", "sentence": "Set the Alarm tone"}
+{"label": "quirky", "sentence": "World War II"}
+{"label": "quirky", "sentence": "Journal entry for today (user begins telling about day here)"}
+{"label": "set", "sentence": "Set an alarm for 9PM"}
+{"label": "remove", "sentence": "Delete my list of appointments for tomorrow"}
+{"label": "query", "sentence": "Make a new notification for political campaign tweets."}
+{"label": "set", "sentence": "Wish birthday"}
+{"label": "query", "sentence": "Check emails for last hour"}
+{"label": "query", "sentence": "What is the subject of latest email I got, and who sent it?"}
+{"label": "query", "sentence": "Hot news."}
+{"label": "post", "sentence": "Get it fast resolved."}
+{"label": "post", "sentence": "send a message to national grid that the power is out again"}
+{"label": "query", "sentence": "Current time in"}
+{"label": "podcasts", "sentence": "Play a podcast about dogs."}
+{"label": "remove", "sentence": "clear events from calendar"}
+{"label": "set", "sentence": "Set reminder to pick up kids on weekdays at 3pm"}
+{"label": "query", "sentence": "list my today's meeting"}
+{"label": "post", "sentence": "open twitter, send message"}
+{"label": "likeness", "sentence": "I love the songs of micheal Jackson, can you save some songs of jackson for me"}
+{"label": "query", "sentence": "ANY RESTAURANT IN THE BEAUTIFULL"}
+{"label": "set", "sentence": "remind me at 5pm"}
+{"label": "post", "sentence": "tweet @bobburgers they screwed up my order and i had to wait an extra hour"}
+{"label": "query", "sentence": "What are the current lists I have?"}
+{"label": "query", "sentence": "Is it monday today?"}
+{"label": "set", "sentence": "On October 1st at 2pm lunch with Ann"}
+{"label": "query", "sentence": "Let's go through all pending reminders."}
+{"label": "query", "sentence": "Please tell me the news headlines."}
+{"label": "query", "sentence": "PDA, tell me the time in Tokyo."}
+{"label": "query", "sentence": "do i have any new tinder matches"}
+{"label": "factoid", "sentence": "How old is Jim Carrey?"}
+{"label": "post", "sentence": "I want to tweet a complaint about my truck to Consumer Digest."}
+{"label": "query", "sentence": "olly, list most rated deliveroo options for chinese food"}
+{"label": "hue_lightup", "sentence": "Make the light more visible."}
+{"label": "quirky", "sentence": "I would like it if my PDA could do my work for me."}
+{"label": "query", "sentence": "The 2nd of next month lands on what day?"}
+{"label": "query", "sentence": "Do I have any meetings scheduled the weekend after next?"}
+{"label": "remove", "sentence": "Remove Mother from my contact list."}
+{"label": "quirky", "sentence": "I would like it to be able to compute answers from search results like wolfram alpha does."}
+{"label": "query", "sentence": "Is there any new information regarding the Mexican-American border wall?"}
+{"label": "remove", "sentence": "Clear my calendar for the rest of the day."}
+{"label": "query", "sentence": "What events are on my calendar?"}
+{"label": "query", "sentence": "temperature in Augusta GA"}
+{"label": "hue_lighton", "sentence": "Please turn on the lights in my house."}
+{"label": "query", "sentence": "What is the timer in Japan?"}
+{"label": "query", "sentence": "What genre is this song in"}
+{"label": "set", "sentence": "Add Bubbles birthday to March 15"}
+{"label": "query", "sentence": "Is there anything left on my list?"}
+{"label": "query", "sentence": "today get umberrlow"}
+{"label": "query", "sentence": "what's the date?"}
+{"label": "query", "sentence": "Is there any email from my contacts"}
+{"label": "likeness", "sentence": "I like this song that is playing"}
+{"label": "remove", "sentence": "delete birthday party"}
+{"label": "likeness", "sentence": "Please rate this song <insert rating here>"}
+{"label": "set", "sentence": "set a reminder alerm for my 5pm meeting please"}
+{"label": "query", "sentence": "Please list all my alarms"}
+{"label": "quirky", "sentence": "do homework for me please!"}
+{"label": "query", "sentence": "When does my train leave?"}
+{"label": "set", "sentence": "Add event with these people"}
+{"label": "quirky", "sentence": "movies making money."}
+{"label": "order", "sentence": "who delivers near here"}
+{"label": "query", "sentence": "Tell me latest technology news."}
+{"label": "remove", "sentence": "Remove birthday event from my calendar"}
+{"label": "remove", "sentence": "cancel  the breakfast at tiffany's"}
+{"label": "query", "sentence": "Please tell me current events for the day"}
+{"label": "query", "sentence": "Should I wear sunblock today?"}
+{"label": "query", "sentence": "alexa what is the news in my area?"}
+{"label": "quirky", "sentence": "start a small chart"}
+{"label": "remove", "sentence": "please delete my morning alarm"}
+{"label": "quirky", "sentence": "mileage of BMW cars"}
+{"label": "query", "sentence": "what day will it be sunny"}
+{"label": "set", "sentence": "Please set repeating reminder for my friends birthday on April 5."}
+{"label": "set", "sentence": "Open Clock"}
+{"label": "query", "sentence": "Tell me current time at Newyork"}
+{"label": "set", "sentence": "Set alarm of every Tuesday of march month morning 8 a. m."}
+{"label": "query", "sentence": "Read me the latest international news."}
+{"label": "post", "sentence": "Olly, please tweet a complaint about a store i visit"}
+{"label": "query", "sentence": "Is there anything on my calendar on Friday in the morning after I get to work?"}
+{"label": "set", "sentence": "PDA can you give me a 10 minute timer."}
+{"label": "query", "sentence": "What time does the train departs Lagos?"}
+{"label": "factoid", "sentence": "what is the make up of the chair"}
+{"label": "factoid", "sentence": "Can many seashells did Sally sell by the seashore?"}
+{"label": "query", "sentence": "what is the current time in chennai"}
+{"label": "likeness", "sentence": "My favourite music band is Queen"}
+{"label": "remove", "sentence": "Remove today's meeting at evening"}
+{"label": "query", "sentence": "show latest news"}
+{"label": "query", "sentence": "Did I get any new emails today from Claire?"}
+{"label": "dontcare", "sentence": "would not really care, olly."}
+{"label": "set", "sentence": "Open the calendar and create a new event"}
+{"label": "query", "sentence": "what is the fastest way to get to starbucks"}
+{"label": "query", "sentence": "What's coming up this week?"}
+{"label": "set", "sentence": "alexa make an event reminder for a meeting with mona on tuesday"}
+{"label": "locations", "sentence": "Show me what shops are around me."}
+{"label": "set", "sentence": "Remind me every tuesday to go to the dry cleaners."}
+{"label": "query", "sentence": "What happened with it?"}
+{"label": "query", "sentence": "what does source have to say about topic"}
+{"label": "query", "sentence": "Olly, what's the weather right now?"}
+{"label": "remove", "sentence": "Remove dog food from my grocery list."}
+{"label": "post", "sentence": "Olly, please tweet at bestbuy that I am not happy with their service today."}
+{"label": "query", "sentence": "I need to know the name of that song."}
+{"label": "podcasts", "sentence": "Any new podcasts available yet?"}
+{"label": "query", "sentence": "Show me my events for the month"}
+{"label": "query", "sentence": "Map out a route from here to Abita Brew Pub"}
+{"label": "remove", "sentence": "clear haircut today"}
+{"label": "remove", "sentence": "Delete the shopping trip I have scheduled March 23rd"}
+{"label": "query", "sentence": "Please tell me the pending reminders."}
+{"label": "query", "sentence": "What is the time difference between here and <insert city>"}
+{"label": "quirky", "sentence": "Do you think i should go to the theater today?"}
+{"label": "query", "sentence": "Can i pick up my large order at pizza hut?"}
+{"label": "remove", "sentence": "Remove the excel file from the list"}
+{"label": "set", "sentence": "Place a birthday party with Alex and Amy in my calender."}
+{"label": "currency", "sentence": "What is the most current exchange rate in China"}
+{"label": "query", "sentence": "Will 'punjab mail' reach on time in gwalior?"}
+{"label": "factoid", "sentence": "How tall is Micheal Jackson?"}
+{"label": "set", "sentence": "DAY AFTE DAY TOMAROW WILL CONDUCT ALL MEETINGS"}
+{"label": "factoid", "sentence": "Calculate distance from Boston to New York"}
+{"label": "query", "sentence": "Find new Trump articles but not from Fox News."}
+{"label": "query", "sentence": "does dominos has a delivery option."}
+{"label": "query", "sentence": "world news"}
+{"label": "query", "sentence": "PDA is it snowing?"}
+{"label": "query", "sentence": "Current weather"}
+{"label": "quirky", "sentence": "tell me about today"}
+{"label": "currency", "sentence": "What is the dollar against the pound?"}
+{"label": "post", "sentence": "Open Twitter send This is my complaint @Microsoft"}
+{"label": "factoid", "sentence": "what is the capital of france"}
+{"label": "locations", "sentence": "Where do people shop for clothes here?"}
+{"label": "query", "sentence": "Can you give me the latest sports news"}
+{"label": "set", "sentence": "Can you enter an event to my calendar?"}
+{"label": "quirky", "sentence": "can you tell me about animal kingdom in amazon forest"}
+{"label": "post", "sentence": "Complain to the DMV office about the excessively long line."}
+{"label": "set", "sentence": "will you set alarm clock one day before for all gym class on my calendar"}
+{"label": "locations", "sentence": "Can you tell me the cheapest place to get ground beef?"}
+{"label": "factoid", "sentence": "How many Oscars has won Meryl Streep?"}
+{"label": "query", "sentence": "Give me details of my twitter handle profile including the total number of followers."}
+{"label": "quirky", "sentence": "WHAT WILL HAPPEN  TO EARTH BASED ON CLIMATIC CHANGE?"}
+{"label": "query", "sentence": "PDA pull up all emails sent to me from Amazon"}
+{"label": "query", "sentence": "Checkout today set alarm of 10 a.m."}
+{"label": "query", "sentence": "Tell me the status of my inbox"}
+{"label": "podcasts", "sentence": "aib podcast on kashmir,start it."}
+{"label": "query", "sentence": "Find me the top news of the day"}
+{"label": "remove", "sentence": "clear my calendar of all events"}
+{"label": "factoid", "sentence": "Tell me about..."}
+{"label": "query", "sentence": "Yo PDA, what's the current time"}
+{"label": "set", "sentence": "Set up a reoccurring grocery store trip for every Sunday"}
+{"label": "query", "sentence": "give me directions to the nearest mcdonald's"}
+{"label": "query", "sentence": "Do you have any updates on blank?"}
+{"label": "post", "sentence": "tweet consumer service"}
+{"label": "quirky", "sentence": "Ok Google, what do you think of Trump"}
+{"label": "set", "sentence": "remind me in time to do thing"}
+{"label": "podcasts", "sentence": "Show me the best podcast of rock songs having good rating."}
+{"label": "convert", "sentence": "What is the time 9 AM CST in EST"}
+{"label": "query", "sentence": "unread emails"}
+{"label": "factoid", "sentence": "When was Einstein's birthday?"}
+{"label": "query", "sentence": "12.30pm already, you will have a meeting in 10 mins"}
+{"label": "query", "sentence": "the newest samsung phone"}
+{"label": "post", "sentence": "Ok Google, tweet the service at Moe's Diner is terrible"}
+{"label": "factoid", "sentence": "Tell me the next showtime for the new Marvel movie"}
+{"label": "quirky", "sentence": "Would you own a dog if you were able to?"}
+{"label": "query", "sentence": "Has Mike sent me an email"}
+{"label": "likeness", "sentence": "Download and save song of Dangal Movie"}
+{"label": "query", "sentence": "What day of the week is the 23rd of this month?"}
+{"label": "query", "sentence": "Call Pizza Hut and find out if my order is ready."}
+{"label": "currency", "sentence": "What is the US dollar and Euro exchange rate."}
+{"label": "locations", "sentence": "find the exact location of the places"}
+{"label": "quirky", "sentence": "Good morning! Isn't it a great day?"}
+{"label": "query", "sentence": "give me the schedule for today's events"}
+{"label": "remove", "sentence": "Olly, remove all of my alarms."}
+{"label": "remove", "sentence": "take birthday party off of calendar for May"}
+{"label": "query", "sentence": "Do I have any new e-mails?"}
+{"label": "query", "sentence": "what's the temperature today?"}
+{"label": "query", "sentence": "Do you think it would rain today?"}
+{"label": "set", "sentence": "Remind me at 6 about the meeting at 7"}
+{"label": "quirky", "sentence": "A fresh day"}
+{"label": "query", "sentence": "how wet is going to be this morning?"}
+{"label": "hue_lightup", "sentence": "a little brighter thanks"}
+{"label": "query", "sentence": "what will the weather be like on date?"}
+{"label": "query", "sentence": "PDA, what's the weather forecast for today?"}
+{"label": "set", "sentence": "remind me for tomorrow meeting"}
+{"label": "query", "sentence": "should i take a coat to birmingham this evening"}
+{"label": "query", "sentence": "What's my next alarm?"}
+{"label": "locations", "sentence": "where is the nearest pub in the city?"}
+{"label": "quirky", "sentence": "Can we talk about wild orgies?"}
+{"label": "quirky", "sentence": "Recent advice concerning Google SEO"}
+{"label": "query", "sentence": "What music genre do I play most?"}
+{"label": "query", "sentence": "What are lady gagas most popular songs"}
+{"label": "query", "sentence": "is dinner ready yet?"}
+{"label": "query", "sentence": "What happened last week?"}
+{"label": "query", "sentence": "How is the weather today?"}
+{"label": "query", "sentence": "Give directions to Pizza hut."}
+{"label": "quirky", "sentence": "I need to have location services on, can you check?"}
+{"label": "set", "sentence": "Olly, remind me about my next meeting, a few hours ahead of time."}
+{"label": "query", "sentence": "What alarm time had you set?"}
+{"label": "remove", "sentence": "Unlist the meeting on 4th October, 12 pm"}
+{"label": "podcasts", "sentence": "I want to listen to the podcast of the Super bowl this past year."}
+{"label": "quirky", "sentence": "do i need to spare washing my car today?"}
+{"label": "likeness", "sentence": "What do you think?"}
+{"label": "quirky", "sentence": "What features are you going to add in the future?"}
+{"label": "dontcare", "sentence": "anything will be fine with me."}
+{"label": "query", "sentence": "What is the latest news from BBC?"}
+{"label": "factoid", "sentence": "Where is the worlds highest falls?"}
+{"label": "convert", "sentence": "It is 5:45 am in Liverpool, what time is now New York?"}
+{"label": "quirky", "sentence": "Friend updates."}
+{"label": "query", "sentence": "Today is 5th Mar?"}
+{"label": "query", "sentence": "What is the time in Zimbabwe right now"}
+{"label": "remove", "sentence": "Delete the meeting tomorrow."}
+{"label": "query", "sentence": "Check all the new them wmails and mark them star"}
+{"label": "set", "sentence": "Will you put in my calendar that John C. and his wife are meeting with us at four p.m. tomorrow?"}
+{"label": "query", "sentence": "Show me a list of places where my relatives have been based on their photos"}
+{"label": "set", "sentence": "Set a reminder for gymnastics every Wednesday at 3."}
+{"label": "query", "sentence": "is there an appointment at 5pm?"}
+{"label": "set", "sentence": "put alarm at 5 AM"}
+{"label": "query", "sentence": "Let me know what's accumulated in my inbox since 3pm."}
+{"label": "set", "sentence": "PDA can you schedule me for a hair cut on April 1st in Saskatoon."}
+{"label": "likeness", "sentence": "I LIKE A SONG SING BY ARIJIT SINGH."}
+{"label": "query", "sentence": "on my calendar are there any birthdays"}
+{"label": "query", "sentence": "what are the train times to london bridge."}
+{"label": "quirky", "sentence": "Tell me more about John Smith."}
+{"label": "query", "sentence": "Tell me about the latest sports news"}
+{"label": "set", "sentence": "Schedule brunch at 10 am today and invite Tiffany and Jessica please."}
+{"label": "query", "sentence": "When does the hockey Game start on Friday"}
+{"label": "set", "sentence": "Set 12 noon prayer for every friday"}
+{"label": "query", "sentence": "What song do I listen to the most?"}
+{"label": "query", "sentence": "Give me tomorrow's weather update"}
+{"label": "set", "sentence": "PDA remind me about my biology test at FSU on friday,"}
+{"label": "query", "sentence": "when is the kiss concert?"}
+{"label": "query", "sentence": "Will it be a sticky night?"}
+{"label": "query", "sentence": "What is the temperature?"}
+{"label": "quirky", "sentence": "PDA are you real"}
+{"label": "remove", "sentence": "Delete that from my calendar"}
+{"label": "query", "sentence": "05.02.17"}
+{"label": "query", "sentence": "Tell me if I should use the train or bus to get across town today?"}
+{"label": "query", "sentence": "Delivery from dominos."}
+{"label": "query", "sentence": "I'd like a listing of all train ticket prices for this location please?"}
+{"label": "query", "sentence": "Uae time"}
+{"label": "set", "sentence": "Remind me to call my grandma this Sunday"}
+{"label": "hue_lightup", "sentence": "Make the ceiling lights brighter."}
+{"label": "currency", "sentence": "EXCHANGES RATES ANY PROBLEMS"}
+{"label": "factoid", "sentence": "area of north america"}
+{"label": "query", "sentence": "Read me the top Google headlines."}
+{"label": "query", "sentence": "Current time please."}
+{"label": "query", "sentence": "Train times at Gary Station going toward Fort Wayne today"}
+{"label": "query", "sentence": "What items are on my shopping list?"}
+{"label": "quirky", "sentence": "Trivia"}
+{"label": "query", "sentence": "Olly will it be nice on Saturday?"}
+{"label": "factoid", "sentence": "Can you tell me about wayne gretszky"}
+{"label": "set", "sentence": "Let me know when the meeting is gonna happen."}
+{"label": "remove", "sentence": "away off from list"}
+{"label": "set", "sentence": "can you add this event with karl?"}
+{"label": "hue_lighton", "sentence": "Clap on!"}
+{"label": "order", "sentence": "i want to order som pizza"}
+{"label": "query", "sentence": "How long until my order arrives"}
+{"label": "podcasts", "sentence": "Play a podcast about latest yoga videos"}
+{"label": "query", "sentence": "I emailed Conrad a week ago plesase remind me what I wrote"}
+{"label": "post", "sentence": "Tweet @companyname that I did not receive my order on time"}
+{"label": "query", "sentence": "Can you show me all of the emails from my favorites list?"}
+{"label": "query", "sentence": "When is my next appointment?"}
+{"label": "query", "sentence": "do i have an appointment next week"}
+{"label": "query", "sentence": "Please tell me what's on my todo list for today."}
+{"label": "query", "sentence": "list the items on my shopping list olly"}
+{"label": "remove", "sentence": "Please delete the list"}
+{"label": "set", "sentence": "notify me about all meetings tomorrow"}
+{"label": "post", "sentence": "Send a tweet to TMobile for rude employees."}
+{"label": "quirky", "sentence": "PDA, Do all my chores so I can take a nap."}
+{"label": "dontcare", "sentence": "do not bother."}
+{"label": "query", "sentence": "where is the event today?"}
+{"label": "set", "sentence": "Remind me to 'something' in 'sometime'"}
+{"label": "set", "sentence": "Add on my calendar for today, Joe Smith, at 1 pm"}
+{"label": "query", "sentence": "Is it too hot for pants"}
+{"label": "query", "sentence": "what is happening now in world"}
+{"label": "dontcare", "sentence": "it doesn't matter for me."}
+{"label": "hue_lightup", "sentence": "More lights please"}
+{"label": "set", "sentence": "Add to calendar an office meeting for the next three days"}
+{"label": "post", "sentence": "tweet with consumer service about problem I am facing with the product"}
+{"label": "dontcare", "sentence": "this doesn't matter, olly."}
+{"label": "quirky", "sentence": "How do I buy tickets for that?"}
+{"label": "remove", "sentence": "Delete all my meetings"}
+{"label": "query", "sentence": "What is the chance of thunderstorms today in Biloxi"}
+{"label": "query", "sentence": "Is there anything new in my mailbox?"}
+{"label": "factoid", "sentence": "What is the population of Los Angeles?"}
+{"label": "query", "sentence": "Please see if Chili's has delivery."}
+{"label": "remove", "sentence": "Remove frida from contacts"}
+{"label": "query", "sentence": "What times do the trains run between here and the Met?"}
+{"label": "post", "sentence": "Mixed or fake products in market"}
+{"label": "query", "sentence": "Is it rainy in my area?"}
+{"label": "set", "sentence": "blot me the dentist appointment on Tuesday 21 March 2017"}
+{"label": "dontcare", "sentence": "wouldn't really care."}
+{"label": "podcasts", "sentence": "Go to beginning of previous episode"}
+{"label": "quirky", "sentence": "PDA I got a raise today"}
+{"label": "query", "sentence": "Let me know if I get a new personal message from Martha on Facebook today"}
+{"label": "set", "sentence": "4PM"}
+{"label": "query", "sentence": "whats going on with trump"}
+{"label": "query", "sentence": "Could you please tell me whats in my schedule at 8 tonight?"}
+{"label": "query", "sentence": "Tell me about UMF"}
+{"label": "factoid", "sentence": "How old is Zac Galifrankas?"}
+{"label": "quirky", "sentence": "What am I doing this week?"}
+{"label": "factoid", "sentence": "Look up information on Mount Rushmore"}
+{"label": "factoid", "sentence": "What is the name of Britain's prime minister?"}
+{"label": "set", "sentence": "Don't let me forget Rover's vet appointment on the 25th."}
+{"label": "post", "sentence": "Please say the following on Facebook:"}
+{"label": "post", "sentence": "Send tweet to Wallmart"}
+{"label": "query", "sentence": "Is it a yes or a no that tomorrows temperature will be hot."}
+{"label": "query", "sentence": "Please show me detail of prvious played song."}
+{"label": "query", "sentence": "How many degrees is it in Orange, Tx right now?"}
+{"label": "query", "sentence": "What do I need to pick up at the grocery store?"}
+{"label": "dontcare", "sentence": "any one is good for me."}
+{"label": "podcasts", "sentence": "I want to see the next Podcast available."}
+{"label": "quirky", "sentence": "Why is it snowing so much in my city?"}
+{"label": "query", "sentence": "what did <unk> today"}
+{"label": "factoid", "sentence": "How much does Elton John pay for his suits?"}
+{"label": "likeness", "sentence": "Save this post about the song that I just listened too."}
+{"label": "query", "sentence": "What is the probability of rain today night"}
+{"label": "query", "sentence": "What are the things I need for my journey?"}
+{"label": "query", "sentence": "How can I go to Rome by train on Wednesday next week?"}
+{"label": "query", "sentence": "what time does the train arrive at______"}
+{"label": "query", "sentence": "Is there a meeting on my calendar this afternoon?"}
+{"label": "dontcare", "sentence": "this doesn't really matter."}
+{"label": "query", "sentence": "train times for tomorrow"}
+{"label": "quirky", "sentence": "PDA tell me how to stretch before running."}
+{"label": "set", "sentence": "I want my PDA to find free movies online for me"}
+{"label": "query", "sentence": "tell me what is currently trending"}
+{"label": "currency", "sentence": "How many euro make $1000?"}
+{"label": "factoid", "sentence": "why isnt adam sandler funny PDA?"}
+{"label": "remove", "sentence": "Can you delete the next event?"}
+{"label": "post", "sentence": "Ask Amazon.com customer service when I can expect my refund using twitter"}
+{"label": "query", "sentence": "How to get to Cracow before noon by train"}
+{"label": "query", "sentence": "give me a news paper"}
+{"label": "dontcare", "sentence": "have no idea, olly."}
+{"label": "query", "sentence": "Can you tell me my weekly list?"}
+{"label": "factoid", "sentence": "list albums of rihana"}
+{"label": "quirky", "sentence": "alexa whats i like being a tool for the nsa"}
+{"label": "factoid", "sentence": "What is the largest active volcano on earth?"}
+{"label": "locations", "sentence": "Tell me what clothing stores are within 5 miles of me."}
+{"label": "query", "sentence": "let me know about the news of india-pakistan match."}
+{"label": "query", "sentence": "When  is my lunch break?"}
+{"label": "post", "sentence": "Bring up Twitter to Target Customer Service."}
+{"label": "query", "sentence": "Can I get takeaway from Pings?"}
+{"label": "post", "sentence": "Tweet @Wendys that I don't like their product"}
+{"label": "dontcare", "sentence": "whatever, olly."}
+{"label": "factoid", "sentence": "How far is California from Georgia"}
+{"label": "likeness", "sentence": "Give five stars to this song!"}
+{"label": "set", "sentence": "Remind me at 2 pm Tuesday for the 3 pm meeting with the boss."}
+{"label": "query", "sentence": "tell me about the meeting i have this week"}
+{"label": "query", "sentence": "Are there any MMA events coming to Golden 1 Center?"}
+{"label": "query", "sentence": "Update Outlook mailbox"}
+{"label": "query", "sentence": "Give me the winning numbers to the powerball lottery."}
+{"label": "locations", "sentence": "Where is the pharmacy in Leavenworth?"}
+{"label": "dontcare", "sentence": "have no idea for what to do."}
+{"label": "factoid", "sentence": "When was Benjamin Franklin born?"}
+{"label": "currency", "sentence": "What is the exchange rate of currency in UK"}
+{"label": "set", "sentence": "Wake me up at 5 Am every morning"}
+{"label": "order", "sentence": "Order the usual from Turiellos Pizza"}
+{"label": "podcasts", "sentence": "resume series podcast"}
+{"label": "set", "sentence": "I would like to attend church every Sunday at 11am."}
+{"label": "factoid", "sentence": "what is the height of monali thakur"}
+{"label": "factoid", "sentence": "where is the prime meridian"}
+{"label": "query", "sentence": "What's the time of day right now?"}
+{"label": "query", "sentence": "do i need umbrella now"}
+{"label": "set", "sentence": "on 23rd feb rahul will come with me on india cricket match."}
+{"label": "query", "sentence": "Echo was my afernoon meeting cancelled?"}
+{"label": "query", "sentence": "Please check my mail"}
+{"label": "factoid", "sentence": "Ok Google, where is the hottest place on earth"}
+{"label": "query", "sentence": "What reminders are coming up this week?"}
+{"label": "query", "sentence": "What is the first Metro to DC?"}
+{"label": "query", "sentence": "Is today when my paper is due?"}
+{"label": "set", "sentence": "will set alarm clock one hour before my next dentist appointment?"}
+{"label": "set", "sentence": "PDA book my next free day in the calender for me to get a haircut at Sally's."}
+{"label": "query", "sentence": "please read me my alarms"}
+{"label": "query", "sentence": "Check my new emails"}
+{"label": "query", "sentence": "When is my food going to be here?"}
+{"label": "set", "sentence": "Set alarm for Saturday morning soccer practice at 8 AM"}
+{"label": "query", "sentence": "What is time now in California."}
+{"label": "query", "sentence": "Show me timetables for trains going from Prague to Brno"}
+{"label": "currency", "sentence": "What is the exchange rate between the USA and China's currency."}
+{"label": "set", "sentence": "Do I have any available time for a doctor's appointment on Tuesday morning?"}
+{"label": "quirky", "sentence": "Ok, next what?"}
+{"label": "dontcare", "sentence": "do not really mind for any one."}
+{"label": "query", "sentence": "Has Mary responded to me email yet?"}
+{"label": "query", "sentence": "Tell me about scheduled events"}
+{"label": "query", "sentence": "Show me future events"}
+{"label": "set", "sentence": "alarm set"}
+{"label": "remove", "sentence": "Cancel everything on my calendar"}
+{"label": "query", "sentence": "how many muhurtham in this month?"}
+{"label": "query", "sentence": "when my takeaway order will arrive?"}
+{"label": "dontcare", "sentence": "wouldn't mind to choose any one."}
+{"label": "factoid", "sentence": "show bio of rihana"}
+{"label": "query", "sentence": "events happening between 8am and 5pm today"}
+{"label": "query", "sentence": "Will I need my snow boots this afternoon?"}
+{"label": "quirky", "sentence": "I am bored"}
+{"label": "volume_other", "sentence": "Need to see volume settings"}
+{"label": "set", "sentence": "please set the alarm for next morning to 7 am"}
+{"label": "factoid", "sentence": "What is the capital of Oregon?"}
+{"label": "factoid", "sentence": "which pole is colder, south or north?"}
+{"label": "set", "sentence": "PDA remind me on the 25th I have to go to Chad's birthday party."}
+{"label": "quirky", "sentence": "how is michael schumacher doing?"}
+{"label": "query", "sentence": "Is my wake-up alarm set a 6 am?"}
+{"label": "query", "sentence": "what time will my alarm wake me up"}
+{"label": "post", "sentence": "complaint tweet to Microsoft."}
+{"label": "currency", "sentence": "What is the exchange rate between U.S. and Mexico?"}
+{"label": "query", "sentence": "What time I am waking up tomorrow?"}
+{"label": "query", "sentence": "Did I have any plans later on tonight at 8pm?"}
+{"label": "query", "sentence": "Read upcoming event's"}
+{"label": "post", "sentence": "PDA name put this on my facebook"}
+{"label": "query", "sentence": "tell me about any new emails from my boss"}
+{"label": "query", "sentence": "What is the forecast for today?"}
+{"label": "quirky", "sentence": "What happened to Fergie"}
+{"label": "query", "sentence": "Headline news for Texas"}
+{"label": "quirky", "sentence": "Breeds of dog that are most hypoallergenic"}
+{"label": "query", "sentence": "Do I have anything scheduled today between 3 and 4pm?"}
+{"label": "query", "sentence": "Is there any news articles on the fire at Pigeon Forge?"}
+{"label": "likeness", "sentence": "record the opinion of each individual about this song."}
+{"label": "query", "sentence": "is it anyones birthday"}
+{"label": "set", "sentence": "please remind me of going to gym every Monday morning on Sunday night"}
+{"label": "factoid", "sentence": "Show me the big bang theory?"}
+{"label": "set", "sentence": "Create an alarm at 4 o'clock tomorrow morning."}
+{"label": "quirky", "sentence": "HOW THE PEOPLE ARE SUFFERING HOW YOU WOULD HELP"}
+{"label": "factoid", "sentence": "At what age did Brad Pitt marry Angelina Joli?"}
+{"label": "likeness", "sentence": "Save this song to playlist"}
+{"label": "quirky", "sentence": "forex rates"}
+{"label": "query", "sentence": "Is my golf game going to get rained out?"}
+{"label": "query", "sentence": "What are the latest news headlines?"}
+{"label": "query", "sentence": "Anything happening today?"}
+{"label": "remove", "sentence": "Remove tonights dinner with Shelly."}
+{"label": "query", "sentence": "Will I need an umbrella for today?"}
+{"label": "convert", "sentence": "What's the time difference between here and queensland?"}
+{"label": "query", "sentence": "what's my next events"}
+{"label": "query", "sentence": "Do I have an alarm set for morning flight?"}
+{"label": "query", "sentence": "show future events"}
+{"label": "query", "sentence": "How is the weather down in Orange, Tx?"}
+{"label": "query", "sentence": "Am I free this Saturday?"}
+{"label": "query", "sentence": "give me all my recent emails"}
+{"label": "set", "sentence": "Set alarm tomorrow at 6 am."}
+{"label": "remove", "sentence": "Cancel all my appointments after 3 p.m today and inform me the details."}
+{"label": "query", "sentence": "What kind of weather are they having in Orange, Tx right now?"}
+{"label": "quirky", "sentence": "wake up olly"}
+{"label": "query", "sentence": "which alarms do I have"}
+{"label": "quirky", "sentence": "HOW HE WORKS PERFERCTLY"}
+{"label": "set", "sentence": "Could you repeat this event?"}
+{"label": "remove", "sentence": "Please clear my calendar for tomorrow."}
+{"label": "currency", "sentence": "what is <unk> u. s. d. in euros"}
+{"label": "hue_lightup", "sentence": "Brighten living room lights"}
+{"label": "dontcare", "sentence": "don't bother."}
+{"label": "query", "sentence": "Say the list."}
+{"label": "remove", "sentence": "wipe calendar clean"}
+{"label": "query", "sentence": "Cortana, open MSNBC news."}
+{"label": "query", "sentence": "What's the latest news on Donald Trump?"}
+{"label": "query", "sentence": "Are there any new videos on the youtube for New York Times?"}
+{"label": "remove", "sentence": "pls turn off the alarm"}
+{"label": "currency", "sentence": "Ok Google, is the dollar stronger than the pound?"}
+{"label": "query", "sentence": "Where is the venue in which the marriage of Tom is going to takeplace"}
+{"label": "order", "sentence": "Please, order some sushi for dinner"}
+{"label": "set", "sentence": "shedule a reminder one hour before the meeting"}
+{"label": "query", "sentence": "Olly, find out if KFC delivers, please."}
+{"label": "query", "sentence": "I want to know if I have any emails with the subject line budget from Eddie Richards."}
+{"label": "quirky", "sentence": "Where are rthe best co-working spots in the neighborhood?"}
+{"label": "remove", "sentence": "For the week of the 20th delete all tutoring events."}
+{"label": "query", "sentence": "What's the date is currently?"}
+{"label": "query", "sentence": "What is the time in Alaska?"}
+{"label": "set", "sentence": "repetitive event added to calendar"}
+{"label": "remove", "sentence": "delete meeting"}
+{"label": "currency", "sentence": "exchange euro to dollar"}
+{"label": "query", "sentence": "Olly, what is the newest news right now?"}
+{"label": "factoid", "sentence": "Give me a geographic fact about..."}
+{"label": "query", "sentence": "Show newest emails."}
+{"label": "set", "sentence": "Google set my alarm to go off in an hour."}
+{"label": "dontcare", "sentence": "i have no idea regarding to what to select."}
+{"label": "query", "sentence": "when is annas birthday remainder set"}
+{"label": "query", "sentence": "Will it rain tomorrow?"}
+{"label": "dontcare", "sentence": "have no idea for what to choose."}
+{"label": "query", "sentence": "when the birthday will be"}
+{"label": "query", "sentence": "How are things looking for the meeting with John?"}
+{"label": "quirky", "sentence": "What is current economy of country"}
+{"label": "query", "sentence": "Who is going to win the next elections in the France?"}
+{"label": "factoid", "sentence": "How many countries are in Europe?"}
+{"label": "set", "sentence": "Set notification for meeting with boss."}
+{"label": "query", "sentence": "Any special events on my list?"}
+{"label": "remove", "sentence": "Remove my alarm for tomorrow morning"}
+{"label": "query", "sentence": "Tell me latest updates of new york"}
+{"label": "podcasts", "sentence": "skip to next"}
+{"label": "order", "sentence": "Hi, I want to order fried chick with white sauce"}
+{"label": "query", "sentence": "Set notification for 6 o clock news update"}
+{"label": "dontcare", "sentence": "don't really mind for any one."}
+{"label": "dontcare", "sentence": "i wouldn't really bother, olly."}
+{"label": "currency", "sentence": "How many Philippine pesos to a dollar?"}
+{"label": "query", "sentence": "What's my upcoming week look like?"}
+{"label": "order", "sentence": "Can you please order some food for me?"}
+{"label": "query", "sentence": "Olly, read back my grocery list to me."}
+{"label": "remove", "sentence": "Do not wake me up tomorrow."}
+{"label": "query", "sentence": "Can you brief about the next scheduled events?"}
+{"label": "quirky", "sentence": "Painting"}
+{"label": "query", "sentence": "whats up with my takeaway"}
+{"label": "quirky", "sentence": "Hey, I want to know about your inception"}
+{"label": "query", "sentence": "July 3 calender"}
+{"label": "dontcare", "sentence": "anything is ok to me, olly."}
+{"label": "remove", "sentence": "Remove Etres Tes Mains by Artifice Palace from my Spotify Playlist CHUNE."}
+{"label": "quirky", "sentence": "Olly how's it hangin."}
+{"label": "query", "sentence": "The email of office staff must be checked"}
+{"label": "remove", "sentence": "Change my calendar for today"}
+{"label": "locations", "sentence": "Olly, what is the best Mexican restaurant in Seattle?"}
+{"label": "post", "sentence": "I need to submit a complaint."}
+{"label": "currency", "sentence": "exchange rate I will get with foreign currency"}
+{"label": "query", "sentence": "What are my tasks?"}
+{"label": "set", "sentence": "Add a reminder to April fourth to go to the dentist."}
+{"label": "query", "sentence": "Olly what music do I usually like after work ?"}
+{"label": "set", "sentence": "Set my alarm for 6am"}
+{"label": "query", "sentence": "Who is this artist?"}
+{"label": "locations", "sentence": "what train companies are near me"}
+{"label": "query", "sentence": "open the XYZ news app"}
+{"label": "query", "sentence": "What is the time in Canada now ?"}
+{"label": "query", "sentence": "what is the emai i got from my girlfriend."}
+{"label": "set", "sentence": "please set an alarm for tomorrows meeting at 7:00 a.m."}
+{"label": "query", "sentence": "What news updates are there from news express"}
+{"label": "remove", "sentence": "Delete my todo list."}
+{"label": "query", "sentence": "Search for emails from my boss, Michael"}
+{"label": "post", "sentence": "Tweet my complaint on targets customer service"}
+{"label": "query", "sentence": "What is the weather forecast for Chicago?"}
+{"label": "query", "sentence": "Where in DC is that meeting at 1PM on Friday?"}
+{"label": "query", "sentence": "display latest emails, Olly"}
+{"label": "remove", "sentence": "delete my upcoming calendar event"}
+{"label": "set", "sentence": "give me a reminder notification on tomorrow's meeting at 10:00AM"}
+{"label": "set", "sentence": "set a weekly meeting for friday 9am"}
+{"label": "query", "sentence": "Read available lists."}
+{"label": "query", "sentence": "current news"}
+{"label": "query", "sentence": "Please show me weather on 27/03/2017"}
+{"label": "set", "sentence": "Add an event at 123 mainstream way for wednesday morning"}
+{"label": "remove", "sentence": "Could you please remove the set of alarms between 8 and 9?"}
+{"label": "podcasts", "sentence": "Focused on the topics which are important rather than diverting from the issues"}
+{"label": "query", "sentence": "Read to me the email of John Smith."}
+{"label": "query", "sentence": "Tell me when the Hockey Game tickets are for"}
+{"label": "factoid", "sentence": "What year did Elvis die?"}
+{"label": "query", "sentence": "Has John replied to my Facebook post?"}
+{"label": "query", "sentence": "IT IS VERY HOT TODAY, IS NOT IT ?"}
+{"label": "hue_lightup", "sentence": "increase light"}
+{"label": "query", "sentence": "song info"}
+{"label": "factoid", "sentence": "Tell me about Mount Rushmore"}
+{"label": "query", "sentence": "WIll I need an umbrella today?"}
+{"label": "query", "sentence": "Olly have i gotten any emails from mom lately?"}
+{"label": "quirky", "sentence": "Please Google search my name and see what the results say."}
+{"label": "factoid", "sentence": "Tell me about Jhon Abraham Lincon"}
+{"label": "factoid", "sentence": "when was the world war 2 tartes"}
+{"label": "dontcare", "sentence": "would not mind for any one, olly."}
+{"label": "query", "sentence": "Get the latest news about formula one racing please."}
+{"label": "factoid", "sentence": "longest river in the world"}
+{"label": "query", "sentence": "I occasionally pay attention"}
+{"label": "query", "sentence": "Keep me updated on what is happening in southeast Africa currently."}
+{"label": "query", "sentence": "Let me know new emails from John"}
+{"label": "volume_other", "sentence": "Give me the volume settings."}
+{"label": "set", "sentence": "please add my birthday"}
+{"label": "query", "sentence": "Give me the weather detail of 15th March"}
+{"label": "hue_lightup", "sentence": "turn up the light"}
+{"label": "factoid", "sentence": "Give me the home location of Tom Hanks."}
+{"label": "remove", "sentence": "Delete my next meeting"}
+{"label": "query", "sentence": "please let me know the time of train X"}
+{"label": "quirky", "sentence": "Has it been a busy day?"}
+{"label": "query", "sentence": "What are the details of (event)"}
+{"label": "set", "sentence": "Remind me of my sister's birthday party tomorrow an hour before it starts."}
+{"label": "podcasts", "sentence": "start the next episode in a podcast."}
+{"label": "query", "sentence": "Tell me the locations of my meetings for today."}
+{"label": "quirky", "sentence": "What are the specifications for the new iPhone?"}
+{"label": "query", "sentence": "Find the this week's news about emigration legislation in the U.S please."}
+{"label": "query", "sentence": "Whats the best way to france?"}
+{"label": "quirky", "sentence": "How many bucket fulls would it take to empty the dead sea?"}
+{"label": "set", "sentence": "Set a notification for 5th March that I have a doctor's appointment at 10 AM."}
+{"label": "factoid", "sentence": "Where does the Nile end?"}
+{"label": "currency", "sentence": "What is the exchange rate of US dollar today for rupee"}
+{"label": "query", "sentence": "give me date and time"}
+{"label": "query", "sentence": "What is my afternoon schedule tomorrow?"}
+{"label": "set", "sentence": "Set a meeting with Hongbin"}
+{"label": "factoid", "sentence": "Why was XXX famous for?"}
+{"label": "podcasts", "sentence": "Continue onto the next podcast"}
+{"label": "query", "sentence": "Read me the latest New York Times headlines"}
+{"label": "set", "sentence": "set an alarm for me for tomorrow"}
+{"label": "query", "sentence": "When is the next office meeting?"}
+{"label": "set", "sentence": "set new reminder to every day"}
+{"label": "query", "sentence": "Weather in Atlanta"}
+{"label": "query", "sentence": "Check for emails from my teacher"}
+{"label": "query", "sentence": "How many people are coming to tonight's dinner?"}
+{"label": "quirky", "sentence": "where I went today?"}
+{"label": "query", "sentence": "is the weather bad in new york right now"}
+{"label": "currency", "sentence": "How much Indian Rupees per USD today?"}
+{"label": "remove", "sentence": "remove chat with Allan"}
+{"label": "quirky", "sentence": "what are the gas prices near me?"}
+{"label": "set", "sentence": "remind me at location"}
+{"label": "locations", "sentence": "wine shop"}
+{"label": "set", "sentence": "add event"}
+{"label": "podcasts", "sentence": "Play me the latest podcast about online surveys."}
+{"label": "query", "sentence": "Should I wear a jacket today?"}
+{"label": "query", "sentence": "When will my food be ready?"}
+{"label": "set", "sentence": "Remind me to pay my bills at the start of every month"}
+{"label": "query", "sentence": "Plesae let me know the current time at New York"}
+{"label": "dontcare", "sentence": "wouldn't mind for anything."}
+{"label": "query", "sentence": "Can you find my lists?"}
+{"label": "query", "sentence": "tell me today's sports news headlines"}
+{"label": "order", "sentence": "Can you direct me to the menu for the highest-rated Chinese carryout near me?"}
+{"label": "quirky", "sentence": "show me reviews of Donald Trump"}
+{"label": "remove", "sentence": "Clear my next event"}
+{"label": "remove", "sentence": "Remove Cheese from my list."}
+{"label": "order", "sentence": "I want to order some takeout food"}
+{"label": "query", "sentence": "What is the day today?"}
+{"label": "likeness", "sentence": "record pb"}
+{"label": "likeness", "sentence": "I like music from when I was a teenager in the 80's."}
+{"label": "likeness", "sentence": "Save opinion"}
+{"label": "query", "sentence": "What is the weather like today?"}
+{"label": "remove", "sentence": "Delete next event from the calendar"}
+{"label": "query", "sentence": "PDA, do I have anything going on this Saturday between 2 and 4pm?"}
+{"label": "dontcare", "sentence": "it does not matter with me."}
+{"label": "query", "sentence": "I want to find emails from bob with the subject that contains the word meeting."}
+{"label": "query", "sentence": "Tell me about first week collection of Movie Hidden Figures and also tell about the reviews and rating of the movie."}
+{"label": "set", "sentence": "Notify me about birthdays of all my facebook friends."}
+{"label": "remove", "sentence": "Take away all events."}
+{"label": "query", "sentence": "What's on my list today?"}
+{"label": "query", "sentence": "What events do I have coming up in my calendar?"}
+{"label": "query", "sentence": "what is the news today?"}
+{"label": "query", "sentence": "Is Mary's birthday party tonight?"}
+{"label": "query", "sentence": "weather news"}
+{"label": "query", "sentence": "how hot will it be tomorrow PDA?"}
+{"label": "post", "sentence": "Post this video to Facebook."}
+{"label": "query", "sentence": "Am I booked for something?"}
+{"label": "factoid", "sentence": "Tell me what the geography is like in this region"}
+{"label": "set", "sentence": "Add event, book club, Debbie's house, Wednesday night"}
+{"label": "remove", "sentence": "Cancel my meeting for Friday"}
+{"label": "set", "sentence": "Set a reminder for the meeting Friday at 3 p.m."}
+{"label": "query", "sentence": "Tell me the date of inauguration of my friend Sams business"}
+{"label": "query", "sentence": "What day is Easter?"}
+{"label": "hue_lightup", "sentence": "Can you turn up the lights?"}
+{"label": "query", "sentence": "Can you read me my next reminders?"}
+{"label": "set", "sentence": "Set reminder for tomorrow at 2 pm."}
+{"label": "query", "sentence": "Tell me some braking news in new york"}
+{"label": "query", "sentence": "Time in New York"}
+{"label": "set", "sentence": "set my alarm for 7am"}
+{"label": "query", "sentence": "Was it windy yesterday?"}
+{"label": "remove", "sentence": "Cancel the list"}
+{"label": "query", "sentence": "Whats new in London"}
+{"label": "query", "sentence": "What lists do I have queried?"}
+{"label": "remove", "sentence": "Delete all of my appointments with Dr. Smith this week"}
+{"label": "podcasts", "sentence": "spot"}
+{"label": "set", "sentence": "Set calendar reminder for noon titled lunch meeting"}
+{"label": "query", "sentence": "What time will the soccer match be tonight?"}
+{"label": "factoid", "sentence": "How many species of bees are there in the United States?"}
+{"label": "hue_lightup", "sentence": "set lights to full power"}
+{"label": "set", "sentence": "Add event: Baseball practice, 5pm tonight"}
+{"label": "greet", "sentence": "what's up olly"}
+{"label": "quirky", "sentence": "Start a casual conversation"}
+{"label": "hue_lightup", "sentence": "Give me more light."}
+{"label": "set", "sentence": "TOMAROW WILL BE CONDUTING AN MEETTING IN REQUIERD MANER"}
+{"label": "query", "sentence": "PDA, do I have any emails from John in the last week?"}
+{"label": "query", "sentence": "list all train times to ny"}
+{"label": "post", "sentence": "It would be nice if you post status for me."}
+{"label": "remove", "sentence": "Remove x playlist"}
+{"label": "query", "sentence": "what's the latest about the Olympics"}
+{"label": "locations", "sentence": "show me some vegan restaurants close by"}
+{"label": "query", "sentence": "What is the forecast for the week"}
+{"label": "query", "sentence": "if it is raining i will not go for job"}
+{"label": "query", "sentence": "Present time in New York"}
+{"label": "query", "sentence": "what are the lists I have?"}
+{"label": "podcasts", "sentence": "play my country favorites playlist for me"}
+{"label": "query", "sentence": "How this song?"}
+{"label": "factoid", "sentence": "what is the distance between New York and Berlin?"}
+{"label": "set", "sentence": "schedule a chat with Adam on Thursday afternoon"}
+{"label": "query", "sentence": "Read me a news article about Jeff Sessions."}
+{"label": "set", "sentence": "Olly, notifiy me two hours before my meeting."}
+{"label": "query", "sentence": "What do I need to complete first from the list Olly?"}
+{"label": "post", "sentence": "tweet a complaint about my refrigerator to LG"}
+{"label": "query", "sentence": "What was the news for today from news provider"}
+{"label": "set", "sentence": "please set on 8th july there is music concert in white field"}
+{"label": "query", "sentence": "PDA, whats it like outside?"}
+{"label": "query", "sentence": "Is Mothers Day on a Sunday?"}
+{"label": "query", "sentence": "world/local news"}
+{"label": "quirky", "sentence": "why people like earthly enjoyment and forget about the ultimate joy with God?"}
+{"label": "query", "sentence": "Will the temperature stay about the same, or is it going to get colder?"}
+{"label": "podcasts", "sentence": "Does Allearsnet have a new podcast?"}
+{"label": "query", "sentence": "Olly, is there anything I should be reminded about?"}
+{"label": "set", "sentence": "please set a reminder for my 5pm meeting today"}
+{"label": "quirky", "sentence": "my day was fun"}
+{"label": "set", "sentence": "I have a meeting tomorrow at 5pm with the development team, don't forget to remind me an hour earlier."}
+{"label": "query", "sentence": "at 4pm how long will be the remaining travel time to the destination"}
+{"label": "query", "sentence": "Give me information about the concert on Tuesday night."}
+{"label": "set", "sentence": "schedule an alarm for next weeks dentist appointment"}
+{"label": "query", "sentence": "go to agha station"}
+{"label": "factoid", "sentence": "For what is famous Ellen Degeneres?"}
+{"label": "quirky", "sentence": "hey Olly, I happened to miss one of my important meetings today"}
+{"label": "query", "sentence": "please provide the detailed information about the next event"}
+{"label": "query", "sentence": "Google let me know when anything news about Trump."}
+{"label": "podcasts", "sentence": "I want to hear this podcast"}

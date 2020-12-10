@@ -1,0 +1,46 @@
+{"global_ix": 12691, "sentence": "unfortunately, my card is damaged and unusable", "label": "damaged_card"}
+{"global_ix": 20245, "sentence": "i want a table at texas roadhouse; how long will it be", "label": "how_busy"}
+{"global_ix": 1511, "sentence": "yes, you got it", "label": "yes"}
+{"global_ix": 9762, "sentence": "what's my total income", "label": "income"}
+{"global_ix": 19699, "sentence": "will i be charged if i use the card in paris", "label": "international_fees"}
+{"global_ix": 20260, "sentence": "what number of vacation days remain for me", "label": "pto_balance"}
+{"global_ix": 5574, "sentence": "eliminate", "label": "cancel"}
+{"global_ix": 19302, "sentence": "call an uber to take a group of 4 from this bar to the one on maple st", "label": "uber"}
+{"global_ix": 20675, "sentence": "please let me know if my discover card application has been approved", "label": "application_status"}
+{"global_ix": 20380, "sentence": "what do you need to make dandelion wine properly", "label": "ingredients_list"}
+{"global_ix": 3194, "sentence": "tell me the meaning of condemnation", "label": "definition"}
+{"global_ix": 22105, "sentence": "please speak faster", "label": "change_speed"}
+{"global_ix": 11045, "sentence": "how would i raise my credit spending by 2500 dollars", "label": "credit_limit_change"}
+{"global_ix": 6629, "sentence": "how to keep credit score high", "label": "improve_credit_score"}
+{"global_ix": 6166, "sentence": "i just changed jobs and need help with my 401k rollover", "label": "rollover_401k"}
+{"global_ix": 7092, "sentence": "tell me something interesting about bees", "label": "fun_fact"}
+{"global_ix": 11319, "sentence": "what plug type should i use in england", "label": "plug_type"}
+{"global_ix": 13202, "sentence": "can you give me a thai dinner suggestion", "label": "meal_suggestion"}
+{"global_ix": 4534, "sentence": "can you use a different accent", "label": "change_accent"}
+{"global_ix": 19070, "sentence": "when should i expect my flight to come in", "label": "flight_status"}
+{"global_ix": 18283, "sentence": "how do they say \"what's up\" in chinese", "label": "translate"}
+{"global_ix": 9544, "sentence": "create a new text", "label": "text"}
+{"global_ix": 2138, "sentence": "i need to know my credit card's rewards balance", "label": "rewards_balance"}
+{"global_ix": 22304, "sentence": "what benefits do i have for insurance", "label": "insurance"}
+{"global_ix": 541, "sentence": "hello, ai", "label": "greeting"}
+{"global_ix": 13198, "sentence": "tell me if you are a human or are a computer", "label": "are_you_a_bot"}
+{"global_ix": 13103, "sentence": "give me instructions to change my oil", "label": "oil_change_how"}
+{"global_ix": 17999, "sentence": "when for i meet jane for our meeting", "label": "meeting_schedule"}
+{"global_ix": 11492, "sentence": "what's the meeting room availability between noon and 2", "label": "schedule_meeting"}
+{"global_ix": 18252, "sentence": "please speak with the whisper voice", "label": "whisper_mode"}
+{"global_ix": 2698, "sentence": "give me a 10 minute timer", "label": "timer"}
+{"global_ix": 18168, "sentence": "do i need to obtain a travel visa to go on vacation to places in eastern europe", "label": "international_visa"}
+{"global_ix": 10982, "sentence": "can you tell me your hobbies", "label": "what_are_your_hobbies"}
+{"global_ix": 23689, "sentence": "can you find me a recipe for carrot cake", "label": "recipe"}
+{"global_ix": 19940, "sentence": "do i need to get any shots before visiting family in seattle", "label": "vaccines"}
+{"global_ix": 1422, "sentence": "what's the traffic like on the way to walmart", "label": "traffic"}
+{"global_ix": 244, "sentence": "what is the amount i owe to clay electric", "label": "bill_balance"}
+{"global_ix": 20874, "sentence": "please tell me what the next holiday is", "label": "next_holiday"}
+{"global_ix": 3074, "sentence": "tell me the routing number for bluebird", "label": "routing"}
+{"global_ix": 15659, "sentence": "tell me the fuel type used by my car", "label": "gas_type"}
+{"global_ix": 10342, "sentence": "what was the date of my last car appointment", "label": "last_maintenance"}
+{"global_ix": 1052, "sentence": "do i need replacement tires if my last purchase was in june 2015", "label": "tire_change"}
+{"global_ix": 20647, "sentence": "how long until you send me a replacement card", "label": "replacement_card_duration"}
+{"global_ix": 11598, "sentence": "how do i get the form to file my taxes from my employer", "label": "w2"}
+{"global_ix": 22872, "sentence": "what's a good place to travel to", "label": "travel_suggestion"}
+{"global_ix": 19528, "sentence": "disconnect from wifi immediately please", "label": "oos"}

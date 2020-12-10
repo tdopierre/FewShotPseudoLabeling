@@ -1,0 +1,17 @@
+{"label": "ticket", "sentence": "Can you book a train ticket?"}
+{"label": "currency", "sentence": "What is the exchange rates in this region"}
+{"label": "taxi", "sentence": "Book a taxi at my home address for right now"}
+{"label": "repeat", "sentence": "i need to hear your instruction you just said again."}
+{"label": "game", "sentence": "Play real racing 3 game"}
+{"label": "post", "sentence": "Send tweet to United Airlines I'm angry you lost my bags"}
+{"label": "recipe", "sentence": "how do i cook rise"}
+{"label": "audiobook", "sentence": "Start reading book."}
+{"label": "wemo_off", "sentence": "socket off"}
+{"label": "radio", "sentence": "FM 93.5 radio songs"}
+{"label": "factoid", "sentence": "Show me the demographic growth rate of Switzerland in the last ten years"}
+{"label": "dislikeness", "sentence": "skip this song"}
+{"label": "hue_lightchange", "sentence": "Replace the current light colours in the house with dark ones."}
+{"label": "quirky", "sentence": "wooo!"}
+{"label": "podcasts", "sentence": "forward episode of NYT podcast"}
+{"label": "joke", "sentence": "i want to hear a funny joke"}
+{"label": "dontcare", "sentence": "that is unimportant for me, olly."}

@@ -1,0 +1,85 @@
+{"label": "set", "sentence": "Change my alarms to Mountain time"}
+{"label": "events", "sentence": "what events are coming up"}
+{"label": "podcasts", "sentence": "Play the next episode of Radiolab."}
+{"label": "query", "sentence": "What is the number of food items on the list."}
+{"label": "coffee", "sentence": "I'd like a coffee now"}
+{"label": "podcasts", "sentence": "I want to see the next Podcast available."}
+{"label": "stock", "sentence": "How much is FB worth?"}
+{"label": "addcontact", "sentence": "Add Lowes hardware to my contact emails located in cleveland ohio"}
+{"label": "set", "sentence": "Set wake-up Thursday 7 am."}
+{"label": "dislikeness", "sentence": "I don't like it"}
+{"label": "dontcare", "sentence": "really i would not mind."}
+{"label": "maths", "sentence": "What does two plus two equal?"}
+{"label": "maths", "sentence": "what is the square root of 97"}
+{"label": "sendemail", "sentence": "Send email to mom saying Happy birthday"}
+{"label": "negate", "sentence": "i am sorry but i think you are wrong."}
+{"label": "events", "sentence": "Where is the food festival tonight"}
+{"label": "wemo_off", "sentence": "Will you please turn off the smart plug"}
+{"label": "negate", "sentence": "you've done task all wrong."}
+{"label": "wemo_off", "sentence": "Turn off the rice cooker socket"}
+{"label": "volume_mute", "sentence": "Don't respond for 50 seconds"}
+{"label": "stock", "sentence": "I want some stock on nintendo"}
+{"label": "addcontact", "sentence": "Add jpearsonjessica@gmail.com to email contacts"}
+{"label": "likeness", "sentence": "Great song for the commute"}
+{"label": "likeness", "sentence": "opinion pb"}
+{"label": "query", "sentence": "Are there any new emails in outlook?"}
+{"label": "sendemail", "sentence": "compose email to a new address"}
+{"label": "affirm", "sentence": "fantastic response to command."}
+{"label": "query", "sentence": "What are the headlines on the New York Times?"}
+{"label": "dontcare", "sentence": "it is of no importance, olly."}
+{"label": "affirm", "sentence": "yes the command is confirmed."}
+{"label": "coffee", "sentence": "Olly, I'd like an espresso."}
+{"label": "podcasts", "sentence": "locate my podcast"}
+{"label": "volume_mute", "sentence": "Mute for 2 hours."}
+{"label": "maths", "sentence": "solution for 81 divided by 9"}
+{"label": "factoid", "sentence": "where is place?"}
+{"label": "sendemail", "sentence": "email the following message to this contact please"}
+{"label": "negate", "sentence": "it isn't what i am searching for."}
+{"label": "affirm", "sentence": "yeap you did your understanding correcly."}
+{"label": "coffee", "sentence": "please warm up coffee machine"}
+{"label": "dislikeness", "sentence": "Don't play this song again"}
+{"label": "volume_mute", "sentence": "touch the mute button"}
+{"label": "factoid", "sentence": "Is the drought in California over?"}
+{"label": "volume_mute", "sentence": "Go silent until 3 pm."}
+{"label": "wemo_off", "sentence": "Shut off my living room plug socket."}
+{"label": "negate", "sentence": "nope, i think you have made some mistake."}
+{"label": "likeness", "sentence": "save the information which is provided by aman on this song."}
+{"label": "likeness", "sentence": "I like Jazz"}
+{"label": "wemo_off", "sentence": "Power off."}
+{"label": "wemo_off", "sentence": "Turn off/on the socket!"}
+{"label": "addcontact", "sentence": "Add Dr. rosenstock as an email contact"}
+{"label": "set", "sentence": "Remind me of my meeting tomorrow at 3:00PM"}
+{"label": "addcontact", "sentence": "add this new email"}
+{"label": "stock", "sentence": "Tell me about price of stock for innova"}
+{"label": "set", "sentence": "olly remind me i have a meeting at 7pm"}
+{"label": "events", "sentence": "list any interesting events I like in the next  two days"}
+{"label": "factoid", "sentence": "What's the average elevation of the United States?"}
+{"label": "maths", "sentence": "Divide 1500 by 160"}
+{"label": "podcasts", "sentence": "launch the rooster teeth podcast"}
+{"label": "podcasts", "sentence": "next button"}
+{"label": "events", "sentence": "are there any cultural activities happening in newyork"}
+{"label": "stock", "sentence": "open stock price for name"}
+{"label": "maths", "sentence": "How do you solve 3-2?"}
+{"label": "dontcare", "sentence": "does not really matter, olly."}
+{"label": "query", "sentence": "Bring up my email."}
+{"label": "events", "sentence": "What do they have going on at young circle this week?"}
+{"label": "sendemail", "sentence": "deaft an email to kailey about work later"}
+{"label": "affirm", "sentence": "yeap you've done command perfectly."}
+{"label": "dislikeness", "sentence": "I don't like that song. Turn it off."}
+{"label": "affirm", "sentence": "yes you've done command exactly."}
+{"label": "coffee", "sentence": "Please make some coffee for me."}
+{"label": "factoid", "sentence": "tell me distance between sun and moon"}
+{"label": "likeness", "sentence": "Save this song as a favorite"}
+{"label": "dontcare", "sentence": "i don't really mind to choose any one."}
+{"label": "coffee", "sentence": "prepare a coffee"}
+{"label": "negate", "sentence": "nope, you don't understand what i asked."}
+{"label": "dislikeness", "sentence": "I don't want to hear any more songs of that type"}
+{"label": "factoid", "sentence": "area of north america"}
+{"label": "set", "sentence": "open recurring"}
+{"label": "volume_mute", "sentence": "mute the music"}
+{"label": "dislikeness", "sentence": "I do not enjoy this song."}
+{"label": "sendemail", "sentence": "write an email to john (body)"}
+{"label": "query", "sentence": "Please tell me the latest news about the election scenario in our state."}
+{"label": "addcontact", "sentence": "remember this email"}
+{"label": "dontcare", "sentence": "this is unimportant for me, olly."}
+{"label": "stock", "sentence": "List the curret price of Microsoft shares."}

@@ -1,0 +1,85 @@
+{"label": "maths", "sentence": "3*2=6"}
+{"label": "wemo_on", "sentence": "Turn on my wemo socket"}
+{"label": "praise", "sentence": "thank you so much for the information."}
+{"label": "traffic", "sentence": "ARE THERE ANY DETOURS THAT I NEED TO KNOW ABOUT"}
+{"label": "audiobook", "sentence": "Start from last time on my audio book"}
+{"label": "negate", "sentence": "shit, you have done this all in wrong manner."}
+{"label": "confirm", "sentence": "i'd like you check my last instruction please."}
+{"label": "praise", "sentence": "ah it's good, olly."}
+{"label": "hue_lightchange", "sentence": "I don't like this light. Please show me other options"}
+{"label": "audiobook", "sentence": "Open Audiobook"}
+{"label": "hue_lightoff", "sentence": "Turn off overhead light."}
+{"label": "order", "sentence": "Order a 12 piece honey mustard wing combo with seasonimg altnon the fries and a sprite as the drink."}
+{"label": "greet", "sentence": "Morning, what's up?"}
+{"label": "podcasts", "sentence": "Could you skip ahead to the next episode?"}
+{"label": "wemo_on", "sentence": "Please turn on my wemo plug socket."}
+{"label": "order", "sentence": "Hey Olly, order a side of hot wings with my previous order."}
+{"label": "traffic", "sentence": "are there any accidents on Harvard?"}
+{"label": "maths", "sentence": "answer for 3x4"}
+{"label": "audiobook", "sentence": "play book"}
+{"label": "movies", "sentence": "suggest movies and songs that I would like, but that aren't necessarily like ones I've already said I like"}
+{"label": "confirm", "sentence": "would you confirm detail."}
+{"label": "volume_other", "sentence": "improve volume clarity"}
+{"label": "radio", "sentence": "Play a pop station on the radio"}
+{"label": "praise", "sentence": "you are awesome, i appreciate it."}
+{"label": "taxi", "sentence": "Find a taxi service close to me."}
+{"label": "order", "sentence": "Order a large plain pizza from Mimo's for me."}
+{"label": "maths", "sentence": "What is (9+4/5-3)^10?"}
+{"label": "hue_lightchange", "sentence": "Can you change the colour to red"}
+{"label": "radio", "sentence": "turn on 89x for rock"}
+{"label": "confirm", "sentence": "i want you to confirm question please."}
+{"label": "hue_lightchange", "sentence": "Change the colour to red"}
+{"label": "negate", "sentence": "i think your command is not correct."}
+{"label": "praise", "sentence": "you did good job,, olly."}
+{"label": "confirm", "sentence": "would you check and confirm the last thing said."}
+{"label": "movies", "sentence": "what new movies are played in cinemas this week?"}
+{"label": "confirm", "sentence": "please check and confirm the command."}
+{"label": "order", "sentence": "will it be warm"}
+{"label": "hue_lightoff", "sentence": "by main power off"}
+{"label": "maths", "sentence": "what is 5 minus 1"}
+{"label": "recipe", "sentence": "Olly how do I make Lobster bisque"}
+{"label": "taxi", "sentence": "Check all cab companies and get a time booked for 3 pm."}
+{"label": "recipe", "sentence": "Find a recipe for German chocolate cake."}
+{"label": "greet", "sentence": "hello"}
+{"label": "negate", "sentence": "no, it is not what i wanted."}
+{"label": "traffic", "sentence": "Can i make back home without a traffic jam."}
+{"label": "podcasts", "sentence": "startet"}
+{"label": "movies", "sentence": "Olly, what movies are playing at Carmike Cinemas?"}
+{"label": "recipe", "sentence": "olly tell me how to cook spaghetti"}
+{"label": "recipe", "sentence": "tell me the recipe to cook pav bhaji"}
+{"label": "traffic", "sentence": "how is the traffic today"}
+{"label": "hue_lightoff", "sentence": "turn off all the lights"}
+{"label": "podcasts", "sentence": "Please play Jocko's podcast"}
+{"label": "taxi", "sentence": "book a taxi to the airport for tomorrow morning"}
+{"label": "volume_other", "sentence": "Change volume level to maximum."}
+{"label": "hue_lightchange", "sentence": "Modify the light colours of the house and make them dark instead."}
+{"label": "podcasts", "sentence": "I want to go back"}
+{"label": "negate", "sentence": "i think that was not the right answer."}
+{"label": "taxi", "sentence": "Get me an uber"}
+{"label": "greet", "sentence": "Good evening"}
+{"label": "radio", "sentence": "I want to hear this week's Midweek Motorsport."}
+{"label": "audiobook", "sentence": "MY CHOICE TO PLAY AN AUDIO FROM FIRST"}
+{"label": "volume_other", "sentence": "volume - level"}
+{"label": "negate", "sentence": "please correct the wrong command."}
+{"label": "hue_lightoff", "sentence": "Please turn off the lamp."}
+{"label": "maths", "sentence": "what is fifty five minus two"}
+{"label": "hue_lightchange", "sentence": "Change the light color to White"}
+{"label": "radio", "sentence": "I want to hear the JIm and Bob show on 103.3."}
+{"label": "wemo_on", "sentence": "turn on plug"}
+{"label": "taxi", "sentence": "book a cab to office for me"}
+{"label": "volume_other", "sentence": "how can i adjust the volume"}
+{"label": "praise", "sentence": "thanks, that was great one."}
+{"label": "order", "sentence": "Order food"}
+{"label": "greet", "sentence": "How are you?"}
+{"label": "volume_other", "sentence": "Show volume settings"}
+{"label": "wemo_on", "sentence": "Turn on kitchen light"}
+{"label": "hue_lightoff", "sentence": "can you turn off one of my lights in my bathroom"}
+{"label": "movies", "sentence": "Can you suggest a good drama for me to watch?"}
+{"label": "podcasts", "sentence": "start playing the following podcast"}
+{"label": "greet", "sentence": "Good morning"}
+{"label": "wemo_on", "sentence": "Can you turn on the demo plug socket?"}
+{"label": "audiobook", "sentence": "Restart the audiobook Heaven is for real."}
+{"label": "radio", "sentence": "i need you to turn on the radio"}
+{"label": "movies", "sentence": "What is the best movie to watch with a glass of wine?"}
+{"label": "recipe", "sentence": "find chicken tikka recipe"}
+{"label": "traffic", "sentence": "what about the newyork city traffic?"}

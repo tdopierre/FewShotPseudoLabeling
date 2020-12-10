@@ -1,0 +1,34 @@
+{"label": "movies", "sentence": "What movies are playing tonight?"}
+{"label": "ticket", "sentence": "Can you please book a train ticket for next saturday to boston?"}
+{"label": "convert", "sentence": "pls change timezone to india"}
+{"label": "coffee", "sentence": "Can you boil the kettle"}
+{"label": "podcasts", "sentence": "play the last/next episode"}
+{"label": "affirm", "sentence": "yes you got the command correcly."}
+{"label": "quirky", "sentence": "I don't like this one"}
+{"label": "maths", "sentence": "Whats 200 divided by 5?"}
+{"label": "explain", "sentence": "s1, please elaborate further on your answers."}
+{"label": "ticket", "sentence": "Book me a train ride covering 5 destinations to see in New York"}
+{"label": "volume_up", "sentence": "Louder, please."}
+{"label": "coffee", "sentence": "Please make me nice coffee"}
+{"label": "factoid", "sentence": "where is the Grand Canyon"}
+{"label": "hue_lightdim", "sentence": "Dim the lights in the living room."}
+{"label": "hue_lighton", "sentence": "Cortana, it's dark in here"}
+{"label": "commandstop", "sentence": "olly will you please shut down."}
+{"label": "hue_lighton", "sentence": "Lights on!"}
+{"label": "explain", "sentence": "s1, please explain me further on what you just said."}
+{"label": "maths", "sentence": "how to calculate trigonametry"}
+{"label": "commandstop", "sentence": "olly talk to you later on."}
+{"label": "affirm", "sentence": "you have got answer exactly."}
+{"label": "volume_up", "sentence": "Please turn the volume to the loudest setting."}
+{"label": "hue_lightdim", "sentence": "Make the lights less bright."}
+{"label": "movies", "sentence": "What is the best movie to watch this weekend."}
+{"label": "podcasts", "sentence": "Olly, play a random podcast on my list."}
+{"label": "post", "sentence": "Mixed or fake products in market"}
+{"label": "createoradd", "sentence": "Please make a list of thing I have to shop tomorrow"}
+{"label": "recipe", "sentence": "How many eggs should I put in my cake mix?"}
+{"label": "quirky", "sentence": "whats a good present for a girlfriend?"}
+{"label": "createoradd", "sentence": "Make a new list for me, please."}
+{"label": "post", "sentence": "write tweet to Bank of America"}
+{"label": "recipe", "sentence": "How many calories are in a 1/2 cup of peanuts?"}
+{"label": "factoid", "sentence": "What does a basketball feel like?"}
+{"label": "convert", "sentence": "What is the time difference between California and Michegan?"}

@@ -1,0 +1,652 @@
+{"label": "createoradd", "sentence": "start new list"}
+{"label": "factoid", "sentence": "what is the most famous cave in texas"}
+{"label": "factoid", "sentence": "how big is Japan"}
+{"label": "commandstop", "sentence": "could you please shut down."}
+{"label": "post", "sentence": "macy's forgot to ship 2 of my items. Inform them."}
+{"label": "affirm", "sentence": "yeap you have gotten the command perfectly."}
+{"label": "post", "sentence": "open twitter"}
+{"label": "quirky", "sentence": "HIS HARDWORD IS PROPRLY QUEAD"}
+{"label": "quirky", "sentence": "Suggestions for future"}
+{"label": "quirky", "sentence": "Become a helicopter"}
+{"label": "recipe", "sentence": "I would like instructions on how to cook baked chicken."}
+{"label": "quirky", "sentence": "explain investment strategy of 2017"}
+{"label": "movies", "sentence": "PDA: Olly...whats a new sci-fi movie?"}
+{"label": "coffee", "sentence": "Olly brew my coffee"}
+{"label": "factoid", "sentence": "Siri what is the elevation of Denver Colorado?"}
+{"label": "quirky", "sentence": "Inappropriate Activity"}
+{"label": "explain", "sentence": "s1, please elaborate once again to me."}
+{"label": "affirm", "sentence": "yeah you've understood my instructions perfectly."}
+{"label": "ticket", "sentence": "Secure train passage for me on July 3."}
+{"label": "quirky", "sentence": "Did Ashwin joined party yesterday?"}
+{"label": "recipe", "sentence": "Take me to a video of how to cook spaghetti."}
+{"label": "factoid", "sentence": "What was the first movie of Morgan Freeman?"}
+{"label": "coffee", "sentence": "Olly, commence coffee making."}
+{"label": "commandstop", "sentence": "i like you just stop."}
+{"label": "quirky", "sentence": "What are you doing PDA?"}
+{"label": "explain", "sentence": "please further explain your answers to me."}
+{"label": "quirky", "sentence": "what do you do?"}
+{"label": "createoradd", "sentence": "I want you to create a list for me"}
+{"label": "post", "sentence": "Compose a tweet for Youtube."}
+{"label": "factoid", "sentence": "how many miles across is the widest part of the grand canyon alexa"}
+{"label": "quirky", "sentence": "Olly today was a tiring day"}
+{"label": "commandstop", "sentence": "olly i would talk to you later on."}
+{"label": "affirm", "sentence": "yeah perfect response to command."}
+{"label": "explain", "sentence": "s2, i am unclear about what you just said."}
+{"label": "podcasts", "sentence": "play my favorite podcast"}
+{"label": "recipe", "sentence": "Find easy recipe for almond milk"}
+{"label": "factoid", "sentence": "What country has the most maple trees?"}
+{"label": "commandstop", "sentence": "olly would you shut off please."}
+{"label": "explain", "sentence": "it was not so clear."}
+{"label": "explain", "sentence": "s1, can you further clarify me on it."}
+{"label": "quirky", "sentence": "Show me a map of everywhere the cat has been this week."}
+{"label": "factoid", "sentence": "Is WIllie Nelson still alive?"}
+{"label": "podcasts", "sentence": "Play the next episode of Max's podcast"}
+{"label": "factoid", "sentence": "Ok Google, where is the hottest place on earth"}
+{"label": "explain", "sentence": "i did not quite catch that."}
+{"label": "recipe", "sentence": "How do you road lamb?"}
+{"label": "post", "sentence": "For Facebook, write: Newly promoted manager for Hillstead!"}
+{"label": "factoid", "sentence": "Who was the first president of United States"}
+{"label": "maths", "sentence": "tell me if 540 is subtracted seven time by 28."}
+{"label": "explain", "sentence": "s1, will you please clarify more on your answers to me."}
+{"label": "quirky", "sentence": "Can you explain the meaning behind the abrupt end of the HBO show The Sopranos?"}
+{"label": "ticket", "sentence": "Book and pay for a train ticket to Denver for Saturday."}
+{"label": "quirky", "sentence": "I want to know more about the fair this weekend."}
+{"label": "createoradd", "sentence": "Set up a newlist with the following"}
+{"label": "coffee", "sentence": "please ask mr. Coffee to make a latte"}
+{"label": "recipe", "sentence": "Look up recipes for four-cheese omelette."}
+{"label": "factoid", "sentence": "info of rowan atkinson"}
+{"label": "affirm", "sentence": "that's amazing."}
+{"label": "post", "sentence": "Heading to gym..please post to Facebook."}
+{"label": "explain", "sentence": "s2, could not get what you have said."}
+{"label": "convert", "sentence": "convert time zone"}
+{"label": "hue_lightdim", "sentence": "dim the garden light by half"}
+{"label": "quirky", "sentence": "Tell me more about that concert"}
+{"label": "factoid", "sentence": "How old is Jennifer Lopez?"}
+{"label": "maths", "sentence": "one plus two equal ?"}
+{"label": "ticket", "sentence": "set up a train ticket for next week friday"}
+{"label": "factoid", "sentence": "Where is George W. Bush from?"}
+{"label": "volume_up", "sentence": "Increase Volume"}
+{"label": "post", "sentence": "send a message to national grid that the power is out again"}
+{"label": "hue_lightdim", "sentence": "lessen the the light glow"}
+{"label": "convert", "sentence": "tell me the time in someplace"}
+{"label": "convert", "sentence": "How hours distance is between my location and New York?"}
+{"label": "factoid", "sentence": "Where was Keith Urban born?"}
+{"label": "explain", "sentence": "will you further elaborate me on it please."}
+{"label": "recipe", "sentence": "give me a cooking tutorial"}
+{"label": "volume_up", "sentence": "made media volume louder"}
+{"label": "factoid", "sentence": "which is the safest and most dangerous country to live in ."}
+{"label": "createoradd", "sentence": "Add a movie name to the wish list"}
+{"label": "factoid", "sentence": "Please give me address of Salman khan apartment"}
+{"label": "factoid", "sentence": "PDA, how old was David Bowie when he died?"}
+{"label": "movies", "sentence": "can you recommend some movies to watch in theater near me"}
+{"label": "quirky", "sentence": "WHAT IS THE LATEST MODEL OF BMW CAR?"}
+{"label": "factoid", "sentence": "Is Adele going to go on tour?"}
+{"label": "explain", "sentence": "do not understand what you just said."}
+{"label": "affirm", "sentence": "yeap you've understood my instructions perfectly."}
+{"label": "affirm", "sentence": "amazing response to the command."}
+{"label": "quirky", "sentence": "Where can I park?"}
+{"label": "factoid", "sentence": "How old is Ellen?"}
+{"label": "factoid", "sentence": "What is the highest mountain in the us?"}
+{"label": "affirm", "sentence": "yeah please."}
+{"label": "post", "sentence": "Send a complaint to (insert here)"}
+{"label": "createoradd", "sentence": "add appointment in the list"}
+{"label": "explain", "sentence": "please would you rephrase me about your answers once again."}
+{"label": "factoid", "sentence": "what is the most densely populated country in the world?"}
+{"label": "quirky", "sentence": "My day was hectic"}
+{"label": "quirky", "sentence": "What would be the easiet way to become a millionaire in less than five years?"}
+{"label": "hue_lighton", "sentence": "Olly It's awfully dark here"}
+{"label": "podcasts", "sentence": "play last mises.org podcast"}
+{"label": "quirky", "sentence": "I had a bad day today."}
+{"label": "convert", "sentence": "Cortana, if it's 8 PM on the east coast, what time is it in Sacramento, California?"}
+{"label": "factoid", "sentence": "Is Mt. Everest the tallest mountain in the United States?"}
+{"label": "factoid", "sentence": "Give me the birth details of Abraham Lincoln"}
+{"label": "affirm", "sentence": "yeah you get command exactly."}
+{"label": "post", "sentence": "tweet a complaint to Apple about my iPhone 7"}
+{"label": "factoid", "sentence": "i would like if PDA will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be"}
+{"label": "quirky", "sentence": "Could you tell me more about XXX?"}
+{"label": "convert", "sentence": "Convert USA time in to Indian time."}
+{"label": "quirky", "sentence": "I want the status on my screen brightness"}
+{"label": "podcasts", "sentence": "Play the most current episode of Levin"}
+{"label": "recipe", "sentence": "Show me recipes"}
+{"label": "commandstop", "sentence": "olly please stop."}
+{"label": "post", "sentence": "Please post Happy Birthday USA on Facebook."}
+{"label": "ticket", "sentence": "Book me a train ticket to Chicago for tomorrow morning before 10."}
+{"label": "affirm", "sentence": "yeap got it perfectly."}
+{"label": "explain", "sentence": "s2, i was not clear about what you have said."}
+{"label": "affirm", "sentence": "you have gotten command perfectly."}
+{"label": "factoid", "sentence": "Where is kansas located"}
+{"label": "affirm", "sentence": "yes good response to command."}
+{"label": "post", "sentence": "Send tweet to Wallmart"}
+{"label": "factoid", "sentence": "Where is the worlds highest falls?"}
+{"label": "affirm", "sentence": "yes you've done it perfectly."}
+{"label": "factoid", "sentence": "Who is the better half of Obama ?"}
+{"label": "recipe", "sentence": "PDA, Give me the recipe for this food."}
+{"label": "quirky", "sentence": "Tell me about my day"}
+{"label": "explain", "sentence": "s1, please will you rephrase further on what you have said."}
+{"label": "podcasts", "sentence": "Please play the podcast from happypeople.com."}
+{"label": "volume_up", "sentence": "PDA, Can u increase the volume of the speakers?"}
+{"label": "movies", "sentence": "Name a rom-com movie playing in and around New York theatres."}
+{"label": "post", "sentence": "contact customer service"}
+{"label": "hue_lightdim", "sentence": "lower the light of hall by75%"}
+{"label": "quirky", "sentence": "Whats happening in my day"}
+{"label": "movies", "sentence": "what are the new movies releasing"}
+{"label": "factoid", "sentence": "What is the height of mount everest."}
+{"label": "affirm", "sentence": "yeah you have got my instructions right."}
+{"label": "explain", "sentence": "s1, would you please rephrase it further to me."}
+{"label": "recipe", "sentence": "I want to know the procedure of making thanksgiving Turkey in 5 sentences."}
+{"label": "factoid", "sentence": "Could you please confirm if Leonardo is Married?"}
+{"label": "factoid", "sentence": "tell me how Brexit is going to affect EU citizens in the long and mid terms"}
+{"label": "podcasts", "sentence": "I am ready to hear the next episode of Podcast"}
+{"label": "commandstop", "sentence": "that will be all."}
+{"label": "coffee", "sentence": "can i have cup of coffee"}
+{"label": "podcasts", "sentence": "Vitaly channel"}
+{"label": "post", "sentence": "I'm unhappy with (insert). Please help me"}
+{"label": "factoid", "sentence": "What are the different types of round objects?"}
+{"label": "post", "sentence": "Tweet for me the complaint about drainage choke up"}
+{"label": "hue_lightdim", "sentence": "I want a lower light"}
+{"label": "factoid", "sentence": "Where does the Nile end?"}
+{"label": "quirky", "sentence": "what does obama do in his day to day life"}
+{"label": "commandstop", "sentence": "that is all, just stop it."}
+{"label": "coffee", "sentence": "I will need my filter coffee in 10 mins. Please ask the coffee maker accordingly."}
+{"label": "factoid", "sentence": "What's going to be the cure for cancer?"}
+{"label": "post", "sentence": "Tweet ... company to complain about"}
+{"label": "coffee", "sentence": "I'd like a cappuccino, please."}
+{"label": "explain", "sentence": "please rephrase more on what you have just said to me."}
+{"label": "createoradd", "sentence": "list new"}
+{"label": "volume_up", "sentence": "Increase the volume a bit"}
+{"label": "volume_up", "sentence": "Can you turn it up a little?"}
+{"label": "maths", "sentence": "Let's do math"}
+{"label": "quirky", "sentence": "I had a car accident today"}
+{"label": "createoradd", "sentence": "I want to have a new playlist of 80s songs"}
+{"label": "factoid", "sentence": "Olly, how tall is kanye west?"}
+{"label": "commandstop", "sentence": "will you shut up please."}
+{"label": "coffee", "sentence": "Make a coffee please."}
+{"label": "commandstop", "sentence": "please can you shut up."}
+{"label": "coffee", "sentence": "Prepare a cup of coffee for me."}
+{"label": "explain", "sentence": "couldn't get what you said now."}
+{"label": "quirky", "sentence": "Tell me about what latest inventions are our scientists doing these days?"}
+{"label": "recipe", "sentence": "recipes"}
+{"label": "affirm", "sentence": "yes you have understood my instructions perfectly."}
+{"label": "factoid", "sentence": "When is medonna's birthday"}
+{"label": "createoradd", "sentence": "Add eggs to the list"}
+{"label": "quirky", "sentence": "Entertainment"}
+{"label": "ticket", "sentence": "Book a train ticket from Washington DC to Savannah Georgia"}
+{"label": "explain", "sentence": "your response is not so clear."}
+{"label": "recipe", "sentence": "How many vegetables should I eat a day?"}
+{"label": "quirky", "sentence": "Can I tell you about my day?"}
+{"label": "post", "sentence": "post new status"}
+{"label": "post", "sentence": "Tweet complaint to Dominoes"}
+{"label": "movies", "sentence": "What is a good movie to see right now"}
+{"label": "podcasts", "sentence": "Next"}
+{"label": "quirky", "sentence": "Hey, I want to know about your inception"}
+{"label": "affirm", "sentence": "you've got the command right."}
+{"label": "ticket", "sentence": "Google I need one train ticket to New York can you book that for me."}
+{"label": "quirky", "sentence": "Dolores, How was your day"}
+{"label": "quirky", "sentence": "What is the best chocolate chip cookie recipe"}
+{"label": "commandstop", "sentence": "olly that's enough, just cancel it."}
+{"label": "affirm", "sentence": "yeap excellent."}
+{"label": "ticket", "sentence": "Get me a train ticket from mumbai to goa"}
+{"label": "recipe", "sentence": "How do I make peanut butter cookies?"}
+{"label": "factoid", "sentence": "Where on earth has the most volcanos"}
+{"label": "quirky", "sentence": "PDA I got a raise today"}
+{"label": "podcasts", "sentence": "Can I see the previous episode?"}
+{"label": "recipe", "sentence": "What is the difference between bake and broil?"}
+{"label": "podcasts", "sentence": "Find me a podcast on wrestling."}
+{"label": "factoid", "sentence": "Which languages are the most popular in America right now?"}
+{"label": "coffee", "sentence": "Olly, set coffee to bre at 7:00 am"}
+{"label": "post", "sentence": "Post to tumblr: I'm having fun."}
+{"label": "explain", "sentence": "clarify me about that once again."}
+{"label": "commandstop", "sentence": "that's all, just stop it."}
+{"label": "createoradd", "sentence": "Bring up the grocery list and add v8."}
+{"label": "quirky", "sentence": "My day went pretty well today."}
+{"label": "commandstop", "sentence": "talk to you later on."}
+{"label": "explain", "sentence": "can not get what you have just said."}
+{"label": "post", "sentence": "could please tweet that the kinley water bottle was charged for more than maximum retail price at the movies."}
+{"label": "post", "sentence": "Comcast sucks, put that on their twitter account."}
+{"label": "createoradd", "sentence": "Help me start my kitchen list."}
+{"label": "hue_lightdim", "sentence": "Dim lights"}
+{"label": "factoid", "sentence": "What do pink ribbons support?"}
+{"label": "createoradd", "sentence": "olly I need you to put walk the dog on my list to do"}
+{"label": "createoradd", "sentence": "I need to add pasta and milk to the grocery list."}
+{"label": "quirky", "sentence": "What is the animal with a duck bill and a beavers tail?"}
+{"label": "quirky", "sentence": "What are the hours from CVS?"}
+{"label": "quirky", "sentence": "Who do I think people will care"}
+{"label": "podcasts", "sentence": "Next episode in podcast"}
+{"label": "ticket", "sentence": "Book ticket for (location) by train"}
+{"label": "factoid", "sentence": "what year was baseball started"}
+{"label": "post", "sentence": "Tweet to the customer service account of"}
+{"label": "podcasts", "sentence": "Please go to next date"}
+{"label": "quirky", "sentence": "Overall day"}
+{"label": "quirky", "sentence": "how about u"}
+{"label": "explain", "sentence": "s1, explain me on this further please."}
+{"label": "movies", "sentence": "When is *** playing?"}
+{"label": "explain", "sentence": "could you please rephrase me further on your answers."}
+{"label": "affirm", "sentence": "yeah you've gotten it right."}
+{"label": "factoid", "sentence": "List the celebrities who have been in my country in the last five years"}
+{"label": "quirky", "sentence": "Hey Olly, i am having a bad day today. What can i watch to cheer me up?"}
+{"label": "podcasts", "sentence": "Play next segment"}
+{"label": "quirky", "sentence": "Are we friends?"}
+{"label": "explain", "sentence": "s2, i can not understand that."}
+{"label": "quirky", "sentence": "Tell me the most strange thing happening in the world today?"}
+{"label": "affirm", "sentence": "you got that perfectly."}
+{"label": "affirm", "sentence": "yes that is confirmed."}
+{"label": "commandstop", "sentence": "please cancel."}
+{"label": "quirky", "sentence": "Show me the places where I was"}
+{"label": "factoid", "sentence": "COULD YOU PLEASE TELL WHAT IS THE CAPITAL OF AMERICA."}
+{"label": "quirky", "sentence": "PDA, Look up..."}
+{"label": "recipe", "sentence": "How to cook Crabmeat?"}
+{"label": "podcasts", "sentence": "Olly, play This Week For Dinner now."}
+{"label": "podcasts", "sentence": "Listen to Duncan Trussel's latest podcast."}
+{"label": "quirky", "sentence": "I was chased by a dog"}
+{"label": "quirky", "sentence": "show stage shows near me"}
+{"label": "commandstop", "sentence": "please could you shut off."}
+{"label": "factoid", "sentence": "What's the highest mountain in Italy?"}
+{"label": "affirm", "sentence": "yeah fantastic response to the command."}
+{"label": "recipe", "sentence": "Recipe for Spaghetti"}
+{"label": "post", "sentence": "Send a message on Facebook to pending friend requests that my friend list is full and I will be creating a new profile soon."}
+{"label": "quirky", "sentence": "Science fiction"}
+{"label": "quirky", "sentence": "Tell me something exciting."}
+{"label": "ticket", "sentence": "book a train ticket with a berth seat to Lucknow for next week"}
+{"label": "explain", "sentence": "s2, your response was not so clear."}
+{"label": "factoid", "sentence": "what color are chairs"}
+{"label": "factoid", "sentence": "Does selena gomez has a scandal?"}
+{"label": "createoradd", "sentence": "Make a list of numbers for me"}
+{"label": "maths", "sentence": "What is twelve times eight?"}
+{"label": "coffee", "sentence": "Can you get me a cup of coffee"}
+{"label": "factoid", "sentence": "explain to me how gravity works"}
+{"label": "podcasts", "sentence": "Play next episode of Cashing In With TJ Miller"}
+{"label": "affirm", "sentence": "yeah amazing response to the command."}
+{"label": "hue_lightdim", "sentence": "I want the lights less brighter"}
+{"label": "ticket", "sentence": "Olly book tommorow's train ticket for me to bombay in any train"}
+{"label": "explain", "sentence": "s2, i was unclear about your answers."}
+{"label": "post", "sentence": "will you please post this to my facebook, 'i love you'?"}
+{"label": "quirky", "sentence": "How do I measure a liter of milk?"}
+{"label": "volume_up", "sentence": "Siri, turn the volume up"}
+{"label": "podcasts", "sentence": "jump to next podcast"}
+{"label": "hue_lightdim", "sentence": "Dim the lighting in my living room"}
+{"label": "factoid", "sentence": "What is the population of Russia"}
+{"label": "coffee", "sentence": "Olly, I would like a cup of coffee with 1 cream and 3 sugars."}
+{"label": "recipe", "sentence": "Olly, show the method to prepare icecream"}
+{"label": "quirky", "sentence": "What are the similarities between Donald Trump and Obama?"}
+{"label": "createoradd", "sentence": "Please add oranges to my grocery list."}
+{"label": "commandstop", "sentence": "olly i want you just stop it."}
+{"label": "recipe", "sentence": "Can you eat sweet potato greens raw?"}
+{"label": "volume_up", "sentence": "Raise the volume to max"}
+{"label": "quirky", "sentence": "I would like to know the answer to that maths question"}
+{"label": "post", "sentence": "tweet 'I am doing well' on Twitter"}
+{"label": "quirky", "sentence": "PDA, Internet Please"}
+{"label": "quirky", "sentence": "where are you from?"}
+{"label": "factoid", "sentence": "what is a fijord"}
+{"label": "ticket", "sentence": "Buy me a ticket to take the train to Atlanta."}
+{"label": "affirm", "sentence": "you understood command exactly."}
+{"label": "factoid", "sentence": "tell me about Donald Trump"}
+{"label": "coffee", "sentence": "Can you see to it that the coffee maker is ready with my filter coffee in approx. 10 mins. from now?"}
+{"label": "recipe", "sentence": "How do I steam rice?"}
+{"label": "factoid", "sentence": "what is geographic value of great volcano"}
+{"label": "quirky", "sentence": "Learn my consciousness so well I could go on living in PDA form after I die."}
+{"label": "recipe", "sentence": "Find ingredients for chicken marsala"}
+{"label": "podcasts", "sentence": "Please start the next podcast episode."}
+{"label": "post", "sentence": "complain to customer service"}
+{"label": "affirm", "sentence": "it's excellent."}
+{"label": "createoradd", "sentence": "Add grocery shopping to today's to-do list."}
+{"label": "recipe", "sentence": "I want to know how to make a chicken in the oven"}
+{"label": "recipe", "sentence": "How many cups are in a pint?"}
+{"label": "explain", "sentence": "s2, i can not catch up with you."}
+{"label": "recipe", "sentence": "Show me pancakes PDA."}
+{"label": "factoid", "sentence": "PLEASE TELL WHO INVENTED TELEPHONE AND WHAT IS THE DATE?"}
+{"label": "maths", "sentence": "15+20"}
+{"label": "createoradd", "sentence": "add carrots to the list."}
+{"label": "movies", "sentence": "Showtimes for nearest theater"}
+{"label": "factoid", "sentence": "What is Taylor Swift's Birthday?"}
+{"label": "createoradd", "sentence": "Add build my resume to my to-do list."}
+{"label": "post", "sentence": "Please post Happy Birthday USA on my newsfeed."}
+{"label": "explain", "sentence": "further explain me on the last sentence please."}
+{"label": "quirky", "sentence": "please explain space"}
+{"label": "post", "sentence": "New tweet to consumer service"}
+{"label": "hue_lightdim", "sentence": "Dim the lights down a bit."}
+{"label": "quirky", "sentence": "mileage of BMW cars"}
+{"label": "ticket", "sentence": "Confirm a railway reservation ticket to california"}
+{"label": "commandstop", "sentence": "olly would you just stop it please."}
+{"label": "quirky", "sentence": "Ok Google, what happened to Katy Perry?"}
+{"label": "quirky", "sentence": "Give me the top-rated movie in my area"}
+{"label": "explain", "sentence": "explain me about what you've just said again please."}
+{"label": "commandstop", "sentence": "olly please can you shut off."}
+{"label": "quirky", "sentence": "just idle chit chat"}
+{"label": "createoradd", "sentence": "I need to add bananas to my grocery list."}
+{"label": "commandstop", "sentence": "would you stop."}
+{"label": "maths", "sentence": "what is the total of 500 and 23"}
+{"label": "quirky", "sentence": "warm wishes to mac for new job"}
+{"label": "factoid", "sentence": "Olly, where is the largest volcano in the world?"}
+{"label": "podcasts", "sentence": "Start next episode playing"}
+{"label": "explain", "sentence": "s1, again rephrase me about your answer please."}
+{"label": "affirm", "sentence": "you have got it correcly."}
+{"label": "explain", "sentence": "i can't get your answer."}
+{"label": "recipe", "sentence": "What dairy product contains several nutrients?"}
+{"label": "recipe", "sentence": "Is there anything I can substitute for eggs in a recipe?"}
+{"label": "factoid", "sentence": "In what year did George Bush become the president of United States"}
+{"label": "affirm", "sentence": "yes you've done your understanding correcly."}
+{"label": "recipe", "sentence": "weird things people want to know"}
+{"label": "affirm", "sentence": "yes answer was confirmed."}
+{"label": "explain", "sentence": "please elaborate me about the last sentence further."}
+{"label": "post", "sentence": "Send a tweet to the local WaWa that their service is terrible at their Market St. location."}
+{"label": "explain", "sentence": "s2, don't get your words."}
+{"label": "explain", "sentence": "i could not understand this."}
+{"label": "affirm", "sentence": "you have done your understanding correcly."}
+{"label": "affirm", "sentence": "yeap good."}
+{"label": "quirky", "sentence": "Can you please advise?"}
+{"label": "explain", "sentence": "please elaborate your answers further."}
+{"label": "explain", "sentence": "s1, please elaborate me on what you just said further."}
+{"label": "explain", "sentence": "s2, i did not catch up with you."}
+{"label": "quirky", "sentence": "Mobile."}
+{"label": "quirky", "sentence": "What type of stone is in this ring"}
+{"label": "quirky", "sentence": "Dolly patrons background"}
+{"label": "factoid", "sentence": "what is the longest river on earth"}
+{"label": "createoradd", "sentence": "Make a new list for school supplies"}
+{"label": "post", "sentence": "PLEASE TWEET ABOUT OUR BAD EXEPERNICE OF THE VODAFONE CUSTOMER SERVICE."}
+{"label": "affirm", "sentence": "you did the answer right."}
+{"label": "ticket", "sentence": "Book for me a train ticket to California"}
+{"label": "quirky", "sentence": "play 20 questions"}
+{"label": "recipe", "sentence": "show me what the ingredients are"}
+{"label": "factoid", "sentence": "Who is Janet Jackson currently dating or married to?"}
+{"label": "quirky", "sentence": "What do you think I look like?"}
+{"label": "podcasts", "sentence": "I would like to hear some Levin"}
+{"label": "explain", "sentence": "explain further."}
+{"label": "factoid", "sentence": "Tell me about Barack Obama."}
+{"label": "post", "sentence": "Please send a complaint about my horrible experience with a company"}
+{"label": "commandstop", "sentence": "please shut off."}
+{"label": "recipe", "sentence": "How long do I roast chicken breasts?"}
+{"label": "factoid", "sentence": "Is Tom Cruise an only child?"}
+{"label": "volume_up", "sentence": "Raise volume to level 7 on music player"}
+{"label": "explain", "sentence": "please clarify more on it to me."}
+{"label": "quirky", "sentence": "get me details of this person"}
+{"label": "volume_up", "sentence": "Raise the volume to 60"}
+{"label": "podcasts", "sentence": "Can you please play the next episode of Food Stuff"}
+{"label": "explain", "sentence": "s1, please clarify me about this further."}
+{"label": "volume_up", "sentence": "The music volume should increase to 90"}
+{"label": "volume_up", "sentence": "Increase the volume so that i can hear it in other room"}
+{"label": "affirm", "sentence": "yeah good response to the command."}
+{"label": "factoid", "sentence": "What is a good biography to read about Jackie Kennedy?"}
+{"label": "explain", "sentence": "can you once again clarify me on that please."}
+{"label": "movies", "sentence": "Movies with good rivews"}
+{"label": "factoid", "sentence": "Who built the Prado Museum?"}
+{"label": "ticket", "sentence": "book a train ticket to New york"}
+{"label": "maths", "sentence": "What is 14 divided by 2?"}
+{"label": "quirky", "sentence": "Veganism"}
+{"label": "affirm", "sentence": "yeah that was fantastic."}
+{"label": "post", "sentence": "Please put this photo on my Instagram."}
+{"label": "quirky", "sentence": "How can I hibernate like a bear?"}
+{"label": "affirm", "sentence": "yes it's great."}
+{"label": "affirm", "sentence": "yes excellent response."}
+{"label": "post", "sentence": "Tweet @mcdonalds your food sucks #nastyburger"}
+{"label": "recipe", "sentence": "How do you cook steak?"}
+{"label": "recipe", "sentence": "How much is one serving of broccoli?"}
+{"label": "podcasts", "sentence": "Skip to next podcast"}
+{"label": "quirky", "sentence": "i'll be going to my office."}
+{"label": "quirky", "sentence": "I coudn't get it all done"}
+{"label": "post", "sentence": "please post this message to my Facebook page"}
+{"label": "podcasts", "sentence": "Play the previous podcast."}
+{"label": "affirm", "sentence": "yeap you got your understanding right."}
+{"label": "affirm", "sentence": "great response to the command."}
+{"label": "createoradd", "sentence": "Add Ashley to the wedding invite list."}
+{"label": "quirky", "sentence": "what is the meaning of life?"}
+{"label": "affirm", "sentence": "you have done command correcly."}
+{"label": "recipe", "sentence": "find the most popular recipie for tacos"}
+{"label": "commandstop", "sentence": "please shut down."}
+{"label": "recipe", "sentence": "Get me a recipe for cookies"}
+{"label": "ticket", "sentence": "ticket for bombay"}
+{"label": "coffee", "sentence": "Can you make me a cup of coffee?"}
+{"label": "quirky", "sentence": "hi, what is going on today."}
+{"label": "post", "sentence": "Please add complaint about the service in tweet to Olive Garden."}
+{"label": "factoid", "sentence": "Show me the records of Sachin Tendulkar?"}
+{"label": "coffee", "sentence": "Make coffee at three."}
+{"label": "commandstop", "sentence": "olly please just stop."}
+{"label": "ticket", "sentence": "Get me a ride on the commuter train from NJ to NY."}
+{"label": "quirky", "sentence": "Females"}
+{"label": "recipe", "sentence": "I want to cook pasta in american style, show me how."}
+{"label": "post", "sentence": "Post a complaint via twitter to CVS Pharmacy."}
+{"label": "commandstop", "sentence": "will you please shut up."}
+{"label": "factoid", "sentence": "How tall is Roraima Mount?"}
+{"label": "commandstop", "sentence": "olly that would be all."}
+{"label": "affirm", "sentence": "yes you understood my instructions exactly."}
+{"label": "explain", "sentence": "that was not so clear to me."}
+{"label": "quirky", "sentence": "have a anyinput day"}
+{"label": "coffee", "sentence": "can you bring me a nice coffee"}
+{"label": "maths", "sentence": "convert 100 kilo to pound"}
+{"label": "commandstop", "sentence": "can you shut off."}
+{"label": "affirm", "sentence": "you have gotten my instructions correcly."}
+{"label": "quirky", "sentence": "Can you search for me?"}
+{"label": "ticket", "sentence": "please book train ticket to NY"}
+{"label": "ticket", "sentence": "tell me about the cheapest flight fares to NJ today"}
+{"label": "affirm", "sentence": "you got that right."}
+{"label": "podcasts", "sentence": "start next podcast episode."}
+{"label": "movies", "sentence": "Olly what movies are playing near me?"}
+{"label": "quirky", "sentence": "biography of person"}
+{"label": "recipe", "sentence": "What ingredient can be used to replace white wine"}
+{"label": "factoid", "sentence": "How tall is Frank Goggins?"}
+{"label": "post", "sentence": "Please post this picture to my facebook."}
+{"label": "createoradd", "sentence": "Alexa add toothpaste to my shopping list."}
+{"label": "hue_lighton", "sentence": "Clap on!"}
+{"label": "podcasts", "sentence": "play fishing podcasts that are favorited"}
+{"label": "factoid", "sentence": "Find me some celebrities that are capricorns."}
+{"label": "podcasts", "sentence": "Can you play the next podcast"}
+{"label": "affirm", "sentence": "yeah it was confirmed."}
+{"label": "commandstop", "sentence": "cancel please."}
+{"label": "post", "sentence": "share post on my phone on facebook alexa"}
+{"label": "recipe", "sentence": "good food"}
+{"label": "maths", "sentence": "What is the square root of 4 ?"}
+{"label": "quirky", "sentence": "i am happy"}
+{"label": "podcasts", "sentence": "Play the Serial podcast"}
+{"label": "factoid", "sentence": "What color is the sky"}
+{"label": "post", "sentence": "Tweet complaint to American Eagle customer service."}
+{"label": "maths", "sentence": "If I have fifty dollars and spend twenty four, how many dollars will I have left?"}
+{"label": "affirm", "sentence": "yeap you did your understanding correcly."}
+{"label": "quirky", "sentence": "Any dangerous weather today?"}
+{"label": "post", "sentence": "Post a status on my twitter account"}
+{"label": "commandstop", "sentence": "olly please will you shut off."}
+{"label": "factoid", "sentence": "What's a parsec?"}
+{"label": "factoid", "sentence": "Is Alaska a Republican or Democratic state?"}
+{"label": "explain", "sentence": "will you please once again explain."}
+{"label": "quirky", "sentence": "I want my PDA to find good posters and arts of my favorite shows"}
+{"label": "factoid", "sentence": "Distance to local landmarks"}
+{"label": "factoid", "sentence": "What are the cordinates of everest?"}
+{"label": "explain", "sentence": "s2, did not get your words."}
+{"label": "factoid", "sentence": "tell me tom hanks middle name PDA."}
+{"label": "factoid", "sentence": "Who is the most popular American actress?"}
+{"label": "post", "sentence": "tweet a complain about my shoe color on flipkart"}
+{"label": "quirky", "sentence": "PDA what is the geology of this location"}
+{"label": "explain", "sentence": "your words was not so clear."}
+{"label": "factoid", "sentence": "What year was Elvis born"}
+{"label": "quirky", "sentence": "Where does my personal information get stored?"}
+{"label": "factoid", "sentence": "How do I"}
+{"label": "factoid", "sentence": "When did Elvis die"}
+{"label": "post", "sentence": "Please tell DSW I'm returning defective shoes"}
+{"label": "post", "sentence": "Tweet terrible service"}
+{"label": "createoradd", "sentence": "prepare a new list"}
+{"label": "affirm", "sentence": "you understood my instructions perfectly."}
+{"label": "explain", "sentence": "s2, this is not clear to me."}
+{"label": "createoradd", "sentence": "Add something to my list."}
+{"label": "commandstop", "sentence": "please would you cancel it."}
+{"label": "quirky", "sentence": "Olly Today I couldn't find my phone."}
+{"label": "hue_lightdim", "sentence": "please lights less brighter"}
+{"label": "coffee", "sentence": "Get me some latte please."}
+{"label": "factoid", "sentence": "how old is madonna"}
+{"label": "affirm", "sentence": "get the answer perfectly."}
+{"label": "quirky", "sentence": "you are hungry"}
+{"label": "convert", "sentence": "Now it's 5.30 pm in India. What about the time in Ivory Coast?"}
+{"label": "quirky", "sentence": "Tell me popular phrases in Spanish."}
+{"label": "hue_lightdim", "sentence": "Could you dim the ligths"}
+{"label": "commandstop", "sentence": "that's enough, just cancel it."}
+{"label": "hue_lighton", "sentence": "Please turn on the lights in my house."}
+{"label": "createoradd", "sentence": "Start a new (grocery, task, shopping) list."}
+{"label": "factoid", "sentence": "Where does Tom Hanks live?"}
+{"label": "quirky", "sentence": "How does production and population affects us?"}
+{"label": "quirky", "sentence": "do you want to be human"}
+{"label": "quirky", "sentence": "It was a great day Olly."}
+{"label": "maths", "sentence": "what is ___ +-x etc ____"}
+{"label": "volume_up", "sentence": "Speaker volume (increase/decrease)"}
+{"label": "maths", "sentence": "How much is 12 divided by 4?"}
+{"label": "explain", "sentence": "s2, i am unclear about your words."}
+{"label": "quirky", "sentence": "WHO WILL WIN THIS PRESIDENTAL ELECTION?"}
+{"label": "explain", "sentence": "s2, what you said now is not clear to me."}
+{"label": "post", "sentence": "Pull up the complaint website for Starbucks."}
+{"label": "volume_up", "sentence": "Speak louder"}
+{"label": "recipe", "sentence": "olly how do you BBQ chicken"}
+{"label": "explain", "sentence": "s2, your answer was not so clear to me."}
+{"label": "affirm", "sentence": "yes you've got my instructions perfectly."}
+{"label": "explain", "sentence": "will you further elaborate me on what you have said please."}
+{"label": "factoid", "sentence": "What was George Eliot's first novel"}
+{"label": "recipe", "sentence": "Thanksgiving Turkey cooking procedure in 5 sentences is what?"}
+{"label": "factoid", "sentence": "Which is new movie of Johny Depp"}
+{"label": "hue_lightdim", "sentence": "Dim my light"}
+{"label": "factoid", "sentence": "when was the us got fredom"}
+{"label": "affirm", "sentence": "yeap great."}
+{"label": "affirm", "sentence": "yes that's excellent."}
+{"label": "factoid", "sentence": "Is Elvis Presley still alive?"}
+{"label": "post", "sentence": "Can you let Amazon know that this new phone case is junk?"}
+{"label": "recipe", "sentence": "Find the correct temperature for frying a whole turkey"}
+{"label": "affirm", "sentence": "yes that's wonderful."}
+{"label": "post", "sentence": "Tweet complaint to Burger King"}
+{"label": "explain", "sentence": "please clarify once again."}
+{"label": "podcasts", "sentence": "next podcast play"}
+{"label": "affirm", "sentence": "yeap correcly."}
+{"label": "factoid", "sentence": "which ocean touches at our continent"}
+{"label": "coffee", "sentence": "Please make me a cup of coffee"}
+{"label": "factoid", "sentence": "How many states are there in the United States?"}
+{"label": "quirky", "sentence": "PDA i'm driving please auto answer my calls on speaker phone."}
+{"label": "explain", "sentence": "can you please again clarify."}
+{"label": "explain", "sentence": "s1, please once again elaborate me about your answers."}
+{"label": "movies", "sentence": "Do you have any suggestion? Action movies?"}
+{"label": "explain", "sentence": "can you explain me further on what you have just said."}
+{"label": "podcasts", "sentence": "Please start my podcast."}
+{"label": "coffee", "sentence": "I need a cup of coffee."}
+{"label": "createoradd", "sentence": "pls add list of things to buy for pary"}
+{"label": "factoid", "sentence": "Can you tell me about wayne gretszky"}
+{"label": "explain", "sentence": "what did you mean by saying that."}
+{"label": "commandstop", "sentence": "olly will you stop."}
+{"label": "recipe", "sentence": "knowledge about food processing"}
+{"label": "factoid", "sentence": "What's the one night with Paris?"}
+{"label": "explain", "sentence": "i couldn't catch up with you."}
+{"label": "convert", "sentence": "can u pls change the timezone to us"}
+{"label": "podcasts", "sentence": "Find ... podcast and play it."}
+{"label": "quirky", "sentence": "why people like earthly enjoyment and forget about the ultimate joy with God?"}
+{"label": "volume_up", "sentence": "Turn up volume of music"}
+{"label": "factoid", "sentence": "Where is Yellowstone?"}
+{"label": "explain", "sentence": "your answer was not so clear."}
+{"label": "coffee", "sentence": "Can you start the coffee?"}
+{"label": "post", "sentence": "my trip to goa photo,post it on instagram."}
+{"label": "factoid", "sentence": "find geographic details of this place"}
+{"label": "quirky", "sentence": "General Health tips"}
+{"label": "explain", "sentence": "please will you rephrase further on what you have just said to me."}
+{"label": "podcasts", "sentence": "Skip forward to the next episode of this podcast."}
+{"label": "factoid", "sentence": "Where is New Zealand located on a map?"}
+{"label": "post", "sentence": "tweet consumer compalint"}
+{"label": "quirky", "sentence": "movies making money."}
+{"label": "factoid", "sentence": "Narendra mody"}
+{"label": "explain", "sentence": "i can not quite catch that."}
+{"label": "quirky", "sentence": "Show me what I did today."}
+{"label": "factoid", "sentence": "What is the capital of Mexico?"}
+{"label": "factoid", "sentence": "emma watson"}
+{"label": "factoid", "sentence": "What country has the most population?"}
+{"label": "ticket", "sentence": "Olly book me a ticket to Paris on eurostar this weekend"}
+{"label": "createoradd", "sentence": "Start a new grocery list."}
+{"label": "hue_lightdim", "sentence": "Dim all interior lights"}
+{"label": "explain", "sentence": "s1, could you please clarify me about what you've just said once again."}
+{"label": "maths", "sentence": "what is the answer to that question"}
+{"label": "factoid", "sentence": "Olly how many stars has SWAT received on IMDB"}
+{"label": "recipe", "sentence": "How can I cook pasta?"}
+{"label": "quirky", "sentence": "can you feel?"}
+{"label": "movies", "sentence": "What movies is out there in the local cinema?"}
+{"label": "quirky", "sentence": "i am exhausted from work"}
+{"label": "post", "sentence": "My pizza came cold i need to contact Pizza hut on twitter"}
+{"label": "quirky", "sentence": "Compare price of  a audio device from all websites with free shipping?"}
+{"label": "factoid", "sentence": "what about Tona?"}
+{"label": "podcasts", "sentence": "Olly play the podcast of barack obama saved in device"}
+{"label": "explain", "sentence": "clarify what you have said once again to me please."}
+{"label": "affirm", "sentence": "get the command right."}
+{"label": "post", "sentence": "i had a horrible service at olive garden i need to tweet them"}
+{"label": "quirky", "sentence": "What does Priyanka Chopra do to look beautiful."}
+{"label": "hue_lightdim", "sentence": "Bring the lights down a bit"}
+{"label": "explain", "sentence": "elaborate again to me please."}
+{"label": "ticket", "sentence": "Book train ticket for this time"}
+{"label": "quirky", "sentence": "PDA can you tell me if my guitar is in tune what I play it?"}
+{"label": "recipe", "sentence": "Do we add rosemary in pasta"}
+{"label": "explain", "sentence": "s2, last sentence was not clear."}
+{"label": "factoid", "sentence": "tell me everything about Albert Einstein"}
+{"label": "createoradd", "sentence": "Please start a new list"}
+{"label": "factoid", "sentence": "Tell me about Neal Adams"}
+{"label": "maths", "sentence": "Multiply one thousand by twelve."}
+{"label": "factoid", "sentence": "How old was Albert Einstein when he came up with relativity theory?"}
+{"label": "podcasts", "sentence": "can i have podcast of tvf"}
+{"label": "movies", "sentence": "theaters near to me"}
+{"label": "factoid", "sentence": "what about ashwin?"}
+{"label": "factoid", "sentence": "When did Davy Crockett live and die?"}
+{"label": "quirky", "sentence": "Record what happened today"}
+{"label": "podcasts", "sentence": "play rohan sharma podcast for me."}
+{"label": "factoid", "sentence": "Tell me about George Washington"}
+{"label": "quirky", "sentence": "how to abs in six week"}
+{"label": "explain", "sentence": "would you explain further on it to me please."}
+{"label": "quirky", "sentence": "Hey google, I hit a million dollar lottery jackpot"}
+{"label": "recipe", "sentence": "how do i cook rise"}
+{"label": "affirm", "sentence": "yes strongly agree."}
+{"label": "factoid", "sentence": "Are the Falklands in South America?"}
+{"label": "quirky", "sentence": "What about tonight dinner with me"}
+{"label": "quirky", "sentence": "Robotics"}
+{"label": "explain", "sentence": "s1, could you please rephrase me more on what you said."}
+{"label": "coffee", "sentence": "Please activate my coffee pot for me"}
+{"label": "quirky", "sentence": "Can you keep secrets?"}
+{"label": "quirky", "sentence": "How can I train my dog to do his business in the bathroom?"}
+{"label": "createoradd", "sentence": "Add Bob to my list of contacts."}
+{"label": "post", "sentence": "Send tweet to Walmart saying i had an unpleasant experience"}
+{"label": "podcasts", "sentence": "play episode 2 of"}
+{"label": "factoid", "sentence": "need background information about person X"}
+{"label": "ticket", "sentence": "reserve a ticket to go to destination by train"}
+{"label": "maths", "sentence": "tell me what the square root of 45,643,245,235,563.87 is"}
+{"label": "commandstop", "sentence": "i would talk to you later on."}
+{"label": "post", "sentence": "send complain through tweeter consumer service"}
+{"label": "explain", "sentence": "will you rephrase me more on what you have just said please."}
+{"label": "explain", "sentence": "will you please rephrase me more on it."}
+{"label": "quirky", "sentence": "wanna netflix and chill?"}
+{"label": "ticket", "sentence": "I need to go to Dundee at 5am on Sunday by train"}
+{"label": "explain", "sentence": "s1, please elaborate me on your answer again."}
+{"label": "quirky", "sentence": "Order me something online"}
+{"label": "maths", "sentence": "Can you add up 13+5+9 for me?"}
+{"label": "affirm", "sentence": "it's perfect."}
+{"label": "podcasts", "sentence": "I want to play the next episode of this podcast"}
+{"label": "convert", "sentence": "tell me the time in GMT plus 5"}
+{"label": "explain", "sentence": "elaborate further on this."}
+{"label": "factoid", "sentence": "what is the distance between New York and Berlin?"}
+{"label": "factoid", "sentence": "Just let me know the population of India"}
+{"label": "factoid", "sentence": "How many rivers are there in the world?"}
+{"label": "hue_lighton", "sentence": "and the darkness has fallen"}
+{"label": "maths", "sentence": "Convert 10 inches to centimeters."}
+{"label": "factoid", "sentence": "area of north america"}
+{"label": "podcasts", "sentence": "Play podcast a."}
+{"label": "affirm", "sentence": "yes agreed."}
+{"label": "quirky", "sentence": "How do I duct tape a goose.to a.pig?"}
+{"label": "explain", "sentence": "could you please further elaborate me about what you have just said."}
+{"label": "factoid", "sentence": "Calcualte ohm's law based on these values"}
+{"label": "affirm", "sentence": "you have understood my instructions correcly."}
+{"label": "post", "sentence": "I am grateful if you call the amazon customer service"}
+{"label": "createoradd", "sentence": "Create a blank list."}
+{"label": "createoradd", "sentence": "I need to create a new to do list."}
+{"label": "convert", "sentence": "I need the time zone from london england instead of central time zone."}
+{"label": "ticket", "sentence": "find train ticket"}
+{"label": "explain", "sentence": "s2, i don't quite catch that."}
+{"label": "factoid", "sentence": "PDA: Whats going to be the forecast tomorrow for Outer Nowhereville?"}
+{"label": "volume_up", "sentence": "Up the volume, the sound is too low"}
+{"label": "post", "sentence": "snapchat"}
+{"label": "commandstop", "sentence": "olly please would you shut down."}
+{"label": "post", "sentence": "THIS MAY BRINGS GIVEN OF THESE PROBLES TO US"}
+{"label": "recipe", "sentence": "PDA, how do you use an oven"}
+{"label": "convert", "sentence": "What is the time difference between my location and Hong Kong?"}
+{"label": "affirm", "sentence": "yes you got command exactly."}
+{"label": "podcasts", "sentence": "I want to listen to podcast about rock n roll."}
+{"label": "ticket", "sentence": "I need a plane ticket"}
+{"label": "factoid", "sentence": "What is thE worlds record for the longest head of hair"}
+{"label": "affirm", "sentence": "you've gotten my instructions correcly."}
+{"label": "post", "sentence": "tweet bad day at Starbucks"}
+{"label": "post", "sentence": "Please say the following on Facebook:"}
+{"label": "quirky", "sentence": "Do you have any regrets, or are value judgments outside the scope of your intellectual capacity?"}
+{"label": "commandstop", "sentence": "olly just cancel please."}
+{"label": "quirky", "sentence": "How people are thinking in such a manner that they can hide everything from God"}
+{"label": "affirm", "sentence": "got it perfectly."}

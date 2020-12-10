@@ -1,0 +1,681 @@
+{"label": "factoid", "sentence": "What's a parsec?"}
+{"label": "quirky", "sentence": "Olly, what are we doing today with ourselves."}
+{"label": "game", "sentence": "Olly, want to play a game of trivia?"}
+{"label": "currency", "sentence": "What is the exchange rate between the dollar and the Euro currently?"}
+{"label": "ticket", "sentence": "Get me a ride on the commuter train from NJ to NY."}
+{"label": "dislikeness", "sentence": "That song in the background is annoying."}
+{"label": "radio", "sentence": "play am"}
+{"label": "quirky", "sentence": "history of person"}
+{"label": "factoid", "sentence": "PDA, can you give me a rundown on John Legend?"}
+{"label": "factoid", "sentence": "Are the Falklands in South America?"}
+{"label": "game", "sentence": "Open tic tac toe"}
+{"label": "audiobook", "sentence": "pick up wuthering heights where we left off"}
+{"label": "post", "sentence": "Tweet the following:  DirecTv has horrible customer service."}
+{"label": "repeat", "sentence": "please could you tell me one more again."}
+{"label": "quirky", "sentence": "Trivia"}
+{"label": "radio", "sentence": "Please  read the text i just received on messenger"}
+{"label": "taxi", "sentence": "get me a taxi."}
+{"label": "repeat", "sentence": "could you tell me the last one you just said again please."}
+{"label": "radio", "sentence": "I want to hear The Bob Cesca show"}
+{"label": "repeat", "sentence": "i would like to hear the last one you said again."}
+{"label": "taxi", "sentence": "olly call me a cab"}
+{"label": "radio", "sentence": "Play 91.5 rm radio English songs"}
+{"label": "recipe", "sentence": "Please cook me a hamburger."}
+{"label": "factoid", "sentence": "Where can I find Japan?"}
+{"label": "factoid", "sentence": "show me details of arnold"}
+{"label": "taxi", "sentence": "Find a taxi service close to me."}
+{"label": "recipe", "sentence": "do you know recipe for risotto"}
+{"label": "factoid", "sentence": "What high school did Halley Barry go to?"}
+{"label": "dontcare", "sentence": "do not really mind for any one."}
+{"label": "game", "sentence": "Start the League of Legends game."}
+{"label": "dontcare", "sentence": "i would not really know."}
+{"label": "audiobook", "sentence": "Continue pride and Prejudice."}
+{"label": "post", "sentence": "Ok Google, tweet the service at Moe's Diner is terrible"}
+{"label": "game", "sentence": "Open chess game"}
+{"label": "quirky", "sentence": "Today I ran into my old friend Bob."}
+{"label": "factoid", "sentence": "What is the capitol of West Virginia?"}
+{"label": "factoid", "sentence": "Where jackie chan currently live"}
+{"label": "factoid", "sentence": "Where is Russia located?"}
+{"label": "currency", "sentence": "Which is worth more? The US Dollar or the Euro?"}
+{"label": "dontcare", "sentence": "any one would be okay with me, olly."}
+{"label": "dontcare", "sentence": "this is of no importance to me."}
+{"label": "radio", "sentence": "I want to hear some radio pop, please."}
+{"label": "radio", "sentence": "I want to listen to the radio"}
+{"label": "post", "sentence": "Can you tweet for me to Amazon Services for not delivering my product on time."}
+{"label": "radio", "sentence": "Play This American Life on the kitchen radio"}
+{"label": "post", "sentence": "post 'hey everyone' on FB"}
+{"label": "factoid", "sentence": "How much money did Bill Gates make"}
+{"label": "repeat", "sentence": "can you say once again."}
+{"label": "repeat", "sentence": "i would like to hear the statement you just said again."}
+{"label": "recipe", "sentence": "PDA look up this recipe for me"}
+{"label": "repeat", "sentence": "could you tell me the last spoke once again."}
+{"label": "factoid", "sentence": "show geographic details of piramids"}
+{"label": "post", "sentence": "post in FB my birthday event"}
+{"label": "recipe", "sentence": "Give me best cooking ideas"}
+{"label": "dontcare", "sentence": "does not matter for me."}
+{"label": "hue_lightchange", "sentence": "Change the light color the red"}
+{"label": "recipe", "sentence": "find me the best recipe for some american style fluffy packcakes"}
+{"label": "dontcare", "sentence": "i do not mind for any one, olly."}
+{"label": "currency", "sentence": "Currency converter please"}
+{"label": "dontcare", "sentence": "i have no idea regarding to which to choose."}
+{"label": "radio", "sentence": "start fm 109"}
+{"label": "factoid", "sentence": "person xy birthday"}
+{"label": "dontcare", "sentence": "whatever is ok for me."}
+{"label": "radio", "sentence": "play indi song from fm"}
+{"label": "ticket", "sentence": "Google I need one train ticket to New York can you book that for me."}
+{"label": "recipe", "sentence": "tell me the recipe for mashed potatoes"}
+{"label": "quirky", "sentence": "When will grief subside after losing parent"}
+{"label": "game", "sentence": "play game"}
+{"label": "radio", "sentence": "tune in to Bob and Tom"}
+{"label": "recipe", "sentence": "What temperature should a baked chicken be?"}
+{"label": "radio", "sentence": "Echo, turn on a Country music station"}
+{"label": "recipe", "sentence": "Tell me how to make a poor boy sandwich."}
+{"label": "podcasts", "sentence": "Can you find the Dave Ramsey podcast that aired earlier today?"}
+{"label": "factoid", "sentence": "What's Bob Scrote's net worth?"}
+{"label": "dontcare", "sentence": "i do not really mind for anything."}
+{"label": "radio", "sentence": "Let's hear WXYZ"}
+{"label": "podcasts", "sentence": "Play podcast a."}
+{"label": "factoid", "sentence": "How long has Princess Kate been pregnant?"}
+{"label": "podcasts", "sentence": "play the next recording"}
+{"label": "joke", "sentence": "Say a good joke for me right now"}
+{"label": "game", "sentence": "Play me in Tic Tac Toe"}
+{"label": "joke", "sentence": "Do you have a joke?"}
+{"label": "currency", "sentence": "What currency does Croatia use"}
+{"label": "quirky", "sentence": "Good morning! Isn't it a great day?"}
+{"label": "factoid", "sentence": "What year was Mark Wahlberg born?"}
+{"label": "recipe", "sentence": "I want to know the procedure of making thanksgiving Turkey in 5 sentences."}
+{"label": "quirky", "sentence": "I would like my PDA to alert me of the weather every morning"}
+{"label": "factoid", "sentence": "tell me why bill bur is a better comedia than iliza schleshinger PDA."}
+{"label": "factoid", "sentence": "get me the details of lisa ann"}
+{"label": "post", "sentence": "tweet to papa johns about getting a cold pizza"}
+{"label": "quirky", "sentence": "Wimbledon Grand slamm tennis"}
+{"label": "factoid", "sentence": "When was Dolly Parton born?"}
+{"label": "post", "sentence": "Hello Alexa, wish Monika happy birthday on her timeline."}
+{"label": "dontcare", "sentence": "i don't really mind for anything."}
+{"label": "hue_lightchange", "sentence": "Change the opacity of the color"}
+{"label": "game", "sentence": "PDA please play this game"}
+{"label": "dontcare", "sentence": "any one will be good with me."}
+{"label": "ticket", "sentence": "Book a train ticket to boston tomorrow."}
+{"label": "currency", "sentence": "What currency does England use?"}
+{"label": "factoid", "sentence": "what is the radius of the biggest crater on Earth?"}
+{"label": "repeat", "sentence": "speak again please."}
+{"label": "post", "sentence": "Please post Happy Birthday USA on Facebook."}
+{"label": "factoid", "sentence": "In what year did George Bush become the president of United States"}
+{"label": "game", "sentence": "I want to play a game with you"}
+{"label": "wemo_off", "sentence": "shut down SPS (smart plug socket)"}
+{"label": "dontcare", "sentence": "that is unimportant for me."}
+{"label": "currency", "sentence": "how much is the us dollar worth in canada?"}
+{"label": "podcasts", "sentence": "skip to previous/next episode of this podcast"}
+{"label": "podcasts", "sentence": "play next on podcast."}
+{"label": "post", "sentence": "i had a horrible service at olive garden i need to tweet them"}
+{"label": "quirky", "sentence": "can you be my bestfriend?"}
+{"label": "recipe", "sentence": "Can you prepare a cheese sandwich?"}
+{"label": "hue_lightchange", "sentence": "House lights blue."}
+{"label": "factoid", "sentence": "How tall are giraffes?"}
+{"label": "repeat", "sentence": "tell me it again."}
+{"label": "radio", "sentence": "Please turn on the radio to a random station, Ally."}
+{"label": "podcasts", "sentence": "play my favorite podcast"}
+{"label": "recipe", "sentence": "Crockpot recipe for chicken alfredo"}
+{"label": "podcasts", "sentence": "Next one"}
+{"label": "hue_lightchange", "sentence": "Turn living room lights red"}
+{"label": "hue_lightchange", "sentence": "Light color change"}
+{"label": "dontcare", "sentence": "that does not really matter to me, olly."}
+{"label": "game", "sentence": "Lets play chess together"}
+{"label": "quirky", "sentence": "How many times do I eat out every month?"}
+{"label": "recipe", "sentence": "I would like the recipe for baked chicken."}
+{"label": "quirky", "sentence": "PDA: I want to know what the specials are tonight at Bob's House of Burgers. Anything with cheese?"}
+{"label": "quirky", "sentence": "How many pumpkins do I need to make a pumpkin pie?"}
+{"label": "factoid", "sentence": "what is the make up of the chair"}
+{"label": "quirky", "sentence": "What is current economy of country"}
+{"label": "quirky", "sentence": "I want to know more about the fair this weekend."}
+{"label": "factoid", "sentence": "Tell me about Amazon's history"}
+{"label": "quirky", "sentence": "Please note today a terrible things happened to me because my friend behaved rudely on me."}
+{"label": "currency", "sentence": "I would like my PDA to tell me the trend on foreign exchange rates"}
+{"label": "podcasts", "sentence": "I want to listen to a sports podcast."}
+{"label": "quirky", "sentence": "Please tell me how long do you think Trump will last."}
+{"label": "factoid", "sentence": "where are piramids located"}
+{"label": "dontcare", "sentence": "that is of no importance for me."}
+{"label": "audiobook", "sentence": "Hold"}
+{"label": "recipe", "sentence": "Olly how long should I boil the egg"}
+{"label": "quirky", "sentence": "Please provide me more info."}
+{"label": "quirky", "sentence": "what is your country?"}
+{"label": "post", "sentence": "send a tweeter complain"}
+{"label": "dontcare", "sentence": "that is unimportant to me."}
+{"label": "radio", "sentence": "Only 99.9 FM is to be played on the radio"}
+{"label": "wemo_off", "sentence": "Can you please turn off the Wemo plug socket?"}
+{"label": "factoid", "sentence": "Is Texas the biggest state in the United States?"}
+{"label": "currency", "sentence": "In this country, what is the exchange rate"}
+{"label": "recipe", "sentence": "what is the temperature to cook chicken in the oven alexa"}
+{"label": "radio", "sentence": "search next station"}
+{"label": "hue_lightchange", "sentence": "Can you change the lights to white?"}
+{"label": "repeat", "sentence": "please can you say it one more time again."}
+{"label": "ticket", "sentence": "Book me a train ticket for Saturday."}
+{"label": "radio", "sentence": "play me a radio channel for trance music"}
+{"label": "post", "sentence": "please post to jeff"}
+{"label": "radio", "sentence": "Please play (program) on xmtune"}
+{"label": "factoid", "sentence": "Olly, what do you know about Eminem?"}
+{"label": "post", "sentence": "report complaint to samsung by tweet"}
+{"label": "podcasts", "sentence": "Play today's podcast from The Mix."}
+{"label": "taxi", "sentence": "open uber app and book me a car for pick up at the airport"}
+{"label": "quirky", "sentence": "I had a great day today."}
+{"label": "game", "sentence": "Play for me the Game Star Wars"}
+{"label": "factoid", "sentence": "When was Einstein's birthday?"}
+{"label": "dontcare", "sentence": "have no idea for which to choose."}
+{"label": "ticket", "sentence": "I want you to book a train ticket for me"}
+{"label": "repeat", "sentence": "can you tell me your last things spoke once more please."}
+{"label": "factoid", "sentence": "Is the celebrity single or married."}
+{"label": "radio", "sentence": "ensure I wants to listen to this programe on radio"}
+{"label": "quirky", "sentence": "Math"}
+{"label": "ticket", "sentence": "Help me book a train ticket"}
+{"label": "repeat", "sentence": "can you say it once again please."}
+{"label": "factoid", "sentence": "What is the distance to the grand canyon."}
+{"label": "radio", "sentence": "Play Rush Limbaugh on 97X."}
+{"label": "radio", "sentence": "Play 989 the radiostation"}
+{"label": "dontcare", "sentence": "i wouldn't really mind for whatever, olly."}
+{"label": "quirky", "sentence": "Take a snap"}
+{"label": "factoid", "sentence": "When does the super bowl officially start?"}
+{"label": "currency", "sentence": "how much is 10 USD to CAD"}
+{"label": "game", "sentence": "Can we play a game of hangman?"}
+{"label": "taxi", "sentence": "Book me a cab going to 'location'."}
+{"label": "radio", "sentence": "Listen to sports talk"}
+{"label": "factoid", "sentence": "How smooth is marble floor?"}
+{"label": "post", "sentence": "Post birthday greetings to friends on facebook whose birthday is today."}
+{"label": "factoid", "sentence": "what is the avg. per captia income between asia and europe people"}
+{"label": "dontcare", "sentence": "it does not really matter for me, olly."}
+{"label": "wemo_off", "sentence": "Keep the socket in off condition"}
+{"label": "quirky", "sentence": "Jobs in my area for my skill set."}
+{"label": "dontcare", "sentence": "wouldn't really bother."}
+{"label": "podcasts", "sentence": "Get the next episode."}
+{"label": "quirky", "sentence": "Searching information online"}
+{"label": "post", "sentence": "Facebook Status: Anyone wanna go to the movies?"}
+{"label": "post", "sentence": "Tweet @phohouse your server was rude #badpho"}
+{"label": "radio", "sentence": "Play radio on 5.30 on tere nagme show"}
+{"label": "radio", "sentence": "recorded program may be listened on future days"}
+{"label": "audiobook", "sentence": "Play for me Madonna song from audiobook"}
+{"label": "factoid", "sentence": "Give me the age of Chuck Norris."}
+{"label": "post", "sentence": "PLEASE TWEET FOR ME ABOUT THE BAD SERVICE RENDED BY THE TAJ RESTURANT."}
+{"label": "currency", "sentence": "xchange rates"}
+{"label": "ticket", "sentence": "Find out the the train arrival time and book me."}
+{"label": "radio", "sentence": "Ally, please play Pandora radio."}
+{"label": "quirky", "sentence": "i am tired"}
+{"label": "audiobook", "sentence": "MY CHOICE TO PLAY AN OBJECTS FROM LAST"}
+{"label": "radio", "sentence": "Switch on the radio and play Hello fm station"}
+{"label": "podcasts", "sentence": "Play the newest morning show podcast."}
+{"label": "quirky", "sentence": "Please tell me how to get to Terre Haute, IN?"}
+{"label": "factoid", "sentence": "olly search for pink's youtube channel"}
+{"label": "radio", "sentence": "alexa PDR AM RADIO"}
+{"label": "quirky", "sentence": "Where did he was yesterday?"}
+{"label": "repeat", "sentence": "i would like to hear the last thing spoken again."}
+{"label": "quirky", "sentence": "PDA how high is this mountain"}
+{"label": "quirky", "sentence": "It would be great to dinner in this new opened restaurant downtown"}
+{"label": "post", "sentence": "Tweet starbucks and say that the customer service is awful."}
+{"label": "factoid", "sentence": "when was <unk> born"}
+{"label": "post", "sentence": "Send a Tweet"}
+{"label": "factoid", "sentence": "who was in the beatles"}
+{"label": "ticket", "sentence": "can you book a train ticket for me under $100"}
+{"label": "repeat", "sentence": "reset it please."}
+{"label": "quirky", "sentence": "biography of person"}
+{"label": "currency", "sentence": "Show me current exchange rate between euros and other currencies"}
+{"label": "quirky", "sentence": "Will the world come to an end? When?"}
+{"label": "quirky", "sentence": "Can you tell me when Friday the 13th will be playing on TV this year?"}
+{"label": "recipe", "sentence": "How many eggs do I need for an omelette?"}
+{"label": "audiobook", "sentence": "Olly, resume 'The Two Towers'"}
+{"label": "post", "sentence": "PDA, open hershey twitter"}
+{"label": "audiobook", "sentence": "I want to finally read the Mars trilogy"}
+{"label": "game", "sentence": "create a playing teams and play with them"}
+{"label": "game", "sentence": "Olly, i want to play some video games"}
+{"label": "quirky", "sentence": "Olly, my day was exhausting."}
+{"label": "repeat", "sentence": "let us try your information spoken one more time please."}
+{"label": "joke", "sentence": "Tell me some funny joke to laugh"}
+{"label": "ticket", "sentence": "Reserve a seat for me on the train March 20th."}
+{"label": "quirky", "sentence": "How can I make your day a little better?"}
+{"label": "podcasts", "sentence": "Next episode in podcast"}
+{"label": "wemo_off", "sentence": "switch off the power"}
+{"label": "quirky", "sentence": "I would like it to order me stuff with little to no error"}
+{"label": "game", "sentence": "tag. you're it."}
+{"label": "recipe", "sentence": "google the steps for preparing the dish"}
+{"label": "joke", "sentence": "Tell me a joke about birds."}
+{"label": "dontcare", "sentence": "i wouldn't know."}
+{"label": "factoid", "sentence": "Hey, I would like to know some key facts about X"}
+{"label": "taxi", "sentence": "could you please have Uber be at my house in fifteen minutes?"}
+{"label": "currency", "sentence": "How much is $50 in Pounds?"}
+{"label": "factoid", "sentence": "what is the population of Florida"}
+{"label": "factoid", "sentence": "What awards did Erica Grebe win last night?"}
+{"label": "dontcare", "sentence": "don't really care, olly."}
+{"label": "repeat", "sentence": "please tell me it one more time."}
+{"label": "factoid", "sentence": "Who is the Prime Minister of India"}
+{"label": "factoid", "sentence": "where is steven spielberg living?"}
+{"label": "repeat", "sentence": "say it one more time please."}
+{"label": "repeat", "sentence": "retry the last one said."}
+{"label": "dontcare", "sentence": "this is unimportant to me."}
+{"label": "post", "sentence": "PDA name: post this on my facebook"}
+{"label": "quirky", "sentence": "How many kilometers did I walk today?"}
+{"label": "taxi", "sentence": "Book me Golden Taxi for today at 5pm."}
+{"label": "factoid", "sentence": "Is Julia Roberts married?"}
+{"label": "radio", "sentence": "Please switch the channel to classic FM."}
+{"label": "recipe", "sentence": "olly how do you BBQ chicken"}
+{"label": "factoid", "sentence": "actually what is the life style of sahara desert"}
+{"label": "post", "sentence": "Post this status to my social media account."}
+{"label": "post", "sentence": "type something and post"}
+{"label": "repeat", "sentence": "please could you speak what i've said one more time again."}
+{"label": "joke", "sentence": "Find funny jokes"}
+{"label": "quirky", "sentence": "how high is the quality of this stone"}
+{"label": "recipe", "sentence": "What does rice wine go with?"}
+{"label": "quirky", "sentence": "i am exhausted from work"}
+{"label": "radio", "sentence": "play CNN radio"}
+{"label": "recipe", "sentence": "Find the highest-rated recipe from FoodNetwork.com for a four-cheese omelette."}
+{"label": "quirky", "sentence": "What is your favorite color?"}
+{"label": "taxi", "sentence": "Find an Uber that can get me to the airport now."}
+{"label": "currency", "sentence": "What is the current exchange rate between the dollar and the euro?"}
+{"label": "post", "sentence": "Tweet @Wendys that I don't like their product"}
+{"label": "audiobook", "sentence": "music three"}
+{"label": "quirky", "sentence": "open the door"}
+{"label": "game", "sentence": "Play subway surfer"}
+{"label": "factoid", "sentence": "Obama- information"}
+{"label": "factoid", "sentence": "How long was Bryan Cranston on breaking bad?"}
+{"label": "quirky", "sentence": "do you like love song?"}
+{"label": "quirky", "sentence": "Is it true the hanging tree really had someone hung from it?"}
+{"label": "radio", "sentence": "Play the radio band with sports commentary"}
+{"label": "factoid", "sentence": "Michael Jackson family background."}
+{"label": "factoid", "sentence": "Whic is the biggest continent in the world by area"}
+{"label": "currency", "sentence": "What is the Euro to dollar exchange rate?"}
+{"label": "podcasts", "sentence": "load my playlist titled country favorites and play it"}
+{"label": "ticket", "sentence": "book a train ticket to Mumbai for tomorrow"}
+{"label": "radio", "sentence": "turn on 1027 webn"}
+{"label": "post", "sentence": "Send a tweet to Amazon customer service that the package was delivered late"}
+{"label": "quirky", "sentence": "do i need my tire pressure checked"}
+{"label": "quirky", "sentence": "Is there any problem for having junk food and drinks"}
+{"label": "repeat", "sentence": "start over please."}
+{"label": "ticket", "sentence": "Alexa, book me a train ticket for this afternoon to Chicago."}
+{"label": "radio", "sentence": "Weather forecast from Radio+"}
+{"label": "currency", "sentence": "How many euros is 1 dollar?"}
+{"label": "factoid", "sentence": "How long till the eventual heat death of the universe"}
+{"label": "factoid", "sentence": "When did Prince Die?"}
+{"label": "quirky", "sentence": "HIS HARDWORD IS PROPRLY QUEAD"}
+{"label": "quirky", "sentence": "celebrities"}
+{"label": "recipe", "sentence": "How do I cook chicken Alfredo?"}
+{"label": "factoid", "sentence": "How old is Mariah Carey?"}
+{"label": "currency", "sentence": "exchange euro to dollar"}
+{"label": "factoid", "sentence": "Is Yellowstone park the largest park?"}
+{"label": "factoid", "sentence": "What channel is Bates Motel on?"}
+{"label": "audiobook", "sentence": "Can you play my latest audio book?"}
+{"label": "quirky", "sentence": "I would like to talk about it."}
+{"label": "joke", "sentence": "Any funny jokes?"}
+{"label": "taxi", "sentence": "PDA, I need a taxi/Uber"}
+{"label": "post", "sentence": "PDA please send a complaint tot someone"}
+{"label": "repeat", "sentence": "i need to hear the last spoke again."}
+{"label": "currency", "sentence": "what is dollar exchange rate with indian currency"}
+{"label": "recipe", "sentence": "How long does it take to make meatloaf?"}
+{"label": "radio", "sentence": "Open Sirius app and play the classical channel"}
+{"label": "factoid", "sentence": "Tell me about the height of mount everest."}
+{"label": "repeat", "sentence": "please could you tell me one more time again."}
+{"label": "ticket", "sentence": "Open train ticket app"}
+{"label": "radio", "sentence": "Can you please turn on NPR where I am?"}
+{"label": "repeat", "sentence": "please would you tell me that once again."}
+{"label": "factoid", "sentence": "what is the coldest state in the us"}
+{"label": "hue_lightchange", "sentence": "Confirm whether the color is blue"}
+{"label": "podcasts", "sentence": "Play me the latest podcast about online surveys."}
+{"label": "radio", "sentence": "switch to 955FM"}
+{"label": "quirky", "sentence": "when I came back from this place?"}
+{"label": "taxi", "sentence": "call a cab"}
+{"label": "repeat", "sentence": "say what i've just said one more again please."}
+{"label": "factoid", "sentence": "how far in steps is home from here"}
+{"label": "post", "sentence": "Siri, open twitter, tweet @POTUS SUCKS!!!"}
+{"label": "ticket", "sentence": "Hello,book train ticket from mumbai to sangli for tommorow morning."}
+{"label": "dontcare", "sentence": "do not mind."}
+{"label": "repeat", "sentence": "please let's try the last spoke one more time again."}
+{"label": "dislikeness", "sentence": "Remember that I do not like this music."}
+{"label": "factoid", "sentence": "Is Miley Cyrus married?"}
+{"label": "repeat", "sentence": "i would like to hear what i have just said again."}
+{"label": "repeat", "sentence": "tell me it one more time again please."}
+{"label": "podcasts", "sentence": "play podcast 1"}
+{"label": "radio", "sentence": "PDA: I'm tired of Pandora, please turn on the radio"}
+{"label": "factoid", "sentence": "beach"}
+{"label": "dontcare", "sentence": "whatever would be good to me, olly."}
+{"label": "quirky", "sentence": "May i know whats at location 1258745"}
+{"label": "factoid", "sentence": "What did Kim Kardashian wear to London Fashion Week?"}
+{"label": "post", "sentence": "at the company on twitter and complain to customer service in the tweet"}
+{"label": "repeat", "sentence": "please can you replay."}
+{"label": "dontcare", "sentence": "i do not mind to select any one, olly."}
+{"label": "ticket", "sentence": "best ticket price air/plane/bus to city x on date y"}
+{"label": "audiobook", "sentence": "Play Magic run after 30 min."}
+{"label": "quirky", "sentence": "ABOUT DEMOUDULARITY"}
+{"label": "quirky", "sentence": "How does today look?"}
+{"label": "factoid", "sentence": "Find Brad Pitt's age."}
+{"label": "quirky", "sentence": "It was a cool day"}
+{"label": "podcasts", "sentence": "Next"}
+{"label": "repeat", "sentence": "let's try again please."}
+{"label": "post", "sentence": "Send a complaint to (insert here)"}
+{"label": "factoid", "sentence": "Tell me about..."}
+{"label": "taxi", "sentence": "PDA, book me an Uber."}
+{"label": "repeat", "sentence": "please say it one more time again."}
+{"label": "factoid", "sentence": "Olly what is the capital of California?"}
+{"label": "ticket", "sentence": "Google search, booking train ticket"}
+{"label": "currency", "sentence": "convert 1 US dollar to british pound"}
+{"label": "quirky", "sentence": "Olly how's it hangin."}
+{"label": "factoid", "sentence": "Alexa, which is the smallest island in the world?"}
+{"label": "factoid", "sentence": "When did Elvis die"}
+{"label": "quirky", "sentence": "When I want it to take down notes"}
+{"label": "ticket", "sentence": "Olly I need to get to Bristol friday night, can you book me a ticket please"}
+{"label": "podcasts", "sentence": "Please play a podcast"}
+{"label": "quirky", "sentence": "What features do you have planned to release in the future?"}
+{"label": "quirky", "sentence": "What's your favourite tv show?"}
+{"label": "post", "sentence": "open twitter"}
+{"label": "radio", "sentence": "open fm radio 100.00"}
+{"label": "wemo_off", "sentence": "Turn off the rice cooker socket"}
+{"label": "post", "sentence": "PDA, I didn't get the product on time, send a tweet to JCPenney,"}
+{"label": "dontcare", "sentence": "would not bother."}
+{"label": "radio", "sentence": "COULD YOU PLEASE PLAY THE FM STATION WHICH PLAYS POPSONGS."}
+{"label": "hue_lightchange", "sentence": "PDA please adjust the colors in my lights."}
+{"label": "game", "sentence": "Let's play Checkers."}
+{"label": "hue_lightchange", "sentence": "transition lights to blue to green to yellow"}
+{"label": "audiobook", "sentence": "Please repeat the last sentence from that book."}
+{"label": "recipe", "sentence": "PDA, how do you use an oven"}
+{"label": "factoid", "sentence": "With all of the information you can gather on the internet could you please provide me with the best probable explanation of who killed President Kennedy."}
+{"label": "post", "sentence": "Tweet to consumer service that they should strive to be more accommodating."}
+{"label": "post", "sentence": "snapchat"}
+{"label": "repeat", "sentence": "what is that."}
+{"label": "quirky", "sentence": "I would like it to be able to tell if something is starting to burn and turn off the oven, stove, or microwave."}
+{"label": "ticket", "sentence": "Book me a train for the next available train."}
+{"label": "podcasts", "sentence": "Play ... podcast"}
+{"label": "dontcare", "sentence": "it does not matter with me, olly."}
+{"label": "podcasts", "sentence": "Search for podcasts that cover men's issues."}
+{"label": "post", "sentence": "get me a person asap"}
+{"label": "currency", "sentence": "Exchange rates of INR and USD"}
+{"label": "quirky", "sentence": "I want it to remember my preferences and recommend me things based on them when I ask."}
+{"label": "wemo_off", "sentence": "Make the smart socket turn off"}
+{"label": "quirky", "sentence": "How is the economy in Fort Worth compared to Houston?"}
+{"label": "recipe", "sentence": "use google to show me how to cook"}
+{"label": "quirky", "sentence": "Do you want to hear what have happened today?"}
+{"label": "podcasts", "sentence": "start playing the following podcast"}
+{"label": "repeat", "sentence": "speak one more time please."}
+{"label": "taxi", "sentence": "please reserve the next taxi a 9:00 AM"}
+{"label": "audiobook", "sentence": "Keep playing War and Peace."}
+{"label": "factoid", "sentence": "Where is Obama from?"}
+{"label": "quirky", "sentence": "What kind of implement is a broiler and how do I use it?"}
+{"label": "audiobook", "sentence": "alexa start from my last session of joes book"}
+{"label": "hue_lightchange", "sentence": "change color"}
+{"label": "quirky", "sentence": "WHAT IS THE LATEST MODEL OF BMW CAR?"}
+{"label": "recipe", "sentence": "easy meals"}
+{"label": "repeat", "sentence": "will you replay that please."}
+{"label": "radio", "sentence": "Make the radio turn on now"}
+{"label": "dontcare", "sentence": "it doesn't matter for me."}
+{"label": "dontcare", "sentence": "anything is good to me."}
+{"label": "post", "sentence": "put new status"}
+{"label": "wemo_off", "sentence": "Disable smark socket."}
+{"label": "quirky", "sentence": "Sharukh khan tweets"}
+{"label": "radio", "sentence": "Please play the radio."}
+{"label": "currency", "sentence": "What is a Canadian dollar worth in the US?"}
+{"label": "currency", "sentence": "What's the dollar's exchange rate with the Euro?"}
+{"label": "currency", "sentence": "what is the exchange rate of euro and dollar"}
+{"label": "radio", "sentence": "PDA: Turn the radio to 106.7 FM"}
+{"label": "quirky", "sentence": "Inappropriate Activity"}
+{"label": "podcasts", "sentence": "play musician play list"}
+{"label": "factoid", "sentence": "I need some details about celebrity X, please assist."}
+{"label": "dontcare", "sentence": "i have no idea."}
+{"label": "recipe", "sentence": "Find me a good meatloaf recipe."}
+{"label": "podcasts", "sentence": "Replay my last played podcast."}
+{"label": "quirky", "sentence": "the weather was bad today."}
+{"label": "factoid", "sentence": "hey, would like to know about celebrity X."}
+{"label": "taxi", "sentence": "Book taxi for now"}
+{"label": "quirky", "sentence": "What is my astrology report for today"}
+{"label": "dontcare", "sentence": "i do not really care, olly."}
+{"label": "factoid", "sentence": "COULD YOU PLEASE TELL WHAT IS THE CAPITAL OF AMERICA."}
+{"label": "factoid", "sentence": "Who is Jennifer Aniston married to"}
+{"label": "wemo_off", "sentence": "Turn off the Wemo plug socket"}
+{"label": "dontcare", "sentence": "i would not really mind to choose any one."}
+{"label": "hue_lightchange", "sentence": "please change color of light to pinkish."}
+{"label": "recipe", "sentence": "Find the right amount of cinnamon for the garam masala."}
+{"label": "quirky", "sentence": "How do you feel today"}
+{"label": "post", "sentence": "Manage facebook status"}
+{"label": "game", "sentence": "I WANT YOU TO PLAY MY SOCCEER GAME FROM 5TH LEVEL."}
+{"label": "repeat", "sentence": "i'd like to hear what you said again."}
+{"label": "quirky", "sentence": "Tell me a random trivia."}
+{"label": "quirky", "sentence": "Can you tell me how to measure my shoe size?"}
+{"label": "factoid", "sentence": "For what is famous Ellen Degeneres?"}
+{"label": "hue_lightchange", "sentence": "White"}
+{"label": "hue_lightchange", "sentence": "change lights to pink"}
+{"label": "radio", "sentence": "Put the radio on and play radio 2"}
+{"label": "game", "sentence": "Start up League of Legends for me."}
+{"label": "repeat", "sentence": "would you reset please."}
+{"label": "audiobook", "sentence": "Resume audiobook player."}
+{"label": "factoid", "sentence": "Where is Leah Remini from?"}
+{"label": "post", "sentence": "Tweet to the customer service account of"}
+{"label": "factoid", "sentence": "What is the biggest city in the world?"}
+{"label": "repeat", "sentence": "please would you repeat."}
+{"label": "ticket", "sentence": "buy train tickets from delhi to mumbai for 23rd March"}
+{"label": "quirky", "sentence": "how is michael schumacher doing?"}
+{"label": "dontcare", "sentence": "i don't bother, olly."}
+{"label": "quirky", "sentence": "Start a conversation with me about sports"}
+{"label": "dontcare", "sentence": "anything would be fine with me."}
+{"label": "recipe", "sentence": "Give me a recipe for meatballs."}
+{"label": "currency", "sentence": "what's the US dollar rate today?"}
+{"label": "repeat", "sentence": "say once again please."}
+{"label": "factoid", "sentence": "how old is Trump?"}
+{"label": "post", "sentence": "Send a funny message to all of my friends"}
+{"label": "factoid", "sentence": "Is Steph Curry married?"}
+{"label": "dislikeness", "sentence": "Do not play rock metal"}
+{"label": "hue_lightchange", "sentence": "change light colors"}
+{"label": "factoid", "sentence": "how many records did coldplay sell?"}
+{"label": "quirky", "sentence": "whats a romantic meal for my girlfriend"}
+{"label": "factoid", "sentence": "How tall is Hulk Hogan?"}
+{"label": "repeat", "sentence": "tell me once again."}
+{"label": "quirky", "sentence": "Can you cook something special for me and my wife?"}
+{"label": "repeat", "sentence": "could you try again please."}
+{"label": "post", "sentence": "Update my status."}
+{"label": "recipe", "sentence": "How can I debone a tilapia?"}
+{"label": "radio", "sentence": "i need you to turn on the radio"}
+{"label": "factoid", "sentence": "Where did Amal Clooney go to college?"}
+{"label": "recipe", "sentence": "instruct me to cook"}
+{"label": "hue_lightchange", "sentence": "Hey PDA, can you make it blue in here?"}
+{"label": "quirky", "sentence": "draw"}
+{"label": "currency", "sentence": "Change dollar to rupees rates"}
+{"label": "quirky", "sentence": "ABOUT REALITY IN WORLD"}
+{"label": "ticket", "sentence": "Book my Chair class AC train ticket from Manhattan to New York."}
+{"label": "joke", "sentence": "tell me something funny"}
+{"label": "factoid", "sentence": "Where is New Zealand located on a map?"}
+{"label": "factoid", "sentence": "In which field does that person excel in ."}
+{"label": "quirky", "sentence": "What happened to Charlie Chaplin?"}
+{"label": "quirky", "sentence": "I would love to share my meal with you"}
+{"label": "factoid", "sentence": "Who has won the most number of OSCARS ever?"}
+{"label": "factoid", "sentence": "When did the USSR dissolve and the Soviet Union rise to power"}
+{"label": "factoid", "sentence": "what are the dimensions for a Buick lesber"}
+{"label": "recipe", "sentence": "Find a recipe for chicken alfredo"}
+{"label": "currency", "sentence": "How much is one dollar in euros?"}
+{"label": "joke", "sentence": "say joke"}
+{"label": "joke", "sentence": "PDA, I want to listen to a joke."}
+{"label": "podcasts", "sentence": "go to the podcast and play the next episode in ____"}
+{"label": "radio", "sentence": "Play John Fugelsang's show on Serius"}
+{"label": "post", "sentence": "tweet a complaint to <unk>"}
+{"label": "repeat", "sentence": "let us try your last things once more please."}
+{"label": "taxi", "sentence": "Request a driver for Uber in 5 minutes"}
+{"label": "recipe", "sentence": "what food is good?"}
+{"label": "currency", "sentence": "How much money in US would I need to have a thousand pesos?"}
+{"label": "factoid", "sentence": "How would you reach Moscow?"}
+{"label": "quirky", "sentence": "Today the following happened to me: I had a meeting with George"}
+{"label": "quirky", "sentence": "did you watch the news about the car accident that happened last night"}
+{"label": "joke", "sentence": "Search for a good nerd joke."}
+{"label": "recipe", "sentence": "recipe please"}
+{"label": "podcasts", "sentence": "Please play the podcast from happypeople.com."}
+{"label": "game", "sentence": "Olly, lets play tic tac toe"}
+{"label": "audiobook", "sentence": "Resume the playback of Zanes Sex Chronicles"}
+{"label": "post", "sentence": "Update profile on Twitter"}
+{"label": "game", "sentence": "Anyone for tennis?"}
+{"label": "dontcare", "sentence": "anything."}
+{"label": "audiobook", "sentence": "Go back to Animal Farm."}
+{"label": "recipe", "sentence": "PDA how do you cook Black Eye Pea?"}
+{"label": "currency", "sentence": "show exchnge rate of usd vs eur"}
+{"label": "repeat", "sentence": "will you tell me one more again please."}
+{"label": "recipe", "sentence": "What is the best way to cook pasta al dente?"}
+{"label": "repeat", "sentence": "i'd like to hear what said again."}
+{"label": "radio", "sentence": "Play a program about crime in Dallas area"}
+{"label": "factoid", "sentence": "How many hook ups had Richard Feynman?"}
+{"label": "post", "sentence": "Suggest me a complaint for neptun.al"}
+{"label": "ticket", "sentence": "book a Rajdhani train ticket from mumbai to ahmedabad"}
+{"label": "quirky", "sentence": "Olly I worked today"}
+{"label": "repeat", "sentence": "speak the last words one more time please."}
+{"label": "quirky", "sentence": "I was chased by a dog"}
+{"label": "joke", "sentence": "Tell me a joke about lawyers."}
+{"label": "wemo_off", "sentence": "turn socket off"}
+{"label": "factoid", "sentence": "I want some information on john lennon"}
+{"label": "post", "sentence": "PDA make a status stating I got the promotion."}
+{"label": "podcasts", "sentence": "Olly, start the podcast over that I started last night."}
+{"label": "hue_lightchange", "sentence": "PDA: Make the bedroom lights red and the hall lights normal color, please"}
+{"label": "repeat", "sentence": "i would like to hear your phrase you just said again."}
+{"label": "post", "sentence": "New twitter message"}
+{"label": "factoid", "sentence": "How many legs does a dog have?"}
+{"label": "quirky", "sentence": "what things can't you do"}
+{"label": "radio", "sentence": "I want to hear some local talk radio."}
+{"label": "audiobook", "sentence": "book xy play"}
+{"label": "audiobook", "sentence": "Base on my audiobook collection, get me recommendation related audio-book I should listen, get and play me the resume."}
+{"label": "quirky", "sentence": "What's the cheapest marathon to enter within 50 miles of here?"}
+{"label": "audiobook", "sentence": "Can you play my favorite audio book of King Kong?"}
+{"label": "repeat", "sentence": "tell me the last spoke one more time."}
+{"label": "podcasts", "sentence": "Play podcast for the Philadelphia Eagles content"}
+{"label": "recipe", "sentence": "how to make a burger"}
+{"label": "recipe", "sentence": "What ingredients do I need to bake a large cake?"}
+{"label": "taxi", "sentence": "uber please"}
+{"label": "podcasts", "sentence": "Show me the next episode"}
+{"label": "quirky", "sentence": "what is the most concern issue in USA today and what can be done to deal with it effectively ."}
+{"label": "post", "sentence": "Please tell Kmart they sent the wrong item."}
+{"label": "dontcare", "sentence": "have no idea."}
+{"label": "audiobook", "sentence": "End pause on audio book history of Rome"}
+{"label": "quirky", "sentence": "Here is something from today"}
+{"label": "podcasts", "sentence": "Go forward one episode."}
+{"label": "radio", "sentence": "Load Sirius and play a rock and roll show."}
+{"label": "taxi", "sentence": "Can you get me a taxi home?"}
+{"label": "podcasts", "sentence": "PDA: Jump to the next podcast"}
+{"label": "post", "sentence": "open image post"}
+{"label": "quirky", "sentence": "party beach"}
+{"label": "post", "sentence": "tweet consumer service"}
+{"label": "dontcare", "sentence": "don't really mind to choose any one."}
+{"label": "factoid", "sentence": "Does Spain share its border with Morrocco?"}
+{"label": "repeat", "sentence": "please tell me that again."}
+{"label": "repeat", "sentence": "i'd like to hear your last the procedure spoken again."}
+{"label": "dontcare", "sentence": "any one will be good to me."}
+{"label": "ticket", "sentence": "Order a train ticket to Los Angeles."}
+{"label": "dontcare", "sentence": "i do not bother, olly."}
+{"label": "post", "sentence": "tweet with consumer service about problem I am facing with the product"}
+{"label": "recipe", "sentence": "Your recipe of steak was superb"}
+{"label": "podcasts", "sentence": "Please go to next date"}
+{"label": "post", "sentence": "Tweet at Macy's: Two weeks after purchase and the hems have all come loose."}
+{"label": "radio", "sentence": "please put on radio"}
+{"label": "post", "sentence": "Siri, open Twitter, tweet @flooringco. your carpet seams are showing in less than a month"}
+{"label": "podcasts", "sentence": "Please play the podcast Order of the Green Hand 2"}
+{"label": "dontcare", "sentence": "that is of no importance with me, olly."}
+{"label": "ticket", "sentence": "Book a train ticket for an 8 AM ride to Charleston, West Virginia"}
+{"label": "factoid", "sentence": "Who is highest scoring football player of all time?"}
+{"label": "post", "sentence": "Ok Google, tweet McDonald's down Reseda has terrible service."}
+{"label": "dontcare", "sentence": "really wouldn't mind."}
+{"label": "recipe", "sentence": "Search for your favorite meal"}
+{"label": "quirky", "sentence": "i am sleepy"}
+{"label": "dontcare", "sentence": "that doesn't really matter to me."}
+{"label": "quirky", "sentence": "What's on your mind?"}
+{"label": "podcasts", "sentence": "Play the next episode of this series."}
+{"label": "currency", "sentence": "How many GBP can I get for one dollar?"}
+{"label": "post", "sentence": "tell comment"}
+{"label": "taxi", "sentence": "olly call a uber in 30 minutes"}
+{"label": "quirky", "sentence": "Can you give me the details of upcoming annual function on 26th March?"}
+{"label": "factoid", "sentence": "where is the Grand Canyon"}
+{"label": "post", "sentence": "tweet complaint to amazon products"}
+{"label": "hue_lightchange", "sentence": "Make the bedroom lights light blue"}
+{"label": "joke", "sentence": "humor me"}
+{"label": "repeat", "sentence": "tell me the last one spoken once more please."}
+{"label": "quirky", "sentence": "describe about it"}
+{"label": "factoid", "sentence": "What is the total number of Oceans in the world?"}
+{"label": "factoid", "sentence": "Is Mt. Everest the tallest mountain in the United States?"}
+{"label": "repeat", "sentence": "will you say once more please."}
+{"label": "repeat", "sentence": "could you speak one more again please."}
+{"label": "dontcare", "sentence": "i wouldn't bother."}
+{"label": "audiobook", "sentence": "Please restart the Handmaid's Tale"}
+{"label": "hue_lightchange", "sentence": "Can you change the light colors into dark in the house?"}
+{"label": "radio", "sentence": "Play my favourite radio."}
+{"label": "quirky", "sentence": "Sex"}
+{"label": "factoid", "sentence": "How tall is a giraffe?"}
+{"label": "quirky", "sentence": "Olly, today I had a record breaking sale!"}
+{"label": "wemo_off", "sentence": "Switch off the plug socket"}
+{"label": "quirky", "sentence": "wikipedia topics"}
+{"label": "hue_lightchange", "sentence": "Can you change the colour to red"}
+{"label": "game", "sentence": "Play mindsweeper with me."}
+{"label": "factoid", "sentence": "What color is the sky"}
+{"label": "recipe", "sentence": "Olly what ingredients are needed for pudding"}
+{"label": "quirky", "sentence": "THIS BRINGS SOME PROBLES TO US"}
+{"label": "recipe", "sentence": "PDA please search for beginners guide to cooking"}
+{"label": "quirky", "sentence": "can you explain me the problems when the syria becomes more stronger than america"}
+{"label": "recipe", "sentence": "instructions to make a meal"}
+{"label": "game", "sentence": "Open up tetris."}
+{"label": "quirky", "sentence": "tell me more about the concert on Friday's night"}
+{"label": "taxi", "sentence": "Call a call for me to where I am currently located."}
+{"label": "quirky", "sentence": "what mistakes do you usually make"}
+{"label": "radio", "sentence": "turn on 89x for rock"}
+{"label": "podcasts", "sentence": "go back one episode"}
+{"label": "post", "sentence": "Tweet my complaint to @consumer service"}
+{"label": "podcasts", "sentence": "go to next"}
+{"label": "hue_lightchange", "sentence": "Change the overhead light to orange."}
+{"label": "radio", "sentence": "Please play red fm"}
+{"label": "quirky", "sentence": "answer"}
+{"label": "post", "sentence": "Tweet rude salesperson"}
+{"label": "quirky", "sentence": "would much wood could a woodchuck chuck if a woodchuck could chuck wood?"}
+{"label": "factoid", "sentence": "What is the location of Moldova?"}
+{"label": "podcasts", "sentence": "I want to listen to podcast about rock n roll."}
+{"label": "game", "sentence": "Find game"}
+{"label": "repeat", "sentence": "will you do it again."}
+{"label": "podcasts", "sentence": "Play me the most popular podcast on iTunes."}
+{"label": "factoid", "sentence": "Where is George W. Bush from?"}
+{"label": "radio", "sentence": "Play the last radio channel."}
+{"label": "hue_lightchange", "sentence": "Change the colours please"}
+{"label": "repeat", "sentence": "speak your phrase spoke one more time please."}
+{"label": "factoid", "sentence": "Explain the Book of Daniel to me"}
+{"label": "dontcare", "sentence": "i don't really mind to choose any one, olly."}
+{"label": "radio", "sentence": "Start radio, station 107.5 fm"}
+{"label": "factoid", "sentence": "where is yellowstone park located?"}
+{"label": "currency", "sentence": "How much yens is a dollar worth?"}
+{"label": "repeat", "sentence": "beg your pardon."}
+{"label": "radio", "sentence": "Echo, turn on the local radio"}
+{"label": "quirky", "sentence": "Tell me if I can travel the whole world in a day"}
+{"label": "repeat", "sentence": "i want to hear what i've just said again."}
+{"label": "radio", "sentence": "alexa play PDR on the AM band radio"}
+{"label": "quirky", "sentence": "what rihana is doing"}
+{"label": "factoid", "sentence": "where is the statue of libery?"}
+{"label": "podcasts", "sentence": "Are the podcasts from X Available yet?"}
+{"label": "factoid", "sentence": "geo info"}
+{"label": "factoid", "sentence": "What is the population of Los Angeles?"}
+{"label": "repeat", "sentence": "please tell me it once more."}
+{"label": "currency", "sentence": "PDA please check exchange rates"}
+{"label": "hue_lightchange", "sentence": "How do I change the color of the lights"}
+{"label": "quirky", "sentence": "get me details of this person"}
+{"label": "taxi", "sentence": "Get me an uber"}
+{"label": "currency", "sentence": "What is the dollar equivilant in pesos?"}
+{"label": "post", "sentence": "send a tweet to kroger about spoiled milk"}
+{"label": "quirky", "sentence": "Does love equal sex?"}
+{"label": "repeat", "sentence": "let us try the last spoken again please."}
+{"label": "ticket", "sentence": "Book a train ticket to Oregon."}
+{"label": "quirky", "sentence": "Veganism"}
+{"label": "repeat", "sentence": "please can you retry your last thing you said."}
+{"label": "factoid", "sentence": "How tall is Frank Goggins?"}
+{"label": "game", "sentence": "open papa pear saga"}
+{"label": "joke", "sentence": "Sarcastic jokes"}
+{"label": "audiobook", "sentence": "alexa play from my last session of joes book."}
+{"label": "radio", "sentence": "Launch the radio"}
+{"label": "audiobook", "sentence": "Play 7 Habits of Effective People"}
+{"label": "quirky", "sentence": "do i need to spare washing my car today?"}
+{"label": "factoid", "sentence": "area of north america"}
+{"label": "factoid", "sentence": "When was Justin Bieber born?"}
+{"label": "quirky", "sentence": "Dubai marraige"}
+{"label": "repeat", "sentence": "try again please."}
+{"label": "hue_lightchange", "sentence": "Olly, activate a different light color."}
+{"label": "factoid", "sentence": "What is the highest mountain in the us?"}
+{"label": "quirky", "sentence": "Beam me up scotty"}
+{"label": "audiobook", "sentence": "Resume play of American Gods."}
+{"label": "ticket", "sentence": "Book a train ticket on the 502 in 15 minutes"}
+{"label": "dontcare", "sentence": "never mind, olly."}
+{"label": "podcasts", "sentence": "Next episode please."}
+{"label": "factoid", "sentence": "Where is Justin Beiber from?"}
+{"label": "repeat", "sentence": "speak that one more time please."}
+{"label": "quirky", "sentence": "show stage shows near me"}
+{"label": "quirky", "sentence": "Siri, if you could eat, what would you eat, and why?"}
+{"label": "factoid", "sentence": "What is the population of the world"}
+{"label": "radio", "sentence": "play hiphop in hot 97"}
+{"label": "quirky", "sentence": "I had a good day today."}
+{"label": "recipe", "sentence": "PDa, download cooking app"}
+{"label": "repeat", "sentence": "replay the last utterance said."}

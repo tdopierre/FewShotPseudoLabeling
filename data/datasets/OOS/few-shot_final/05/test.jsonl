@@ -1,0 +1,690 @@
+{"global_ix": 6854, "sentence": "what's the time", "label": "time"}
+{"global_ix": 17344, "sentence": "the bill for water and electricity is how much", "label": "bill_balance"}
+{"global_ix": 3477, "sentence": "give me the time left before i get to the hotel", "label": "distance"}
+{"global_ix": 4310, "sentence": "what is dog in spanish", "label": "translate"}
+{"global_ix": 15059, "sentence": "what is the smallest payment i can make toward my xfinity bill", "label": "min_payment"}
+{"global_ix": 6395, "sentence": "should i go to okinawa, does it require an international visa", "label": "international_visa"}
+{"global_ix": 6320, "sentence": "hi, how are you today", "label": "greeting"}
+{"global_ix": 15921, "sentence": "i want to have happy added to my rb playlist", "label": "update_playlist"}
+{"global_ix": 9930, "sentence": "please make a reservation at ruth's steaks for a party of five at 7:00 pm under jack arnold", "label": "restaurant_reservation"}
+{"global_ix": 495, "sentence": "in how many miles do i need to schedule my oil change", "label": "oil_change_when"}
+{"global_ix": 23512, "sentence": "how long should a cake bake", "label": "cook_time"}
+{"global_ix": 20343, "sentence": "current weather", "label": "weather"}
+{"global_ix": 23143, "sentence": "are you a computer, or are you a real person", "label": "are_you_a_bot"}
+{"global_ix": 9148, "sentence": "at 7, i need a table for 3 at olive garden", "label": "restaurant_reservation"}
+{"global_ix": 1947, "sentence": "i bought 6 shirts at $499 each what was my total expenditure for them", "label": "calculator"}
+{"global_ix": 15984, "sentence": "i want to know the definition of discretionary", "label": "definition"}
+{"global_ix": 20730, "sentence": "please play the next song on this playlist", "label": "next_song"}
+{"global_ix": 19716, "sentence": "what age were you on your last birthday, ai", "label": "how_old_are_you"}
+{"global_ix": 12462, "sentence": "my new card will arrive when", "label": "replacement_card_duration"}
+{"global_ix": 23331, "sentence": "what's the definition of patriarchy", "label": "definition"}
+{"global_ix": 8695, "sentence": "what are the nutrition facts for carrots", "label": "nutrition_info"}
+{"global_ix": 17072, "sentence": "how do you say fast in spanish", "label": "translate"}
+{"global_ix": 17079, "sentence": "how and where are my w2 forms given", "label": "w2"}
+{"global_ix": 6646, "sentence": "how can i say i love you in italy", "label": "translate"}
+{"global_ix": 19865, "sentence": "add yosemite to my rap playlist", "label": "update_playlist"}
+{"global_ix": 8473, "sentence": "show me the recipe for broccoli cheddar soup", "label": "ingredients_list"}
+{"global_ix": 6229, "sentence": "is it normal to use mayo instead of cheese", "label": "ingredient_substitution"}
+{"global_ix": 8429, "sentence": "by what name people call me", "label": "user_name"}
+{"global_ix": 13350, "sentence": "what do you put in a tibetan omelette", "label": "ingredients_list"}
+{"global_ix": 20074, "sentence": "can you update me on the status of my american express card application", "label": "application_status"}
+{"global_ix": 22368, "sentence": "please show me where i am on a map", "label": "current_location"}
+{"global_ix": 5662, "sentence": "what is one thing i might not know about nike shoes", "label": "fun_fact"}
+{"global_ix": 20066, "sentence": "your date of birth", "label": "how_old_are_you"}
+{"global_ix": 2246, "sentence": "how can i redeem my credit card points", "label": "redeem_rewards"}
+{"global_ix": 8505, "sentence": "will my credit card be mailed soon", "label": "replacement_card_duration"}
+{"global_ix": 16837, "sentence": "what recreational activities do you enjoy", "label": "what_are_your_hobbies"}
+{"global_ix": 15703, "sentence": "i need this song on my jam playlist", "label": "update_playlist"}
+{"global_ix": 3157, "sentence": "i applied for a new credit card; did it process yet", "label": "application_status"}
+{"global_ix": 12156, "sentence": "how do i get more checkbooks mailed to me", "label": "order_checks"}
+{"global_ix": 5849, "sentence": "what do i need to make chicken salad", "label": "ingredients_list"}
+{"global_ix": 13307, "sentence": "how long does it take to bake a cake", "label": "cook_time"}
+{"global_ix": 22654, "sentence": "does using my card in portland charge me extra", "label": "international_fees"}
+{"global_ix": 21848, "sentence": "please look up the this cars mpg", "label": "mpg"}
+{"global_ix": 6002, "sentence": "whats my delta flight's status", "label": "flight_status"}
+{"global_ix": 5032, "sentence": "can you talk slower please", "label": "change_speed"}
+{"global_ix": 20100, "sentence": "i am needing to know your name", "label": "what_is_your_name"}
+{"global_ix": 22479, "sentence": "how much money did i spend on food last month", "label": "spending_history"}
+{"global_ix": 18853, "sentence": "it is okay to replace water instead of milk", "label": "ingredient_substitution"}
+{"global_ix": 2334, "sentence": "i need soda added to my list and carrots removed", "label": "shopping_list_update"}
+{"global_ix": 12704, "sentence": "skip and play next song", "label": "next_song"}
+{"global_ix": 8263, "sentence": "is a walmart gift card one of the things i can use my credit card points on", "label": "redeem_rewards"}
+{"global_ix": 15152, "sentence": "when will my flight land", "label": "flight_status"}
+{"global_ix": 15520, "sentence": "tell me the least i can pay", "label": "min_payment"}
+{"global_ix": 7301, "sentence": "how do you reference me", "label": "user_name"}
+{"global_ix": 22697, "sentence": "put milk on my shopping list", "label": "shopping_list_update"}
+{"global_ix": 21109, "sentence": "how do i say hello in french", "label": "translate"}
+{"global_ix": 9427, "sentence": "what is the process for ordering new checks", "label": "order_checks"}
+{"global_ix": 22971, "sentence": "does one need a visa to go there", "label": "international_visa"}
+{"global_ix": 22756, "sentence": "when do cars need their oil changed", "label": "oil_change_when"}
+{"global_ix": 8034, "sentence": "what's 15% of 68", "label": "calculator"}
+{"global_ix": 20442, "sentence": "i need to change my account", "label": "change_accent"}
+{"global_ix": 20268, "sentence": "would it be ok if i have pepper and not salt", "label": "ingredient_substitution"}
+{"global_ix": 19055, "sentence": "are you actually a person", "label": "are_you_a_bot"}
+{"global_ix": 16928, "sentence": "can you tell me the current time in jamaica", "label": "time"}
+{"global_ix": 2412, "sentence": "please let me know how long it'll be until i reach the sky harbor airport", "label": "distance"}
+{"global_ix": 6791, "sentence": "how long does it take until i reach the sky harbor airport", "label": "distance"}
+{"global_ix": 2152, "sentence": "i wanna add this song to my rock playlist", "label": "update_playlist"}
+{"global_ix": 672, "sentence": "what are the weather conditions like in seattle", "label": "weather"}
+{"global_ix": 3690, "sentence": "can i safely travel to france or is it dangerous", "label": "travel_alert"}
+{"global_ix": 12860, "sentence": "pay my mortgage from my checkings accounts", "label": "pay_bill"}
+{"global_ix": 1835, "sentence": "what do you refer to me as", "label": "user_name"}
+{"global_ix": 10877, "sentence": "i want to be called mollie", "label": "change_user_name"}
+{"global_ix": 12180, "sentence": "how many points do i have on my visa", "label": "rewards_balance"}
+{"global_ix": 20118, "sentence": "can you not talk so fast", "label": "change_speed"}
+{"global_ix": 7169, "sentence": "what is the amount of dollars i get if i trade in 6 yens", "label": "exchange_rate"}
+{"global_ix": 19684, "sentence": "can you tell me what the amount on my directv bill is", "label": "bill_balance"}
+{"global_ix": 10481, "sentence": "i got to pay my cable bill", "label": "pay_bill"}
+{"global_ix": 22548, "sentence": "what do you like to do in your free time", "label": "what_are_your_hobbies"}
+{"global_ix": 17540, "sentence": "tell me what to enter into my gps for my current location", "label": "current_location"}
+{"global_ix": 21958, "sentence": "switch to male british accent", "label": "change_accent"}
+{"global_ix": 19301, "sentence": "divide 100 by 12", "label": "calculator"}
+{"global_ix": 6760, "sentence": "i need to know the status of my alaska air flight", "label": "flight_status"}
+{"global_ix": 4155, "sentence": "name unusual facts about the circus", "label": "fun_fact"}
+{"global_ix": 17723, "sentence": "please tell me how much money i have in my bank accounts", "label": "balance"}
+{"global_ix": 6882, "sentence": "what's a good fun fact about great britain", "label": "fun_fact"}
+{"global_ix": 19818, "sentence": "what should i use when i refer to you", "label": "what_is_your_name"}
+{"global_ix": 12044, "sentence": "catch you around", "label": "goodbye"}
+{"global_ix": 9405, "sentence": "does greece currently have any travel alerts in place", "label": "travel_alert"}
+{"global_ix": 12186, "sentence": "what does yolo mean", "label": "definition"}
+{"global_ix": 1699, "sentence": "what's the temperature like in tampa", "label": "weather"}
+{"global_ix": 5932, "sentence": "what's my bill for water and electricity", "label": "bill_balance"}
+{"global_ix": 4531, "sentence": "what time is it exactly", "label": "time"}
+{"global_ix": 4765, "sentence": "play next song using this playlist", "label": "next_song"}
+{"global_ix": 22534, "sentence": "tell me the exchange rate between here and country b", "label": "exchange_rate"}
+{"global_ix": 13185, "sentence": "please slow down i can't understand you", "label": "change_speed"}
+{"global_ix": 14923, "sentence": "how much is my cable bill for", "label": "bill_balance"}
+{"global_ix": 4595, "sentence": "what's the balance on my bank account", "label": "balance"}
+{"global_ix": 21698, "sentence": "can i get my w2 online", "label": "w2"}
+{"global_ix": 9883, "sentence": "i want to be updated on the most recent status of my credit card application", "label": "application_status"}
+{"global_ix": 1404, "sentence": "i need to add this song to my playlist of rock", "label": "update_playlist"}
+{"global_ix": 15790, "sentence": "what is gumbo made of", "label": "ingredients_list"}
+{"global_ix": 11270, "sentence": "i ran out of checks and need more ordered", "label": "order_checks"}
+{"global_ix": 3562, "sentence": "start using a different accent", "label": "change_accent"}
+{"global_ix": 8484, "sentence": "how much did i spend on grocery shopping recently", "label": "spending_history"}
+{"global_ix": 14191, "sentence": "reminders of my list is what", "label": "reminder"}
+{"global_ix": 17552, "sentence": "i enjoyed our talk, bye", "label": "goodbye"}
+{"global_ix": 11070, "sentence": "what is my checking account balance at chase", "label": "balance"}
+{"global_ix": 7102, "sentence": "tell me the nutrition info for a cup of milk", "label": "nutrition_info"}
+{"global_ix": 20091, "sentence": "what ingredients are necessary for a steak", "label": "ingredients_list"}
+{"global_ix": 13760, "sentence": "i need more checkbooks for my chase account", "label": "order_checks"}
+{"global_ix": 5909, "sentence": "does my chase card have international transaction fees", "label": "international_fees"}
+{"global_ix": 5886, "sentence": "hello, how is it going", "label": "greeting"}
+{"global_ix": 9209, "sentence": "play the next song", "label": "next_song"}
+{"global_ix": 12653, "sentence": "how do they say no in germany", "label": "translate"}
+{"global_ix": 17745, "sentence": "can i make a reservation for 2 at state bird for 8:30, please", "label": "restaurant_reservation"}
+{"global_ix": 7982, "sentence": "how would they say butter in zambia", "label": "translate"}
+{"global_ix": 6107, "sentence": "how long before i can get a replacement card", "label": "replacement_card_duration"}
+{"global_ix": 15929, "sentence": "20 yen is how many dollars", "label": "exchange_rate"}
+{"global_ix": 3038, "sentence": "use the map and pinpoint my position", "label": "current_location"}
+{"global_ix": 9175, "sentence": "what's the eta for a new card to come in the mail", "label": "replacement_card_duration"}
+{"global_ix": 2356, "sentence": "whats the exchange rate for us dollars to british pounds", "label": "exchange_rate"}
+{"global_ix": 20556, "sentence": "how's it hanging", "label": "greeting"}
+{"global_ix": 21413, "sentence": "tell me where to a w2 form", "label": "w2"}
+{"global_ix": 13856, "sentence": "are eggs on my list, if not add them", "label": "shopping_list_update"}
+{"global_ix": 23615, "sentence": "you're talking too quickly for me to understand", "label": "change_speed"}
+{"global_ix": 22402, "sentence": "could you call me by a different name, please", "label": "change_user_name"}
+{"global_ix": 11101, "sentence": "change settings to sound like a female", "label": "change_accent"}
+{"global_ix": 5561, "sentence": "say my name", "label": "user_name"}
+{"global_ix": 12232, "sentence": "when is my flight going to board", "label": "flight_status"}
+{"global_ix": 22526, "sentence": "is there a travel alert for russia", "label": "travel_alert"}
+{"global_ix": 1281, "sentence": "can you tell me the low tonight", "label": "weather"}
+{"global_ix": 17844, "sentence": "how do i use the reward for my bank of hawaii", "label": "redeem_rewards"}
+{"global_ix": 12894, "sentence": "please tell me my location using gps", "label": "current_location"}
+{"global_ix": 16315, "sentence": "i need to to the female voice", "label": "change_accent"}
+{"global_ix": 74, "sentence": "i need help paying my auto insurance bill", "label": "pay_bill"}
+{"global_ix": 3057, "sentence": "please add to \"kids\" playlist", "label": "update_playlist"}
+{"global_ix": 17545, "sentence": "i'd like to know my minimum payment please", "label": "min_payment"}
+{"global_ix": 1544, "sentence": "tell me something fun about gravity", "label": "fun_fact"}
+{"global_ix": 22289, "sentence": "dial steven", "label": "make_call"}
+{"global_ix": 5628, "sentence": "what are you, a bot or human", "label": "are_you_a_bot"}
+{"global_ix": 17333, "sentence": "what is the number of remaining rewards points on my chase card", "label": "rewards_balance"}
+{"global_ix": 11214, "sentence": "are visas needed to travel to jamaica", "label": "international_visa"}
+{"global_ix": 12473, "sentence": "what's your birth date", "label": "how_old_are_you"}
+{"global_ix": 5280, "sentence": "what items did i want to remember", "label": "reminder"}
+{"global_ix": 22874, "sentence": "what's the time in anchorage timezone", "label": "time"}
+{"global_ix": 19524, "sentence": "how do you know if your oil needs changed", "label": "oil_change_when"}
+{"global_ix": 14581, "sentence": "do when you when my replacement card will get mailed", "label": "replacement_card_duration"}
+{"global_ix": 20207, "sentence": "perform a search for my most recent balance on my amex account", "label": "balance"}
+{"global_ix": 4928, "sentence": "are you a person that's real", "label": "are_you_a_bot"}
+{"global_ix": 8238, "sentence": "does jamaica require a visa", "label": "international_visa"}
+{"global_ix": 14524, "sentence": "check my checking balance", "label": "balance"}
+{"global_ix": 17609, "sentence": "i must know the nutritional info for grapes", "label": "nutrition_info"}
+{"global_ix": 14371, "sentence": "tell me how you've been", "label": "greeting"}
+{"global_ix": 3737, "sentence": "what's the total i've spent on shoes this month", "label": "spending_history"}
+{"global_ix": 4621, "sentence": "your name is", "label": "what_is_your_name"}
+{"global_ix": 15186, "sentence": "if you have hobbies tell me some of them", "label": "what_are_your_hobbies"}
+{"global_ix": 18933, "sentence": "speak back to me what's on my reminder list", "label": "reminder"}
+{"global_ix": 2025, "sentence": "what was your name again", "label": "what_is_your_name"}
+{"global_ix": 569, "sentence": "mailing to me for a new card takes how long", "label": "replacement_card_duration"}
+{"global_ix": 22997, "sentence": "connect me to bob", "label": "make_call"}
+{"global_ix": 2758, "sentence": "could you talk like a british male", "label": "change_accent"}
+{"global_ix": 10693, "sentence": "add this track to my rock playlist", "label": "update_playlist"}
+{"global_ix": 8213, "sentence": "what is the total amount of my starbucks rewards balance", "label": "rewards_balance"}
+{"global_ix": 12559, "sentence": "what's my reward balance on my amex card", "label": "rewards_balance"}
+{"global_ix": 1410, "sentence": "speed up your talking please", "label": "change_speed"}
+{"global_ix": 3049, "sentence": "can you call mom", "label": "make_call"}
+{"global_ix": 1849, "sentence": "\"which things are wanted to remember", "label": "reminder"}
+{"global_ix": 17535, "sentence": "talk to me about where im at right now", "label": "current_location"}
+{"global_ix": 20857, "sentence": "speak at a slower rate", "label": "change_speed"}
+{"global_ix": 15917, "sentence": "what is the minimum payment", "label": "min_payment"}
+{"global_ix": 21416, "sentence": "can you order new checks for my citizens checking", "label": "order_checks"}
+{"global_ix": 15819, "sentence": "what is the weather in tokyo", "label": "weather"}
+{"global_ix": 17894, "sentence": "i need anyone who can help me pay my electric bill", "label": "pay_bill"}
+{"global_ix": 2651, "sentence": "i need you to reserve at table for a party of four at devon's for 6:00 pm", "label": "restaurant_reservation"}
+{"global_ix": 15263, "sentence": "use a male voice now", "label": "change_accent"}
+{"global_ix": 16676, "sentence": "please use your female voice", "label": "change_accent"}
+{"global_ix": 1380, "sentence": "where should i look for my w-2", "label": "w2"}
+{"global_ix": 1819, "sentence": "how can i get your attention", "label": "what_is_your_name"}
+{"global_ix": 18145, "sentence": "what does \"money\" mean", "label": "definition"}
+{"global_ix": 945, "sentence": "do i need a us visa for cuba", "label": "international_visa"}
+{"global_ix": 21820, "sentence": "can yogurt be used for sour cream", "label": "ingredient_substitution"}
+{"global_ix": 23460, "sentence": "is it ok to use ketchup instead of mustard", "label": "ingredient_substitution"}
+{"global_ix": 19502, "sentence": "it was very good to talk to you", "label": "goodbye"}
+{"global_ix": 11130, "sentence": "would you give jenny a call", "label": "make_call"}
+{"global_ix": 20061, "sentence": "goodbye, helpful ai device!", "label": "goodbye"}
+{"global_ix": 14445, "sentence": "what is the lowest amount i can pay for my hospital bill", "label": "min_payment"}
+{"global_ix": 22189, "sentence": "how can i locate where i am", "label": "current_location"}
+{"global_ix": 17242, "sentence": "i hope i have enough money in my chase account to buy new clothes", "label": "balance"}
+{"global_ix": 1236, "sentence": "how much did i spend on movies last week", "label": "spending_history"}
+{"global_ix": 6778, "sentence": "can you tell me how many calories are in an apple", "label": "nutrition_info"}
+{"global_ix": 15311, "sentence": "why, hello bandit", "label": "greeting"}
+{"global_ix": 13974, "sentence": "how are things", "label": "greeting"}
+{"global_ix": 2273, "sentence": "i want to listen to the next song on this playlist instead", "label": "next_song"}
+{"global_ix": 5023, "sentence": "i gotta know when should i get my oil changed next", "label": "oil_change_when"}
+{"global_ix": 16285, "sentence": "is there enough money in my discover account for a new pair of jeans", "label": "balance"}
+{"global_ix": 14794, "sentence": "5 people are going to be at tropicana by 8pm, reserve the table under martins name please", "label": "restaurant_reservation"}
+{"global_ix": 14897, "sentence": "i have points on my capital one card and i'd like to know how many i've earned", "label": "rewards_balance"}
+{"global_ix": 2841, "sentence": "how much is one us dollar in british pounds", "label": "exchange_rate"}
+{"global_ix": 10657, "sentence": "a w2 form can be gotten from where", "label": "w2"}
+{"global_ix": 20698, "sentence": "slow down your talking", "label": "change_speed"}
+{"global_ix": 15438, "sentence": "how do i get a w2", "label": "w2"}
+{"global_ix": 22502, "sentence": "at what point will this flight start letting people board", "label": "flight_status"}
+{"global_ix": 17237, "sentence": "please stop calling me dave, my name's bob", "label": "change_user_name"}
+{"global_ix": 16224, "sentence": "what do you like to do besides work", "label": "what_are_your_hobbies"}
+{"global_ix": 5777, "sentence": "what is an ataraxy", "label": "definition"}
+{"global_ix": 18169, "sentence": "what ingredients go in spaghetti", "label": "ingredients_list"}
+{"global_ix": 12485, "sentence": "do i need a visa for germany", "label": "international_visa"}
+{"global_ix": 14813, "sentence": "is there a reservation available at ruth chris today", "label": "restaurant_reservation"}
+{"global_ix": 22307, "sentence": "change this song it sucks so bad", "label": "next_song"}
+{"global_ix": 9894, "sentence": "how's the mpg for this on the freeway", "label": "mpg"}
+{"global_ix": 6144, "sentence": "what's the time of arrival on my new credit card", "label": "replacement_card_duration"}
+{"global_ix": 6165, "sentence": "does visa charge transaction fees in the uk", "label": "international_fees"}
+{"global_ix": 9567, "sentence": "has my application for my visa card gone through", "label": "application_status"}
+{"global_ix": 16564, "sentence": "so are you a bot", "label": "are_you_a_bot"}
+{"global_ix": 9610, "sentence": "will you order more checkbooks for my silvergate account", "label": "order_checks"}
+{"global_ix": 1885, "sentence": "which ingredients does gumbo have", "label": "ingredients_list"}
+{"global_ix": 643, "sentence": "will i be charged if i use my card in mexico", "label": "international_fees"}
+{"global_ix": 14345, "sentence": "what is the exchange rate between usd and british pounds", "label": "exchange_rate"}
+{"global_ix": 22644, "sentence": "can you tell me the weather forecast", "label": "weather"}
+{"global_ix": 17736, "sentence": "subtract 85 from 997", "label": "calculator"}
+{"global_ix": 21757, "sentence": "what is my kohls card's rewards balance", "label": "rewards_balance"}
+{"global_ix": 13284, "sentence": "can you tell me what things i was trying to remember", "label": "reminder"}
+{"global_ix": 22914, "sentence": "tell me fun science facts", "label": "fun_fact"}
+{"global_ix": 22487, "sentence": "how do they say hello in germany", "label": "translate"}
+{"global_ix": 1997, "sentence": "i would like to know the status of my credit card application", "label": "application_status"}
+{"global_ix": 4499, "sentence": "how low can i reduce my phone bill before paying", "label": "min_payment"}
+{"global_ix": 19802, "sentence": "thanks bye bye!", "label": "goodbye"}
+{"global_ix": 7489, "sentence": "give me a list of international transaction fees for my amex", "label": "international_fees"}
+{"global_ix": 10551, "sentence": "i need to know what it is that i wanted to remember before", "label": "reminder"}
+{"global_ix": 22191, "sentence": "can you tell me what the form is employers are supposed to send you for taxes and where i get it", "label": "w2"}
+{"global_ix": 15489, "sentence": "it was really awesome to talk to you", "label": "goodbye"}
+{"global_ix": 16178, "sentence": "what's the status on my application for the hsbc credit card", "label": "application_status"}
+{"global_ix": 15594, "sentence": "ai, what is your given name", "label": "what_is_your_name"}
+{"global_ix": 1298, "sentence": "what is three quarters of one sixth", "label": "calculator"}
+{"global_ix": 15796, "sentence": "can you me what they call you", "label": "what_is_your_name"}
+{"global_ix": 20019, "sentence": "have i been spending a lot on roast beef lately", "label": "spending_history"}
+{"global_ix": 885, "sentence": "how high are the rewards on my discover card", "label": "rewards_balance"}
+{"global_ix": 2970, "sentence": "what does it take to make buttermilk pancakes", "label": "ingredients_list"}
+{"global_ix": 17553, "sentence": "whats the definition of poor", "label": "definition"}
+{"global_ix": 18751, "sentence": "i don't want this song, move to the next", "label": "next_song"}
+{"global_ix": 21378, "sentence": "send me more checkbooks please", "label": "order_checks"}
+{"global_ix": 6502, "sentence": "please add milk on my shopping list, if it is not already on it", "label": "shopping_list_update"}
+{"global_ix": 10840, "sentence": "help me figure out redemption of my credit card points", "label": "redeem_rewards"}
+{"global_ix": 12862, "sentence": "hello, how's your day", "label": "greeting"}
+{"global_ix": 9857, "sentence": "what is the prep time for a 10 lb turkey", "label": "cook_time"}
+{"global_ix": 20918, "sentence": "can i swap yogurt for sour cream", "label": "ingredient_substitution"}
+{"global_ix": 4207, "sentence": "can i see all the international transaction fees on my amex", "label": "international_fees"}
+{"global_ix": 10485, "sentence": "what is the time, please", "label": "time"}
+{"global_ix": 14178, "sentence": "let me see the nutrition content of the chicken tacos", "label": "nutrition_info"}
+{"global_ix": 19725, "sentence": "i need your accent to be changed", "label": "change_accent"}
+{"global_ix": 7067, "sentence": "how long do you cook a hamburger for", "label": "cook_time"}
+{"global_ix": 18284, "sentence": "how many canadian dollars can i get for 5 us dollars", "label": "exchange_rate"}
+{"global_ix": 16033, "sentence": "when to change my oil", "label": "oil_change_when"}
+{"global_ix": 7302, "sentence": "how much money is left in my bank accounts", "label": "balance"}
+{"global_ix": 14454, "sentence": "would you say i've spent too much money on chips as of late", "label": "spending_history"}
+{"global_ix": 11283, "sentence": "i ran out of checks and need more asap", "label": "order_checks"}
+{"global_ix": 8384, "sentence": "how's the weather in tallahassee", "label": "weather"}
+{"global_ix": 15175, "sentence": "does this car get good mpg in the city", "label": "mpg"}
+{"global_ix": 20547, "sentence": "i'd like to know if my capital one credit card have international transaction fees", "label": "international_fees"}
+{"global_ix": 15071, "sentence": "i want you to let me know what names you have for me", "label": "user_name"}
+{"global_ix": 6116, "sentence": "let me know how much money i will need to spend on paying bills", "label": "bill_balance"}
+{"global_ix": 20724, "sentence": "what is the exchange rate between rubles and us dollars", "label": "exchange_rate"}
+{"global_ix": 5805, "sentence": "what is your name for me", "label": "user_name"}
+{"global_ix": 11881, "sentence": "the male voice please", "label": "change_accent"}
+{"global_ix": 2156, "sentence": "speed up your speech", "label": "change_speed"}
+{"global_ix": 18752, "sentence": "can you share something interesting about world war one", "label": "fun_fact"}
+{"global_ix": 3388, "sentence": "tell me what edict means", "label": "definition"}
+{"global_ix": 3089, "sentence": "bye-bye", "label": "goodbye"}
+{"global_ix": 18631, "sentence": "please read all the items on my reminder list", "label": "reminder"}
+{"global_ix": 5132, "sentence": "i want to redeem points on my chase card, but how", "label": "redeem_rewards"}
+{"global_ix": 6176, "sentence": "what ingredients are in filet mignon", "label": "ingredients_list"}
+{"global_ix": 5751, "sentence": "is there any money left", "label": "balance"}
+{"global_ix": 279, "sentence": "what is the minimum i can pay for the gas bill", "label": "min_payment"}
+{"global_ix": 17995, "sentence": "would you just like to call me paul", "label": "change_user_name"}
+{"global_ix": 8395, "sentence": "add bread to my list of things to buy", "label": "shopping_list_update"}
+{"global_ix": 12878, "sentence": "what is the mpg of this car", "label": "mpg"}
+{"global_ix": 5143, "sentence": "you can refer to me as frank", "label": "change_user_name"}
+{"global_ix": 17502, "sentence": "i need to pay my visa", "label": "pay_bill"}
+{"global_ix": 11943, "sentence": "what is 400 times 2", "label": "calculator"}
+{"global_ix": 2402, "sentence": "when will my credit card app be approved", "label": "application_status"}
+{"global_ix": 20637, "sentence": "can you tell me what you refer to me as", "label": "user_name"}
+{"global_ix": 22683, "sentence": "when will my new card come in the mail", "label": "replacement_card_duration"}
+{"global_ix": 2507, "sentence": "add sprite to my shopping list", "label": "shopping_list_update"}
+{"global_ix": 15191, "sentence": "let me know the amounts i owe for my utilities and tuition bills", "label": "bill_balance"}
+{"global_ix": 18590, "sentence": "tell me the points on my delta rewards card", "label": "rewards_balance"}
+{"global_ix": 7709, "sentence": "is there a travel alert in spain", "label": "travel_alert"}
+{"global_ix": 7284, "sentence": "it was enjoyable talking with you", "label": "goodbye"}
+{"global_ix": 21859, "sentence": "hey", "label": "greeting"}
+{"global_ix": 8555, "sentence": "how would i be able to check my kohls rewards card", "label": "rewards_balance"}
+{"global_ix": 13456, "sentence": "what should i buy to make burritos tonight", "label": "ingredients_list"}
+{"global_ix": 19574, "sentence": "how do i cash in credit card points", "label": "redeem_rewards"}
+{"global_ix": 14358, "sentence": "what is the date of your birth", "label": "how_old_are_you"}
+{"global_ix": 13318, "sentence": "hello there!", "label": "greeting"}
+{"global_ix": 23410, "sentence": "what do you like to do in your spare time", "label": "what_are_your_hobbies"}
+{"global_ix": 12599, "sentence": "i go by ted", "label": "change_user_name"}
+{"global_ix": 1341, "sentence": "present your speech at a slower pace", "label": "change_speed"}
+{"global_ix": 21474, "sentence": "can you tell me how old the ai is", "label": "how_old_are_you"}
+{"global_ix": 20615, "sentence": "where do i go to get a form for w2s", "label": "w2"}
+{"global_ix": 7900, "sentence": "please make me a reservation for monty's at noon for 55555", "label": "restaurant_reservation"}
+{"global_ix": 13003, "sentence": "how long can i expect a bus ride to the liberty bell to take", "label": "distance"}
+{"global_ix": 2143, "sentence": "how much is my comcast bill", "label": "bill_balance"}
+{"global_ix": 9716, "sentence": "i'm not sure if watermelon is on my shopping list, but if it isn't can you put it on there", "label": "shopping_list_update"}
+{"global_ix": 11118, "sentence": "please call christy", "label": "make_call"}
+{"global_ix": 6536, "sentence": "tell me the current balance of my bank accounts", "label": "balance"}
+{"global_ix": 19593, "sentence": "utilizing an automobile known as a bus, how long will it take to get to detroit", "label": "distance"}
+{"global_ix": 7300, "sentence": "i'd like to pay $4735 to my water bill", "label": "pay_bill"}
+{"global_ix": 13191, "sentence": "what's the name that you have for me, please", "label": "user_name"}
+{"global_ix": 13864, "sentence": "hey there!", "label": "greeting"}
+{"global_ix": 2318, "sentence": "am i able to redeem my credit card points for an amazon gift card", "label": "redeem_rewards"}
+{"global_ix": 11261, "sentence": "i need to know what adumbrate means can you look it up for me now", "label": "definition"}
+{"global_ix": 18638, "sentence": "what is the updated points that i earned with synovus card", "label": "rewards_balance"}
+{"global_ix": 684, "sentence": "how much gas does this use in the city", "label": "mpg"}
+{"global_ix": 4383, "sentence": "how do i know that you're a person", "label": "are_you_a_bot"}
+{"global_ix": 21153, "sentence": "call back my mom please", "label": "make_call"}
+{"global_ix": 3813, "sentence": "this was fun, see you around bye", "label": "goodbye"}
+{"global_ix": 5114, "sentence": "i am wanting to know how old you are", "label": "how_old_are_you"}
+{"global_ix": 6892, "sentence": "how does one say thank you in spanish", "label": "translate"}
+{"global_ix": 7880, "sentence": "what ingredients are present in marshmallows", "label": "ingredients_list"}
+{"global_ix": 10255, "sentence": "please add this song to my alternative playlist", "label": "update_playlist"}
+{"global_ix": 16429, "sentence": "what is today's high temperature predicted to be", "label": "weather"}
+{"global_ix": 10837, "sentence": "what is the current time", "label": "time"}
+{"global_ix": 13965, "sentence": "i want to hear a fun fact about american presidents", "label": "fun_fact"}
+{"global_ix": 8407, "sentence": "how are you classified, as a human or a computer", "label": "are_you_a_bot"}
+{"global_ix": 15396, "sentence": "are bananas on my shopping list can you add them if they aren't", "label": "shopping_list_update"}
+{"global_ix": 16120, "sentence": "do travelers to egypt get hit with transaction fees if they're using a mastercard", "label": "international_fees"}
+{"global_ix": 4729, "sentence": "i'm out of my checks i need some new ones", "label": "order_checks"}
+{"global_ix": 13828, "sentence": "i need oranges on my shopping list", "label": "shopping_list_update"}
+{"global_ix": 12870, "sentence": "for going to that country, do i need a visa", "label": "international_visa"}
+{"global_ix": 17659, "sentence": "would it be possible to replace the salt with baking soda", "label": "ingredient_substitution"}
+{"global_ix": 15475, "sentence": "how long should i expect to wait for my replacement credit card", "label": "replacement_card_duration"}
+{"global_ix": 13748, "sentence": "later!", "label": "goodbye"}
+{"global_ix": 20140, "sentence": "time taken from home to doctors office", "label": "distance"}
+{"global_ix": 13913, "sentence": "could pizza be healthy", "label": "nutrition_info"}
+{"global_ix": 21155, "sentence": "is there a way to tell when i need my oil changed", "label": "oil_change_when"}
+{"global_ix": 8861, "sentence": "so to go to brooklyn, it would take me how long again", "label": "distance"}
+{"global_ix": 21939, "sentence": "add the song rap god to the motivational playlist", "label": "update_playlist"}
+{"global_ix": 6560, "sentence": "do you know how to refer to me", "label": "user_name"}
+{"global_ix": 5487, "sentence": "how old will you be next year", "label": "how_old_are_you"}
+{"global_ix": 10094, "sentence": "what landing time is scheduled for my flight", "label": "flight_status"}
+{"global_ix": 10768, "sentence": "will my discover card ding me with transaction fees if i'm in aruba", "label": "international_fees"}
+{"global_ix": 22967, "sentence": "how much highway mpg does it get", "label": "mpg"}
+{"global_ix": 4289, "sentence": "how do you say please in french", "label": "translate"}
+{"global_ix": 20395, "sentence": "give me a list of ingredients for making pasta", "label": "ingredients_list"}
+{"global_ix": 328, "sentence": "how many minutes are involved in the preparation of curry", "label": "cook_time"}
+{"global_ix": 5546, "sentence": "how many minutes to melt cheese", "label": "cook_time"}
+{"global_ix": 12581, "sentence": "would you say that you are human or copmuter", "label": "are_you_a_bot"}
+{"global_ix": 12279, "sentence": "what's the definition of unencumbered", "label": "definition"}
+{"global_ix": 19317, "sentence": "how much have i spent on tires this month", "label": "spending_history"}
+{"global_ix": 16595, "sentence": "please give me the time in tanzania at this moment", "label": "time"}
+{"global_ix": 20242, "sentence": "check: car gas mileage", "label": "mpg"}
+{"global_ix": 23466, "sentence": "does south korea have any travel alerts i should be aware of", "label": "travel_alert"}
+{"global_ix": 9932, "sentence": "do you have a way you like to be referred to", "label": "what_is_your_name"}
+{"global_ix": 5540, "sentence": "costa mesa weather", "label": "weather"}
+{"global_ix": 19989, "sentence": "can i switch in almond butter for peanut butter", "label": "ingredient_substitution"}
+{"global_ix": 11599, "sentence": "have there been any travel alerts issued for france", "label": "travel_alert"}
+{"global_ix": 14193, "sentence": "current location please", "label": "current_location"}
+{"global_ix": 6754, "sentence": "what time is it in the central timezone", "label": "time"}
+{"global_ix": 14104, "sentence": "so what name do you have for me", "label": "user_name"}
+{"global_ix": 1166, "sentence": "would you tell me what names you have for me", "label": "user_name"}
+{"global_ix": 17531, "sentence": "would i need a tourist visa for brazil", "label": "international_visa"}
+{"global_ix": 5513, "sentence": "where would i get my rewards for my master card", "label": "redeem_rewards"}
+{"global_ix": 15809, "sentence": "if i'm trying to get to heinz field, how long would it take by bus", "label": "distance"}
+{"global_ix": 4161, "sentence": "what location do you see me at right now", "label": "current_location"}
+{"global_ix": 15578, "sentence": "where can i find a w2", "label": "w2"}
+{"global_ix": 3086, "sentence": "what time is it in the eastern timezone", "label": "time"}
+{"global_ix": 15351, "sentence": "would you mind telling me the time", "label": "time"}
+{"global_ix": 4893, "sentence": "tell me whether i need an international visa to go to mexico", "label": "international_visa"}
+{"global_ix": 3288, "sentence": "how long is the shipping for my replacement card", "label": "replacement_card_duration"}
+{"global_ix": 12712, "sentence": "who do i have the pleasure of speaking with", "label": "what_is_your_name"}
+{"global_ix": 16056, "sentence": "what do i need if i want to make lasagna", "label": "ingredients_list"}
+{"global_ix": 15388, "sentence": "what is the shipping wait for my card", "label": "replacement_card_duration"}
+{"global_ix": 6870, "sentence": "tell me nutritional info for brocoli", "label": "nutrition_info"}
+{"global_ix": 5967, "sentence": "is there a name that you preferred to be called by", "label": "what_is_your_name"}
+{"global_ix": 7379, "sentence": "how long will it take to walk to the safeway in the strip mall", "label": "distance"}
+{"global_ix": 20892, "sentence": "please introduce yourself", "label": "what_is_your_name"}
+{"global_ix": 15386, "sentence": "what will i be paying for utilities this month", "label": "bill_balance"}
+{"global_ix": 17059, "sentence": "where's my w-2", "label": "w2"}
+{"global_ix": 15815, "sentence": "do i get charged more for using my card in canada", "label": "international_fees"}
+{"global_ix": 19216, "sentence": "how do i check my rewards for my capital one card", "label": "rewards_balance"}
+{"global_ix": 22434, "sentence": "what is status of my bank account", "label": "balance"}
+{"global_ix": 9666, "sentence": "are you 16 years old", "label": "how_old_are_you"}
+{"global_ix": 16326, "sentence": "what is the lowest amount i can pay for my cellphone bill", "label": "min_payment"}
+{"global_ix": 8360, "sentence": "how does one say wonderful in german", "label": "translate"}
+{"global_ix": 9392, "sentence": "get reservations at olive garden for two at 7:00pm under michael", "label": "restaurant_reservation"}
+{"global_ix": 19559, "sentence": "time to get replacement credit card for stolen one", "label": "replacement_card_duration"}
+{"global_ix": 9487, "sentence": "what time will i be able to board the plane", "label": "flight_status"}
+{"global_ix": 6352, "sentence": "how do i slow down my ai's voice", "label": "change_speed"}
+{"global_ix": 8351, "sentence": "when is my car due for its next oil change", "label": "oil_change_when"}
+{"global_ix": 4475, "sentence": "what do you enjoy doing while not working", "label": "what_are_your_hobbies"}
+{"global_ix": 10731, "sentence": "how much time will riding the bus to downtown take", "label": "distance"}
+{"global_ix": 21654, "sentence": "how much have i spent on books recently", "label": "spending_history"}
+{"global_ix": 21957, "sentence": "bye now", "label": "goodbye"}
+{"global_ix": 10056, "sentence": "ai, call my usbank to order more checks", "label": "order_checks"}
+{"global_ix": 1764, "sentence": "what's an interesting tidbit about rivers", "label": "fun_fact"}
+{"global_ix": 13614, "sentence": "do i overspend when it comes to fast food", "label": "spending_history"}
+{"global_ix": 5584, "sentence": "hey what's up", "label": "greeting"}
+{"global_ix": 8342, "sentence": "can you tell me if my application for a credit card has been processed yet it was at chase bank", "label": "application_status"}
+{"global_ix": 21067, "sentence": "what's the minimum payment on my gas bill", "label": "min_payment"}
+{"global_ix": 16072, "sentence": "how much are my cable and water bills", "label": "bill_balance"}
+{"global_ix": 6253, "sentence": "what amount of time do i need to cook lobster for", "label": "cook_time"}
+{"global_ix": 6081, "sentence": "can you tell me what i owe for this month's phone bill", "label": "bill_balance"}
+{"global_ix": 8880, "sentence": "how do you make chicken noodle casserole", "label": "ingredients_list"}
+{"global_ix": 21625, "sentence": "who gave you your name", "label": "what_is_your_name"}
+{"global_ix": 2359, "sentence": "how long do i need to cook tuna casserole for", "label": "cook_time"}
+{"global_ix": 978, "sentence": "i need help paying my rent bill", "label": "pay_bill"}
+{"global_ix": 22054, "sentence": "how ya been", "label": "greeting"}
+{"global_ix": 9275, "sentence": "can i get some new checks i'm out of mine", "label": "order_checks"}
+{"global_ix": 11625, "sentence": "i would prefer to hear the female voice", "label": "change_accent"}
+{"global_ix": 1862, "sentence": "what's the nutritional info for a ganola bar", "label": "nutrition_info"}
+{"global_ix": 4813, "sentence": "i want to redeem my card points for cash", "label": "redeem_rewards"}
+{"global_ix": 6668, "sentence": "i'm out of here", "label": "goodbye"}
+{"global_ix": 14094, "sentence": "i must say goodbye", "label": "goodbye"}
+{"global_ix": 10943, "sentence": "what is 78 times 81 minus 5", "label": "calculator"}
+{"global_ix": 1464, "sentence": "what did i put on my list of reminders", "label": "reminder"}
+{"global_ix": 5922, "sentence": "how cold is it going to be tonight", "label": "weather"}
+{"global_ix": 23431, "sentence": "could i get some more checkbooks sent to me, please", "label": "order_checks"}
+{"global_ix": 7068, "sentence": "tell me how to get my points from credit card use cashed in", "label": "redeem_rewards"}
+{"global_ix": 1707, "sentence": "i wanna know my current location", "label": "current_location"}
+{"global_ix": 14769, "sentence": "how can i go about finding my current location", "label": "current_location"}
+{"global_ix": 6126, "sentence": "how much do i owe on all of my bills", "label": "bill_balance"}
+{"global_ix": 23189, "sentence": "what's the nutritional info for potato skins", "label": "nutrition_info"}
+{"global_ix": 14422, "sentence": "read my list of reminders", "label": "reminder"}
+{"global_ix": 23014, "sentence": "does north korea have any travel alerts i should be aware of", "label": "travel_alert"}
+{"global_ix": 5320, "sentence": "pull up the nutrional info of a 12 oz coke", "label": "nutrition_info"}
+{"global_ix": 4387, "sentence": "call macy", "label": "make_call"}
+{"global_ix": 15968, "sentence": "dial christie's cell", "label": "make_call"}
+{"global_ix": 10855, "sentence": "can you help me add the song i listen to to my clutch playlist", "label": "update_playlist"}
+{"global_ix": 4657, "sentence": "what is the weather like tomorrow", "label": "weather"}
+{"global_ix": 18382, "sentence": "how do you say i'm hungry in french", "label": "translate"}
+{"global_ix": 8479, "sentence": "get a table for me at 7 for 3 people at olive garden", "label": "restaurant_reservation"}
+{"global_ix": 10125, "sentence": "i go by the name jim", "label": "change_user_name"}
+{"global_ix": 15332, "sentence": "i want to bake brownies, how long do they bake for", "label": "cook_time"}
+{"global_ix": 8627, "sentence": "can you get me a table for 3 at captain d's at 2pm", "label": "restaurant_reservation"}
+{"global_ix": 6743, "sentence": "can you please put toilet paper on the shopping list i'm out of it", "label": "shopping_list_update"}
+{"global_ix": 8119, "sentence": "can i substitute apple juice for wine", "label": "ingredient_substitution"}
+{"global_ix": 8292, "sentence": "do you mind if i ask how old you are", "label": "how_old_are_you"}
+{"global_ix": 15180, "sentence": "i don't need eggs anymore, but i do need milk", "label": "shopping_list_update"}
+{"global_ix": 18586, "sentence": "what's the current weather situation for tallahassee", "label": "weather"}
+{"global_ix": 2470, "sentence": "pay the cable bill with my visa card", "label": "pay_bill"}
+{"global_ix": 1647, "sentence": "can you tell me if there's a travel alert for that country", "label": "travel_alert"}
+{"global_ix": 8699, "sentence": "i need to know the status of my american airlines flight", "label": "flight_status"}
+{"global_ix": 14326, "sentence": "what is the time is central time zone", "label": "time"}
+{"global_ix": 10880, "sentence": "please add this song to my jazz playlist", "label": "update_playlist"}
+{"global_ix": 9087, "sentence": "would i need to get a visa to go to ireland", "label": "international_visa"}
+{"global_ix": 16107, "sentence": "how late is it now in ourense", "label": "time"}
+{"global_ix": 3934, "sentence": "what do i have to do to see my rewards for my chase card", "label": "rewards_balance"}
+{"global_ix": 10409, "sentence": "can i use salt instead of baking soda", "label": "ingredient_substitution"}
+{"global_ix": 647, "sentence": "i'd like to know the balance of my bank of american account", "label": "balance"}
+{"global_ix": 15496, "sentence": "when i go to cuba will there be a transaction fee for using my discover card", "label": "international_fees"}
+{"global_ix": 7871, "sentence": "i wanna know the status of flight dl123", "label": "flight_status"}
+{"global_ix": 20753, "sentence": "what's my current checking balance", "label": "balance"}
+{"global_ix": 17357, "sentence": "what do i call you", "label": "what_is_your_name"}
+{"global_ix": 19936, "sentence": "how long until i can expect my new card to get mailed to me", "label": "replacement_card_duration"}
+{"global_ix": 10060, "sentence": "what is the meaning of incandescent", "label": "definition"}
+{"global_ix": 21346, "sentence": "what do you do in your down time", "label": "what_are_your_hobbies"}
+{"global_ix": 2202, "sentence": "adios", "label": "goodbye"}
+{"global_ix": 7910, "sentence": "add welcome to the jungle to my workout mix", "label": "update_playlist"}
+{"global_ix": 2845, "sentence": "is checking the mail on my list of reminder", "label": "reminder"}
+{"global_ix": 16798, "sentence": "what is the time in paris now", "label": "time"}
+{"global_ix": 8635, "sentence": "mpg for this car please", "label": "mpg"}
+{"global_ix": 12550, "sentence": "howdy, what's new", "label": "greeting"}
+{"global_ix": 8044, "sentence": "what's the minimum payment for my internet bill", "label": "min_payment"}
+{"global_ix": 3878, "sentence": "how's the fuel efficiency for city driving for this car", "label": "mpg"}
+{"global_ix": 14527, "sentence": "are you secretly real", "label": "are_you_a_bot"}
+{"global_ix": 10238, "sentence": "place call to robby", "label": "make_call"}
+{"global_ix": 9211, "sentence": "will the bank charge transaction fees if i use my american card internationally", "label": "international_fees"}
+{"global_ix": 13510, "sentence": "what should i put on the timer to cook this dish", "label": "cook_time"}
+{"global_ix": 6455, "sentence": "are you a bot right now", "label": "are_you_a_bot"}
+{"global_ix": 1133, "sentence": "please remove ginger ale from my shopping list and add root beer", "label": "shopping_list_update"}
+{"global_ix": 3997, "sentence": "can you use male voice", "label": "change_accent"}
+{"global_ix": 1697, "sentence": "how long will it take to get a new card", "label": "replacement_card_duration"}
+{"global_ix": 2517, "sentence": "how can i get get a copy of my w2 for tax purposes", "label": "w2"}
+{"global_ix": 17416, "sentence": "what is the minimum i can pay on my cell phone bill", "label": "min_payment"}
+{"global_ix": 11210, "sentence": "could you call me a different name", "label": "change_user_name"}
+{"global_ix": 14537, "sentence": "look for travel alerts for china", "label": "travel_alert"}
+{"global_ix": 10522, "sentence": "how long do you cook a salmon", "label": "cook_time"}
+{"global_ix": 502, "sentence": "can you help me do math", "label": "calculator"}
+{"global_ix": 17680, "sentence": "remove milk and add eggs to my shopping list", "label": "shopping_list_update"}
+{"global_ix": 7049, "sentence": "please call me charlile from here on out ok", "label": "change_user_name"}
+{"global_ix": 12662, "sentence": "can you call me something else", "label": "change_user_name"}
+{"global_ix": 20111, "sentence": "i need to change my name to something else for you to call me", "label": "change_user_name"}
+{"global_ix": 16943, "sentence": "oil changes are typical done when", "label": "oil_change_when"}
+{"global_ix": 6748, "sentence": "do i have peanuts on my shopping list if not please add it", "label": "shopping_list_update"}
+{"global_ix": 19931, "sentence": "can you tell me the nutrition info for pork sausage", "label": "nutrition_info"}
+{"global_ix": 1575, "sentence": "can you tell me how many points i have on my kohls card", "label": "rewards_balance"}
+{"global_ix": 20631, "sentence": "provide me with the knowledge of whether you are a human or are a computer", "label": "are_you_a_bot"}
+{"global_ix": 1249, "sentence": "can you swap to male voice", "label": "change_accent"}
+{"global_ix": 792, "sentence": "what do you know me by", "label": "user_name"}
+{"global_ix": 330, "sentence": "can i substitute skim milk for whole milk", "label": "ingredient_substitution"}
+{"global_ix": 7392, "sentence": "what kinds of activities do you enjoy", "label": "what_are_your_hobbies"}
+{"global_ix": 3359, "sentence": "what do i do if i want to use my credit card points", "label": "redeem_rewards"}
+{"global_ix": 11301, "sentence": "do i need an international visa to go to hong kong", "label": "international_visa"}
+{"global_ix": 23525, "sentence": "what is my amazon card's rewards balance", "label": "rewards_balance"}
+{"global_ix": 14535, "sentence": "what is 48 multiplied by 4 divided by 2", "label": "calculator"}
+{"global_ix": 807, "sentence": "i want to know how long it is from here to the sky harbor airport", "label": "distance"}
+{"global_ix": 10239, "sentence": "what is 60 percent off of 350 dollars", "label": "calculator"}
+{"global_ix": 23478, "sentence": "put this in my workout playlist", "label": "update_playlist"}
+{"global_ix": 3661, "sentence": "how much do i owe for my gas and phone bills", "label": "bill_balance"}
+{"global_ix": 7040, "sentence": "let's play the next song now", "label": "next_song"}
+{"global_ix": 13669, "sentence": "please make it so you say your words more slowly", "label": "change_speed"}
+{"global_ix": 11611, "sentence": "can you change to the male voice", "label": "change_accent"}
+{"global_ix": 20147, "sentence": "can you redial the last number dialed", "label": "make_call"}
+{"global_ix": 632, "sentence": "what were you supposed to remind me of", "label": "reminder"}
+{"global_ix": 23461, "sentence": "give me my gps coordinates", "label": "current_location"}
+{"global_ix": 4409, "sentence": "when will my car need new oil", "label": "oil_change_when"}
+{"global_ix": 23201, "sentence": "could you tell me the status of flight dl123", "label": "flight_status"}
+{"global_ix": 8266, "sentence": "what's the nutrient make up of a plate of spaghetti", "label": "nutrition_info"}
+{"global_ix": 5663, "sentence": "you can call me carrie", "label": "change_user_name"}
+{"global_ix": 2546, "sentence": "can you explain to me how to get some more checkbooks mailed to me", "label": "order_checks"}
+{"global_ix": 6661, "sentence": "when will i need my next oil change", "label": "oil_change_when"}
+{"global_ix": 22531, "sentence": "does spain expect any travel alerts", "label": "travel_alert"}
+{"global_ix": 14425, "sentence": "book a reservation for 5 at lawry's under the name chris", "label": "restaurant_reservation"}
+{"global_ix": 5718, "sentence": "are you actually a bot", "label": "are_you_a_bot"}
+{"global_ix": 7964, "sentence": "what are some of your hobbies", "label": "what_are_your_hobbies"}
+{"global_ix": 574, "sentence": "what is the definition of zesty", "label": "definition"}
+{"global_ix": 3007, "sentence": "i am camile", "label": "change_user_name"}
+{"global_ix": 21943, "sentence": "share with me a fun fact about outer space", "label": "fun_fact"}
+{"global_ix": 12265, "sentence": "i wanted to remember somethings, what was it", "label": "reminder"}
+{"global_ix": 4375, "sentence": "if the dollar worth a lot in country b", "label": "exchange_rate"}
+{"global_ix": 6845, "sentence": "how much moola is in my bank accounts", "label": "balance"}
+{"global_ix": 7852, "sentence": "how many points have i accumulated on my mastercard", "label": "rewards_balance"}
+{"global_ix": 13278, "sentence": "can you help me pay a bill", "label": "pay_bill"}
+{"global_ix": 13968, "sentence": "what steps do i need to take to obtain my w2 for taxes", "label": "w2"}
+{"global_ix": 20977, "sentence": "can you tell me the time", "label": "time"}
+{"global_ix": 23375, "sentence": "how long do i need to cook pot au feu for", "label": "cook_time"}
+{"global_ix": 17346, "sentence": "tell me a random fact", "label": "fun_fact"}
+{"global_ix": 19648, "sentence": "is an international visa needed to travel to z", "label": "international_visa"}
+{"global_ix": 17085, "sentence": "what have car repairs ran me this month", "label": "spending_history"}
+{"global_ix": 9299, "sentence": "i really want to pay my cable bill from my checking account", "label": "pay_bill"}
+{"global_ix": 9880, "sentence": "how can i go about cashing in rewards with discover", "label": "redeem_rewards"}
+{"global_ix": 3837, "sentence": "how long does it take to get to disneyland in anaheim", "label": "distance"}
+{"global_ix": 5808, "sentence": "where can i find a w2 form", "label": "w2"}
+{"global_ix": 13696, "sentence": "how long until i need to change my oil", "label": "oil_change_when"}
+{"global_ix": 1095, "sentence": "next song", "label": "next_song"}
+{"global_ix": 22650, "sentence": "how would i say i must be going now if i were german", "label": "translate"}
+{"global_ix": 22080, "sentence": "i wanna sub sugar for salt", "label": "ingredient_substitution"}
+{"global_ix": 15314, "sentence": "what is 80980 + 098098 + 80980 + 1243", "label": "calculator"}
+{"global_ix": 9287, "sentence": "what is the meaning of flange", "label": "definition"}
+{"global_ix": 13764, "sentence": "how many years has al been on earth", "label": "how_old_are_you"}
+{"global_ix": 12448, "sentence": "what's next on the list", "label": "next_song"}
+{"global_ix": 19850, "sentence": "how old is the ai", "label": "how_old_are_you"}
+{"global_ix": 13567, "sentence": "hey there", "label": "greeting"}
+{"global_ix": 19411, "sentence": "i need assistance with my current location", "label": "current_location"}
+{"global_ix": 6272, "sentence": "do i have any reminders to look up how to properly do a potato in my microwave", "label": "reminder"}
+{"global_ix": 12572, "sentence": "let me cash my credit rewards", "label": "redeem_rewards"}
+{"global_ix": 22136, "sentence": "have they looked over my app for the new credit card yet", "label": "application_status"}
+{"global_ix": 4700, "sentence": "how does this car do on its fuel", "label": "mpg"}
+{"global_ix": 1301, "sentence": "please call mark", "label": "make_call"}
+{"global_ix": 297, "sentence": "what's the sum of all i owe on bills this month", "label": "bill_balance"}
+{"global_ix": 12184, "sentence": "when is boarding scheduled", "label": "flight_status"}
+{"global_ix": 3023, "sentence": "i need information regarding the procedure to cash in my rewards for my citibank card", "label": "redeem_rewards"}
+{"global_ix": 14520, "sentence": "can you check if my mastercard application has been reviewed yet", "label": "application_status"}
+{"global_ix": 22655, "sentence": "what's my car's miles per gallon", "label": "mpg"}
+{"global_ix": 2693, "sentence": "i need to know if i could substitute apple sauce with eggs", "label": "ingredient_substitution"}
+{"global_ix": 6971, "sentence": "i need to know what the latest is with my application for a visa credit card", "label": "application_status"}
+{"global_ix": 8158, "sentence": "try to speak slowly", "label": "change_speed"}
+{"global_ix": 4806, "sentence": "will the amount in my chase bank account right now cover the cost of a new dryer", "label": "balance"}
+{"global_ix": 11578, "sentence": "is it hot outside", "label": "weather"}
+{"global_ix": 20670, "sentence": "where could i locate a w2 form from", "label": "w2"}
+{"global_ix": 3106, "sentence": "i'll talk to you later ai", "label": "goodbye"}
+{"global_ix": 1141, "sentence": "what do you do for fun alexa", "label": "what_are_your_hobbies"}
+{"global_ix": 22205, "sentence": "please skip this song for me", "label": "next_song"}
+{"global_ix": 11942, "sentence": "can you tell me about your hobbies", "label": "what_are_your_hobbies"}
+{"global_ix": 1476, "sentence": "what've i spent on gas this month", "label": "spending_history"}
+{"global_ix": 13813, "sentence": "what is the total amount due on my electricity bill", "label": "bill_balance"}
+{"global_ix": 5170, "sentence": "do i need a visa to russia", "label": "international_visa"}
+{"global_ix": 8138, "sentence": "can you just use regular milk instead of buttermilk", "label": "ingredient_substitution"}
+{"global_ix": 13466, "sentence": "can you reserve a table for 2 at red lobster at 8pm", "label": "restaurant_reservation"}
+{"global_ix": 16156, "sentence": "ring steven", "label": "make_call"}
+{"global_ix": 1768, "sentence": "tell me the exchange rate between rubles and dollars", "label": "exchange_rate"}
+{"global_ix": 21006, "sentence": "where do i recieve a w2", "label": "w2"}
+{"global_ix": 537, "sentence": "what is six divided by 16", "label": "calculator"}
+{"global_ix": 7688, "sentence": "play the next song please", "label": "next_song"}
+{"global_ix": 7318, "sentence": "how long do the brownies have to cook", "label": "cook_time"}
+{"global_ix": 10476, "sentence": "my name is what", "label": "user_name"}
+{"global_ix": 1408, "sentence": "is it possible to speed up of your replies", "label": "change_speed"}
+{"global_ix": 17349, "sentence": "what do you find fun", "label": "what_are_your_hobbies"}
+{"global_ix": 5159, "sentence": "i want to pay that bill now", "label": "pay_bill"}
+{"global_ix": 7620, "sentence": "add help! by the beatles to my playlist", "label": "update_playlist"}
+{"global_ix": 1516, "sentence": "is there a fee for using my card in portland", "label": "international_fees"}
+{"global_ix": 18400, "sentence": "any travel alerts for south korea", "label": "travel_alert"}
+{"global_ix": 18943, "sentence": "list some neat stuff about rats", "label": "fun_fact"}
+{"global_ix": 8079, "sentence": "pay my water bill from my checking account", "label": "pay_bill"}
+{"global_ix": 4522, "sentence": "when do i need to change my motor oil next", "label": "oil_change_when"}
+{"global_ix": 18601, "sentence": "will it cost me anything to use my card in turin", "label": "international_fees"}
+{"global_ix": 174, "sentence": "how do i change the name you use to address me", "label": "change_user_name"}
+{"global_ix": 9306, "sentence": "what is 562 times 400", "label": "calculator"}
+{"global_ix": 21585, "sentence": "please read my list of reminders", "label": "reminder"}
+{"global_ix": 5183, "sentence": "i go by brad", "label": "change_user_name"}
+{"global_ix": 10917, "sentence": "tell me when my flight scheduled to board", "label": "flight_status"}
+{"global_ix": 11126, "sentence": "what is the lowest amount i can pay for my car bill", "label": "min_payment"}
+{"global_ix": 13281, "sentence": "what's the time to destination going via bus to omaha", "label": "distance"}
+{"global_ix": 18758, "sentence": "how do you feel", "label": "greeting"}
+{"global_ix": 20276, "sentence": "how long does it take to get to phoenix by bus", "label": "distance"}
+{"global_ix": 23608, "sentence": "will you speak more rapidly", "label": "change_speed"}
+{"global_ix": 13511, "sentence": "is there a travel alert for scotland", "label": "travel_alert"}
+{"global_ix": 8121, "sentence": "change accent to male british", "label": "change_accent"}
+{"global_ix": 12092, "sentence": "what is the rate for 500 cad in usd", "label": "exchange_rate"}
+{"global_ix": 6729, "sentence": "how much did i spend on lunches last week", "label": "spending_history"}
+{"global_ix": 18314, "sentence": "how do you say good bye in french", "label": "translate"}
+{"global_ix": 16526, "sentence": "i need to pay my cable bill from my checking account", "label": "pay_bill"}
+{"global_ix": 8188, "sentence": "does france have any travel alerts i should be aware of", "label": "travel_alert"}
+{"global_ix": 1918, "sentence": "you are a bot aren't you", "label": "are_you_a_bot"}
+{"global_ix": 14294, "sentence": "i want to hear more about how i can use my credit card points", "label": "redeem_rewards"}
+{"global_ix": 7352, "sentence": "skip to next track", "label": "next_song"}
+{"global_ix": 18651, "sentence": "when do i need my next oil change", "label": "oil_change_when"}
+{"global_ix": 15837, "sentence": "skip this song", "label": "next_song"}
+{"global_ix": 20861, "sentence": "when will i need to change my oil again", "label": "oil_change_when"}
+{"global_ix": 8018, "sentence": "how long have you been alive", "label": "how_old_are_you"}
+{"global_ix": 1315, "sentence": "has my credit card application been approved", "label": "application_status"}
+{"global_ix": 7234, "sentence": "can you subract 36 from 5", "label": "calculator"}
+{"global_ix": 4360, "sentence": "how healthy is pumpkin pie", "label": "nutrition_info"}
+{"global_ix": 401, "sentence": "please read my reminder list", "label": "reminder"}
+{"global_ix": 1256, "sentence": "i heard some woman say she was going to yerd me, what's that mean", "label": "definition"}
+{"global_ix": 1523, "sentence": "i will be calling hr", "label": "make_call"}
+{"global_ix": 1018, "sentence": "please look into the latest status of my credit card application", "label": "application_status"}
+{"global_ix": 5891, "sentence": "show me where i am on the map", "label": "current_location"}
+{"global_ix": 11225, "sentence": "can you give me the travel alerts for jalisco, mexico", "label": "travel_alert"}
+{"global_ix": 10068, "sentence": "what does adulation mean", "label": "definition"}
+{"global_ix": 20937, "sentence": "please make a reservation for us at joy bar for 4 adults", "label": "restaurant_reservation"}
+{"global_ix": 8595, "sentence": "what is my bill's minimum payment", "label": "min_payment"}
+{"global_ix": 16129, "sentence": "what is my name saved under", "label": "user_name"}
+{"global_ix": 15368, "sentence": "what do you do for fun in your free time", "label": "what_are_your_hobbies"}
+{"global_ix": 3783, "sentence": "reserve a table for 4 at red robin under the name kevin at 7", "label": "restaurant_reservation"}
+{"global_ix": 5347, "sentence": "has there been any changes in the status of my credit card application", "label": "application_status"}
+{"global_ix": 8559, "sentence": "speak faster, please", "label": "change_speed"}
+{"global_ix": 21910, "sentence": "tell me the time in california", "label": "time"}
+{"global_ix": 15253, "sentence": "could you tell me how much money i spent last week", "label": "spending_history"}
+{"global_ix": 3212, "sentence": "does my navy federal card have international transaction fees", "label": "international_fees"}
+{"global_ix": 8895, "sentence": "i need the exchange rate between pounds and us dollars", "label": "exchange_rate"}
+{"global_ix": 11269, "sentence": "tell me how many pesos equal 500 dollars", "label": "exchange_rate"}
+{"global_ix": 15789, "sentence": "i need to make a call", "label": "make_call"}
+{"global_ix": 13184, "sentence": "i wonder if it would be possible to switch from apples to grapes", "label": "ingredient_substitution"}
+{"global_ix": 4494, "sentence": "how many years have you been living", "label": "how_old_are_you"}
+{"global_ix": 3573, "sentence": "make sure bread gets added to my shopping list", "label": "shopping_list_update"}
+{"global_ix": 14397, "sentence": "does ireland require an international visa", "label": "international_visa"}
+{"global_ix": 13443, "sentence": "how long does it take to get to red robin on phoenix", "label": "distance"}
+{"global_ix": 5689, "sentence": "do you have any hobbies", "label": "what_are_your_hobbies"}
+{"global_ix": 11501, "sentence": "i need to pay my time warner cable bill", "label": "pay_bill"}
+{"global_ix": 5740, "sentence": "tell me when my flight will land", "label": "flight_status"}
+{"global_ix": 1902, "sentence": "what is your preferred name", "label": "what_is_your_name"}
+{"global_ix": 10450, "sentence": "find the nutrition info for ketchup for me", "label": "nutrition_info"}
+{"global_ix": 21493, "sentence": "could you translate atm machine into english", "label": "translate"}
+{"global_ix": 14611, "sentence": "i have to pay my water bill but need help doing it", "label": "pay_bill"}
+{"global_ix": 381, "sentence": "has my application for a new credit card been processed", "label": "application_status"}
+{"global_ix": 6537, "sentence": "would you find my location on the map, please", "label": "current_location"}
+{"global_ix": 21747, "sentence": "what have i spent on food this month", "label": "spending_history"}
+{"global_ix": 9507, "sentence": "what do you know me as", "label": "user_name"}
+{"global_ix": 1672, "sentence": "have i have been spending a lot of money on shoes", "label": "spending_history"}
+{"global_ix": 12018, "sentence": "when is my car due for an oil change and lube", "label": "oil_change_when"}
+{"global_ix": 3731, "sentence": "are you an actual person", "label": "are_you_a_bot"}
+{"global_ix": 16403, "sentence": "what are my total bills this month", "label": "bill_balance"}
+{"global_ix": 12999, "sentence": "what would be the least i could pay on this bill", "label": "min_payment"}
+{"global_ix": 12374, "sentence": "is there any news on flight dl123", "label": "flight_status"}
+{"global_ix": 12149, "sentence": "can i get this car's mpg", "label": "mpg"}
+{"global_ix": 4740, "sentence": "what kind of mileage am i getting", "label": "mpg"}
+{"global_ix": 10900, "sentence": "so how long do you think the chicken will take", "label": "cook_time"}
+{"global_ix": 18770, "sentence": "at free time what do you do", "label": "what_are_your_hobbies"}
+{"global_ix": 689, "sentence": "under the name zebee book a reservation at the xenophobe for 3", "label": "restaurant_reservation"}
+{"global_ix": 4985, "sentence": "i would like to make a phone call", "label": "make_call"}
+{"global_ix": 13081, "sentence": "tell me what flange means", "label": "definition"}
+{"global_ix": 22056, "sentence": "how old are you, again", "label": "how_old_are_you"}
+{"global_ix": 21305, "sentence": "please order me some new checks", "label": "order_checks"}
+{"global_ix": 13393, "sentence": "how many kinds of nutrients does a glass of rice milk have", "label": "nutrition_info"}
+{"global_ix": 6862, "sentence": "if i lose my credit card, will i get a replacement immediately", "label": "replacement_card_duration"}
+{"global_ix": 13407, "sentence": "add 7 rings to my pop playlist", "label": "update_playlist"}
+{"global_ix": 22736, "sentence": "jump to the next song on this playlist", "label": "next_song"}
+{"global_ix": 10185, "sentence": "i want to know if i will be safe if i travel to europe", "label": "travel_alert"}
+{"global_ix": 4941, "sentence": "i need to know if i must have an international visa to go to france", "label": "international_visa"}
+{"global_ix": 23365, "sentence": "read me cat trivia", "label": "fun_fact"}
+{"global_ix": 6906, "sentence": "order new checks, please", "label": "order_checks"}
+{"global_ix": 23175, "sentence": "how do i say 'hotel' in finnish", "label": "translate"}
+{"global_ix": 20760, "sentence": "tell me about something some trivia", "label": "fun_fact"}
+{"global_ix": 13428, "sentence": "how long do i need to cook lasagne for", "label": "cook_time"}
+{"global_ix": 2184, "sentence": "what's the climate like in chicago", "label": "weather"}
+{"global_ix": 608, "sentence": "how long until my flight is here", "label": "flight_status"}
+{"global_ix": 20770, "sentence": "tell me some interesting trivia about dinosaurs", "label": "fun_fact"}
+{"global_ix": 17169, "sentence": "what name should i refer to you as", "label": "what_is_your_name"}
+{"global_ix": 9967, "sentence": "let me know the exchange rate between dollars and rubles", "label": "exchange_rate"}
+{"global_ix": 2887, "sentence": "can you tell me my cards minimum payment", "label": "min_payment"}
+{"global_ix": 2509, "sentence": "could you tell me how old you are", "label": "how_old_are_you"}
+{"global_ix": 21496, "sentence": "exchange rate between mexico and us", "label": "exchange_rate"}
+{"global_ix": 10919, "sentence": "how many mpg does my car get", "label": "mpg"}
+{"global_ix": 2149, "sentence": "am i talking to a person or a bot", "label": "are_you_a_bot"}
+{"global_ix": 1471, "sentence": "what is the weather doing now", "label": "weather"}
+{"global_ix": 20852, "sentence": "where am i", "label": "current_location"}
+{"global_ix": 18457, "sentence": "what ingredients are needed to make lasgana", "label": "ingredients_list"}
+{"global_ix": 554, "sentence": "in my car, what's the fuel economy", "label": "mpg"}
+{"global_ix": 15442, "sentence": "tell me something interesting about outer space", "label": "fun_fact"}
+{"global_ix": 10288, "sentence": "what is 20% of a thousand", "label": "calculator"}

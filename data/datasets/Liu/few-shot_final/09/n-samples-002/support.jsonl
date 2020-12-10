@@ -1,0 +1,34 @@
+{"label": "dontcare", "sentence": "really i would not mind."}
+{"label": "addcontact", "sentence": "Add Lowes hardware to my contact emails located in cleveland ohio"}
+{"label": "coffee", "sentence": "prepare a coffee"}
+{"label": "factoid", "sentence": "Is the drought in California over?"}
+{"label": "dontcare", "sentence": "this is unimportant for me, olly."}
+{"label": "addcontact", "sentence": "remember this email"}
+{"label": "sendemail", "sentence": "write an email to john (body)"}
+{"label": "volume_mute", "sentence": "touch the mute button"}
+{"label": "wemo_off", "sentence": "Will you please turn off the smart plug"}
+{"label": "affirm", "sentence": "yeap you did your understanding correcly."}
+{"label": "events", "sentence": "what events are coming up"}
+{"label": "factoid", "sentence": "where is place?"}
+{"label": "podcasts", "sentence": "I want to see the next Podcast available."}
+{"label": "maths", "sentence": "Divide 1500 by 160"}
+{"label": "negate", "sentence": "it isn't what i am searching for."}
+{"label": "affirm", "sentence": "yeap you've done command perfectly."}
+{"label": "set", "sentence": "Change my alarms to Mountain time"}
+{"label": "podcasts", "sentence": "Play the next episode of Radiolab."}
+{"label": "negate", "sentence": "nope, i think you have made some mistake."}
+{"label": "maths", "sentence": "solution for 81 divided by 9"}
+{"label": "query", "sentence": "What are the headlines on the New York Times?"}
+{"label": "query", "sentence": "What is the number of food items on the list."}
+{"label": "set", "sentence": "Set wake-up Thursday 7 am."}
+{"label": "stock", "sentence": "I want some stock on nintendo"}
+{"label": "likeness", "sentence": "I like Jazz"}
+{"label": "events", "sentence": "list any interesting events I like in the next  two days"}
+{"label": "volume_mute", "sentence": "Don't respond for 50 seconds"}
+{"label": "wemo_off", "sentence": "Shut off my living room plug socket."}
+{"label": "dislikeness", "sentence": "I do not enjoy this song."}
+{"label": "likeness", "sentence": "Great song for the commute"}
+{"label": "dislikeness", "sentence": "I don't like it"}
+{"label": "stock", "sentence": "Tell me about price of stock for innova"}
+{"label": "sendemail", "sentence": "compose email to a new address"}
+{"label": "coffee", "sentence": "please warm up coffee machine"}

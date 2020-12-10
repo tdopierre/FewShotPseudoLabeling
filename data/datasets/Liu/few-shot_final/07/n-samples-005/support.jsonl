@@ -1,0 +1,85 @@
+{"label": "greet", "sentence": "Hello Olly, how are you today?"}
+{"label": "order", "sentence": "Order me some chipotle"}
+{"label": "likeness", "sentence": "Please note I like jazz and hate disco"}
+{"label": "music", "sentence": "play a genre of music"}
+{"label": "factoid", "sentence": "Where is the convention center located?"}
+{"label": "querycontact", "sentence": "Find my wife."}
+{"label": "definition", "sentence": "Define Love"}
+{"label": "taxi", "sentence": "Request a driver for Uber in 5 minutes"}
+{"label": "factoid", "sentence": "How tall is Brad Pitt?"}
+{"label": "greet", "sentence": "Hey PDA what's today?"}
+{"label": "set", "sentence": "Remind me of the following event:"}
+{"label": "taxi", "sentence": "Have a taxi pick me up."}
+{"label": "order", "sentence": "Order a double bacon cheeseburger with bacon an white american cheese."}
+{"label": "game", "sentence": "Play me in Tic Tac Toe"}
+{"label": "joke", "sentence": "Olly, I need a funny joke to tell Sam."}
+{"label": "music", "sentence": "turn  on music by seal"}
+{"label": "set", "sentence": "set alarm at 6:30 a.m"}
+{"label": "taxi", "sentence": "Look for a taxi to go home"}
+{"label": "greet", "sentence": "Hey hey"}
+{"label": "praise", "sentence": "that's useful, i appreciate it, olly."}
+{"label": "querycontact", "sentence": "Is Mary Smith in my contacts list?"}
+{"label": "praise", "sentence": "it was wonderful, thank you very much."}
+{"label": "joke", "sentence": "tell me a dirty joke"}
+{"label": "definition", "sentence": "What is the meaning of a stethoscope?"}
+{"label": "order", "sentence": "macdonald shops"}
+{"label": "likeness", "sentence": "Save all of my preferences information specific to songs."}
+{"label": "query", "sentence": "Tell me BBC news"}
+{"label": "likeness", "sentence": "Opinion save"}
+{"label": "commandstop", "sentence": "olly please shut up."}
+{"label": "greet", "sentence": "How are you doing?"}
+{"label": "praise", "sentence": "you did wonderful work, thank you so much, olly."}
+{"label": "set", "sentence": "Set a meeting on Wednesday at 3pm in room G30."}
+{"label": "querycontact", "sentence": "When was the last call I received from Jordan?"}
+{"label": "sendemail", "sentence": "Reply to the email"}
+{"label": "radio", "sentence": "PDA, turn on the radio to kiss fm."}
+{"label": "sendemail", "sentence": "send email to daddy, i'll be going to the birthday party."}
+{"label": "praise", "sentence": "it's excellent, appreciated."}
+{"label": "music", "sentence": "Play for me music by Michael Jackson"}
+{"label": "likeness", "sentence": "record pb"}
+{"label": "sendemail", "sentence": "PDA please respond to Greg's email stating that his idea is fantastic."}
+{"label": "commandstop", "sentence": "olly can you stop it."}
+{"label": "ticket", "sentence": "Please arrange a train ticket for me"}
+{"label": "likeness", "sentence": "Isn't Keith Urban wonderful"}
+{"label": "order", "sentence": "order 6 chicken tacos from Chipotle"}
+{"label": "order", "sentence": "Can you please order some food for me?"}
+{"label": "factoid", "sentence": "search on his locality"}
+{"label": "game", "sentence": "Play my game"}
+{"label": "querycontact", "sentence": "Check and tell me the address of My friend Alex"}
+{"label": "factoid", "sentence": "alexa tell me the largest ocean in the world"}
+{"label": "set", "sentence": "please create a new alarm"}
+{"label": "commandstop", "sentence": "olly please can you shut up."}
+{"label": "radio", "sentence": "Open Pandora app and play station named Hoizer radio."}
+{"label": "sendemail", "sentence": "Send email to boss to meet for performance review"}
+{"label": "definition", "sentence": "meaning of word"}
+{"label": "radio", "sentence": "Find me kiss fm channel."}
+{"label": "greet", "sentence": "Hello, what are you up to?"}
+{"label": "game", "sentence": "I feel like playing chess, can you play that?"}
+{"label": "definition", "sentence": "what is piramid"}
+{"label": "query", "sentence": "PDA, Tell me the time in this time zone."}
+{"label": "game", "sentence": "Play GTA vice city game."}
+{"label": "music", "sentence": "Will you put on the music ?"}
+{"label": "set", "sentence": "I need a reminder to call my mom at 3pm."}
+{"label": "definition", "sentence": "PDA mean"}
+{"label": "commandstop", "sentence": "would you please shut off."}
+{"label": "querycontact", "sentence": "How do I contact Charles?"}
+{"label": "query", "sentence": "give me the details of next reminder"}
+{"label": "music", "sentence": "Please play rap music."}
+{"label": "joke", "sentence": "Please, tell me a joke."}
+{"label": "ticket", "sentence": "Alexa, i need a train ticket for today to Chicago."}
+{"label": "taxi", "sentence": "Book an Uber to pick me up outside of Long Island Bar right now."}
+{"label": "ticket", "sentence": "Find me a train ticket to Cleveland on April 14th"}
+{"label": "game", "sentence": "lets start Candy Crush over from the beginning"}
+{"label": "factoid", "sentence": "Tell me about Chuck Norris"}
+{"label": "ticket", "sentence": "Olly book me a ticket to Paris on eurostar this weekend"}
+{"label": "taxi", "sentence": "Schedule taxi pickup for Monday at noon."}
+{"label": "commandstop", "sentence": "please could you shut up."}
+{"label": "sendemail", "sentence": "PDA, please compose a new email to coworker."}
+{"label": "joke", "sentence": "Olly, do you know what a joke is?"}
+{"label": "joke", "sentence": "crack a joke"}
+{"label": "query", "sentence": "What's on the New York Time?"}
+{"label": "praise", "sentence": "i appreciate the answer."}
+{"label": "radio", "sentence": "Ok Google, I want listen to Kevin and Bean"}
+{"label": "query", "sentence": "Are there any recent emails?"}
+{"label": "radio", "sentence": "I need 99 (point) 5 please"}
+{"label": "ticket", "sentence": "Register an event or a ticket"}

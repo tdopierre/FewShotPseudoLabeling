@@ -1,0 +1,17 @@
+{"label": "negate", "sentence": "i am sorry but you did not interpret command right."}
+{"label": "recipe", "sentence": "Easy home cooking recipes"}
+{"label": "definition", "sentence": "I need the definition of president."}
+{"label": "hue_lightoff", "sentence": "LIGHTS turn off"}
+{"label": "confirm", "sentence": "will you check and confirm instruction."}
+{"label": "praise", "sentence": "amazing work, you did well."}
+{"label": "remove", "sentence": "PDA delete last item listed"}
+{"label": "taxi", "sentence": "I am going to Chinatown in half an hour, book an Uber for me."}
+{"label": "query", "sentence": "What are the details of (event)"}
+{"label": "factoid", "sentence": "PDA, Open Internet"}
+{"label": "createoradd", "sentence": "Can you add milk to my grocery list?"}
+{"label": "quirky", "sentence": "Order me something online"}
+{"label": "volume_other", "sentence": "change the volume of the speakers"}
+{"label": "dislikeness", "sentence": "this song is too length"}
+{"label": "music", "sentence": "play the song by michael jackson"}
+{"label": "hue_lighton", "sentence": "Please turn on the lights in my house."}
+{"label": "querycontact", "sentence": "Where does Fred work?"}

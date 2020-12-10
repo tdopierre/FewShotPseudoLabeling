@@ -1,0 +1,1328 @@
+{"label": "query", "sentence": "Is it supposed to rain tomorrow?"}
+{"label": "query", "sentence": "What will the high be tomorrow in Tucson?"}
+{"label": "query", "sentence": "Where is the venue in which the marriage of Tom is going to takeplace"}
+{"label": "wemo_off", "sentence": "Turn off my wifi."}
+{"label": "set", "sentence": "Open calendar schedule event, meeting"}
+{"label": "events", "sentence": "is there anything happening on jazz scene around Edinburgh?"}
+{"label": "query", "sentence": "Is it cloudy today, Is the wind calm today"}
+{"label": "negate", "sentence": "oops, it is not the correct answer."}
+{"label": "query", "sentence": "PDA, What is my schedule for June 14th 2017?"}
+{"label": "negate", "sentence": "you didn't understand what i was looking for."}
+{"label": "set", "sentence": "Schedule my meeting with my girlfriend Lisa in the night today at 9 PM."}
+{"label": "query", "sentence": "How many reminders do I have"}
+{"label": "set", "sentence": "Set a nail appointment at Heaven Spa."}
+{"label": "set", "sentence": "set an alarm at 10:00AM tomorrow and label it as meeting."}
+{"label": "volume_mute", "sentence": "clear data"}
+{"label": "query", "sentence": "What's in my list of tasks?"}
+{"label": "query", "sentence": "Tell me some braking news in new york"}
+{"label": "likeness", "sentence": "Save this song in my favorites."}
+{"label": "factoid", "sentence": "Which Mountain range is the largest?"}
+{"label": "query", "sentence": "Is anyone likes my latest photo?"}
+{"label": "query", "sentence": "What is the date of the last Sunday in the month."}
+{"label": "stock", "sentence": "I would like to receive updates about the stock market every day."}
+{"label": "query", "sentence": "When will my food be ready?"}
+{"label": "query", "sentence": "What movie is this song from?"}
+{"label": "affirm", "sentence": "yeap you've understood it correcly."}
+{"label": "coffee", "sentence": "Olly please make ke a coffee"}
+{"label": "query", "sentence": "Show me the latest news about the elections"}
+{"label": "stock", "sentence": "Please find out the share price of Microsoft in Nasdaq"}
+{"label": "query", "sentence": "can i get takeaway from Arby's"}
+{"label": "query", "sentence": "I always pay attention"}
+{"label": "query", "sentence": "What is on the agenda for the 4PM meeting with Joe?"}
+{"label": "likeness", "sentence": "Love me some Brad Paisley"}
+{"label": "addcontact", "sentence": "store my cont"}
+{"label": "maths", "sentence": "what is the sum/total/square root/etc of ____ (and___)"}
+{"label": "affirm", "sentence": "yeah you have done your understanding right."}
+{"label": "query", "sentence": "Is it snowing in California?"}
+{"label": "factoid", "sentence": "How old is Miley Cyrus?"}
+{"label": "factoid", "sentence": "which ocean touches at our continent"}
+{"label": "dontcare", "sentence": "that is unimportant to me, olly."}
+{"label": "podcasts", "sentence": "Move forward 2 minutes in this podcast."}
+{"label": "query", "sentence": "what kind of lists do i have saved?"}
+{"label": "set", "sentence": "Set alarm for 8 am tomorrow"}
+{"label": "query", "sentence": "Olly, weather conditions for the next day"}
+{"label": "addcontact", "sentence": "I need to add this new contact for Sam Smith ssmith@yahoo.com."}
+{"label": "set", "sentence": "13th june is a day of election result.plz. set it."}
+{"label": "podcasts", "sentence": "Can you start my saved podcast?"}
+{"label": "set", "sentence": "PDA can you remind me to take the garbage out on Tuesday."}
+{"label": "query", "sentence": "How many birthday's are on 23rd."}
+{"label": "query", "sentence": "What are the trains i could board tonight to head to XXX this evening?"}
+{"label": "sendemail", "sentence": "Olly, send an email to James asking when he is getting off of work."}
+{"label": "query", "sentence": "What are the names of the lists that I have created?"}
+{"label": "negate", "sentence": "i think that's not the right command."}
+{"label": "query", "sentence": "have I received any mail in the last hour"}
+{"label": "query", "sentence": "Olly, tell me what to.do!"}
+{"label": "maths", "sentence": "convert 100 kilo to pound"}
+{"label": "query", "sentence": "What lists do I have that I haven't updated one way or another in the past week?"}
+{"label": "query", "sentence": "Tell me about my events."}
+{"label": "negate", "sentence": "sorry but you didn't get it correctly."}
+{"label": "events", "sentence": "Olly, I need something fun to do this weekend nearby. Can you give me ideas?"}
+{"label": "affirm", "sentence": "answer is wonderful."}
+{"label": "podcasts", "sentence": "Skip to the next episode."}
+{"label": "set", "sentence": "Add yoga to my calendar for friday."}
+{"label": "set", "sentence": "Remind me of my meeting"}
+{"label": "query", "sentence": "Let me know if there is a town meeting Monday."}
+{"label": "query", "sentence": "How many alarams are set?"}
+{"label": "query", "sentence": "Olly, is there anything I should be reminded about?"}
+{"label": "query", "sentence": "Can you please let me know the next four scheduled trains to Chicago?"}
+{"label": "query", "sentence": "Time left for 10 am"}
+{"label": "query", "sentence": "What to-do lists do I have?"}
+{"label": "set", "sentence": "Attitude"}
+{"label": "query", "sentence": "what's on for this week?"}
+{"label": "query", "sentence": "Am I scheduled to have any meeting today"}
+{"label": "query", "sentence": "PDA, what are the latest updates with regard to Trump's ties to Russia"}
+{"label": "coffee", "sentence": "Would you set the coffeemaker running?"}
+{"label": "factoid", "sentence": "Tell me about Amazon's history"}
+{"label": "query", "sentence": "PLEASE TELL ME WHEN IS THE BIRTHDAY PARTY OF JENNY?"}
+{"label": "stock", "sentence": "Tell me summary forecast Microsoft stock forecast to 30 days ahead"}
+{"label": "query", "sentence": "How many alarms have I set?"}
+{"label": "stock", "sentence": "Give me the stock price of Apple"}
+{"label": "set", "sentence": "Remind me in the future of this"}
+{"label": "query", "sentence": "I need the arrival time for New York train"}
+{"label": "query", "sentence": "Tell me about the latest events going around my city."}
+{"label": "podcasts", "sentence": "Can you play the next episode, please?"}
+{"label": "query", "sentence": "Show all emails regarding the breach"}
+{"label": "factoid", "sentence": "How many children does David Beckham have?"}
+{"label": "events", "sentence": "Olly, what is going on in South Tampa today?"}
+{"label": "query", "sentence": "PDA tell me the current time in Ottawa."}
+{"label": "query", "sentence": "How cold is the weather right now?"}
+{"label": "affirm", "sentence": "wonderful response to the command."}
+{"label": "query", "sentence": "Tell me the song track"}
+{"label": "query", "sentence": "Do I have an alarm set for morning flight?"}
+{"label": "query", "sentence": "Please check my mail"}
+{"label": "negate", "sentence": "sorry but i think that's not right."}
+{"label": "negate", "sentence": "i think that was not the right answer."}
+{"label": "affirm", "sentence": "yes wonderful response to command."}
+{"label": "query", "sentence": "How many items are on my list ?"}
+{"label": "query", "sentence": "Check by inbox for me."}
+{"label": "affirm", "sentence": "your understanding is confirmed."}
+{"label": "set", "sentence": "olly put tomorrows golf tee time on the calendar"}
+{"label": "events", "sentence": "Where are"}
+{"label": "stock", "sentence": "Will it be good to buy NIKE stock today"}
+{"label": "sendemail", "sentence": "Email to my family saying I love you all"}
+{"label": "query", "sentence": "Find updates from Vicki's Facebook from Mardi Gras day"}
+{"label": "query", "sentence": "what time is it in des moines?"}
+{"label": "factoid", "sentence": "WHO IS THE PRESIDENT OF AMERICA?"}
+{"label": "set", "sentence": "please wake me up at 7:30 am"}
+{"label": "query", "sentence": "check email for <unk>"}
+{"label": "sendemail", "sentence": "send an email to john (body)"}
+{"label": "query", "sentence": "Is there any breaking news from CNN?"}
+{"label": "factoid", "sentence": "Bypass certain passwords"}
+{"label": "negate", "sentence": "sorry but i think you've gottten that wrongly."}
+{"label": "query", "sentence": "Do I have any new friend requests?"}
+{"label": "query", "sentence": "read me the headlines from Detroit News"}
+{"label": "query", "sentence": "When does the next train leave for Atlanta."}
+{"label": "stock", "sentence": "stock price for apple"}
+{"label": "stock", "sentence": "What is Google's current stock price?"}
+{"label": "query", "sentence": "Open my calendar"}
+{"label": "query", "sentence": "Any recent mails?"}
+{"label": "sendemail", "sentence": "Can you send an email for me to a new email address?"}
+{"label": "podcasts", "sentence": "Start playing my most recent podcast."}
+{"label": "coffee", "sentence": "Hey Olly, can you please make me a creamy coffee?"}
+{"label": "query", "sentence": "do i have a meeting on friday"}
+{"label": "factoid", "sentence": "how many pages long is harry potter"}
+{"label": "query", "sentence": "What day o the week is 21st"}
+{"label": "dontcare", "sentence": "do not really know."}
+{"label": "query", "sentence": "what lists do i have saved?"}
+{"label": "query", "sentence": "When does the next train to work leave"}
+{"label": "query", "sentence": "Air pollution"}
+{"label": "set", "sentence": "I need to get up at 7:00 am."}
+{"label": "podcasts", "sentence": "go to the podcast and play the next episode in ____"}
+{"label": "query", "sentence": "How do we organize against Trump?"}
+{"label": "sendemail", "sentence": "Prepare to send an outgoing reply message"}
+{"label": "sendemail", "sentence": "email joejoe@gmail.com"}
+{"label": "sendemail", "sentence": "Open email and send it to"}
+{"label": "affirm", "sentence": "yeah got the answer exactly."}
+{"label": "negate", "sentence": "show me what i asked to see."}
+{"label": "coffee", "sentence": "Can you make some coffee?"}
+{"label": "query", "sentence": "Neat"}
+{"label": "query", "sentence": "In very 3 hours give me my Facebook update."}
+{"label": "query", "sentence": "Show me my lists"}
+{"label": "stock", "sentence": "Give me the current trend on the stocks for Facebook and McDonalds."}
+{"label": "negate", "sentence": "please modify the incorrect command."}
+{"label": "sendemail", "sentence": "Reply to Sarah's email."}
+{"label": "volume_mute", "sentence": "Mute all responses now"}
+{"label": "sendemail", "sentence": "Send email to Yulia"}
+{"label": "affirm", "sentence": "yes you've done your understanding perfectly."}
+{"label": "query", "sentence": "Tell me the current time in San Paulo Brazil?"}
+{"label": "negate", "sentence": "hmm, i think you have done the task all incorrectly."}
+{"label": "affirm", "sentence": "yes you have done it perfectly."}
+{"label": "factoid", "sentence": "How many Inches are in a foot"}
+{"label": "query", "sentence": "which date is today"}
+{"label": "query", "sentence": "Any breaking news?"}
+{"label": "events", "sentence": "What is happening in the area?"}
+{"label": "query", "sentence": "Send me links to news articles about the protest."}
+{"label": "factoid", "sentence": "what is the height of monali thakur"}
+{"label": "query", "sentence": "Get me the top news from Huffington Post."}
+{"label": "factoid", "sentence": "Book me a flight to Mars next year"}
+{"label": "stock", "sentence": "let me know up and down in stock price of this company stock"}
+{"label": "podcasts", "sentence": "Play the podcast on The Double Down"}
+{"label": "query", "sentence": "When is the event?"}
+{"label": "factoid", "sentence": "what time zone is in cuba?"}
+{"label": "sendemail", "sentence": "Mail Gaurav my phone number and other contact details."}
+{"label": "podcasts", "sentence": "Show me the newest podcasts"}
+{"label": "affirm", "sentence": "yes excellent response to the command."}
+{"label": "set", "sentence": "olly later tonight remind me about tomorrows meeting"}
+{"label": "query", "sentence": "Do I have any appointments scheduled for March 24, 2017?"}
+{"label": "query", "sentence": "Tell me present time in Malaysia"}
+{"label": "query", "sentence": "I have a dentist appointment on Monday morning, true or false?"}
+{"label": "query", "sentence": "Tell me my list"}
+{"label": "query", "sentence": "Today's news CNN"}
+{"label": "set", "sentence": "Please put Mary's birthday party on the 22nd at 7:00 pm."}
+{"label": "query", "sentence": "When is my next reminder?"}
+{"label": "sendemail", "sentence": "hi,please send mail to sam by evening"}
+{"label": "set", "sentence": "Add an event for July thirtieth named birthday."}
+{"label": "set", "sentence": "Remind me to send that email later"}
+{"label": "sendemail", "sentence": "markpolomm@gmail.com"}
+{"label": "factoid", "sentence": "How many runs have Sachin Tendulkar scored?"}
+{"label": "factoid", "sentence": "What is the cost of iPhone 7"}
+{"label": "query", "sentence": "The 22nd is on what day of the week?"}
+{"label": "dontcare", "sentence": "wouldn't really care."}
+{"label": "dislikeness", "sentence": "I hate this song. Please remember that so that I don't hear this song ever again."}
+{"label": "query", "sentence": "train leaving"}
+{"label": "query", "sentence": "what are the latest mails i received?"}
+{"label": "query", "sentence": "Check for emails from my boss."}
+{"label": "set", "sentence": "Just let me know the important work interviews in the next two days"}
+{"label": "query", "sentence": "WHat is the latest news from CBS?"}
+{"label": "query", "sentence": "Let me see what emails I got."}
+{"label": "query", "sentence": "Is it going to rain this week?"}
+{"label": "query", "sentence": "Bring up my current provider information."}
+{"label": "factoid", "sentence": "Why was XXX famous for?"}
+{"label": "set", "sentence": "Please book me for 2 pm and inform team members as well."}
+{"label": "query", "sentence": "I want to know who is at the top of the English Premier League at the moment"}
+{"label": "affirm", "sentence": "yeah."}
+{"label": "set", "sentence": "tell me when my moms birthday is"}
+{"label": "query", "sentence": "What day of the week is Valentines on?"}
+{"label": "query", "sentence": "What is happening in the world today?"}
+{"label": "query", "sentence": "How many likes does my status from yesterday have?"}
+{"label": "addcontact", "sentence": "Please add mike@123.com to my contact lists and send them a reminder email."}
+{"label": "query", "sentence": "IS THERE IS ANY NEW EMAILS"}
+{"label": "query", "sentence": "Please read any e-mails from the yesterday aloud."}
+{"label": "events", "sentence": "What events are going on in NYC?"}
+{"label": "set", "sentence": "Remind me about tomorrow meeting at 10 AM."}
+{"label": "query", "sentence": "How many new emails for this week?"}
+{"label": "query", "sentence": "Tell me my meetings this Wednesday morning"}
+{"label": "set", "sentence": "Set reminder for noon to get lunch with boss"}
+{"label": "wemo_off", "sentence": "Switch off the plug socket"}
+{"label": "query", "sentence": "Do I have a meeting on Saturday March 25th?"}
+{"label": "query", "sentence": "Can anyone tell me what's you guys discussing ?"}
+{"label": "query", "sentence": "Will I need my snow boots this afternoon?"}
+{"label": "query", "sentence": "should i put some sun screen cream for taday"}
+{"label": "query", "sentence": "it's pleasant today."}
+{"label": "dontcare", "sentence": "i do not mind for whatever."}
+{"label": "query", "sentence": "Tell me what the latest news is"}
+{"label": "sendemail", "sentence": "Can you email Mary and let her know I am on my way?"}
+{"label": "set", "sentence": "Event"}
+{"label": "affirm", "sentence": "you have got my instructions correcly."}
+{"label": "query", "sentence": "In what places have I been the first fifteen days of this month?"}
+{"label": "query", "sentence": "What will be the weather today night"}
+{"label": "set", "sentence": "Send a calendar appointment to..."}
+{"label": "factoid", "sentence": "Where is the worlds highest falls?"}
+{"label": "podcasts", "sentence": "Please play next episode of podcast."}
+{"label": "query", "sentence": "Am I going to get wet if I go outside this morning?"}
+{"label": "query", "sentence": "Check unread emails."}
+{"label": "factoid", "sentence": "What is the height of mount everest."}
+{"label": "query", "sentence": "Is my birthday this month?"}
+{"label": "negate", "sentence": "stop that that's not what i want."}
+{"label": "negate", "sentence": "i am sorry but you did not get the response right."}
+{"label": "query", "sentence": "What is today's exact date?"}
+{"label": "query", "sentence": "can you tell me the time it is"}
+{"label": "query", "sentence": "Should I bring an umbrella tomorrow?"}
+{"label": "factoid", "sentence": "Who was the current prime minister of britain?"}
+{"label": "query", "sentence": "When am I supposed to meet Barbara for lunch this week?"}
+{"label": "query", "sentence": "Will it get warmer here next week?"}
+{"label": "query", "sentence": "Give me my Facebook update every 3 hours."}
+{"label": "set", "sentence": "Remind me to check the stew at 6 o'clock"}
+{"label": "query", "sentence": "What was the subject of my last email to Tom?"}
+{"label": "sendemail", "sentence": "send email to family saying I love you all"}
+{"label": "factoid", "sentence": "What dance move is the most attractive"}
+{"label": "dontcare", "sentence": "really don't mind."}
+{"label": "factoid", "sentence": "How much does Jennifer Aniston make?"}
+{"label": "set", "sentence": "Open the calendar and create a new event"}
+{"label": "negate", "sentence": "shit, i didn't ask for it response."}
+{"label": "set", "sentence": "Add to my calendar: mom's fashion dinner for May fifth."}
+{"label": "factoid", "sentence": "earth info"}
+{"label": "query", "sentence": "Can you search trump"}
+{"label": "negate", "sentence": "wait, it is not the right command."}
+{"label": "dontcare", "sentence": "don't bother."}
+{"label": "likeness", "sentence": "I like this song, what is it? Can you please repeat it once?"}
+{"label": "set", "sentence": "Set a reminder for Wednesdays at 2 p.m."}
+{"label": "query", "sentence": "what genre is this?"}
+{"label": "query", "sentence": "When is the 22nd?"}
+{"label": "factoid", "sentence": "How many cups in a quart?"}
+{"label": "set", "sentence": "notification of meeting on Wednesday"}
+{"label": "query", "sentence": "what meetings do i have this week"}
+{"label": "set", "sentence": "Set reminder for tomorrow at 2 pm."}
+{"label": "dontcare", "sentence": "any one will be fine."}
+{"label": "query", "sentence": "List all the alarms"}
+{"label": "negate", "sentence": "no, i think that's not the right response."}
+{"label": "query", "sentence": "add newscast time to daily schedule"}
+{"label": "query", "sentence": "What is the temperature today"}
+{"label": "coffee", "sentence": "I would like a cup of coffee"}
+{"label": "query", "sentence": "check my last post on facebook"}
+{"label": "negate", "sentence": "you understood me incorrect."}
+{"label": "query", "sentence": "Is 13 november marked as holiday"}
+{"label": "query", "sentence": "Will you please show me my lists?"}
+{"label": "query", "sentence": "Is it going to rain?"}
+{"label": "query", "sentence": "Take me to T.Nagar"}
+{"label": "query", "sentence": "What is on my rap playlist?"}
+{"label": "set", "sentence": "remind me to take out the trash"}
+{"label": "query", "sentence": "Was there an appointment set up for Saturday?"}
+{"label": "query", "sentence": "How many new emails have I gotten"}
+{"label": "query", "sentence": "At what time is the italian cafe closed between lunch and dinner?"}
+{"label": "query", "sentence": "What time is my alarm set for tomorrow morning?"}
+{"label": "query", "sentence": "Its' what time in"}
+{"label": "query", "sentence": "Is there a training scheduled for tomorrow?"}
+{"label": "query", "sentence": "how warm is it right now outside?"}
+{"label": "negate", "sentence": "i think you're incorrect."}
+{"label": "negate", "sentence": "i think that is not the right answer."}
+{"label": "events", "sentence": "anything going on in los angeles"}
+{"label": "sendemail", "sentence": "Send an email to Shelly and ask if we are going to dinner next Monday night"}
+{"label": "query", "sentence": "Give me news from CNN."}
+{"label": "query", "sentence": "Pull up the news."}
+{"label": "set", "sentence": "please add the meeting with Ms. Boland on Wednesday 8:00am to my calendar"}
+{"label": "query", "sentence": "More information on this event..."}
+{"label": "wemo_off", "sentence": "Turn off the tv in room3"}
+{"label": "podcasts", "sentence": "can you search cnn"}
+{"label": "query", "sentence": "What are the latest crime statistics for my area"}
+{"label": "events", "sentence": "olly what fun stuff can i do around here"}
+{"label": "query", "sentence": "tell me how are the results of assembly elections in Delhi going to come out?"}
+{"label": "query", "sentence": "May i know the weather there ?"}
+{"label": "dontcare", "sentence": "i would not know, olly."}
+{"label": "affirm", "sentence": "you've done the command correcly."}
+{"label": "query", "sentence": "Olly, what's going on between 3:30 and 4?"}
+{"label": "query", "sentence": "Who sings this?"}
+{"label": "query", "sentence": "Find new Trump articles but not from Fox News."}
+{"label": "query", "sentence": "What time is it in Swotzeeland?"}
+{"label": "negate", "sentence": "i think you did it all wrong."}
+{"label": "set", "sentence": "Can you add an event with John and Mary?"}
+{"label": "affirm", "sentence": "yeah you have got my instructions perfectly."}
+{"label": "query", "sentence": "Tell me the weather situation"}
+{"label": "query", "sentence": "Should i wear a jacket to work?"}
+{"label": "factoid", "sentence": "PDA: Whats going to be the forecast tomorrow for Outer Nowhereville?"}
+{"label": "query", "sentence": "get me new mail."}
+{"label": "query", "sentence": "Can you give me the movie schedule?"}
+{"label": "query", "sentence": "What events do I have between 12pm and 4 pm?"}
+{"label": "addcontact", "sentence": "add this email to my contact list"}
+{"label": "negate", "sentence": "i think you've done task all wrong."}
+{"label": "podcasts", "sentence": "Play me the most popular podcast on iTunes."}
+{"label": "query", "sentence": "What is the current news today?"}
+{"label": "coffee", "sentence": "Olly brew my coffee"}
+{"label": "set", "sentence": "Add remember to call Mom to my reminders."}
+{"label": "dontcare", "sentence": "i wouldn't mind to choose any one, olly."}
+{"label": "factoid", "sentence": "How many floors does the Empire State Building have?"}
+{"label": "podcasts", "sentence": "Play the podcast named Ringcast"}
+{"label": "maths", "sentence": "whats was the value of x if x+2 = 5"}
+{"label": "set", "sentence": "Alexa, tell me calendar event for tomorrow."}
+{"label": "query", "sentence": "Will I need to wear my wooly sweater today?"}
+{"label": "sendemail", "sentence": "I want the email to be sent to my new email address, abc@gmail.com"}
+{"label": "sendemail", "sentence": "Pull up Outlook, I need to send a email."}
+{"label": "negate", "sentence": "stop, i think you don't get me."}
+{"label": "sendemail", "sentence": "I want to reply"}
+{"label": "query", "sentence": "What are the latest world news?"}
+{"label": "set", "sentence": "set a reminder about todays faculty meeting at 4"}
+{"label": "query", "sentence": "Do the Knicks have a game at home tonight?"}
+{"label": "set", "sentence": "Oliver will send me an email on Thursday and please set up a calendar appointment for our meeting based on the date he will provide on that email."}
+{"label": "maths", "sentence": "What is the sum of $15.99 and $6.65?"}
+{"label": "query", "sentence": "Can I get takeout from PF Changs?"}
+{"label": "factoid", "sentence": "Hey, I would like to know some key facts about X"}
+{"label": "factoid", "sentence": "What is Julia Roberts natural hair color?"}
+{"label": "sendemail", "sentence": "put a mail to sandy"}
+{"label": "volume_mute", "sentence": "Please do not respond."}
+{"label": "negate", "sentence": "nope, i did not say this."}
+{"label": "query", "sentence": "Calculate the travel time if I go to orlando by train."}
+{"label": "factoid", "sentence": "What is the capital of Nigeria?"}
+{"label": "query", "sentence": "WHAT TIME OF DAY IS IT IN LONDON?"}
+{"label": "dontcare", "sentence": "i do not care."}
+{"label": "podcasts", "sentence": "Will you please play the next episode of podcast."}
+{"label": "query", "sentence": "show me events that are going on right now"}
+{"label": "query", "sentence": "Can you find my lists?"}
+{"label": "set", "sentence": "find me a time for a meeting with Allen on tomorrow"}
+{"label": "dontcare", "sentence": "i would not really bother."}
+{"label": "query", "sentence": "PDA name: Do have any new email?"}
+{"label": "query", "sentence": "What time have you set the alarm?"}
+{"label": "query", "sentence": "open remainder and find meeting time"}
+{"label": "query", "sentence": "Tell me if an earthquake happens in the world"}
+{"label": "factoid", "sentence": "What does"}
+{"label": "stock", "sentence": "have i made loss in which stocks"}
+{"label": "factoid", "sentence": "Siri, how long has Susumu Hirasawa been creating music?"}
+{"label": "query", "sentence": "News 19"}
+{"label": "set", "sentence": "Notify me about the evening meeting five minute in advance."}
+{"label": "query", "sentence": "show me my list"}
+{"label": "query", "sentence": "Do i got anything planned for today"}
+{"label": "dontcare", "sentence": "any one would be ok with me, olly."}
+{"label": "query", "sentence": "what new messages do i have"}
+{"label": "sendemail", "sentence": "forward a mail to sandy"}
+{"label": "set", "sentence": "Set a meeting with Bill"}
+{"label": "query", "sentence": "can you show me list of my appointment"}
+{"label": "affirm", "sentence": "yes command was confirmed."}
+{"label": "set", "sentence": "Remind me about the March 16 meeting."}
+{"label": "query", "sentence": "will arby's offer takeaway"}
+{"label": "dontcare", "sentence": "does not matter for me."}
+{"label": "query", "sentence": "Do I have an appointment next Wednesday at 2?"}
+{"label": "query", "sentence": "check mails"}
+{"label": "negate", "sentence": "i am sorry but i think you have messed up with."}
+{"label": "query", "sentence": "what were the first number of email subjects I got today?"}
+{"label": "query", "sentence": "Check for me new emails recieved from Michael"}
+{"label": "negate", "sentence": "try again that is not what i am looking for."}
+{"label": "sendemail", "sentence": "PDA: Reply to Bill's email and add it to my contact list"}
+{"label": "set", "sentence": "go to alarm on menu"}
+{"label": "query", "sentence": "what's my favorite music at the moment?"}
+{"label": "affirm", "sentence": "it's wonderful."}
+{"label": "query", "sentence": "Take me to Layfayette St and Canal."}
+{"label": "factoid", "sentence": "Where is Yellowstone?"}
+{"label": "query", "sentence": "Check whether I have set any alarms for tomorrow morning"}
+{"label": "query", "sentence": "whats the name of the current song?"}
+{"label": "query", "sentence": "when I should leave to XXX"}
+{"label": "negate", "sentence": "hmm, i did not ask for this response."}
+{"label": "query", "sentence": "When will the match start"}
+{"label": "set", "sentence": "Please remind me to take off coffee off stove in 10 minutes"}
+{"label": "query", "sentence": "is summer going on?"}
+{"label": "set", "sentence": "Set a reminder for next Saturday: Go to the library at five o'clock."}
+{"label": "query", "sentence": "What is 10 AM in Eastern time?"}
+{"label": "query", "sentence": "Facebook Launches 'Disputed' Tag To Crack Down On Fake News"}
+{"label": "query", "sentence": "would like to know about topic X, please tell."}
+{"label": "query", "sentence": "who are the last number of people I got emails from?"}
+{"label": "query", "sentence": "what's the date?"}
+{"label": "set", "sentence": "Remind me to go shopping every week"}
+{"label": "set", "sentence": "Add birthday reminder on September 4"}
+{"label": "query", "sentence": "What will be the weather on Monday this week"}
+{"label": "query", "sentence": "Give me the morning news."}
+{"label": "maths", "sentence": "What is the square root of 148,587"}
+{"label": "query", "sentence": "Read unchecked email"}
+{"label": "factoid", "sentence": "PLEASE TELL ME HOW MANY INVENTIONS DID THOMAS ALVA EDISON INVITE?"}
+{"label": "negate", "sentence": "are you sure thats correct."}
+{"label": "query", "sentence": "ABHI KITNA TIME HO RAHA HAI?"}
+{"label": "dontcare", "sentence": "i have no idea."}
+{"label": "podcasts", "sentence": "Start next episode playing"}
+{"label": "likeness", "sentence": "I like classic rock"}
+{"label": "addcontact", "sentence": "I need you to add this email in my contacts"}
+{"label": "set", "sentence": "open alarm"}
+{"label": "query", "sentence": "Tell me updates"}
+{"label": "factoid", "sentence": "Can you get me the route chicago before midnight"}
+{"label": "affirm", "sentence": "yeap wonderful response to the command."}
+{"label": "negate", "sentence": "sorry but i think you made mistake."}
+{"label": "stock", "sentence": "stock price for sprint"}
+{"label": "set", "sentence": "Will you remind me of the dentist appointment I have in two hours?"}
+{"label": "stock", "sentence": "List the latest apple stock prices."}
+{"label": "wemo_off", "sentence": "Turn off WiFi when you leave home to save power"}
+{"label": "set", "sentence": "add 'new year's eve' to calendar"}
+{"label": "query", "sentence": "Who is the songwriter?"}
+{"label": "stock", "sentence": "Give me the opening stock price of Sony"}
+{"label": "dontcare", "sentence": "wouldn't really bother."}
+{"label": "sendemail", "sentence": "I want to reply to this email."}
+{"label": "query", "sentence": "Hey Olly, how is the weather in Long Island, New York?"}
+{"label": "events", "sentence": "I need all the local events for this area that are being held this weekend."}
+{"label": "podcasts", "sentence": "Play volume 2 of Nutritional Facts"}
+{"label": "query", "sentence": "Is it rainy in my area?"}
+{"label": "set", "sentence": "Set a timer for 5 minutes for cookies"}
+{"label": "query", "sentence": "where is the event today?"}
+{"label": "set", "sentence": "Turn on my first scheduled alarm"}
+{"label": "query", "sentence": "Are there going to be any showers tomorrow morning?"}
+{"label": "coffee", "sentence": "Make me happy juice"}
+{"label": "query", "sentence": "Did anybody post on Facebook today?"}
+{"label": "volume_mute", "sentence": "Silence for two hours"}
+{"label": "query", "sentence": "show emails about contract"}
+{"label": "sendemail", "sentence": "send email to jerry about the meeting"}
+{"label": "set", "sentence": "6 am alarm please"}
+{"label": "query", "sentence": "current date please"}
+{"label": "query", "sentence": "What's the latest email I have?"}
+{"label": "query", "sentence": "Any meeting on....."}
+{"label": "dontcare", "sentence": "do not really bother, olly."}
+{"label": "query", "sentence": "check mail with <unk>"}
+{"label": "query", "sentence": "Weekly weather report"}
+{"label": "factoid", "sentence": "When did Elvis die"}
+{"label": "sendemail", "sentence": "reply"}
+{"label": "query", "sentence": "I HAVE ALL DETAILS ABOUT PDA'S"}
+{"label": "volume_mute", "sentence": "Mute yourself until I say otherwise"}
+{"label": "set", "sentence": "alexa set an alarm for 4pm tuesday"}
+{"label": "factoid", "sentence": "Which part of Antarctica belongs to the US?"}
+{"label": "factoid", "sentence": "With all of the information you can gather on the internet could you please provide me with the best probable explanation of who killed President Kennedy."}
+{"label": "dontcare", "sentence": "don't really mind for whatever, olly."}
+{"label": "negate", "sentence": "that wasn't what i wanted please try again."}
+{"label": "factoid", "sentence": "What's Bruce Springsteen's daughter's horse called?"}
+{"label": "set", "sentence": "Ring the alarm when I get home"}
+{"label": "events", "sentence": "what is the event name going in my area?"}
+{"label": "dontcare", "sentence": "would not really mind, olly."}
+{"label": "query", "sentence": "Does Louie's do take out"}
+{"label": "stock", "sentence": "Give me the opening stock price of Acer computers"}
+{"label": "factoid", "sentence": "Give me the birth date of Mahatma Gandhi"}
+{"label": "coffee", "sentence": "I need a coffee"}
+{"label": "query", "sentence": "Should I wear galoshes today?"}
+{"label": "factoid", "sentence": "geography melbourne"}
+{"label": "query", "sentence": "What song do I listen to the most?"}
+{"label": "query", "sentence": "What is the mayor's stance on homelessness in Seattle?"}
+{"label": "set", "sentence": "Remind me of my meeting on Wednesday at 9 am."}
+{"label": "coffee", "sentence": "make a cup of coffee for me"}
+{"label": "query", "sentence": "Search my emails with subject including work hours"}
+{"label": "factoid", "sentence": "Is Leonardo Married?"}
+{"label": "query", "sentence": "What will bw thr time now in Washington"}
+{"label": "query", "sentence": "How many new emails since I last checked?"}
+{"label": "query", "sentence": "Who is singing?"}
+{"label": "set", "sentence": "Can you add this event with Joey?"}
+{"label": "set", "sentence": "remind me of mondays meeting"}
+{"label": "events", "sentence": "What can I do for fun under $20 around me?"}
+{"label": "query", "sentence": "tell next day's event"}
+{"label": "query", "sentence": "Did I get any new emails?"}
+{"label": "affirm", "sentence": "answer was right."}
+{"label": "query", "sentence": "my health planning"}
+{"label": "query", "sentence": "is it anyones birthday"}
+{"label": "factoid", "sentence": "How old is Meryl Streep?"}
+{"label": "likeness", "sentence": "I like alt rock music."}
+{"label": "affirm", "sentence": "you've got the answer perfectly."}
+{"label": "stock", "sentence": "What's the stock price for Tesco?"}
+{"label": "affirm", "sentence": "yes you have gotten your understanding perfectly."}
+{"label": "negate", "sentence": "shit, it isn't what i was searching for."}
+{"label": "query", "sentence": "What is the bbc's latest news"}
+{"label": "query", "sentence": "current time in London"}
+{"label": "query", "sentence": "Tell me about the latest sports news"}
+{"label": "query", "sentence": "i have to take sunglasses in today afternoon"}
+{"label": "query", "sentence": "Give me my social media update"}
+{"label": "query", "sentence": "i want to go to mcdo."}
+{"label": "factoid", "sentence": "Is Elvis Presley still alive?"}
+{"label": "negate", "sentence": "no, you don't get what i just requested."}
+{"label": "set", "sentence": "wake me up on Friday at 5 in the morning, I need to catch the train"}
+{"label": "query", "sentence": "PDA what is my next event."}
+{"label": "affirm", "sentence": "you got the command right."}
+{"label": "query", "sentence": "whats today's date"}
+{"label": "events", "sentence": "What's happening tonight in Chicago?"}
+{"label": "wemo_off", "sentence": "Please male the smart socket turn off"}
+{"label": "query", "sentence": "open my list"}
+{"label": "dontcare", "sentence": "do not really mind."}
+{"label": "affirm", "sentence": "yeap got that right."}
+{"label": "query", "sentence": "What happened with it?"}
+{"label": "query", "sentence": "Is the weekly weather supposed to be good this week?"}
+{"label": "query", "sentence": "I need to seem my lists."}
+{"label": "query", "sentence": "Does John's pizza have takeaway"}
+{"label": "coffee", "sentence": "I want a coffee now."}
+{"label": "set", "sentence": "I need this event on a repeating cycle on my calendar"}
+{"label": "set", "sentence": "PDA, notify me about the event in my calendar."}
+{"label": "volume_mute", "sentence": "Mute the audio"}
+{"label": "affirm", "sentence": "yeah it's confirmed."}
+{"label": "negate", "sentence": "bad that's not what i said."}
+{"label": "dontcare", "sentence": "that does not matter with me."}
+{"label": "affirm", "sentence": "amazing."}
+{"label": "query", "sentence": "PDA name: what time does xxxx arrive at xxxx"}
+{"label": "set", "sentence": "Notify me about birthdays of all my facebook friends."}
+{"label": "query", "sentence": "tell me who the senders of my emails."}
+{"label": "set", "sentence": "PLEASE SET ALARAM TO MY MOBIL PHONES"}
+{"label": "query", "sentence": "does jack have a meeting in the morning?"}
+{"label": "affirm", "sentence": "you understood my instructions perfectly."}
+{"label": "query", "sentence": "Any incoming emails in the last five minutes?"}
+{"label": "set", "sentence": "Olly I want to go to the outdoor movie screening this weekend, remind me"}
+{"label": "query", "sentence": "What is the schedule of the next Maggie Rogers concert?"}
+{"label": "query", "sentence": "Show me the meetings for the day."}
+{"label": "query", "sentence": "Can you give me a weather report."}
+{"label": "query", "sentence": "when is the next appointment on my calendar"}
+{"label": "factoid", "sentence": "Explain the Book of Daniel to me"}
+{"label": "query", "sentence": "wats online, PDA?"}
+{"label": "query", "sentence": "will i need sunblock this afternoon"}
+{"label": "podcasts", "sentence": "Start podcast from my favorites list"}
+{"label": "stock", "sentence": "Notify me of the latest news on the stock market"}
+{"label": "query", "sentence": "schedule for 6:30pm to 7:30pm"}
+{"label": "set", "sentence": "Set an alarm for 9 AM."}
+{"label": "query", "sentence": "could you please tell me what time is in singapore."}
+{"label": "negate", "sentence": "this is not the correct answer."}
+{"label": "query", "sentence": "How long will my order be?"}
+{"label": "query", "sentence": "Show me the date of today"}
+{"label": "query", "sentence": "Let me know about the alarms you set"}
+{"label": "negate", "sentence": "that must be mistakes."}
+{"label": "likeness", "sentence": "Opinion save"}
+{"label": "negate", "sentence": "thanks but i think you messed up with."}
+{"label": "podcasts", "sentence": "Olly, Play Heavyweight podcast"}
+{"label": "negate", "sentence": "sorry but that's not the right response."}
+{"label": "factoid", "sentence": "How smooth is marble floor?"}
+{"label": "query", "sentence": "List items on my work list"}
+{"label": "dontcare", "sentence": "it is unimportant to me, olly."}
+{"label": "affirm", "sentence": "good."}
+{"label": "set", "sentence": "Call me at 6 am"}
+{"label": "negate", "sentence": "oh no, i didn't say this."}
+{"label": "query", "sentence": "Is the weather supposed to be nice today, PDA?"}
+{"label": "query", "sentence": "To do list"}
+{"label": "query", "sentence": "list the items on my shopping list olly"}
+{"label": "factoid", "sentence": "Tell me about Neal Adams"}
+{"label": "query", "sentence": "What is the next Metro to DC?"}
+{"label": "query", "sentence": "How to I get to Cape Cod?"}
+{"label": "set", "sentence": "Is my alarm set for 7:00 am?"}
+{"label": "factoid", "sentence": "whats the crime rate in Chicago"}
+{"label": "query", "sentence": "What trips are available from NYC to Poughkeepsie?"}
+{"label": "factoid", "sentence": "How hot are summers in Gibraltar?"}
+{"label": "query", "sentence": "does dominos has a delivery option."}
+{"label": "set", "sentence": "Make a note of an event  'exhibition 2017 mass' on Mar 25."}
+{"label": "likeness", "sentence": "Tag this song with 5 stars"}
+{"label": "query", "sentence": "Hi, What is happening in Twitter today."}
+{"label": "query", "sentence": "what is on that date"}
+{"label": "likeness", "sentence": "Make a note, please: I like modern alternative rock music"}
+{"label": "sendemail", "sentence": "PDA, compose this email to this new email address"}
+{"label": "query", "sentence": "what is programme for today?"}
+{"label": "query", "sentence": "whats the next train at westcombe park."}
+{"label": "factoid", "sentence": "search on his interests"}
+{"label": "volume_mute", "sentence": "please be quiet for another hour"}
+{"label": "factoid", "sentence": "What size is a sperm whale?"}
+{"label": "query", "sentence": "Show me omorrows weather in this area."}
+{"label": "query", "sentence": "Cortana, what is the time in London right now?"}
+{"label": "set", "sentence": "My flight is by 6 pm, please keep me posted."}
+{"label": "set", "sentence": "Set alarm for 1 hour from now."}
+{"label": "events", "sentence": "What events are in my area?"}
+{"label": "coffee", "sentence": "Please make me a cup of coffee"}
+{"label": "query", "sentence": "is it going to be cloudy in London during the weekend?"}
+{"label": "query", "sentence": "please let me know about topic X"}
+{"label": "sendemail", "sentence": "drop a message to Jan, write I will be late"}
+{"label": "affirm", "sentence": "that's good."}
+{"label": "negate", "sentence": "i am sorry but it was not the right command."}
+{"label": "query", "sentence": "Do I have an appointment today?"}
+{"label": "maths", "sentence": "X+Y"}
+{"label": "set", "sentence": "Add my spin class to the calendar for Saturday at 7am"}
+{"label": "query", "sentence": "Clock time"}
+{"label": "affirm", "sentence": "yeah wonderful."}
+{"label": "coffee", "sentence": "Olly, can i get a cup of coffee?"}
+{"label": "query", "sentence": "what music is this?"}
+{"label": "query", "sentence": "display weather for the week"}
+{"label": "negate", "sentence": "seems like your answer you have was wrong."}
+{"label": "query", "sentence": "Did Danielle email me today?"}
+{"label": "query", "sentence": "Do they have takeout?"}
+{"label": "volume_mute", "sentence": "mute for 15 minutes"}
+{"label": "factoid", "sentence": "Olly, what is the highest point in the US?"}
+{"label": "query", "sentence": "Did snap become public yet?"}
+{"label": "set", "sentence": "do events"}
+{"label": "query", "sentence": "what is the time train coming from sacramento"}
+{"label": "dontcare", "sentence": "do not mind for any one."}
+{"label": "set", "sentence": "THERE ARE MANY IMPORTANT EVENT IN THIS MONTH, NOTE DOWN THAT."}
+{"label": "factoid", "sentence": "What is the birth year of Barack Obama"}
+{"label": "factoid", "sentence": "rowan atkinson info"}
+{"label": "query", "sentence": "check if there any new email."}
+{"label": "sendemail", "sentence": "Alexa, Send the mail to Robert about his availability on saturday"}
+{"label": "query", "sentence": "what is on my schedule for 9 to 11am tomorrow?"}
+{"label": "factoid", "sentence": "Olly, who is Luke Bryan?"}
+{"label": "set", "sentence": "Notify me when I have a meeting."}
+{"label": "set", "sentence": "Remind me to start the crock pot at 2:00 PM"}
+{"label": "negate", "sentence": "sorry but i think you have messed up."}
+{"label": "events", "sentence": "olly tell me about some cool events going on here"}
+{"label": "query", "sentence": "update latest news"}
+{"label": "query", "sentence": "can I wear sandals"}
+{"label": "sendemail", "sentence": "Send an email to Peter and ask him how is he now. Can I do something to help him."}
+{"label": "query", "sentence": "PDA what alarms do I have scheduled for tomorrow?"}
+{"label": "query", "sentence": "Plaease give me detail of o zaalima song."}
+{"label": "affirm", "sentence": "you have got my instructions right."}
+{"label": "query", "sentence": "What is available in your stock of lists?"}
+{"label": "set", "sentence": "Can you let me know when it's 2:00?"}
+{"label": "factoid", "sentence": "Please google location and information of Mount Rushmore"}
+{"label": "set", "sentence": "Please set a reminder for church services on Sundays for 11am."}
+{"label": "wemo_off", "sentence": "Make the smart socket turn off"}
+{"label": "set", "sentence": "COULD YOU REMIND ME TO TAKE MY CAR FROM GARAGE BECAUSE I MAY GO FOR A LONG DRIVE.TODAY ."}
+{"label": "query", "sentence": "show my activity list"}
+{"label": "set", "sentence": "Remind me at 2 pm Tuesday for the 3 pm meeting with the boss."}
+{"label": "set", "sentence": "Remind me about the office meeting tomorrow at 7"}
+{"label": "query", "sentence": "Is there any rains predicted for Bangalore today"}
+{"label": "query", "sentence": "did you receive this person email?"}
+{"label": "query", "sentence": "Tell me the top stories on CNN"}
+{"label": "query", "sentence": "What is the weather for the school week?"}
+{"label": "sendemail", "sentence": "send voice email"}
+{"label": "query", "sentence": "List the subjects and senders of all emails to me in the last week."}
+{"label": "query", "sentence": "tell me the election result of u.p which was to come today."}
+{"label": "query", "sentence": "Hey Google, what is on my alarm schedule?"}
+{"label": "query", "sentence": "When is my mortgage due?"}
+{"label": "sendemail", "sentence": "Could you please send an email to my husband?"}
+{"label": "query", "sentence": "what time is my doctors appointment"}
+{"label": "maths", "sentence": "What is 200 divided by 10"}
+{"label": "sendemail", "sentence": "send john a mail for financial report 2017"}
+{"label": "events", "sentence": "list events in NY"}
+{"label": "query", "sentence": "when is my daughter birthday"}
+{"label": "query", "sentence": "What does the list contain"}
+{"label": "set", "sentence": "remind me for making call to all participants"}
+{"label": "query", "sentence": "how many hours remaining for mid noon."}
+{"label": "query", "sentence": "bbc"}
+{"label": "query", "sentence": "What will the temperatures be for the next week?"}
+{"label": "query", "sentence": "Is it 2nd Saturday on 12th."}
+{"label": "negate", "sentence": "hmm, i think you did task in wrong manner."}
+{"label": "set", "sentence": "Add weekly 1pm call to calendar"}
+{"label": "query", "sentence": "Show me Boston's current time"}
+{"label": "negate", "sentence": "nope, i think you have done a task in wrong manner."}
+{"label": "events", "sentence": "What is there to do here?"}
+{"label": "negate", "sentence": "you did not find the right address."}
+{"label": "query", "sentence": "show latest news"}
+{"label": "query", "sentence": "whats is the weather in Hyderbad"}
+{"label": "query", "sentence": "get me new email"}
+{"label": "query", "sentence": "Events in my March Calender has to be listed."}
+{"label": "query", "sentence": "Is it 5:00 yet?"}
+{"label": "query", "sentence": "Olly, tell me what's new."}
+{"label": "query", "sentence": "When do I need to leave to pick up my order?"}
+{"label": "set", "sentence": "PDA can you remind me to meet with Jesse next Saturday."}
+{"label": "factoid", "sentence": "info of rowan atkinson"}
+{"label": "set", "sentence": "Please give me notice when I need to leave for the conference"}
+{"label": "query", "sentence": "News headlines"}
+{"label": "factoid", "sentence": "Does MIley Cryus have any siblings?"}
+{"label": "podcasts", "sentence": "Play the next episode of Max's podcast"}
+{"label": "sendemail", "sentence": "Send the following Email to bro Hi come down for dinner tonight"}
+{"label": "query", "sentence": "What is the current time?"}
+{"label": "query", "sentence": "Siri, what time is it in Denver?"}
+{"label": "query", "sentence": "What do I have to do next?"}
+{"label": "query", "sentence": "keep me posted on _____subject in the news"}
+{"label": "query", "sentence": "Do you expect sun on Sunday?"}
+{"label": "query", "sentence": "My friend emails me to check"}
+{"label": "dontcare", "sentence": "wouldn't really mind."}
+{"label": "query", "sentence": "please read the last email for me"}
+{"label": "events", "sentence": "What's happening around town"}
+{"label": "query", "sentence": "What kind of shoes should I leave the house with?"}
+{"label": "query", "sentence": "Check for all emails from Tom Brady"}
+{"label": "query", "sentence": "Olly will it be nice on Saturday?"}
+{"label": "sendemail", "sentence": "Email staff group distribution about tomorrow's meeting"}
+{"label": "query", "sentence": "Do I have any more emails?"}
+{"label": "set", "sentence": "Block off 3 to 5 on friday"}
+{"label": "query", "sentence": "What is the latest news about Donald Trump?"}
+{"label": "query", "sentence": "Please check my inbox and tell me if there are any new arrivals"}
+{"label": "set", "sentence": "Add Jane's birthday party for tomorrow, 2pm at 123 Main St on my calendar."}
+{"label": "negate", "sentence": "shit, i think you did a task all wrong."}
+{"label": "negate", "sentence": "oh no, you have done that wrong."}
+{"label": "query", "sentence": "What's on the list?"}
+{"label": "query", "sentence": "What are some recent e-mails in my inbox?"}
+{"label": "query", "sentence": "Will it be warm on Friday night?"}
+{"label": "set", "sentence": "Olly I need to remember to get to the shops before they close"}
+{"label": "set", "sentence": "Add haircut to my appointments on Saturday aftyernoon at 4"}
+{"label": "coffee", "sentence": "Olly, make me some coffee from the coffee machiine"}
+{"label": "factoid", "sentence": "Is Adele going to go on tour?"}
+{"label": "events", "sentence": "Is there any events are in the local area?"}
+{"label": "query", "sentence": "Yesterday at noontime, in Times Square, what was the protest about?"}
+{"label": "query", "sentence": "How cold will it be next Tuesday?"}
+{"label": "maths", "sentence": "Multiply one thousand by twelve."}
+{"label": "query", "sentence": "Olly, what is the forecast in town today?"}
+{"label": "negate", "sentence": "you did not give the correct information that i asked for."}
+{"label": "factoid", "sentence": "What is the capital city of Colorado?"}
+{"label": "query", "sentence": "Give me my reminders for this week?"}
+{"label": "negate", "sentence": "no."}
+{"label": "query", "sentence": "What is the weekly weather report?"}
+{"label": "likeness", "sentence": "YE SONG MERA FAVORITE HAI MAIN ESSE BAHUT BAAR SUN CHUKA HU."}
+{"label": "events", "sentence": "what family activities are happening in los angeles tomorrow"}
+{"label": "negate", "sentence": "i didn't ask for it."}
+{"label": "set", "sentence": "Remind me at the 15th of every month."}
+{"label": "sendemail", "sentence": "how its come to us"}
+{"label": "query", "sentence": "Show me what alarm times I've set for the week."}
+{"label": "maths", "sentence": "What is the answer to $12.95 minus $7.50?"}
+{"label": "query", "sentence": "Notify me when Joshua emails me"}
+{"label": "query", "sentence": "PDA, Are there any alarms set?"}
+{"label": "query", "sentence": "Tell me what time it is in Dallas, Texas."}
+{"label": "events", "sentence": "Show me nearby musical events"}
+{"label": "set", "sentence": "Remind me to meet Joe for lunch tomorrow."}
+{"label": "query", "sentence": "Any local news stories for my home city?"}
+{"label": "query", "sentence": "Can you please tell me what I have on my list?"}
+{"label": "query", "sentence": "What is the plan for tonight?"}
+{"label": "factoid", "sentence": "How old is Draymond Green"}
+{"label": "query", "sentence": "Who's birthdays are today on Facebook?"}
+{"label": "set", "sentence": "Please set alarm for"}
+{"label": "query", "sentence": "Read out my list for today."}
+{"label": "query", "sentence": "Does that restaurant deliver?"}
+{"label": "stock", "sentence": "What's going on on Wall Street this week?"}
+{"label": "podcasts", "sentence": "strong lt angree"}
+{"label": "negate", "sentence": "dammit, not correct answer."}
+{"label": "query", "sentence": "Give the time of clasical music concert today in the city"}
+{"label": "query", "sentence": "Give me idea about the day"}
+{"label": "stock", "sentence": "Set notification for news on the stock market"}
+{"label": "factoid", "sentence": "Tell me economic stats"}
+{"label": "query", "sentence": "What is scheduled for today?"}
+{"label": "query", "sentence": "what did <unk> today"}
+{"label": "factoid", "sentence": "How hilly is it in Sacramento?"}
+{"label": "dontcare", "sentence": "never mind, olly."}
+{"label": "query", "sentence": "Let me know when a new email arrives from Rachel"}
+{"label": "query", "sentence": "Please send a notification when John replies"}
+{"label": "set", "sentence": "set an alarm for me at 8am"}
+{"label": "affirm", "sentence": "yeap excellent response."}
+{"label": "factoid", "sentence": "How big is the stashable cinch bag, and what does it look like?"}
+{"label": "set", "sentence": "New alarm for 6am"}
+{"label": "query", "sentence": "Do you have any updates on blank?"}
+{"label": "sendemail", "sentence": "PDA: Reply back to Bob Smith..."}
+{"label": "query", "sentence": "Will it be rainy day tommorrow?"}
+{"label": "affirm", "sentence": "yes that is perfect."}
+{"label": "dontcare", "sentence": "this is of no importance."}
+{"label": "query", "sentence": "Is Mary's birthday party tonight?"}
+{"label": "query", "sentence": "weather for remchi city"}
+{"label": "negate", "sentence": "sorry but i think you are not correct."}
+{"label": "podcasts", "sentence": "Start playlist for podcast"}
+{"label": "query", "sentence": "Finance"}
+{"label": "negate", "sentence": "it is not what i wanted."}
+{"label": "query", "sentence": "What is the status of my food order"}
+{"label": "volume_mute", "sentence": "Set mute for 20 mins"}
+{"label": "query", "sentence": "what day is christmas"}
+{"label": "query", "sentence": "Will it be raining on Thursday?"}
+{"label": "events", "sentence": "are there any fun events in LA today?"}
+{"label": "events", "sentence": "any good drama released recently in the cinema?"}
+{"label": "factoid", "sentence": "Please give me address of Salman khan apartment"}
+{"label": "query", "sentence": "What is the exchange rate of US dollar to pound sterling?"}
+{"label": "query", "sentence": "Please brief me about this week's weather"}
+{"label": "set", "sentence": "I want to add something to my calendar."}
+{"label": "dontcare", "sentence": "don't care."}
+{"label": "query", "sentence": "Open facebook messenger"}
+{"label": "factoid", "sentence": "How far is Florida from North Carolina"}
+{"label": "factoid", "sentence": "How old is Adele?"}
+{"label": "affirm", "sentence": "yes the command was confirmed."}
+{"label": "set", "sentence": "remind me at 5:00pm that I have a meeting"}
+{"label": "factoid", "sentence": "Where is South Asia located?"}
+{"label": "set", "sentence": "set alarm at 5:30 am"}
+{"label": "query", "sentence": "check recent to do list"}
+{"label": "set", "sentence": "fix alarm"}
+{"label": "query", "sentence": "Show me the train schedules between madrid and barcelona for tomorrow"}
+{"label": "negate", "sentence": "sorry but i think you have messed up with command."}
+{"label": "stock", "sentence": "what is the closing price of Apple today?"}
+{"label": "podcasts", "sentence": "Can you please download my podcaste file available in internet and play it once?"}
+{"label": "factoid", "sentence": "Where is the statue of liberty located"}
+{"label": "wemo_off", "sentence": "Shut the smart socket down."}
+{"label": "negate", "sentence": "i meant this."}
+{"label": "query", "sentence": "Olly what is it today"}
+{"label": "maths", "sentence": "tell me if 540 is subtracted seven time by 28."}
+{"label": "query", "sentence": "what is the weather in this week"}
+{"label": "podcasts", "sentence": "play the next one"}
+{"label": "set", "sentence": "Set a reminder for this"}
+{"label": "affirm", "sentence": "yeah right response."}
+{"label": "query", "sentence": "What's my latest email"}
+{"label": "set", "sentence": "notify me with all events in the next one week"}
+{"label": "query", "sentence": "Did I get any email during the last hour?"}
+{"label": "query", "sentence": "What is the time in New york now."}
+{"label": "negate", "sentence": "stop, you have me incorrectly."}
+{"label": "query", "sentence": "Will gloves come in handy on Tuesday?"}
+{"label": "maths", "sentence": "Add five plus eighteen minus four please."}
+{"label": "set", "sentence": "please set a reminder for the office party next saturday?"}
+{"label": "dontcare", "sentence": "do not mind for any one, olly."}
+{"label": "sendemail", "sentence": "Add new email address and send email"}
+{"label": "set", "sentence": "Put an alert in my calendar every week."}
+{"label": "query", "sentence": "check weather"}
+{"label": "negate", "sentence": "uh no, i did not ask for that command."}
+{"label": "query", "sentence": "Name off all the lists I own."}
+{"label": "sendemail", "sentence": "Send Chris an email.  Say - Do you have plans tonight? Want to go to dinner?"}
+{"label": "set", "sentence": "set a reminder about tomorrows meeting at 9am"}
+{"label": "maths", "sentence": "How many miles in 5 kilometers?"}
+{"label": "podcasts", "sentence": "play next doctor who episode"}
+{"label": "query", "sentence": "Will it rain"}
+{"label": "query", "sentence": "Can you give me the latest sports news"}
+{"label": "factoid", "sentence": "For how many years did Mahatma Gandhi live"}
+{"label": "query", "sentence": "please provide the detailed information about the next event"}
+{"label": "query", "sentence": "what's the latest about the Olympics"}
+{"label": "dislikeness", "sentence": "I don't like this song"}
+{"label": "set", "sentence": "Mark pick-up Leonard every Tuesday at 3pm."}
+{"label": "events", "sentence": "local events"}
+{"label": "set", "sentence": "set the alarm in my calendar events before 5 mins"}
+{"label": "factoid", "sentence": "How many cats does Taylor Swift have?"}
+{"label": "factoid", "sentence": "Name the capital of Nigeria?"}
+{"label": "sendemail", "sentence": "make a new email for emily"}
+{"label": "query", "sentence": "Is the time currently correct for where I am located?"}
+{"label": "set", "sentence": "All RCCG March event is to be added to my calender"}
+{"label": "set", "sentence": "I need to add an event on May 5th 2017 location Goshen for Danny's Graduation Party."}
+{"label": "query", "sentence": "How long will be the duration of the event?"}
+{"label": "set", "sentence": "set an alarm for 5:30"}
+{"label": "query", "sentence": "Tell me the train arrival time to New York"}
+{"label": "affirm", "sentence": "good response to the command."}
+{"label": "set", "sentence": "Save this afternoon for my date"}
+{"label": "set", "sentence": "Remind me of Sarah's birthday three days ahead of time."}
+{"label": "query", "sentence": "Display the local time of London at this moment."}
+{"label": "query", "sentence": "Please let me know the morning alarm time for Weekdays"}
+{"label": "volume_mute", "sentence": "Can you please stop speaking"}
+{"label": "sendemail", "sentence": "reply to johns email"}
+{"label": "query", "sentence": "Do I have any new email from Pawel"}
+{"label": "query", "sentence": "show latest reports of bbc"}
+{"label": "query", "sentence": "any sport event is on my list."}
+{"label": "factoid", "sentence": "Is Miley Cyrus married?"}
+{"label": "query", "sentence": "What is the exact time now?"}
+{"label": "set", "sentence": "Ask Joe and Joanne if they can attend tomorrow's meeting at 11am"}
+{"label": "query", "sentence": "What day of the week is the 21st of MAy?"}
+{"label": "query", "sentence": "give me a news paper"}
+{"label": "query", "sentence": "How many pending reminders do I have?"}
+{"label": "affirm", "sentence": "you've done that right."}
+{"label": "affirm", "sentence": "yes you get it exactly."}
+{"label": "query", "sentence": "What's on the New York Time?"}
+{"label": "query", "sentence": "celeb news"}
+{"label": "query", "sentence": "What type of music do I enjoy?"}
+{"label": "query", "sentence": "please check email from mom"}
+{"label": "query", "sentence": "What is going on with Obamacare?"}
+{"label": "query", "sentence": "who is the latest sender?"}
+{"label": "likeness", "sentence": "I LIKE A SONG SING BY ARIJIT SINGH."}
+{"label": "set", "sentence": "Remind me every year/week/month on this date of"}
+{"label": "sendemail", "sentence": "Send an email to Rae telling her my phone is back in service"}
+{"label": "factoid", "sentence": "is angeline having a new movie this year"}
+{"label": "dontcare", "sentence": "wouldn't bother, olly."}
+{"label": "coffee", "sentence": "can u make coffee"}
+{"label": "negate", "sentence": "you've understood it incorrectly."}
+{"label": "query", "sentence": "Show me politics news from today."}
+{"label": "query", "sentence": "show me more about the presidential election"}
+{"label": "query", "sentence": "what's the time in madrid"}
+{"label": "query", "sentence": "Did I have any plans later on tonight at 8pm?"}
+{"label": "affirm", "sentence": "you have done command correcly."}
+{"label": "query", "sentence": "DO I HAVE ANY APPOINTMENTS THIS WEEK?"}
+{"label": "query", "sentence": "Is there anything left on my list?"}
+{"label": "coffee", "sentence": "Please turn on my coffee pot"}
+{"label": "query", "sentence": "I need to know the name of that song."}
+{"label": "affirm", "sentence": "yeap amazing response to the command."}
+{"label": "query", "sentence": "Once a new topic on politics comes up alert me"}
+{"label": "addcontact", "sentence": "email XXXXX@gmail.com add to email contacts"}
+{"label": "query", "sentence": "open temperature"}
+{"label": "query", "sentence": "What is the temperature outside?"}
+{"label": "set", "sentence": "Please give me a 2 hour warning before next Saturdays meeting."}
+{"label": "query", "sentence": "What is the weather forecast for Chicago?"}
+{"label": "negate", "sentence": "uh no, i did not ask for it command."}
+{"label": "coffee", "sentence": "Please make coffee at 7:00 AM"}
+{"label": "query", "sentence": "display my lists"}
+{"label": "factoid", "sentence": "Who build the Paris tower?"}
+{"label": "query", "sentence": "WHAT IS THE DATE NEXT SATURDAY?"}
+{"label": "query", "sentence": "read me back whats on my shopping list"}
+{"label": "podcasts", "sentence": "Olly turn on Reply All podcast"}
+{"label": "factoid", "sentence": "How old is Bruce Willis?"}
+{"label": "affirm", "sentence": "yeap exact response."}
+{"label": "negate", "sentence": "oh no."}
+{"label": "query", "sentence": "show me this week's forecast"}
+{"label": "query", "sentence": "when was this song first recorded?"}
+{"label": "factoid", "sentence": "I want to know how many feet are in a mile?"}
+{"label": "events", "sentence": "Olly, what should I see this weekend?"}
+{"label": "likeness", "sentence": "yes, I Like to save opinion on song playing and which player suppoert that song."}
+{"label": "set", "sentence": "Olly remind me my mom's birthday a week before"}
+{"label": "negate", "sentence": "uhh no, wrong."}
+{"label": "set", "sentence": "Set a 2 day notification before Maria's birthday please."}
+{"label": "affirm", "sentence": "you have gotten that perfectly."}
+{"label": "query", "sentence": "route to melbourne"}
+{"label": "query", "sentence": "Please read what is on my grocery list."}
+{"label": "factoid", "sentence": "Where is Los Angeles?"}
+{"label": "sendemail", "sentence": "The email reply should state"}
+{"label": "factoid", "sentence": "PDA, Can you give me the exchange rate for dollar in rupees?"}
+{"label": "query", "sentence": "Is it probable that there would be rain in the forecast today?"}
+{"label": "addcontact", "sentence": "Save to contacts"}
+{"label": "affirm", "sentence": "yeap you have understood answer exactly."}
+{"label": "query", "sentence": "Can I order Olive Garden to go?"}
+{"label": "volume_mute", "sentence": "Don't speak for a while"}
+{"label": "query", "sentence": "date in new york"}
+{"label": "negate", "sentence": "thanks but i think you have messed up."}
+{"label": "query", "sentence": "check new message in inbox."}
+{"label": "negate", "sentence": "thanks but i think that is not the correct response."}
+{"label": "query", "sentence": "what is the current time in New York"}
+{"label": "query", "sentence": "low cooling condition"}
+{"label": "volume_mute", "sentence": "silent"}
+{"label": "query", "sentence": "WHERE CAN I ORDER TAKEOUT?"}
+{"label": "query", "sentence": "Domino's delivery status."}
+{"label": "set", "sentence": "on january 25 set meeting for XXX"}
+{"label": "set", "sentence": "set an alarm for next tuesdays meeting"}
+{"label": "dontcare", "sentence": "this is unimportant with me."}
+{"label": "query", "sentence": "Do I have any events today"}
+{"label": "query", "sentence": "Show last e-mail from mom"}
+{"label": "set", "sentence": "remind me to move <unk> so there is no weight gain"}
+{"label": "query", "sentence": "Give me directions to get from here to Crescent City Brewhouse in New Orleans"}
+{"label": "set", "sentence": "Remind me to pick up John from the airport tonight at 8"}
+{"label": "query", "sentence": "get new emails"}
+{"label": "query", "sentence": "Is snap doing good after the IPO?"}
+{"label": "sendemail", "sentence": "Please send the email to my mom"}
+{"label": "factoid", "sentence": "tell me everything about Albert Einstein"}
+{"label": "query", "sentence": "What is on the agenda for today?"}
+{"label": "query", "sentence": "Will I need a coat for work today?"}
+{"label": "query", "sentence": "What's the current time in New York?"}
+{"label": "factoid", "sentence": "how long does it take to fly to china"}
+{"label": "negate", "sentence": "i am sorry but you messed up with command."}
+{"label": "set", "sentence": "On the fifth of November, I need to go to Washington, D.C."}
+{"label": "query", "sentence": "What is the longest time to a location"}
+{"label": "set", "sentence": "dialog box appears"}
+{"label": "dontcare", "sentence": "i have no idea regarding to what to do."}
+{"label": "set", "sentence": "Set a reminder to go to movies with Ron on March 27"}
+{"label": "podcasts", "sentence": "Start the podcast I was last listening to."}
+{"label": "coffee", "sentence": "can u please make a cofee"}
+{"label": "likeness", "sentence": "store opinion  on song"}
+{"label": "stock", "sentence": "show me share price of amazon."}
+{"label": "factoid", "sentence": "What is the largest continent in the world"}
+{"label": "factoid", "sentence": "Tell me about Sean Connery"}
+{"label": "sendemail", "sentence": "Send an email to mom asking for a weather update on the week to come."}
+{"label": "query", "sentence": "whats the weather like in chicago"}
+{"label": "dontcare", "sentence": "it is of no importance for me."}
+{"label": "events", "sentence": "events upcoming"}
+{"label": "query", "sentence": "Is there anything new on Snapchat?"}
+{"label": "query", "sentence": "Olly, how long does it take for the train to get to Orlando?"}
+{"label": "sendemail", "sentence": "Send mail to Mom. I am planning vacations with her nest week."}
+{"label": "query", "sentence": "give me to do list"}
+{"label": "factoid", "sentence": "How many songs did Michael Jackson write?"}
+{"label": "query", "sentence": "find a weather"}
+{"label": "query", "sentence": "Have I received any email from Ron in last couple of days?"}
+{"label": "negate", "sentence": "uh no, that is not what i am looking for."}
+{"label": "query", "sentence": "need to carry a umbrella this evening?"}
+{"label": "addcontact", "sentence": "Please add an e-mail for John Doe to my contacts, johndoe@yahoo.com"}
+{"label": "set", "sentence": "Remind me when the concert tickets go on sale"}
+{"label": "negate", "sentence": "you've got me incorrectly."}
+{"label": "events", "sentence": "Please show me best run program in Jodhpur"}
+{"label": "query", "sentence": "train departure"}
+{"label": "set", "sentence": "Remind me today's meeting with Reveca at 6:00pm"}
+{"label": "likeness", "sentence": "This is one of the best songs for me"}
+{"label": "set", "sentence": "please remind me the birthday of my uncle Joe, every may 4th?"}
+{"label": "query", "sentence": "Evaluate today's schedule"}
+{"label": "query", "sentence": "how many muhurtham in this month?"}
+{"label": "query", "sentence": "will it be rainy tomorrow?"}
+{"label": "podcasts", "sentence": "play next on podcast."}
+{"label": "negate", "sentence": "i am sorry but i think you did some mistakes."}
+{"label": "negate", "sentence": "thanks but i think you did not get the answer correctly."}
+{"label": "query", "sentence": "What is the weather in Columbus?"}
+{"label": "dontcare", "sentence": "i wouldn't really bother, olly."}
+{"label": "likeness", "sentence": "Save opinion"}
+{"label": "query", "sentence": "Please show new emails"}
+{"label": "query", "sentence": "Remove old emails from trash"}
+{"label": "query", "sentence": "Olly, check my email."}
+{"label": "negate", "sentence": "uh no, you didn't get what i was looking for."}
+{"label": "podcasts", "sentence": "Begin Secrets of the Citadel January onne cast"}
+{"label": "wemo_off", "sentence": "Can we deactive the socket"}
+{"label": "set", "sentence": "Olly, its Jim's birthday on 2nd March, mark it in your calendar."}
+{"label": "query", "sentence": "What is the date Easter falls on?"}
+{"label": "negate", "sentence": "uh no, it's not what i am looking for."}
+{"label": "factoid", "sentence": "details on person"}
+{"label": "factoid", "sentence": "Age of Brad Pitt"}
+{"label": "query", "sentence": "Is it 5 O' clock already?"}
+{"label": "sendemail", "sentence": "replay this mail."}
+{"label": "negate", "sentence": "i don't think thats right."}
+{"label": "query", "sentence": "do i need sun screen lotion today?"}
+{"label": "query", "sentence": "What is the 10 day forecast?"}
+{"label": "sendemail", "sentence": "tell chris i will be late through email"}
+{"label": "factoid", "sentence": "what is the most famous cave in texas"}
+{"label": "query", "sentence": "Is it sunny today?"}
+{"label": "podcasts", "sentence": "start the next episode in a podcast."}
+{"label": "query", "sentence": "What is today's weather in Springfield?"}
+{"label": "coffee", "sentence": "a cup of coffee please"}
+{"label": "affirm", "sentence": "yeap you've gotten your understanding perfectly."}
+{"label": "set", "sentence": "I want my PDA to find free movies online for me"}
+{"label": "set", "sentence": "upcoming meeting"}
+{"label": "affirm", "sentence": "yeap good."}
+{"label": "events", "sentence": "Which teams are playing this weekend?"}
+{"label": "query", "sentence": "How many degrees is it in Orange, Tx right now?"}
+{"label": "query", "sentence": "what's the forecast for this week"}
+{"label": "stock", "sentence": "Show me the stock prices of Target today."}
+{"label": "set", "sentence": "Set aside this day for this calendar event"}
+{"label": "query", "sentence": "What are the train times to Chicago?"}
+{"label": "query", "sentence": "tell me the time when 'punjab mail' will reach gwalior"}
+{"label": "query", "sentence": "where is the train station?"}
+{"label": "sendemail", "sentence": "Send an email to Bob"}
+{"label": "negate", "sentence": "i think you have made a mistake, please rectify this."}
+{"label": "query", "sentence": "Should I put on a jacket when I go outside today?"}
+{"label": "query", "sentence": "what is my upcoming calendar event"}
+{"label": "query", "sentence": "What's trending on social media?"}
+{"label": "dontcare", "sentence": "anything would be good."}
+{"label": "query", "sentence": "Cortana, what are the most recent headlines on CNN?"}
+{"label": "query", "sentence": "What time is my appointment on x date?"}
+{"label": "query", "sentence": "when are holiday in current month"}
+{"label": "query", "sentence": "Olly show unread new emails."}
+{"label": "set", "sentence": "All March events in RCCG is to be added to my calender"}
+{"label": "set", "sentence": "set repeating event 'gym day' on calendar"}
+{"label": "sendemail", "sentence": "Olly, email Alice to let her know we are on the way,"}
+{"label": "set", "sentence": "Mark the event monthly"}
+{"label": "set", "sentence": "4PM"}
+{"label": "query", "sentence": "When is Easter?"}
+{"label": "set", "sentence": "Adding meetings on particaur dates of calender"}
+{"label": "query", "sentence": "What happened on the walking dead."}
+{"label": "set", "sentence": "Every other Wednesday, remind me to go grocery shopping."}
+{"label": "sendemail", "sentence": "Send an email to my boss saying I will be late."}
+{"label": "query", "sentence": "Is it too hot for pants"}
+{"label": "query", "sentence": "Siri, what time is it in LAs Vegas?"}
+{"label": "negate", "sentence": "nope, i didn't say it."}
+{"label": "query", "sentence": "PDA name  What do i?"}
+{"label": "query", "sentence": "What are the lyrics to the song I will always love you, by Dolly Parton?"}
+{"label": "addcontact", "sentence": "add the email XXXXX@gmail.com to my contacts"}
+{"label": "negate", "sentence": "that's not the right response."}
+{"label": "query", "sentence": "PDA check someones recent emails"}
+{"label": "query", "sentence": "Do i have alarms set before  6 in the morning?"}
+{"label": "query", "sentence": "when is the party scheduled"}
+{"label": "wemo_off", "sentence": "Turn off sockets"}
+{"label": "query", "sentence": "Are there any new emails yet?"}
+{"label": "query", "sentence": "can I see my work lists"}
+{"label": "negate", "sentence": "hmm, you gave me not correct information."}
+{"label": "query", "sentence": "Check emails for last 12 hours"}
+{"label": "set", "sentence": "Put me in on Tuesday, the 21st at ten with Al"}
+{"label": "query", "sentence": "What is happening today between 3 and 4pm?"}
+{"label": "query", "sentence": "What's the latest on Trump's travel ban?"}
+{"label": "dontcare", "sentence": "really i wouldn't mind."}
+{"label": "query", "sentence": "What was the weather for the week"}
+{"label": "query", "sentence": "Read me the latest international news."}
+{"label": "sendemail", "sentence": "Reply to the email"}
+{"label": "stock", "sentence": "What is Motorola going for today?"}
+{"label": "query", "sentence": "Get me the details of upcoming Oscar 2017."}
+{"label": "events", "sentence": "show local events"}
+{"label": "query", "sentence": "i want some curry to go, any recommendations olly?"}
+{"label": "query", "sentence": "Please give me update of cricket"}
+{"label": "factoid", "sentence": "PDA, Open Map"}
+{"label": "query", "sentence": "is it cold weather there?"}
+{"label": "query", "sentence": "What is the quickest way to my work downtown without hitting any traffic"}
+{"label": "query", "sentence": "mild or heavy weather"}
+{"label": "podcasts", "sentence": "Play that podcast I was listening to yesterday."}
+{"label": "affirm", "sentence": "yeah right response to the command."}
+{"label": "events", "sentence": "Please show me a list of entertainment options in my area"}
+{"label": "affirm", "sentence": "yes strongly agree."}
+{"label": "query", "sentence": "Do I have any meetings tomorrow?"}
+{"label": "negate", "sentence": "i think you are wrong."}
+{"label": "sendemail", "sentence": "Send a test email to test3@gmail.com"}
+{"label": "affirm", "sentence": "that's great."}
+{"label": "query", "sentence": "what time does the train from new york come in?"}
+{"label": "query", "sentence": "What's the weather like in Sydney?"}
+{"label": "query", "sentence": "cnn"}
+{"label": "dontcare", "sentence": "i do not really know."}
+{"label": "query", "sentence": "most viewed list"}
+{"label": "stock", "sentence": "stock details"}
+{"label": "query", "sentence": "what's the time in hong kong"}
+{"label": "factoid", "sentence": "Olly, how much can chris helmsworth bench press?"}
+{"label": "affirm", "sentence": "yes it was confirmed."}
+{"label": "events", "sentence": "Tell me the local events."}
+{"label": "query", "sentence": "show latest email"}
+{"label": "podcasts", "sentence": "Please play Jocko's podcast"}
+{"label": "query", "sentence": "Let me know any new emails I've received."}
+{"label": "query", "sentence": "Do I have any alarms"}
+{"label": "negate", "sentence": "dammit, it isn't what i meant."}
+{"label": "set", "sentence": "will you set alarm clock one day before for all gym class on my calendar"}
+{"label": "negate", "sentence": "i think this is not the right command."}
+{"label": "affirm", "sentence": "you've done it perfectly."}
+{"label": "negate", "sentence": "i think you have done this all in wrong manner."}
+{"label": "dontcare", "sentence": "anything is ok with me."}
+{"label": "factoid", "sentence": "How old was Elvis when he died"}
+{"label": "query", "sentence": "Did I make a shopping list?"}
+{"label": "affirm", "sentence": "get answer right."}
+{"label": "query", "sentence": "Please list active alarms"}
+{"label": "negate", "sentence": "uhh no, i did not say this."}
+{"label": "query", "sentence": "I need to know the time right now, what is it?"}
+{"label": "query", "sentence": "what emails came from mom"}
+{"label": "query", "sentence": "What news articles were on CNN today?"}
+{"label": "podcasts", "sentence": "first play tvf podcast after that being humorous podcast"}
+{"label": "factoid", "sentence": "How old is christie brinkley?"}
+{"label": "query", "sentence": "what is date today"}
+{"label": "query", "sentence": "What are my current alerts?"}
+{"label": "negate", "sentence": "oh no, you gave me incorrect information."}
+{"label": "query", "sentence": "what is on my playlist?"}
+{"label": "sendemail", "sentence": "send email 'how are you dad?' to dad"}
+{"label": "query", "sentence": "Search for trains leaving tonight for London"}
+{"label": "set", "sentence": "Add my doctor appointment for the 15th."}
+{"label": "sendemail", "sentence": "send to 'john@gmail.com' a message 'happy new year'"}
+{"label": "events", "sentence": "local market"}
+{"label": "affirm", "sentence": "yes you've understood my instructions exactly."}
+{"label": "query", "sentence": "Olly, I need directions to Madison St"}
+{"label": "query", "sentence": "What meetings do I have between 8-10 today?"}
+{"label": "set", "sentence": "Add an alarm for tomorrow morning at 6:00 a.m."}
+{"label": "factoid", "sentence": "Who was appointed as deputy CM of Uttar Pradesh"}
+{"label": "set", "sentence": "remind this after two days"}
+{"label": "sendemail", "sentence": "Send an email to Margaret."}
+{"label": "query", "sentence": "Tell me what is in your list."}
+{"label": "stock", "sentence": "How much does the FB stock cost?"}
+{"label": "set", "sentence": "Please set an alarm at 6 am."}
+{"label": "query", "sentence": "How long does it take to get there"}
+{"label": "dislikeness", "sentence": "That background song is terrible."}
+{"label": "negate", "sentence": "that was not what i was looking for try it again."}
+{"label": "query", "sentence": "What time does the train leave for chicago?"}
+{"label": "coffee", "sentence": "Make us a brew olly"}
+{"label": "query", "sentence": "check my agenda for today"}
+{"label": "query", "sentence": "What alarms have been set for me?"}
+{"label": "query", "sentence": "Who wrote the song I just wanna dance with you?"}
+{"label": "query", "sentence": "Read the latest news stories"}
+{"label": "podcasts", "sentence": "Play the newest morning show podcast."}
+{"label": "set", "sentence": "PDA remind me about my biology test at FSU on friday,"}
+{"label": "query", "sentence": "PDA check emails from someone"}
+{"label": "query", "sentence": "Check for recent news stories on MSNBC"}
+{"label": "query", "sentence": "Tell me about all my events."}
+{"label": "query", "sentence": "run recent email"}
+{"label": "affirm", "sentence": "yes correcly."}
+{"label": "query", "sentence": "Which day is Friday the 13th this year"}
+{"label": "query", "sentence": "Please tell me if theres going to be snow this weekend"}
+{"label": "set", "sentence": "Set my alarm for 6 am tomorrow."}
+{"label": "dontcare", "sentence": "i would not care, olly."}
+{"label": "query", "sentence": "Will I need to wear a coat today?"}
+{"label": "affirm", "sentence": "you have done your understanding right."}
+{"label": "negate", "sentence": "no, you have done a task all in wrong manner."}
+{"label": "query", "sentence": "Is it going to snow this weekend here?"}
+{"label": "query", "sentence": "What's the exact time we get food delivered once we place an order for food."}
+{"label": "set", "sentence": "olly i need next weeks lunch put on the calendar"}
+{"label": "set", "sentence": "set alarm at 2am"}
+{"label": "query", "sentence": "give me the time at washington right now"}
+{"label": "query", "sentence": "Repeat the last message"}
+{"label": "dontcare", "sentence": "wouldn't really bother, olly."}
+{"label": "query", "sentence": "alexa refresh my list and tell me whats on it"}
+{"label": "query", "sentence": "show me the directions to the closest starbucks"}
+{"label": "set", "sentence": "set a weekly meeting for friday 9am"}
+{"label": "affirm", "sentence": "it's amazing."}
+{"label": "likeness", "sentence": "ABHI JO SONG PLAY HO RAHA HAI USKE BAARE ME KYA KHYAAL HAI ?"}
+{"label": "negate", "sentence": "i am sorry but it's not the right answer."}
+{"label": "sendemail", "sentence": "I want to reply to Jean's e-mail."}
+{"label": "factoid", "sentence": "How many Oceans are there in the world?"}
+{"label": "query", "sentence": "Is there any news Olly?"}
+{"label": "query", "sentence": "Did Renee just post to my Facebook feed?"}
+{"label": "dontcare", "sentence": "this doesn't matter with me, olly."}
+{"label": "query", "sentence": "what events do I have comming up"}
+{"label": "podcasts", "sentence": "Go to the last episode."}
+{"label": "query", "sentence": "What is the departure time for the next train leaving New York City?"}
+{"label": "query", "sentence": "PDA is my alarm set for tomorrow morning?"}
+{"label": "set", "sentence": "Make an event for a dentist appointment thursday at 9am"}
+{"label": "query", "sentence": "Olly, find me the latest news right now"}
+{"label": "query", "sentence": "Do I need to do anything today?"}
+{"label": "factoid", "sentence": "How would I do an PSSO in my knitting project?"}
+{"label": "events", "sentence": "Please check on the rock concerts scheduled this weekend"}
+{"label": "factoid", "sentence": "Is Keith Richards dead?"}
+{"label": "negate", "sentence": "i think you did a task all wrong."}
+{"label": "volume_mute", "sentence": "Set mute mode for one hour."}
+{"label": "volume_mute", "sentence": "It's quiet time"}
+{"label": "sendemail", "sentence": "Send to Jane only help"}
+{"label": "query", "sentence": "Provide me whith the news about Iphone"}
+{"label": "query", "sentence": "Let me know if Linda posts anything on my Facebook today"}
+{"label": "query", "sentence": "recent headlines"}
+{"label": "set", "sentence": "set up notification for meeting"}
+{"label": "query", "sentence": "Will it it be hot tomorrow?"}
+{"label": "factoid", "sentence": "Olly how many stars has SWAT received on IMDB"}
+{"label": "events", "sentence": "searching on holidays in my location"}
+{"label": "sendemail", "sentence": "Email Joe and tell him to hurry."}
+{"label": "query", "sentence": "is it {raining, sunny, etc. condition here} in {location} /here/ now?"}
+{"label": "set", "sentence": "Add lunch meetings at noon every day this week."}
+{"label": "set", "sentence": "have John join me on the 10th at the 5th floor meeting"}
+{"label": "query", "sentence": "tell me the artist of this song."}
+{"label": "factoid", "sentence": "what is the population of Florida"}
+{"label": "negate", "sentence": "i am sorry but that is not the correct command."}
+{"label": "set", "sentence": "Set alarm at 5:00 am"}
+{"label": "dontcare", "sentence": "i would not know."}
+{"label": "query", "sentence": "Olly what will the weather be like on Saturday?"}
+{"label": "factoid", "sentence": "Where are the Rocky mountains?"}
+{"label": "sendemail", "sentence": "Reply to Robert's email of today morning."}
+{"label": "dontcare", "sentence": "do not mind, olly."}
+{"label": "query", "sentence": "What is the interview time from yesterday's email?"}
+{"label": "sendemail", "sentence": "PDA send an email to Jesse."}
+{"label": "query", "sentence": "the newest samsung phone"}
+{"label": "stock", "sentence": "how is the exchange rate for Microsoft?"}
+{"label": "query", "sentence": "check emails from {contact}"}
+{"label": "set", "sentence": "It's Lee's birthday on 22 June."}
+{"label": "maths", "sentence": "google"}
+{"label": "podcasts", "sentence": "Plays the podcast from the beginning"}
+{"label": "factoid", "sentence": "search the locality"}
+{"label": "query", "sentence": "Check email received after 6:35 am."}
+{"label": "negate", "sentence": "i am sorry but got this wrong."}
+{"label": "maths", "sentence": "Divide two hundred by four."}
+{"label": "volume_mute", "sentence": "Ok Google! Mute sound on speakers please"}
+{"label": "query", "sentence": "Does the nearby chinese restaurant do delivery"}
+{"label": "query", "sentence": "Give me the time in Phoenix, AZ"}
+{"label": "query", "sentence": "Show me the path of nearest railway station."}
+{"label": "query", "sentence": "what time is it right now in new york"}
+{"label": "sendemail", "sentence": "Send email to husband to ask for restaurant ideas"}
+{"label": "factoid", "sentence": "How many kilograms is 210lbs"}
+{"label": "query", "sentence": "Do I have any music by Lady Antebellum?"}
+{"label": "query", "sentence": "Did you set the alarm for 5 AM?"}
+{"label": "set", "sentence": "alert me at"}
+{"label": "podcasts", "sentence": "Can you pull up the Dave Ramsey podcast that aired on Monday."}
+{"label": "sendemail", "sentence": "Send Dad an email saying how is the weather this week?"}
+{"label": "factoid", "sentence": "What year was Mark Wahlberg born?"}
+{"label": "affirm", "sentence": "amazing response to the command."}
+{"label": "query", "sentence": "update me"}
+{"label": "dontcare", "sentence": "wouldn't mind to select any one."}
+{"label": "factoid", "sentence": "How many ounces is in a quart?"}
+{"label": "sendemail", "sentence": "KYA TUM MERE FRIEND KE PAAS EK EMAIL BHEJ SAKTE HO."}
+{"label": "query", "sentence": "upcoming events on list"}
+{"label": "negate", "sentence": "uhh no, that's not what i am searching for."}
+{"label": "volume_mute", "sentence": "Silent mode"}
+{"label": "sendemail", "sentence": "Send an email to Sarah about brunch today."}
+{"label": "query", "sentence": "Tell me about first week collection of Movie Hidden Figures and also tell about the reviews and rating of the movie."}
+{"label": "set", "sentence": "hey PDA, make sure I go to sarahs birthday party on the 12th."}
+{"label": "query", "sentence": "Whats the time now?"}
+{"label": "query", "sentence": "latest updates"}
+{"label": "set", "sentence": "Schedule a reminder on 15th march and input name as meeting"}
+{"label": "set", "sentence": "Arrange a meeting with our suppliers this week end."}
+{"label": "query", "sentence": "Who do I have new email from?"}
+{"label": "query", "sentence": "Can I take food home here?"}
+{"label": "negate", "sentence": "i think not correct response."}
+{"label": "set", "sentence": "remind me of my meeting at 5:00pm"}
+{"label": "set", "sentence": "Can you make this event repetitive?"}
+{"label": "query", "sentence": "What's the temperature outside?"}
+{"label": "wemo_off", "sentence": "Turn off my smart plug socket."}
+{"label": "query", "sentence": "Are there morning shows available?"}
+{"label": "podcasts", "sentence": "play podcast 1"}
+{"label": "sendemail", "sentence": "reply to the latest email"}
+{"label": "query", "sentence": "What lists available"}
+{"label": "query", "sentence": "When is my dentist appointment?"}
+{"label": "query", "sentence": "What's the news from WBC right now?"}
+{"label": "set", "sentence": "Before this event set notification"}
+{"label": "set", "sentence": "Add payday to my calendar for every other Thursday."}
+{"label": "query", "sentence": "pull up my cnn app and read it to me"}
+{"label": "sendemail", "sentence": "PDA, send email to Cat that I will accept job offer"}
+{"label": "set", "sentence": "Alexa, remind me daily about Inauguration Function"}
+{"label": "dontcare", "sentence": "have no idea regarding to which to select."}
+{"label": "query", "sentence": "Is it currently snowing?"}
+{"label": "set", "sentence": "When is my meeting?"}
+{"label": "set", "sentence": "Remember me to send the presentation today at 1:00pm"}
+{"label": "query", "sentence": "Tell me my list names."}
+{"label": "query", "sentence": "May I know what is trending in social media?"}
+{"label": "query", "sentence": "GMT Time"}
+{"label": "query", "sentence": "The song playing now is released by which artist?"}
+{"label": "negate", "sentence": "i think you did a mistake, please fix this."}
+{"label": "query", "sentence": "can you tell me the time at san francisco"}
+{"label": "query", "sentence": "Do I have alarms set ?"}
+{"label": "negate", "sentence": "you did something wrong."}
+{"label": "likeness", "sentence": "This is a good tune, please notate file accordingly."}
+{"label": "set", "sentence": "Mark dad's retirement dinner for April fourth."}
+{"label": "coffee", "sentence": "please make coffee"}
+{"label": "likeness", "sentence": "PDA I love to rock out with my sock out."}
+{"label": "set", "sentence": "alert me at the time of the event"}
+{"label": "maths", "sentence": "Convert 10 miles to kilometers"}
+{"label": "query", "sentence": "Tell me international news."}
+{"label": "factoid", "sentence": "who is Donald Trump"}
+{"label": "factoid", "sentence": "What is Nicole McGoat's net worth?"}
+{"label": "maths", "sentence": "What is 20 percent of 150"}
+{"label": "factoid", "sentence": "PDA look up someone"}
+{"label": "negate", "sentence": "i think you've understood me wrong."}
+{"label": "query", "sentence": "hey olly, do i have any new emails?"}
+{"label": "query", "sentence": "what time in Las Vegas?"}
+{"label": "query", "sentence": "Tell me the time in jakarta."}
+{"label": "set", "sentence": "remind me in time to do thing"}
+{"label": "factoid", "sentence": "find route"}
+{"label": "query", "sentence": "what hour now"}
+{"label": "query", "sentence": "Temperature now"}
+{"label": "podcasts", "sentence": "vaccation"}
+{"label": "sendemail", "sentence": "Email work team this week's schedule."}
+{"label": "query", "sentence": "current news"}
+{"label": "likeness", "sentence": "make this my favorite"}
+{"label": "likeness", "sentence": "Please check my playlist"}
+{"label": "factoid", "sentence": "Which was the first satellite to be launched by NASA?"}
+{"label": "query", "sentence": "home town weather"}
+{"label": "affirm", "sentence": "yeap you got answer perfectly."}
+{"label": "stock", "sentence": "How is Coca-Cola stock doing today?"}
+{"label": "query", "sentence": "should i wear a dress or a sweat shirt today"}
+{"label": "dontcare", "sentence": "i have no idea about what to choose, olly."}
+{"label": "query", "sentence": "What is today's temperature?"}
+{"label": "affirm", "sentence": "yeap that is wonderful."}
+{"label": "set", "sentence": "Remind me to call mom every Tuesday at 10 AM."}
+{"label": "dontcare", "sentence": "any one is fine for me, olly."}
+{"label": "set", "sentence": "i want meeting with person A today."}
+{"label": "maths", "sentence": "What is 1+1?"}
+{"label": "query", "sentence": "this song is composed by whom?"}
+{"label": "set", "sentence": "Remind me of my 3pm meetng tomorrow 4 hours in advance."}
+{"label": "query", "sentence": "What music do I like?"}
+{"label": "query", "sentence": "When is my takeaway arriving?"}
+{"label": "query", "sentence": "are there any recent emails from {contact}"}
+{"label": "likeness", "sentence": "I love the songs of micheal Jackson, can you save some songs of jackson for me"}
+{"label": "query", "sentence": "Olly, Do i need to wear gloves today?"}
+{"label": "query", "sentence": "global warming"}
+{"label": "query", "sentence": "Make a list of all the Halloween events going around in New York"}
+{"label": "sendemail", "sentence": "Read email and send to family member."}
+{"label": "query", "sentence": "its not possible"}
+{"label": "query", "sentence": "What are the current lists I have?"}
+{"label": "query", "sentence": "Check mail for anything from Shelly"}
+{"label": "set", "sentence": "Set the event to recur every week"}
+{"label": "query", "sentence": "Give me the news on my provider."}
+{"label": "volume_mute", "sentence": "Must yourself when I am in a meeting."}
+{"label": "negate", "sentence": "that's not what i just said."}
+{"label": "negate", "sentence": "i am sorry but you are incorrect."}
+{"label": "query", "sentence": "Hi do I have any new emails"}
+{"label": "podcasts", "sentence": "Please start Joe Rogan podcast please."}
+{"label": "factoid", "sentence": "how many wives does the ceo of enron have"}
+{"label": "query", "sentence": "What's the most popular story on my Facebook newsfeed?"}
+{"label": "negate", "sentence": "i think this is not correct."}
+{"label": "query", "sentence": "What kind of music am i into?"}
+{"label": "negate", "sentence": "shit, i think incorrect command."}
+{"label": "query", "sentence": "Olly has mom sent me any emails?"}
+{"label": "query", "sentence": "confirm my alarm settings"}
+{"label": "query", "sentence": "I need to know what is the date today."}
+{"label": "query", "sentence": "Time in New York"}
+{"label": "query", "sentence": "May I know what is trending in Facebook?"}
+{"label": "query", "sentence": "What is the week today?"}
+{"label": "sendemail", "sentence": "Send an email to my sister"}
+{"label": "query", "sentence": "show bbc report on migration"}
+{"label": "stock", "sentence": "What did the S&P close out at?"}
+{"label": "negate", "sentence": "please modify that command."}
+{"label": "sendemail", "sentence": "PDA I need you to respond to Jennifer's email by stating we will be late."}
+{"label": "query", "sentence": "IS there any unread emails from my contacts"}
+{"label": "query", "sentence": "Tell me the weather for New Brighton, PA?"}
+{"label": "query", "sentence": "how will be the weather tomorrow?"}
+{"label": "factoid", "sentence": "Tell me who will win the next presidential election."}
+{"label": "query", "sentence": "Tell me if there's any new news on that topic"}
+{"label": "sendemail", "sentence": "reply with <unk>"}
+{"label": "query", "sentence": "cnn news"}
+{"label": "query", "sentence": "Tell me the date of inauguration of my friend Sams business"}
+{"label": "query", "sentence": "show future events"}
+{"label": "query", "sentence": "The list contain what ?"}
+{"label": "query", "sentence": "Do I have email from my friend Rachel?"}
+{"label": "set", "sentence": "Set up a meeting with my Tanya for every Thursday at 10 AM."}
+{"label": "likeness", "sentence": "I enjoy listening to this song, it really calms me down"}
+{"label": "query", "sentence": "Please find all emails from Jane about our sunday church group."}
+{"label": "query", "sentence": "Will I need an umbrella for today?"}
+{"label": "query", "sentence": "What is this we're listening to?"}

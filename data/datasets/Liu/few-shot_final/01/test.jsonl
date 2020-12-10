@@ -1,0 +1,1454 @@
+{"label": "query", "sentence": "java"}
+{"label": "negate", "sentence": "shit, this was not what i was looking for."}
+{"label": "query", "sentence": "Make a list of all the Halloween events going around in New York"}
+{"label": "query", "sentence": "coding tutorial"}
+{"label": "music", "sentence": "I WANT TO LISTEN ARIJIT SINGH SONG ONCE AGAIN."}
+{"label": "music", "sentence": "Can you make my music file to play?"}
+{"label": "query", "sentence": "Can you tell me what happened to my social media?"}
+{"label": "remove", "sentence": "Delete my latest event."}
+{"label": "query", "sentence": "What is the last day of the month?"}
+{"label": "query", "sentence": "Tell me latest news around world."}
+{"label": "query", "sentence": "if there news about u.p politics.what is that."}
+{"label": "querycontact", "sentence": "Please find a mail address of Manoj and tell me."}
+{"label": "quirky", "sentence": "wake up olly"}
+{"label": "query", "sentence": "email update"}
+{"label": "definition", "sentence": "what is the definition of pda"}
+{"label": "music", "sentence": "i want to hear surfin usa"}
+{"label": "query", "sentence": "what is new today"}
+{"label": "query", "sentence": "Will I need a jacket after 10pm in my area?"}
+{"label": "music", "sentence": "Start playing music from favourites"}
+{"label": "query", "sentence": "what is the current pacific time"}
+{"label": "quirky", "sentence": "what is the purpose of"}
+{"label": "negate", "sentence": "wait, i think you have messed up with."}
+{"label": "negate", "sentence": "i think it is not correct response."}
+{"label": "factoid", "sentence": "Where is India located ?"}
+{"label": "music", "sentence": "choose music player"}
+{"label": "remove", "sentence": "Remove chores from my to-do list"}
+{"label": "query", "sentence": "What's new on Facebook?"}
+{"label": "negate", "sentence": "please correct the wrong command."}
+{"label": "query", "sentence": "did I received an email from rohit?"}
+{"label": "music", "sentence": "put the song sung by shreya at the top"}
+{"label": "factoid", "sentence": "movies of tom hanks"}
+{"label": "query", "sentence": "Did Mark post anything new on Facebook"}
+{"label": "query", "sentence": "Is it raining now?"}
+{"label": "query", "sentence": "What is the current temperature and humidity outside"}
+{"label": "negate", "sentence": "i think you have made a mistake, please rectify this."}
+{"label": "negate", "sentence": "that is not the right answer."}
+{"label": "query", "sentence": "Current time please."}
+{"label": "negate", "sentence": "i am sorry but it's not the right command."}
+{"label": "query", "sentence": "Is it going to be sunny tomorrow?"}
+{"label": "query", "sentence": "Am I going to get wet if I go outside this morning?"}
+{"label": "music", "sentence": "Ennavale adi ennavale"}
+{"label": "praise", "sentence": "it was cool,."}
+{"label": "query", "sentence": "Olly what's on my to-do list for today?"}
+{"label": "query", "sentence": "whats the day today"}
+{"label": "negate", "sentence": "seems like olly's command was incorrect."}
+{"label": "query", "sentence": "Will it rain on August 15th?"}
+{"label": "remove", "sentence": "clear my calendar of all events"}
+{"label": "query", "sentence": "can you find me a train ticket to go to las vegas"}
+{"label": "factoid", "sentence": "olly, look up beyonce wikipedia"}
+{"label": "factoid", "sentence": "When does the moon set in the Westt?"}
+{"label": "factoid", "sentence": "For how many years was Abraham Lincoln president of United States"}
+{"label": "query", "sentence": "Olly, is there anything I should be reminded about?"}
+{"label": "negate", "sentence": "i am sorry but that is not the correct command."}
+{"label": "query", "sentence": "Please show me any articles related to weather in the morning news."}
+{"label": "query", "sentence": "Current weather"}
+{"label": "definition", "sentence": "where can I use this word"}
+{"label": "factoid", "sentence": "find details about President Barrack Obama"}
+{"label": "praise", "sentence": "thanks for doing it."}
+{"label": "remove", "sentence": "Remove all the events from the calendar in this month"}
+{"label": "remove", "sentence": "Remove all scheduled TW meetings from the calendar please."}
+{"label": "query", "sentence": "Keep me updated on what is happening in southeast Africa currently."}
+{"label": "query", "sentence": "What is the current date?"}
+{"label": "factoid", "sentence": "i would like if PDA will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be"}
+{"label": "querycontact", "sentence": "Do you have the mailing address for the electric company?"}
+{"label": "query", "sentence": "What is the song currently playing?"}
+{"label": "querycontact", "sentence": "What is this person'should contact information?"}
+{"label": "quirky", "sentence": "what is name?"}
+{"label": "query", "sentence": "What were the last five lists I made?"}
+{"label": "query", "sentence": "Remind me the reminders I have set"}
+{"label": "music", "sentence": "Play playlist 1"}
+{"label": "query", "sentence": "Show me the latest emails from Amazon."}
+{"label": "recipe", "sentence": "instruct me to cook"}
+{"label": "query", "sentence": "is weather normal today?"}
+{"label": "taxi", "sentence": "Can you book an uber tomorrow?"}
+{"label": "confirm", "sentence": "would you check and confirm my last instruction please."}
+{"label": "factoid", "sentence": "Is Sofia Vergara single?"}
+{"label": "query", "sentence": "Is this week a payday week?"}
+{"label": "query", "sentence": "When is the next train to Center City Philadelphia?"}
+{"label": "recipe", "sentence": "Find easy recipe for almond milk"}
+{"label": "definition", "sentence": "Describe Heaven"}
+{"label": "remove", "sentence": "Please remove any alarms that I have set."}
+{"label": "query", "sentence": "How many alarms do I have set for morning hours between 6 and 9 am"}
+{"label": "query", "sentence": "what day was it on my birth date?"}
+{"label": "music", "sentence": "Please resume my music"}
+{"label": "negate", "sentence": "oh no, you did task all wrong."}
+{"label": "query", "sentence": "whats the schedule for today"}
+{"label": "query", "sentence": "Report weather for Largo."}
+{"label": "query", "sentence": "Should I wear sunblock today?"}
+{"label": "quirky", "sentence": "i am exhausted from work"}
+{"label": "negate", "sentence": "sorry but i think you made mistake."}
+{"label": "factoid", "sentence": "Where did Mahatma Gandhi born?"}
+{"label": "negate", "sentence": "sorry but that's not the correct answer."}
+{"label": "query", "sentence": "Find me the distance and direction by train to RCCG in Ikoyi Lagos?"}
+{"label": "remove", "sentence": "Erase Shopping List"}
+{"label": "query", "sentence": "What's the current breaking news about the economy?"}
+{"label": "query", "sentence": "What is the time for Jimmy's party?"}
+{"label": "negate", "sentence": "sorry but you have messed up with the request."}
+{"label": "factoid", "sentence": "Olly how many quarts are in a gallon?"}
+{"label": "query", "sentence": "PDA, Provide me the alarm times you have set."}
+{"label": "music", "sentence": "Play my summer jams playlist."}
+{"label": "remove", "sentence": "Take my calendar and clear it"}
+{"label": "query", "sentence": "Hey Olly, what will the weather be like to today in los Angeles California?"}
+{"label": "query", "sentence": "What's on today's schedule?"}
+{"label": "query", "sentence": "evens please"}
+{"label": "factoid", "sentence": "what is your biggest city?"}
+{"label": "query", "sentence": "Latest news from the area."}
+{"label": "music", "sentence": "d"}
+{"label": "praise", "sentence": "you are the best,, olly."}
+{"label": "quirky", "sentence": "If you mix a velociraptor and a hippo together, what would happen?"}
+{"label": "remove", "sentence": "cancel alarm for tomorrow"}
+{"label": "query", "sentence": "read me back whats on my shopping list"}
+{"label": "music", "sentence": "Play 1999 by prince"}
+{"label": "quirky", "sentence": "Start a conversation with me about politics"}
+{"label": "createoradd", "sentence": "olly put wash the car to my to do list"}
+{"label": "praise", "sentence": "it's fantastic work, musch appreciated, olly."}
+{"label": "query", "sentence": "Hey Google, what time does the TRE train go to Fort Worth this afternoon?"}
+{"label": "query", "sentence": "Time time is the holiday party at the office?"}
+{"label": "negate", "sentence": "sorry but that's not right answer."}
+{"label": "query", "sentence": "How many minutes pass 4 pm?"}
+{"label": "query", "sentence": "display recent email from John, Olly"}
+{"label": "query", "sentence": "What is the time in Hyderabad ?"}
+{"label": "query", "sentence": "what day is today"}
+{"label": "factoid", "sentence": "How many states are there in the United States?"}
+{"label": "query", "sentence": "Notify me when Trump is in the news"}
+{"label": "query", "sentence": "running train status to.."}
+{"label": "query", "sentence": "Will the restaurant deliver the order ?"}
+{"label": "query", "sentence": "Siri, what's happened in the news today?"}
+{"label": "remove", "sentence": "remove the milk from the shopping list"}
+{"label": "quirky", "sentence": "I had a car accident today"}
+{"label": "query", "sentence": "How many hours ahead is NYC?"}
+{"label": "query", "sentence": "PDA please check my email for me."}
+{"label": "query", "sentence": "Have I gotten an email from Sean?"}
+{"label": "factoid", "sentence": "Where was Keith Urban born?"}
+{"label": "praise", "sentence": "you've done that correctly musch appreciated."}
+{"label": "query", "sentence": "Give me the driving directions from faripir to gurpur"}
+{"label": "definition", "sentence": "Please find description of the newest Canon Rebel camera."}
+{"label": "factoid", "sentence": "Angelina Jolie spouses"}
+{"label": "definition", "sentence": "PDA mean"}
+{"label": "confirm", "sentence": "will you please check and confirm the last thing i said."}
+{"label": "query", "sentence": "What song is playing right now?"}
+{"label": "definition", "sentence": "What does obsessed mean?"}
+{"label": "remove", "sentence": "Erase all my event in my calendar."}
+{"label": "praise", "sentence": "that was amazing, thank you so much, olly."}
+{"label": "definition", "sentence": "Define computer"}
+{"label": "query", "sentence": "Tell me all the pending reminders"}
+{"label": "factoid", "sentence": "what is the distance from my current location to downtown Toronto?"}
+{"label": "querycontact", "sentence": "PDA, call mom."}
+{"label": "query", "sentence": "Get me the time in London now."}
+{"label": "query", "sentence": "When is my next meeting"}
+{"label": "query", "sentence": "What date is the third Friday of this month?"}
+{"label": "query", "sentence": "Show me my last email?"}
+{"label": "query", "sentence": "What temperature will it be today?"}
+{"label": "factoid", "sentence": "Please give height of Lindsey lohan"}
+{"label": "query", "sentence": "Tell me the status of my inbox"}
+{"label": "music", "sentence": "play bluegrass music"}
+{"label": "quirky", "sentence": "Horoscope"}
+{"label": "confirm", "sentence": "would you confirm detail."}
+{"label": "query", "sentence": "newly launched 4 wheelers"}
+{"label": "query", "sentence": "When is my meeting with Human Resources?"}
+{"label": "music", "sentence": "I want reggae."}
+{"label": "query", "sentence": "reviews of the restaurants"}
+{"label": "negate", "sentence": "uhh no, thanks."}
+{"label": "recipe", "sentence": "how is pav bhaji cooked?"}
+{"label": "query", "sentence": "Do I have any recent emails from my contact favorites?"}
+{"label": "praise", "sentence": "that's fantastic, thank you."}
+{"label": "query", "sentence": "My lists"}
+{"label": "definition", "sentence": "Describe a..."}
+{"label": "praise", "sentence": "perfect job, you've done well."}
+{"label": "factoid", "sentence": "where is place?"}
+{"label": "query", "sentence": "What is the weather now?"}
+{"label": "negate", "sentence": "hmm, i think you've done it all wrongly."}
+{"label": "query", "sentence": "Did Charlotte responded?"}
+{"label": "taxi", "sentence": "lets get a taxi!"}
+{"label": "query", "sentence": "what a sunny day."}
+{"label": "recipe", "sentence": "How to create buttermilk from milk."}
+{"label": "quirky", "sentence": "Hey, when is my friend's birthday coming up?"}
+{"label": "confirm", "sentence": "could you please check the last thing said."}
+{"label": "praise", "sentence": "that's perfect, i appreciate it."}
+{"label": "recipe", "sentence": "How long should I simmer rice for?"}
+{"label": "querycontact", "sentence": "call XXX"}
+{"label": "query", "sentence": "What is the current time in Lagos, Nigeria."}
+{"label": "definition", "sentence": "describe sphere"}
+{"label": "quirky", "sentence": "Olly, i fell at work today."}
+{"label": "query", "sentence": "Do you know if there is any rain today"}
+{"label": "query", "sentence": "Check instagram."}
+{"label": "query", "sentence": "What time and day is it today?"}
+{"label": "query", "sentence": "Will the sky be overcast"}
+{"label": "query", "sentence": "Tell me about the weather this week"}
+{"label": "query", "sentence": "What's on for the 14th afternoon that I could go with the two year old twins?"}
+{"label": "quirky", "sentence": "notifications"}
+{"label": "music", "sentence": "ONE DANCE"}
+{"label": "praise", "sentence": "it's great work, i appreciate it."}
+{"label": "query", "sentence": "What important dates are there in my calendar this month?"}
+{"label": "factoid", "sentence": "what about Tona?"}
+{"label": "music", "sentence": "Please play song x"}
+{"label": "query", "sentence": "Clock time"}
+{"label": "query", "sentence": "Olly, any fresh news on Brad Pitt?"}
+{"label": "query", "sentence": "Check and delete span emails for the last week"}
+{"label": "remove", "sentence": "I no longer need the daily 5pm alarm."}
+{"label": "query", "sentence": "unread emails"}
+{"label": "hue_lightoff", "sentence": "Turn off the light in the kitchen"}
+{"label": "query", "sentence": "Olly has David got back to me yet?"}
+{"label": "query", "sentence": "What is the weather in Columbus?"}
+{"label": "factoid", "sentence": "How much does the average car weigh?"}
+{"label": "query", "sentence": "What are my reminders for today?"}
+{"label": "negate", "sentence": "nope, this was not what i wanted."}
+{"label": "query", "sentence": "show the list"}
+{"label": "query", "sentence": "Is the Thanks giving event on 14th of this month true"}
+{"label": "quirky", "sentence": "Siri, how are the working conditions for the people who make you?"}
+{"label": "query", "sentence": "find my thai takeaways around grassmarket"}
+{"label": "querycontact", "sentence": "What's the address for Alex"}
+{"label": "confirm", "sentence": "i like you to check and confirm what i said please."}
+{"label": "remove", "sentence": "PDA name: get rid of xxxx from the list"}
+{"label": "query", "sentence": "What happened last week?"}
+{"label": "factoid", "sentence": "may I have a list of 5 star hotels in Paris?"}
+{"label": "praise", "sentence": "you've done that correctly thank you very much."}
+{"label": "remove", "sentence": "Take eggs of the list."}
+{"label": "query", "sentence": "Am I scheduled to have any meeting today"}
+{"label": "createoradd", "sentence": "Please create a new list"}
+{"label": "music", "sentence": "play romantic English songs"}
+{"label": "query", "sentence": "Notify me when there's news on the Dakota pipeline"}
+{"label": "query", "sentence": "what alarms do I have set for today?"}
+{"label": "remove", "sentence": "Delete that item"}
+{"label": "query", "sentence": "Give me the news from source"}
+{"label": "definition", "sentence": "google pda definition for me"}
+{"label": "quirky", "sentence": "What is the best chocolate chip cookie recipe"}
+{"label": "taxi", "sentence": "olly call an uber now"}
+{"label": "praise", "sentence": "ah that's good job."}
+{"label": "querycontact", "sentence": "what is jeff's number"}
+{"label": "query", "sentence": "Present time in New York"}
+{"label": "query", "sentence": "Please list reminders coming up soon."}
+{"label": "query", "sentence": "PDA check emails from someone"}
+{"label": "quirky", "sentence": "Hey whatsapp"}
+{"label": "music", "sentence": "Play any song by Joe Prsaise."}
+{"label": "music", "sentence": "Turn on my playlist and play third song in the queue."}
+{"label": "confirm", "sentence": "i want you to check what just said please."}
+{"label": "negate", "sentence": "shit, i think wrong."}
+{"label": "taxi", "sentence": "Call a taxi for me"}
+{"label": "recipe", "sentence": "Freezing"}
+{"label": "query", "sentence": "Please Check all new email of Income Tax Department."}
+{"label": "query", "sentence": "What time is it in Honolulu?"}
+{"label": "praise", "sentence": "that is helpful, thank you, olly."}
+{"label": "music", "sentence": "Play songs by the Beatles please."}
+{"label": "recipe", "sentence": "How many ounces are in a cup?"}
+{"label": "negate", "sentence": "not that one."}
+{"label": "query", "sentence": "Hello PDA, Has my inbox gone up?"}
+{"label": "negate", "sentence": "thanks but you don't instruction the request correctly."}
+{"label": "praise", "sentence": "appreciated, that's nice."}
+{"label": "query", "sentence": "Any new emails after 5 pm?"}
+{"label": "negate", "sentence": "oops, you did not understand me."}
+{"label": "recipe", "sentence": "Get me a recipe"}
+{"label": "factoid", "sentence": "find details about usa"}
+{"label": "query", "sentence": "What's happening on social media right now?"}
+{"label": "taxi", "sentence": "Find an Uber on 29th St."}
+{"label": "querycontact", "sentence": "What is Jill's home phone number?"}
+{"label": "query", "sentence": "PDA, whats my schedule today"}
+{"label": "query", "sentence": "Is it 10:00?"}
+{"label": "querycontact", "sentence": "What is the home phone number for Sarah"}
+{"label": "query", "sentence": "What are the top news headlines right now?"}
+{"label": "query", "sentence": "when the birthday will be"}
+{"label": "quirky", "sentence": "Teach me about exposure settings that would be best for a cloudy day in Alaska."}
+{"label": "query", "sentence": "find the shortest distance for the location needed"}
+{"label": "hue_lightoff", "sentence": "Shut off lights."}
+{"label": "query", "sentence": "What is happening in the bussiness world"}
+{"label": "praise", "sentence": "you are so smart, olly."}
+{"label": "query", "sentence": "any sport event is on my list."}
+{"label": "query", "sentence": "What CD is this song on?"}
+{"label": "praise", "sentence": "that's awesome, thank you very much."}
+{"label": "music", "sentence": "Play Adele"}
+{"label": "factoid", "sentence": "Where is Los Angeles?"}
+{"label": "query", "sentence": "update me"}
+{"label": "query", "sentence": "Tell me if taco bell delivers"}
+{"label": "query", "sentence": "PDA name: give me my latest email"}
+{"label": "praise", "sentence": "perfect job, you've done well, olly."}
+{"label": "music", "sentence": "Please play my 90's rap hits"}
+{"label": "query", "sentence": "PDA what do I have on my shopping list?"}
+{"label": "music", "sentence": "Olly, play jumper by third eye blind."}
+{"label": "query", "sentence": "Where is the closest spot to order food for pickup?"}
+{"label": "query", "sentence": "Does it offer pick up?"}
+{"label": "query", "sentence": "Olly, what do I have next to do"}
+{"label": "remove", "sentence": "olly, cancel all events in the next two days"}
+{"label": "query", "sentence": "Is there anything i should know for my meetings this week?"}
+{"label": "negate", "sentence": "try again that is not what i am looking for."}
+{"label": "query", "sentence": "Is the weather cold?"}
+{"label": "remove", "sentence": "Alexa, update the calendar with the last event removed"}
+{"label": "music", "sentence": "Play A R Rahman music"}
+{"label": "query", "sentence": "How hot is it outside today?"}
+{"label": "hue_lightoff", "sentence": "Lights off"}
+{"label": "definition", "sentence": "Do you know the definition of school"}
+{"label": "query", "sentence": "Are there any new emails yet?"}
+{"label": "quirky", "sentence": "I would like my PDA to alert me of the weather every morning"}
+{"label": "recipe", "sentence": "Find me a recipe for chicken noodle soup."}
+{"label": "query", "sentence": "give me the latest updates"}
+{"label": "query", "sentence": "Whats the latest?"}
+{"label": "query", "sentence": "Alexa, state the weather in our city"}
+{"label": "negate", "sentence": "i am sorry but i think you messed up with."}
+{"label": "quirky", "sentence": "I eat breakfast at 8am"}
+{"label": "quirky", "sentence": "get it"}
+{"label": "recipe", "sentence": "show me what the ingredients are"}
+{"label": "remove", "sentence": "delete item on list"}
+{"label": "query", "sentence": "Who is the singer of this song right now"}
+{"label": "quirky", "sentence": "When will grief subside after losing parent"}
+{"label": "praise", "sentence": "you rock, thank you very much, olly."}
+{"label": "factoid", "sentence": "Which Mountain range is the largest?"}
+{"label": "query", "sentence": "How much time is a train to there"}
+{"label": "query", "sentence": "How long it lasted?"}
+{"label": "quirky", "sentence": "When is it?"}
+{"label": "query", "sentence": "When is Halloween?"}
+{"label": "remove", "sentence": "hi google pls remove the dinner plan on thursday"}
+{"label": "query", "sentence": "What is the news headlines for this week?"}
+{"label": "factoid", "sentence": "What are the longest rivers in the world?"}
+{"label": "query", "sentence": "What was the temperature in Newyork this morning"}
+{"label": "query", "sentence": "weather on tuesday"}
+{"label": "query", "sentence": "can you get me news from NY Times?"}
+{"label": "remove", "sentence": "Delete all my events for tomorrow"}
+{"label": "query", "sentence": "Show new emails to me"}
+{"label": "query", "sentence": "What's on my schedule this week?"}
+{"label": "taxi", "sentence": "I need a uber to my current location."}
+{"label": "factoid", "sentence": "PDA, Open Map"}
+{"label": "query", "sentence": "show me yesterdays weather"}
+{"label": "factoid", "sentence": "What is hair made up of?"}
+{"label": "query", "sentence": "Am I free Friday afternoon?"}
+{"label": "query", "sentence": "Read my upcoming events ?"}
+{"label": "taxi", "sentence": "book a cab in the evening  for me"}
+{"label": "query", "sentence": "Recent tech headlines"}
+{"label": "query", "sentence": "Show me the directions for going to Boston via Seattle."}
+{"label": "query", "sentence": "Is that song from shakira"}
+{"label": "query", "sentence": "show todays news about migration"}
+{"label": "confirm", "sentence": "would you check my last command."}
+{"label": "query", "sentence": "I dont want to carry an umbrella, will we have rain today?"}
+{"label": "query", "sentence": "title?"}
+{"label": "music", "sentence": "s"}
+{"label": "confirm", "sentence": "can you confirm instruction please."}
+{"label": "music", "sentence": "Play Marvin Gaye I Want You"}
+{"label": "query", "sentence": "please read the last email for me"}
+{"label": "negate", "sentence": "uhh no, i think got me not right."}
+{"label": "createoradd", "sentence": "Please Find all name start with alphabetic of 'G' and create a list."}
+{"label": "query", "sentence": "What lists do I have"}
+{"label": "query", "sentence": "Update on international women's day"}
+{"label": "music", "sentence": "Music, led Zeppelin, houses of the holy"}
+{"label": "confirm", "sentence": "could you confirm that please."}
+{"label": "query", "sentence": "What was the last email (sender) sent?"}
+{"label": "praise", "sentence": "you've done that correctly thank you so much."}
+{"label": "quirky", "sentence": "What would be the easiet way to become a millionaire in less than five years?"}
+{"label": "music", "sentence": "Play slow down the song."}
+{"label": "query", "sentence": "Hows it going to be today"}
+{"label": "query", "sentence": "what are meeting scheduled for today"}
+{"label": "music", "sentence": "Play list of music from avatar"}
+{"label": "quirky", "sentence": "I am bored, how about some small-talk"}
+{"label": "hue_lightoff", "sentence": "Lights off in the guestroom."}
+{"label": "query", "sentence": "What artist is singing that song?"}
+{"label": "quirky", "sentence": "review latest movies"}
+{"label": "remove", "sentence": "Olly delete my surprise event for Thursday."}
+{"label": "query", "sentence": "Olly do I have an alarm set for tomorrow."}
+{"label": "query", "sentence": "do I need to carry sunglasses outside"}
+{"label": "query", "sentence": "What day of the week is my birthday this year?"}
+{"label": "hue_lighton", "sentence": "Clap on!"}
+{"label": "query", "sentence": "Between May 1 and December 31, what meetings occurred"}
+{"label": "query", "sentence": "What is today's temperature?"}
+{"label": "definition", "sentence": "Describe (insert) for me please"}
+{"label": "query", "sentence": "In the last year how many hours have I been in meetings?"}
+{"label": "definition", "sentence": "What does pro-bono mean?"}
+{"label": "query", "sentence": "Give me music news."}
+{"label": "quirky", "sentence": "Fashion"}
+{"label": "definition", "sentence": "What is the nuclear triad?"}
+{"label": "query", "sentence": "PDA: What is today?"}
+{"label": "remove", "sentence": "Delete my todo list."}
+{"label": "query", "sentence": "Check email for received from mom."}
+{"label": "query", "sentence": "How many weeks are left for Christmas?"}
+{"label": "music", "sentence": "Change this song to the first place"}
+{"label": "query", "sentence": "What time zone is X in?"}
+{"label": "hue_lighton", "sentence": "turn on the lamp"}
+{"label": "music", "sentence": "Olly I want you to put on be warned by tech n9ne"}
+{"label": "quirky", "sentence": "Tell me a fun fact!"}
+{"label": "remove", "sentence": "Erase all events."}
+{"label": "query", "sentence": "What's the latest in my social media"}
+{"label": "query", "sentence": "what alarms are upcoming?"}
+{"label": "query", "sentence": "Does restaurant have takeaway?"}
+{"label": "praise", "sentence": "you are awesome, thank you so much."}
+{"label": "praise", "sentence": "it's great one, i appreciate it."}
+{"label": "negate", "sentence": "sorry but i think you've gottten that wrongly."}
+{"label": "query", "sentence": "when and where Monet's exhibition takes place?"}
+{"label": "taxi", "sentence": "open lyft"}
+{"label": "remove", "sentence": "could you delete all events on my calendar?"}
+{"label": "query", "sentence": "where is the party?"}
+{"label": "factoid", "sentence": "How many cities are on international borders?"}
+{"label": "negate", "sentence": "sorry but you did not instruction the request right."}
+{"label": "query", "sentence": "PDA: When does the last  train to Clarksville leave?"}
+{"label": "querycontact", "sentence": "Give me the number to mom."}
+{"label": "query", "sentence": "Tell me about any pending reminder"}
+{"label": "query", "sentence": "Do I have alarms set ?"}
+{"label": "query", "sentence": "Are there any new Snapchats?"}
+{"label": "query", "sentence": "How is the weather down in Orange, Tx?"}
+{"label": "factoid", "sentence": "What was the last movie Will Smith was in?"}
+{"label": "query", "sentence": "What events do I have for this coming week?"}
+{"label": "definition", "sentence": "Please describe the new Onkyo AV receiver"}
+{"label": "music", "sentence": "Play songs from the R&B and soul genre"}
+{"label": "praise", "sentence": "it was nice one, thanks."}
+{"label": "taxi", "sentence": "get me a taxi."}
+{"label": "confirm", "sentence": "check and confirm the detail please."}
+{"label": "quirky", "sentence": "Tube was super busy today"}
+{"label": "query", "sentence": "Have I received any emails in the last hour?"}
+{"label": "quirky", "sentence": "It would be good if my PDA can connect peoples"}
+{"label": "definition", "sentence": "Give me the description of a Television circuit"}
+{"label": "remove", "sentence": "Please remove the alarm set for Wednesday called kickball."}
+{"label": "confirm", "sentence": "i'd like you confirm my last instruction please."}
+{"label": "query", "sentence": "Will there be any snow next week?"}
+{"label": "music", "sentence": "Please play the beatles, PS. I love you"}
+{"label": "query", "sentence": "Is there any news of the newest game coming out."}
+{"label": "query", "sentence": "Is it going to rain on Friday?"}
+{"label": "remove", "sentence": "Delete all events and tasks for today."}
+{"label": "query", "sentence": "What is the weather like tomorrow?"}
+{"label": "quirky", "sentence": "Sum up all the things for me I could do to make myself happier"}
+{"label": "query", "sentence": "Display available lists"}
+{"label": "query", "sentence": "train leaving"}
+{"label": "query", "sentence": "Please show today meting with clients"}
+{"label": "remove", "sentence": "Remove all upcoming events please."}
+{"label": "praise", "sentence": "you are smart, olly."}
+{"label": "factoid", "sentence": "When is the next Lakers game?"}
+{"label": "query", "sentence": "whats going on with trump"}
+{"label": "factoid", "sentence": "Where was Kelly Clarkson born?"}
+{"label": "factoid", "sentence": "Does selena gomez has a scandal?"}
+{"label": "negate", "sentence": "sorry but you didn't get it correctly."}
+{"label": "query", "sentence": "Did Bert write me today?"}
+{"label": "createoradd", "sentence": "This item should be added to the list"}
+{"label": "query", "sentence": "Find the this week's news about emigration legislation in the U.S please."}
+{"label": "factoid", "sentence": "Tell me comics of charlie chaplin"}
+{"label": "factoid", "sentence": "How crowded is Los Angeles?"}
+{"label": "query", "sentence": "Is it after noon yet?"}
+{"label": "quirky", "sentence": "IS PERSON IS INCREADABLE"}
+{"label": "quirky", "sentence": "Whats for dinner"}
+{"label": "remove", "sentence": "Erase @ from list"}
+{"label": "remove", "sentence": "PDA, open memos"}
+{"label": "query", "sentence": "Is Mysore going to be very hot and humid today, whats the weather status"}
+{"label": "negate", "sentence": "thanks but i think you do not get me."}
+{"label": "quirky", "sentence": "what are you?"}
+{"label": "query", "sentence": "When does my alarm go off?"}
+{"label": "confirm", "sentence": "i'd like you to check and confirm what i said please."}
+{"label": "query", "sentence": "do i have any unread emails"}
+{"label": "recipe", "sentence": "Search for the best spagetti recipe"}
+{"label": "praise", "sentence": "you have done that right musch appreciated, olly."}
+{"label": "praise", "sentence": "ah it's awesome work."}
+{"label": "quirky", "sentence": "Explain to me about what different countries are represented in the Book of Revelation"}
+{"label": "quirky", "sentence": "What is the best chocolate chip cookies recipe"}
+{"label": "recipe", "sentence": "how do i roll sushi"}
+{"label": "definition", "sentence": "what is the definition of a galaxy alexa"}
+{"label": "factoid", "sentence": "how big is the cosmos?"}
+{"label": "negate", "sentence": "dammit, wrong command."}
+{"label": "negate", "sentence": "dammit, i think you have done wrongly."}
+{"label": "remove", "sentence": "Olly, delete my birthday reminder for next week."}
+{"label": "query", "sentence": "Show me the list of pending meetings."}
+{"label": "query", "sentence": "Will it be windy tonight?"}
+{"label": "negate", "sentence": "oh no, you have done that wrong."}
+{"label": "querycontact", "sentence": "Find me my dad's email address"}
+{"label": "remove", "sentence": "Remove my dentist's appointment from today's schedule."}
+{"label": "negate", "sentence": "oh no, you did not get what i was searching for."}
+{"label": "quirky", "sentence": "I want it to remember my preferences and recommend me things based on them when I ask."}
+{"label": "dislikeness", "sentence": "i hate this song"}
+{"label": "query", "sentence": "Please see if Chili's has delivery."}
+{"label": "query", "sentence": "What will be tomorrow's weather in this location"}
+{"label": "negate", "sentence": "i am sorry but you messed up with command."}
+{"label": "query", "sentence": "Can you find out the latest world news from yesterday?"}
+{"label": "factoid", "sentence": "Can you really see Russia from Alaska?"}
+{"label": "quirky", "sentence": "Jobs in my area for my skill set."}
+{"label": "quirky", "sentence": "How do I buy tickets for that?"}
+{"label": "query", "sentence": "Hi do I have any new emails"}
+{"label": "query", "sentence": "Check my email for the last hour"}
+{"label": "query", "sentence": "What meetings do I have between 8-10 today?"}
+{"label": "query", "sentence": "Hey does Open Sesame do take out?"}
+{"label": "negate", "sentence": "thanks but it was not the right answer."}
+{"label": "definition", "sentence": "Describe a rotor"}
+{"label": "query", "sentence": "what could be the time in india"}
+{"label": "music", "sentence": "PDA, orevena voice recorder, let me ... The System page is where to save songs"}
+{"label": "query", "sentence": "Daily news from source"}
+{"label": "factoid", "sentence": "Where in the world is (insert)?"}
+{"label": "remove", "sentence": "Siri, cancel yoga alarms"}
+{"label": "remove", "sentence": "Cancel meeting at three"}
+{"label": "negate", "sentence": "sorry but that's not the correct response."}
+{"label": "query", "sentence": "when does the next train travelling the the city leave here?"}
+{"label": "quirky", "sentence": "What do you know about America"}
+{"label": "query", "sentence": "Plesae let me know the alarm kept for Tuesday's meeting"}
+{"label": "quirky", "sentence": "Tell me differences about cricket vs football"}
+{"label": "music", "sentence": "I want to listen to George Strait."}
+{"label": "query", "sentence": "May i know the weather there ?"}
+{"label": "query", "sentence": "What is the temperature outside?"}
+{"label": "query", "sentence": "Can you tell me if I've got any unread emails from today?"}
+{"label": "quirky", "sentence": "Tell me about my day"}
+{"label": "query", "sentence": "whats is the weather in Hyderbad"}
+{"label": "music", "sentence": "Search and play the best of Mike Eden songs."}
+{"label": "query", "sentence": "When was the last meeting?"}
+{"label": "factoid", "sentence": "How old is Miley Cyrus?"}
+{"label": "query", "sentence": "Show last e-mail from mom"}
+{"label": "query", "sentence": "Check my new emails and tell me what are they about"}
+{"label": "negate", "sentence": "dammit, you've done task in wrong manner."}
+{"label": "quirky", "sentence": "It was a tough day today."}
+{"label": "praise", "sentence": "you rock, musch appreciated, olly."}
+{"label": "hue_lightoff", "sentence": "Shut the living room lights."}
+{"label": "query", "sentence": "COULD YOU PLEASE TELL ME WHAT IS THE WEATHER PREDICATION FOR THIS WEEK."}
+{"label": "praise", "sentence": "it's cool, thanks, olly."}
+{"label": "query", "sentence": "directions to mcdo?"}
+{"label": "confirm", "sentence": "could you check and confirm the detail please."}
+{"label": "query", "sentence": "Keep me up to date with today's NBA scores."}
+{"label": "taxi", "sentence": "Call a taxi to pick me up at work."}
+{"label": "createoradd", "sentence": "include an item to a list"}
+{"label": "negate", "sentence": "incorrect."}
+{"label": "remove", "sentence": "Delete the list item about the meeting."}
+{"label": "music", "sentence": "plas kids songd"}
+{"label": "music", "sentence": "Pleae play me the Michael Jackson song again"}
+{"label": "factoid", "sentence": "How many countries are in Europe?"}
+{"label": "query", "sentence": "What music is playing right now?"}
+{"label": "confirm", "sentence": "i want you to confirm the last thing said please."}
+{"label": "negate", "sentence": "your response is incorrect."}
+{"label": "confirm", "sentence": "confirm the command."}
+{"label": "quirky", "sentence": "I would like it to help analyze ideas"}
+{"label": "query", "sentence": "its very dangerous one"}
+{"label": "factoid", "sentence": "Is the drought in California over?"}
+{"label": "negate", "sentence": "i think you're incorrect."}
+{"label": "confirm", "sentence": "please can you confirm the command."}
+{"label": "recipe", "sentence": "What should I cook for supper?"}
+{"label": "definition", "sentence": "Give me the specs on the Bugatti Veyron."}
+{"label": "query", "sentence": "Give me the winning numbers to the powerball lottery."}
+{"label": "query", "sentence": "what the tube like to jersey PDA?"}
+{"label": "query", "sentence": "What is the interval of train departures in Chicago?"}
+{"label": "query", "sentence": "How much snow has fallen in Maine since yesterday?"}
+{"label": "praise", "sentence": "you've done it correctly appreciated, olly."}
+{"label": "query", "sentence": "What's it like outside?"}
+{"label": "query", "sentence": "What's the weather like in Sydney?"}
+{"label": "taxi", "sentence": "Whats the closest taxi to me?"}
+{"label": "query", "sentence": "I'd like to know more about the scheduled event..."}
+{"label": "quirky", "sentence": "I want my PDA to find good posters and arts of my favorite shows"}
+{"label": "query", "sentence": "Has Jane Doe emailed me"}
+{"label": "query", "sentence": "What's the weather forecast this week?"}
+{"label": "definition", "sentence": "Find me the definition of  indefatigable"}
+{"label": "createoradd", "sentence": "prepare a new list"}
+{"label": "query", "sentence": "by our scores"}
+{"label": "query", "sentence": "IT IS HOT TODAY, IS NOT IT ?"}
+{"label": "music", "sentence": "Play some pop music."}
+{"label": "quirky", "sentence": "Friendship"}
+{"label": "remove", "sentence": "Olly, erase all."}
+{"label": "query", "sentence": "PDA, how is the weather looking for this week?"}
+{"label": "praise", "sentence": "it's fantastic, thank you."}
+{"label": "query", "sentence": "what is the weather like now"}
+{"label": "query", "sentence": "PLEASE TELL ME WHAT WILL BE RAINY DAY BASED ON THE WEATHER FORCAST/"}
+{"label": "query", "sentence": "Automobiles"}
+{"label": "remove", "sentence": "cancel birthday party"}
+{"label": "music", "sentence": "next i want to hear shinedown"}
+{"label": "hue_lightoff", "sentence": "Turn off the lights in the bathroom"}
+{"label": "factoid", "sentence": "what is the birthday of hemingway"}
+{"label": "music", "sentence": "play the song title"}
+{"label": "query", "sentence": "What time is it in Dubai?"}
+{"label": "negate", "sentence": "that's not what i meant."}
+{"label": "query", "sentence": "Do I have an appointment on Friday, April 21st?"}
+{"label": "negate", "sentence": "uhh no, you didn't interpret the request right."}
+{"label": "query", "sentence": "Do i need to carry an umbrella tomorrow"}
+{"label": "confirm", "sentence": "i'd like you check and confirm that please."}
+{"label": "taxi", "sentence": "Get me a Uber"}
+{"label": "definition", "sentence": "Tell me what a freeway is"}
+{"label": "quirky", "sentence": "I coudn't get it all done"}
+{"label": "querycontact", "sentence": "Olly tell me john's phone number"}
+{"label": "music", "sentence": "Play Jingle Bells next."}
+{"label": "factoid", "sentence": "At what age Michael Phelps got married?"}
+{"label": "query", "sentence": "is there any email with <unk>"}
+{"label": "quirky", "sentence": "Olly, I had the worst day ever today."}
+{"label": "praise", "sentence": "musch appreciated, it was wonderful."}
+{"label": "music", "sentence": "Show me the song @ from list"}
+{"label": "query", "sentence": "Hi there, tell me latest updates of Times of India page in facebook."}
+{"label": "remove", "sentence": "delete all events from calender"}
+{"label": "praise", "sentence": "you have done that correctly thanks."}
+{"label": "query", "sentence": "Keep mu up to date on the election news."}
+{"label": "query", "sentence": "Can you pull up the current news stories?"}
+{"label": "query", "sentence": "What news came out about Steve Bannon?"}
+{"label": "music", "sentence": "Play it again please"}
+{"label": "query", "sentence": "what alarms are currently set"}
+{"label": "querycontact", "sentence": "have you responded my phone calls"}
+{"label": "query", "sentence": "Can you tell me about today"}
+{"label": "createoradd", "sentence": "remember to put carrots in there."}
+{"label": "taxi", "sentence": "book an Uber for 1 hour from now"}
+{"label": "music", "sentence": "Let me see my playlist to reorganize."}
+{"label": "hue_lightoff", "sentence": "Turn off the bathroom lights"}
+{"label": "factoid", "sentence": "Who is celebrity"}
+{"label": "music", "sentence": "Initiate Celine Dion music"}
+{"label": "negate", "sentence": "please check the wrong command."}
+{"label": "remove", "sentence": "Please delete bananas from my shopping list."}
+{"label": "confirm", "sentence": "please can you check and confirm last thing i said."}
+{"label": "confirm", "sentence": "can you please check that."}
+{"label": "factoid", "sentence": "Did Prince have children?"}
+{"label": "query", "sentence": "what going on, PDA?"}
+{"label": "query", "sentence": "How far did I walk this morning?"}
+{"label": "query", "sentence": "Provide WSJ news"}
+{"label": "query", "sentence": "alexa tell me my new email"}
+{"label": "music", "sentence": "After this song play Raindrops Keep Fallin On My Head."}
+{"label": "remove", "sentence": "Please remove this event from my calender"}
+{"label": "quirky", "sentence": "What is the purpose of using you instead of searching on my own?"}
+{"label": "query", "sentence": "What is on the list for today ?"}
+{"label": "query", "sentence": "Is it raining in Chicago today?"}
+{"label": "negate", "sentence": "shit, not correct response."}
+{"label": "praise", "sentence": "thank you very much for the answer."}
+{"label": "query", "sentence": "what is my recent email activity?"}
+{"label": "query", "sentence": "Please find new from CNN"}
+{"label": "recipe", "sentence": "How long should I cook a steak to be medium?"}
+{"label": "query", "sentence": "show up the events for me today."}
+{"label": "hue_lightoff", "sentence": "switch off the light"}
+{"label": "confirm", "sentence": "i like you to check it please."}
+{"label": "negate", "sentence": "nope, i did not say it."}
+{"label": "query", "sentence": "is the last order is ready"}
+{"label": "query", "sentence": "What day does my birthday fall on next year?"}
+{"label": "negate", "sentence": "sorry but i think it's not the right response."}
+{"label": "negate", "sentence": "sorry but i think you don't get it correctly."}
+{"label": "quirky", "sentence": "nice to meet you"}
+{"label": "query", "sentence": "Is there any rains predicted for Bangalore today"}
+{"label": "query", "sentence": "Does this place do takeaway ?"}
+{"label": "query", "sentence": "Has John sent me a reply via email yet?"}
+{"label": "music", "sentence": "Play Raindrops Keep Fallin On My Head next please."}
+{"label": "query", "sentence": "what are the train times from San Francisco to New York"}
+{"label": "query", "sentence": "train times for tomorrow"}
+{"label": "query", "sentence": "What is my schedule for the day?"}
+{"label": "music", "sentence": "Play 46&2 by Tool"}
+{"label": "query", "sentence": "Is my birthday this month?"}
+{"label": "query", "sentence": "Can you tell me the weather for monday?"}
+{"label": "remove", "sentence": "I don`t need apples, remove it from my shopping list"}
+{"label": "query", "sentence": "What is the name of that song?"}
+{"label": "recipe", "sentence": "Olly how do I start making Lobster Bisque"}
+{"label": "negate", "sentence": "hmm, i didn't say that."}
+{"label": "query", "sentence": "Is the weekly weather supposed to be good this week?"}
+{"label": "hue_lightoff", "sentence": "Turn house lights off."}
+{"label": "query", "sentence": "what day is christmas"}
+{"label": "factoid", "sentence": "Olly, how much can chris helmsworth bench press?"}
+{"label": "volume_other", "sentence": "volume control please"}
+{"label": "definition", "sentence": "Look up word"}
+{"label": "praise", "sentence": "thanks for the response, olly."}
+{"label": "factoid", "sentence": "PDA, can you give me a rundown on John Legend?"}
+{"label": "praise", "sentence": "i appreciate it, it was awesome."}
+{"label": "music", "sentence": "Please play the early 80's Franks Sinatra stuff I have."}
+{"label": "recipe", "sentence": "PDA, how do you use an oven"}
+{"label": "praise", "sentence": "you are hero,."}
+{"label": "query", "sentence": "get nearest hosptal"}
+{"label": "query", "sentence": "PDA, can you tell me what the date is today?"}
+{"label": "query", "sentence": "find train time to ny"}
+{"label": "recipe", "sentence": "how to make sausage PDA."}
+{"label": "praise", "sentence": "you did perfect job, thank you so much."}
+{"label": "negate", "sentence": "you made a wrong answer."}
+{"label": "query", "sentence": "What reminders are coming up this week?"}
+{"label": "music", "sentence": "Play a song that will make me smile"}
+{"label": "quirky", "sentence": "PDA, why is kirsten dunst so ugly?"}
+{"label": "music", "sentence": "start song x"}
+{"label": "factoid", "sentence": "What movies is Kevin Spacey in?"}
+{"label": "query", "sentence": "Who do I have new email from?"}
+{"label": "music", "sentence": "Please play next song."}
+{"label": "factoid", "sentence": "Who is currently the oldest living person in the world?"}
+{"label": "negate", "sentence": "wait, this is not the correct answer."}
+{"label": "music", "sentence": "play run"}
+{"label": "query", "sentence": "What are my plans for today?"}
+{"label": "confirm", "sentence": "please would you check the detail."}
+{"label": "factoid", "sentence": "Is it true the gym is 7 miles away"}
+{"label": "negate", "sentence": "are you sure that is correct."}
+{"label": "query", "sentence": "I need to know what reminders have not been deleted yet."}
+{"label": "query", "sentence": "give me the details of next reminder"}
+{"label": "factoid", "sentence": "How tall are giraffes?"}
+{"label": "negate", "sentence": "i did not say that."}
+{"label": "query", "sentence": "what time is the meeting tomorrow"}
+{"label": "query", "sentence": "RCCG ikoyi Lagos distance by train will take how long and which direction?"}
+{"label": "quirky", "sentence": "What fun things are there to do in this area?"}
+{"label": "definition", "sentence": "What is laptop"}
+{"label": "remove", "sentence": "Delete all of my appointments with Dr. Smith this week"}
+{"label": "quirky", "sentence": "Olly what am I doing today?"}
+{"label": "praise", "sentence": "thanks, that was great one."}
+{"label": "quirky", "sentence": "heating levels at what times in the apt"}
+{"label": "query", "sentence": "When is the next holiday?"}
+{"label": "query", "sentence": "Let me know today's date in American format?"}
+{"label": "createoradd", "sentence": "add apples to shopping list"}
+{"label": "query", "sentence": "check all new emails in my inbox"}
+{"label": "query", "sentence": "I need to know the time right now, what is it?"}
+{"label": "quirky", "sentence": "Books"}
+{"label": "query", "sentence": "Which was that Coldplay song I listened to yesterday evening? Can you play it again?"}
+{"label": "query", "sentence": "Do I have any new emails from Kellogg?"}
+{"label": "query", "sentence": "how is the weather outside"}
+{"label": "definition", "sentence": "Olly, how would you describe the sun?"}
+{"label": "createoradd", "sentence": "Make a new list for school supplies"}
+{"label": "query", "sentence": "check outlook"}
+{"label": "quirky", "sentence": "top model car."}
+{"label": "query", "sentence": "What's the name of the piece you are playing?"}
+{"label": "factoid", "sentence": "Where is denmark?"}
+{"label": "query", "sentence": "Details"}
+{"label": "quirky", "sentence": "explain how USA social status differs from the one in the UK, now and in the past"}
+{"label": "query", "sentence": "check my email messages"}
+{"label": "quirky", "sentence": "what is your mood today?"}
+{"label": "music", "sentence": "I want to listen to elton john in a live concert"}
+{"label": "query", "sentence": "Did i set an alarm to have tablets in the noon?"}
+{"label": "hue_lightoff", "sentence": "Could you please turn off the overhead light in the kitchen"}
+{"label": "quirky", "sentence": "Explain quantum physics to me in language I understand."}
+{"label": "query", "sentence": "What will the weather be like this week?"}
+{"label": "remove", "sentence": "i'm not doing thing this week"}
+{"label": "remove", "sentence": "Siri, cancel all soccer practice alarms"}
+{"label": "query", "sentence": "Tell me the percentage of the chance of rain in Seattle, Washington for today."}
+{"label": "music", "sentence": "After this song, play Atomsphere."}
+{"label": "music", "sentence": "Play all songs from blue genre"}
+{"label": "music", "sentence": "Play Maroon 5 playlist"}
+{"label": "query", "sentence": "Train times location"}
+{"label": "query", "sentence": "Do I have any undone tasks?"}
+{"label": "negate", "sentence": "shit, i think you have done a task all in wrong manner."}
+{"label": "quirky", "sentence": "Today was a hard day."}
+{"label": "music", "sentence": "Play the electronic playlist"}
+{"label": "query", "sentence": "Have I set any alarms in the morning?"}
+{"label": "query", "sentence": "can u give the date today"}
+{"label": "query", "sentence": "Do I need to wear a coat?"}
+{"label": "recipe", "sentence": "Find the highest-rated recipe from FoodNetwork.com for a four-cheese omelette."}
+{"label": "query", "sentence": "PDA, What is the weather going to be like on March 20th 2017?"}
+{"label": "createoradd", "sentence": "Make a new list"}
+{"label": "music", "sentence": "Play a Nirvana playlist"}
+{"label": "volume_other", "sentence": "Change volume"}
+{"label": "recipe", "sentence": "Search for your favorite meal"}
+{"label": "query", "sentence": "What will the weather be like for this week?"}
+{"label": "factoid", "sentence": "What was George Eliot's first novel"}
+{"label": "query", "sentence": "Will it be warm on Friday night?"}
+{"label": "createoradd", "sentence": "Creat a new to-do list"}
+{"label": "query", "sentence": "Is there anything new in my email folder?"}
+{"label": "query", "sentence": "What is the date of the last Sunday in the month."}
+{"label": "query", "sentence": "Is it going to rain next week?"}
+{"label": "query", "sentence": "I go with black sunglasses or not ?"}
+{"label": "praise", "sentence": "you did awesome work, thank you so much."}
+{"label": "query", "sentence": "Is it 2nd Saturday on 12th."}
+{"label": "createoradd", "sentence": "Add Ashley to the wedding invite list."}
+{"label": "remove", "sentence": "clear schedule"}
+{"label": "praise", "sentence": "it is useful, musch appreciated."}
+{"label": "query", "sentence": "Air pollution"}
+{"label": "query", "sentence": "Get me fresh news."}
+{"label": "query", "sentence": "What is the latest update on the weather in Harrisburg Pennsylvania?"}
+{"label": "music", "sentence": "Listen to x playlist next"}
+{"label": "negate", "sentence": "oh no, you gave me wrong information."}
+{"label": "query", "sentence": "Tell me the names on the list."}
+{"label": "music", "sentence": "new music tracks"}
+{"label": "confirm", "sentence": "can you confirm what just said please."}
+{"label": "query", "sentence": "What time are we looking at right now?"}
+{"label": "praise", "sentence": "i appreciate it, it's awesome."}
+{"label": "query", "sentence": "Update me on Washington Post"}
+{"label": "query", "sentence": "Will it rain in the noon"}
+{"label": "praise", "sentence": "you rock, thank you so much."}
+{"label": "query", "sentence": "tell me the exact arrival time of train from__ to ____."}
+{"label": "query", "sentence": "google translate"}
+{"label": "factoid", "sentence": "How old is Zac Galifrankas?"}
+{"label": "recipe", "sentence": "Do we add rosemary in pasta"}
+{"label": "remove", "sentence": "remove all from calendar"}
+{"label": "query", "sentence": "Add vodka to my party shopping list"}
+{"label": "remove", "sentence": "clear all events on my calender"}
+{"label": "factoid", "sentence": "What is the capital of Jordan"}
+{"label": "querycontact", "sentence": "show johns office number"}
+{"label": "quirky", "sentence": "PDA when will the world end?"}
+{"label": "quirky", "sentence": "Dolly patrons background"}
+{"label": "query", "sentence": "Please tell me what time is now in canada"}
+{"label": "hue_lightoff", "sentence": "PDA name: kill the lights"}
+{"label": "query", "sentence": "What is the weather forecast for this week?"}
+{"label": "query", "sentence": "When will my alarm go off in the morning?"}
+{"label": "quirky", "sentence": "PDA I had a bad day."}
+{"label": "query", "sentence": "Refresh my email."}
+{"label": "confirm", "sentence": "please would you confirm what i said."}
+{"label": "quirky", "sentence": "warm wishes to mac for new job"}
+{"label": "query", "sentence": "Do you know the ETA of my order?"}
+{"label": "query", "sentence": "Who is the singer of Hotel California?"}
+{"label": "quirky", "sentence": "what is the best way to live?"}
+{"label": "factoid", "sentence": "What do pink ribbons support?"}
+{"label": "query", "sentence": "Any recent news about North Korea?"}
+{"label": "factoid", "sentence": "How many children does David Beckham have?"}
+{"label": "music", "sentence": "Play led Zeppelin houses of the holy"}
+{"label": "negate", "sentence": "that's not what i requested."}
+{"label": "createoradd", "sentence": "Add these documents to the things I need to travel with."}
+{"label": "recipe", "sentence": "how long do I boil a hard boiled egg, alexa?"}
+{"label": "createoradd", "sentence": "Please create a list of Due payment those who not received more then 10 Months."}
+{"label": "query", "sentence": "Give me news from CNN."}
+{"label": "query", "sentence": "what happening in VA"}
+{"label": "definition", "sentence": "What does Problematic mean?"}
+{"label": "query", "sentence": "Any signs of rain?"}
+{"label": "recipe", "sentence": "How do I cook spaghetti squash?"}
+{"label": "query", "sentence": "check email for new messages"}
+{"label": "confirm", "sentence": "please can you confirm my last question."}
+{"label": "praise", "sentence": "thank you very much for listening."}
+{"label": "hue_lighton", "sentence": "and the light began"}
+{"label": "confirm", "sentence": "check the details."}
+{"label": "hue_lightoff", "sentence": "PDA, cut the lights off"}
+{"label": "query", "sentence": "Will Sting be in Tampa Florida soon"}
+{"label": "negate", "sentence": "oh no, it was not what i am looking for."}
+{"label": "recipe", "sentence": "give me a cooking tutorial"}
+{"label": "remove", "sentence": "remove wake-up calls for this week"}
+{"label": "praise", "sentence": "you are so helpful, thank you."}
+{"label": "query", "sentence": "What time is set for my wake-up alarm?"}
+{"label": "negate", "sentence": "you have made some mistake."}
+{"label": "negate", "sentence": "thanks but i think you are not correct."}
+{"label": "praise", "sentence": "thanks for the helps."}
+{"label": "quirky", "sentence": "Today's day is really tiring."}
+{"label": "praise", "sentence": "you did amazing work, musch appreciated."}
+{"label": "music", "sentence": "I'd like to hear Queen's Barcelona"}
+{"label": "quirky", "sentence": "Where should I take my wife for dinner tonight?"}
+{"label": "music", "sentence": "play david bowie"}
+{"label": "factoid", "sentence": "Where is Morocco located?"}
+{"label": "hue_lighton", "sentence": "Please turn all all lights."}
+{"label": "hue_lightoff", "sentence": "Please turn off the lamp."}
+{"label": "querycontact", "sentence": "Do I have any missed call from Patrick"}
+{"label": "factoid", "sentence": "I need some details about celebrity X, please assist."}
+{"label": "remove", "sentence": "Remove list start with 'A'"}
+{"label": "query", "sentence": "Whats the scoop"}
+{"label": "quirky", "sentence": "what's JLO up to?"}
+{"label": "hue_lightoff", "sentence": "turn the light off"}
+{"label": "recipe", "sentence": "PDA, how long does it take water to boil?"}
+{"label": "query", "sentence": "Let me know if anything new shows up about this"}
+{"label": "query", "sentence": "Check for emails from steve"}
+{"label": "query", "sentence": "Latest world news please."}
+{"label": "query", "sentence": "Did anyone like my photo I just posted?"}
+{"label": "taxi", "sentence": "Call an Uber for me"}
+{"label": "music", "sentence": "I want to hear Metallica on my rock playlist."}
+{"label": "confirm", "sentence": "i would like you check details please."}
+{"label": "query", "sentence": "Google find any alarms I have set for today."}
+{"label": "remove", "sentence": "Remove that from my list."}
+{"label": "query", "sentence": "do i have an appointment for lunch tomorrow?"}
+{"label": "quirky", "sentence": "PDA, access my FitBit app and record this activity, yoga, fifty minutes, high intensity."}
+{"label": "praise", "sentence": "that was good one, appreciated."}
+{"label": "confirm", "sentence": "will you please check that."}
+{"label": "quirky", "sentence": "How is the meta likely to shift with the next set of MTG"}
+{"label": "definition", "sentence": "How would yo define object A?"}
+{"label": "negate", "sentence": "uhh no, you have done task all wrong."}
+{"label": "music", "sentence": "Let's hear some indie rock, okay?"}
+{"label": "confirm", "sentence": "check my last command."}
+{"label": "negate", "sentence": "oops, i think that was not right."}
+{"label": "querycontact", "sentence": "Select the Information on the contact"}
+{"label": "quirky", "sentence": "There was heavy traffic on my way home"}
+{"label": "negate", "sentence": "i am sorry but it's not the right response."}
+{"label": "query", "sentence": "Olly, let me know if I get a message about the party from Jane"}
+{"label": "quirky", "sentence": "I think I can travel the whole world in a day"}
+{"label": "query", "sentence": "Recommend songs based on my playlist?"}
+{"label": "factoid", "sentence": "Siri what is the elevation of Denver Colorado?"}
+{"label": "query", "sentence": "Could you list out the list of trains heading to XX the day after?"}
+{"label": "negate", "sentence": "what the fuck please do this."}
+{"label": "query", "sentence": "Do you expect sun on Sunday?"}
+{"label": "negate", "sentence": "hmm, not right response."}
+{"label": "query", "sentence": "Who is singing this?"}
+{"label": "remove", "sentence": "Delete an first event of 22/03/2017"}
+{"label": "definition", "sentence": "Can you look up the definition of cavil?"}
+{"label": "music", "sentence": "play the song which is in movie rangoon."}
+{"label": "query", "sentence": "Whats going on in my calendar"}
+{"label": "query", "sentence": "Tell me about my upcoming events."}
+{"label": "factoid", "sentence": "How many grams are there for a cup of butter?"}
+{"label": "hue_lightoff", "sentence": "Can you turn my bedroom lights off?"}
+{"label": "praise", "sentence": "thank you very much."}
+{"label": "music", "sentence": "Please play Shake It Off by Taylor Swift.M"}
+{"label": "query", "sentence": "Tell me the humidity level downtown today."}
+{"label": "taxi", "sentence": "I need to get to 'location'. Call a cab."}
+{"label": "factoid", "sentence": "Where are the Rocky mountains?"}
+{"label": "query", "sentence": "What topic is the most talked about today?"}
+{"label": "hue_lightoff", "sentence": "Can you turn off my desk lamp?"}
+{"label": "query", "sentence": "is this program is scheduled?"}
+{"label": "definition", "sentence": "What is the definition of session"}
+{"label": "query", "sentence": "Echo are there any new emails for me."}
+{"label": "praise", "sentence": "you've done it correctly musch appreciated."}
+{"label": "query", "sentence": "What are my favorite types of music?"}
+{"label": "music", "sentence": "play the song"}
+{"label": "query", "sentence": "charges of delivery"}
+{"label": "remove", "sentence": "Cancel upcoming event."}
+{"label": "remove", "sentence": "Olly clear everything off my calendar for the rest of the year."}
+{"label": "music", "sentence": "Play the song 'doggie style' in continuous mode"}
+{"label": "quirky", "sentence": "Explain it"}
+{"label": "praise", "sentence": "it's helpful,."}
+{"label": "query", "sentence": "Give me the schedule."}
+{"label": "query", "sentence": "What is the current song called?"}
+{"label": "query", "sentence": "is there an appointment at 5pm?"}
+{"label": "query", "sentence": "Tell me what's trending on Twitter."}
+{"label": "praise", "sentence": "appreciate helps."}
+{"label": "factoid", "sentence": "Tell me when Trump was born"}
+{"label": "query", "sentence": "give me news on president trump"}
+{"label": "confirm", "sentence": "i would like you to check and confirm that please."}
+{"label": "factoid", "sentence": "what are the climatic conditions in tha that area."}
+{"label": "querycontact", "sentence": "which contact haven't I called in 12 months?"}
+{"label": "factoid", "sentence": "How tall is Jennifer Aniston?"}
+{"label": "query", "sentence": "I want more details about the annual tea party."}
+{"label": "query", "sentence": "What is the breaking news for the day"}
+{"label": "definition", "sentence": "What is the definition of a probiotic?"}
+{"label": "confirm", "sentence": "i want you to confirm it please."}
+{"label": "query", "sentence": "Please advise what the current news is on Fox News?"}
+{"label": "querycontact", "sentence": "please give me details of Allen from my contact"}
+{"label": "query", "sentence": "is there a chance of snow wednesday?"}
+{"label": "query", "sentence": "Do you have the time?"}
+{"label": "praise", "sentence": "you've done that correctly thank you very much, olly."}
+{"label": "remove", "sentence": "Please remove all the movies I have watched on my favorites list."}
+{"label": "query", "sentence": "When does my train leave?"}
+{"label": "confirm", "sentence": "would you confirm details."}
+{"label": "query", "sentence": "Provide me the world latest news"}
+{"label": "recipe", "sentence": "What temperature is it safe to eat pork?"}
+{"label": "query", "sentence": "PDA what's on my to-do list?"}
+{"label": "query", "sentence": "Please tell me about today's weather."}
+{"label": "query", "sentence": "Is it hot and muggy or warm and humid in the bayou today?"}
+{"label": "query", "sentence": "Did I get new emails from Sarah?"}
+{"label": "quirky", "sentence": "Is there a groomer in town for cats only?"}
+{"label": "hue_lightoff", "sentence": "Turn all lights off during the day."}
+{"label": "query", "sentence": "Does Pizza Hut have delivery?"}
+{"label": "query", "sentence": "Tell me the music that is playing."}
+{"label": "definition", "sentence": "whats meaning of this"}
+{"label": "definition", "sentence": "how does an elephant looks like?"}
+{"label": "query", "sentence": "Is it going to rain today in San Diego?"}
+{"label": "praise", "sentence": "thanks for help."}
+{"label": "factoid", "sentence": "List the latest books published by favorite authors."}
+{"label": "query", "sentence": "Could you update me with the list of my music likes"}
+{"label": "query", "sentence": "what is the climate here today"}
+{"label": "music", "sentence": "Play the last song from my most recent playlist."}
+{"label": "query", "sentence": "Olly, do you have any local news?"}
+{"label": "recipe", "sentence": "best energy food for gym"}
+{"label": "quirky", "sentence": "please explain space"}
+{"label": "hue_lightoff", "sentence": "Light off"}
+{"label": "negate", "sentence": "i am sorry but i think it is not the right command."}
+{"label": "music", "sentence": "Play some Lady Gaga."}
+{"label": "music", "sentence": "Play the playlist we were listening last night"}
+{"label": "music", "sentence": "Play some blues by Atif Aslam"}
+{"label": "query", "sentence": "Is it friday."}
+{"label": "query", "sentence": "yes I want to check"}
+{"label": "remove", "sentence": "Please delete all calendar events"}
+{"label": "query", "sentence": "Who am I meeting at work tomorrow?"}
+{"label": "query", "sentence": "Initiate polling for new email"}
+{"label": "quirky", "sentence": "the weather was bad today."}
+{"label": "query", "sentence": "what is the current time in New York"}
+{"label": "praise", "sentence": "oh it's excellent."}
+{"label": "recipe", "sentence": "What type of cheese do I need for my enchiladas?"}
+{"label": "querycontact", "sentence": "where does this friend live?"}
+{"label": "query", "sentence": "Please check email contain job listing"}
+{"label": "query", "sentence": "At what time is the italian cafe closed between lunch and dinner?"}
+{"label": "quirky", "sentence": "Tell me about celebrity"}
+{"label": "query", "sentence": "tell next day's event"}
+{"label": "factoid", "sentence": "where is artic ocen"}
+{"label": "music", "sentence": "song next please"}
+{"label": "query", "sentence": "Did anybody post on Facebook today?"}
+{"label": "query", "sentence": "Did any emails come for me in the last 5 hours?"}
+{"label": "query", "sentence": "on Tuesday what is the weather supposed to be"}
+{"label": "remove", "sentence": "Remove a list of things to buy"}
+{"label": "recipe", "sentence": "Find a recipe for chicken alfredo"}
+{"label": "query", "sentence": "Olly, what is the most recent update regarding the hurricane Katrina?"}
+{"label": "quirky", "sentence": "Parenting"}
+{"label": "remove", "sentence": "Erase events."}
+{"label": "query", "sentence": "cnn"}
+{"label": "query", "sentence": "Could you provide my upcoming events?"}
+{"label": "definition", "sentence": "object search"}
+{"label": "query", "sentence": "Can you pull up the latest time so I won't be late for my appointment?"}
+{"label": "createoradd", "sentence": "add shopping to my to-do list"}
+{"label": "query", "sentence": "With whom do I have appointment today"}
+{"label": "query", "sentence": "Olly will it rain on Saturdy?"}
+{"label": "query", "sentence": "Is Narendra Modi, the indian prime ministe rvisiting any country now"}
+{"label": "music", "sentence": "Play country music."}
+{"label": "recipe", "sentence": "Get recipe for apple pie."}
+{"label": "definition", "sentence": "how does the desk look"}
+{"label": "praise", "sentence": "you rock, thank you very much."}
+{"label": "quirky", "sentence": "will you help me get better in studies?"}
+{"label": "query", "sentence": "What times does the train run on Sundays in Beaumont, Tx?"}
+{"label": "query", "sentence": "What time is the next event scheduled?"}
+{"label": "music", "sentence": "start playing dubstep"}
+{"label": "factoid", "sentence": "where are the rockies located?"}
+{"label": "query", "sentence": "this song is composed by whom?"}
+{"label": "negate", "sentence": "wait, i think you have got it incorrect."}
+{"label": "createoradd", "sentence": "Create a new list for me please"}
+{"label": "query", "sentence": "IS TODAY A SUNNY DAY OR RAINY DAY"}
+{"label": "query", "sentence": "What is the time in the Midwest right now."}
+{"label": "query", "sentence": "better climate"}
+{"label": "quirky", "sentence": "what do you think about future"}
+{"label": "music", "sentence": "Play music by KORN"}
+{"label": "querycontact", "sentence": "What is John Doe's address?"}
+{"label": "praise", "sentence": "that's helpful,, olly."}
+{"label": "negate", "sentence": "that is not what i am searching for."}
+{"label": "query", "sentence": "Read the email sent by this contact"}
+{"label": "definition", "sentence": "meaning of name"}
+{"label": "query", "sentence": "open events this week"}
+{"label": "query", "sentence": "Please list the available train trips to Location A."}
+{"label": "query", "sentence": "can you reserve a ticket to grand rapids by train?"}
+{"label": "remove", "sentence": "Remove no. 3 alarm of list."}
+{"label": "remove", "sentence": "I don't want to attend the dinner on March 1st anymore, so could you remove it from my agenda?"}
+{"label": "factoid", "sentence": "alexa who is bob dean?"}
+{"label": "query", "sentence": "What are the trending articles on the New York times."}
+{"label": "music", "sentence": "Play The Veldt by deadmau5"}
+{"label": "music", "sentence": "play Busdriver"}
+{"label": "query", "sentence": "Is Gus's a take out place?"}
+{"label": "music", "sentence": "Play for me the music by Madonna"}
+{"label": "query", "sentence": "does dominos has a delivery option."}
+{"label": "query", "sentence": "Do I have a new email from Eric?"}
+{"label": "definition", "sentence": "what is a banana"}
+{"label": "recipe", "sentence": "How do I make Tuna Casserole from scratch?"}
+{"label": "taxi", "sentence": "Book me Golden Taxi for today at 5pm."}
+{"label": "query", "sentence": "Band name?"}
+{"label": "quirky", "sentence": "what I like today"}
+{"label": "factoid", "sentence": "when is elvis birthday"}
+{"label": "remove", "sentence": "Remove item 3 from the list."}
+{"label": "query", "sentence": "where is the closest movie theater in columbia s.c."}
+{"label": "query", "sentence": "read a books to read list for me please"}
+{"label": "music", "sentence": "Play the next song in the sequence."}
+{"label": "confirm", "sentence": "check and confirm what last said please."}
+{"label": "query", "sentence": "how long to get downtown."}
+{"label": "query", "sentence": "Have I gotten any new emails from family/"}
+{"label": "query", "sentence": "Whats the weather now?"}
+{"label": "query", "sentence": "What are all my lists?"}
+{"label": "query", "sentence": "Show me the time."}
+{"label": "negate", "sentence": "it's not the right command."}
+{"label": "remove", "sentence": "PDA delete apples from my grocery list"}
+{"label": "factoid", "sentence": "What are the coordinates of the equator?"}
+{"label": "praise", "sentence": "thanks for your response."}
+{"label": "definition", "sentence": "Can you tell me what hypertrophy means?"}
+{"label": "praise", "sentence": "that's helpful, thank you, olly."}
+{"label": "createoradd", "sentence": "Add butter to the list"}
+{"label": "music", "sentence": "Can you play songs about breakups?"}
+{"label": "query", "sentence": "What are my plans for the month of May?"}
+{"label": "remove", "sentence": "erase the lawn care appointment next month"}
+{"label": "negate", "sentence": "i said do this."}
+{"label": "factoid", "sentence": "What is Arnold Schwarzenegger's birthday?"}
+{"label": "confirm", "sentence": "can you please check the command."}
+{"label": "quirky", "sentence": "Hello you look great"}
+{"label": "praise", "sentence": "excellent job, you've done well."}
+{"label": "query", "sentence": "recent emails"}
+{"label": "praise", "sentence": "it was cool, i appreciate it, olly."}
+{"label": "music", "sentence": "select rai music file"}
+{"label": "remove", "sentence": "delete meeting"}
+{"label": "query", "sentence": "latest updates"}
+{"label": "music", "sentence": "Play randomized Pop Songs, no repeats."}
+{"label": "definition", "sentence": "alexa what is the definition for the word pontificate"}
+{"label": "query", "sentence": "is there a birthday party today?"}
+{"label": "query", "sentence": "Tell me more about the scheduled events"}
+{"label": "music", "sentence": "olly i want to hear some rap please"}
+{"label": "query", "sentence": "Show me music by that artist."}
+{"label": "factoid", "sentence": "How many Inches are in a foot"}
+{"label": "recipe", "sentence": "I would like instructions on how to cook baked chicken."}
+{"label": "remove", "sentence": "Turn off any morning alarms after Friday"}
+{"label": "remove", "sentence": "Delete this event on march 3"}
+{"label": "taxi", "sentence": "I need you to book a taxi for me."}
+{"label": "query", "sentence": "sunday"}
+{"label": "query", "sentence": "What is the latest news on global warming"}
+{"label": "music", "sentence": "Hey Olly, play me a popular R&B song?"}
+{"label": "factoid", "sentence": "How much long is atlanta"}
+{"label": "query", "sentence": "Daily news"}
+{"label": "query", "sentence": "PDA what time is time?"}
+{"label": "definition", "sentence": "Siri, what is the definition on literate?"}
+{"label": "factoid", "sentence": "Give me a biography of Donald Trump"}
+{"label": "remove", "sentence": "Delete recent list now."}
+{"label": "factoid", "sentence": "Tell me about George Washington"}
+{"label": "query", "sentence": "Is there any train ticket availabl?"}
+{"label": "createoradd", "sentence": "Add milk to grocery list"}
+{"label": "query", "sentence": "What is the mayor's stance on homelessness in Seattle?"}
+{"label": "negate", "sentence": "oops, you don't get response correctly."}
+{"label": "query", "sentence": "Are eggs on my shopping list?"}
+{"label": "query", "sentence": "show me the most recent emails"}
+{"label": "query", "sentence": "How do i go to Athens by train?"}
+{"label": "definition", "sentence": "What's the meaning of Rumplestiltskin?"}
+{"label": "praise", "sentence": "it is useful, thank you."}
+{"label": "quirky", "sentence": "hey olly, I missed you"}
+{"label": "praise", "sentence": "perfect job, you did well."}
+{"label": "query", "sentence": "tell me about any new emails from my boss"}
+{"label": "query", "sentence": "WHat is the latest news from CBS?"}
+{"label": "query", "sentence": "What's the weather?"}
+{"label": "music", "sentence": "Please play anything by AFI"}
+{"label": "quirky", "sentence": "Has it been a busy day?"}
+{"label": "volume_other", "sentence": "change volumne settings in the negative alexa"}
+{"label": "query", "sentence": "should i take a coat to birmingham this evening"}
+{"label": "music", "sentence": "Let's dance"}
+{"label": "factoid", "sentence": "help me to understand the meaning of this life"}
+{"label": "quirky", "sentence": "just idle chit chat"}
+{"label": "praise", "sentence": "that was helpful, thank you so much."}
+{"label": "query", "sentence": "PDA, What's the schedule for this date?"}
+{"label": "query", "sentence": "What is the current week weather"}
+{"label": "remove", "sentence": "Remove my calendar event at 1:00 PM today."}
+{"label": "praise", "sentence": "it's great one, musch appreciated, olly."}
+{"label": "quirky", "sentence": "it has a meaning of rhythm"}
+{"label": "remove", "sentence": "Delete the next event on the calendar"}
+{"label": "factoid", "sentence": "Olly, why is Donald Trump the president of the United States, and how do we get him kicked out of office?"}
+{"label": "query", "sentence": "What time is it in Akron?"}
+{"label": "music", "sentence": "Start my favorite music"}
+{"label": "factoid", "sentence": "PDA: Whats going to be the forecast tomorrow for Outer Nowhereville?"}
+{"label": "query", "sentence": "Olly, play CNN news"}
+{"label": "negate", "sentence": "you gave me not right information."}
+{"label": "query", "sentence": "when is the party scheduled"}
+{"label": "factoid", "sentence": "Calcualte ohm's law based on these values"}
+{"label": "praise", "sentence": "it's great one, olly."}
+{"label": "query", "sentence": "Is it cold out?"}
+{"label": "music", "sentence": "Add this song for the next playing song"}
+{"label": "recipe", "sentence": "I want to know the procedure of making thanksgiving Turkey in 5 sentences."}
+{"label": "music", "sentence": "Play 'Uptown Girl' by Billy Joel"}
+{"label": "hue_lightoff", "sentence": "I'm going to sleep now"}
+{"label": "taxi", "sentence": "Can you book an Uber after I left for office?"}
+{"label": "music", "sentence": "Play best hits."}
+{"label": "praise", "sentence": "it's helpful, appreciated, olly."}
+{"label": "query", "sentence": "Did anyone send me an email?"}
+{"label": "definition", "sentence": "Hey, Olly. What is the definition of survey?"}
+{"label": "negate", "sentence": "thanks but i think you have messed up with the command."}
+{"label": "query", "sentence": "What is the name of this song and who sings it?"}
+{"label": "confirm", "sentence": "check and confirm detail."}
+{"label": "factoid", "sentence": "topography melbourne"}
+{"label": "query", "sentence": "Get me the top news from Huffington Post."}
+{"label": "music", "sentence": "Play bohemian raphsody for me"}
+{"label": "music", "sentence": "put the song in order of songer first arijit singh song then sukhwinder then sunidhi."}
+{"label": "query", "sentence": "When and where is <band> playing?"}
+{"label": "query", "sentence": "what is the event agenda"}
+{"label": "query", "sentence": "What is the time now in San Diego?"}
+{"label": "confirm", "sentence": "could you check the detail please."}
+{"label": "quirky", "sentence": "Drive the car and bring my friends over"}
+{"label": "remove", "sentence": "Remove next Monday's meeting"}
+{"label": "factoid", "sentence": "how far in steps is home from here"}
+{"label": "createoradd", "sentence": "I also need to buy batteries AAA"}
+{"label": "createoradd", "sentence": "I want you to create a list for me"}
+{"label": "negate", "sentence": "i think you don't get answer right."}
+{"label": "quirky", "sentence": "There are certain parts of my day where I am fatigued Olly."}
+{"label": "praise", "sentence": "that is cool, thank you."}
+{"label": "query", "sentence": "Which alarms are set in the phone?"}
+{"label": "recipe", "sentence": "I need the recipe for..."}
+{"label": "factoid", "sentence": "Which country is the most beautiful in the world"}
+{"label": "remove", "sentence": "please remove item a from my list"}
+{"label": "query", "sentence": "Have I received any email since 5 pm?"}
+{"label": "confirm", "sentence": "check detail."}
+{"label": "quirky", "sentence": "describe me about the new cleaner ,how it works"}
+{"label": "query", "sentence": "view all unread emails from Stacy Cadwell"}
+{"label": "hue_lightoff", "sentence": "Please turn off the light in the upstairs bedroom."}
+{"label": "quirky", "sentence": "tv"}
+{"label": "query", "sentence": "send reply too.."}
+{"label": "quirky", "sentence": "Good morning! Isn't it a great day?"}
+{"label": "querycontact", "sentence": "What is jay's phone number"}
+{"label": "query", "sentence": "What music do I usually listen to?"}
+{"label": "query", "sentence": "What do I have on my calendar this week?"}
+{"label": "quirky", "sentence": "If there were 10 easy steps to make myself rich what would they be?"}
+{"label": "confirm", "sentence": "could you please check and confirm the details."}
+{"label": "remove", "sentence": "Forget alarm."}
+{"label": "confirm", "sentence": "can you check that please."}
+{"label": "query", "sentence": "How will be the weather today in the afternoon"}
+{"label": "query", "sentence": "Pull up news from the Wallstreet Journal."}
+{"label": "createoradd", "sentence": "Add eggs to my grocery list."}
+{"label": "remove", "sentence": "Please empty my calendar."}
+{"label": "quirky", "sentence": "Does artificial intelligence have consciousness?"}
+{"label": "factoid", "sentence": "Olly, where do the Rocky Mountains start?"}
+{"label": "remove", "sentence": "1PM REMOVED 1AM SET"}
+{"label": "createoradd", "sentence": "Replace the furniture with electronics on the list."}
+{"label": "negate", "sentence": "i think you messed up the command."}
+{"label": "recipe", "sentence": "instructions to make a meal"}
+{"label": "remove", "sentence": "Delete my dinner tomorrow."}
+{"label": "factoid", "sentence": "which country's have a border to India"}
+{"label": "confirm", "sentence": "can you check and confirm last thing said please."}
+{"label": "query", "sentence": "Are there any upcoming events on my calendar?"}
+{"label": "remove", "sentence": "get rid of a list"}
+{"label": "query", "sentence": "check for hot news in times of india."}
+{"label": "query", "sentence": "How are things looking for the meeting with John?"}
+{"label": "query", "sentence": "i have to wear a jacket in the morning?"}
+{"label": "query", "sentence": "Hey can you check my email and see if there are any new messages?"}
+{"label": "praise", "sentence": "it's perfect, thank you so much, olly."}
+{"label": "quirky", "sentence": "Show me all my commands."}
+{"label": "query", "sentence": "I would like to know my next schedule details"}
+{"label": "quirky", "sentence": "i took my truck to the shop"}
+{"label": "recipe", "sentence": "Find the recipe for sambar in cookingforu application"}
+{"label": "confirm", "sentence": "please will you confirm command."}
+{"label": "music", "sentence": "Play me some music"}
+{"label": "query", "sentence": "Is it raining in Boston"}
+{"label": "factoid", "sentence": "What year did Robin WIlliams pass away?"}
+{"label": "music", "sentence": "Play last song i downloaded"}
+{"label": "query", "sentence": "Google let me know when anything news about Trump."}
+{"label": "quirky", "sentence": "you are real"}
+{"label": "query", "sentence": "Name off all the lists I own."}
+{"label": "music", "sentence": "PLEASE PLAY THE LATEST SONG FROM THE ALBUM ABBAS."}
+{"label": "confirm", "sentence": "will you check my last command please."}
+{"label": "music", "sentence": "I want to play rock songs by Ozzy Osbourne"}
+{"label": "factoid", "sentence": "When was Richard Nixon born?"}
+{"label": "factoid", "sentence": "What is the total number of islands in the United States?"}
+{"label": "query", "sentence": "what will the weather be like on date?"}
+{"label": "query", "sentence": "What is the name of the lead singer in this band?"}
+{"label": "remove", "sentence": "remove alarms set for tomorrow"}
+{"label": "remove", "sentence": "Remove the 2nd row from the list"}
+{"label": "query", "sentence": "What is the current time?"}
+{"label": "query", "sentence": "PDA check someones recent emails"}
+{"label": "query", "sentence": "Tell me the top stories in the news."}
+{"label": "query", "sentence": "whats the weather like right now in new york"}
+{"label": "query", "sentence": "what is the current time in chennai"}
+{"label": "query", "sentence": "send a reply if it is very important"}
+{"label": "querycontact", "sentence": "What is job title of Jan Medvesek?"}
+{"label": "praise", "sentence": "it's cool, musch appreciated."}
+{"label": "query", "sentence": "What are the hearhrob news?"}
+{"label": "negate", "sentence": "nope, i think that's not the right answer."}
+{"label": "query", "sentence": "What has Trump done now?"}
+{"label": "query", "sentence": "When is the next board meeting?"}
+{"label": "negate", "sentence": "thanks but that is wrong."}
+{"label": "query", "sentence": "Do I have meeting with Steve this week?"}
+{"label": "query", "sentence": "Which events my Facebook friends will be attending"}
+{"label": "querycontact", "sentence": "tell contact mobile number"}
+{"label": "quirky", "sentence": "What did my wife leave to be done?"}
+{"label": "negate", "sentence": "thanks but i think this was not the correct command."}
+{"label": "quirky", "sentence": "Please tell me how long do you think Trump will last."}
+{"label": "query", "sentence": "Have I got any alarms set?"}
+{"label": "query", "sentence": "Who was the chief guest of the event?"}
+{"label": "query", "sentence": "Do I have any more emails?"}
+{"label": "quirky", "sentence": "This computer is very hard to fix"}
+{"label": "remove", "sentence": "CANCEL ALL THE MEETING TODAY"}
+{"label": "remove", "sentence": "Take away from the list all food items with prefix dry"}
+{"label": "query", "sentence": "low cooling condition"}
+{"label": "definition", "sentence": "What does Rumplestiltskin mean?"}
+{"label": "quirky", "sentence": "famous person biographies"}
+{"label": "query", "sentence": "find if takeaway possible in restaurant xy?"}
+{"label": "query", "sentence": "I hope it is sunny weather there."}
+{"label": "query", "sentence": "To do list"}
+{"label": "negate", "sentence": "i am sorry but that's not the right response."}
+{"label": "remove", "sentence": "please delete my next calendar event"}
+{"label": "praise", "sentence": "that was perfect, thank you very much, olly."}
+{"label": "query", "sentence": "do i have any remainders for today"}
+{"label": "praise", "sentence": "you are helpful, appreciated."}
+{"label": "query", "sentence": "Give me the current time"}
+{"label": "factoid", "sentence": "How many cups in a quart?"}
+{"label": "music", "sentence": "Play all my favorite songs"}
+{"label": "query", "sentence": "any recent emails from Anna?"}
+{"label": "query", "sentence": "Tell me the exact count of followers on my twitter handle as of today."}
+{"label": "query", "sentence": "show me this week's forecast"}
+{"label": "quirky", "sentence": "Tell me a good alcoholic drink"}
+{"label": "confirm", "sentence": "would you please check and confirm what i just said."}
+{"label": "remove", "sentence": "Please remove the KICKBALL list from my contacts grouping."}
+{"label": "factoid", "sentence": "When is Stassi Schroedder's birthday?"}
+{"label": "query", "sentence": "Is there any chances of rain this week."}
+{"label": "query", "sentence": "Check the weather in Kansas"}
+{"label": "definition", "sentence": "definition for object name"}
+{"label": "confirm", "sentence": "could you please confirm what i just said."}
+{"label": "quirky", "sentence": "i would like to crack jokes"}
+{"label": "hue_lightoff", "sentence": "Turn off overhead light."}
+{"label": "query", "sentence": "train wreck"}
+{"label": "confirm", "sentence": "would you check detail please."}
+{"label": "praise", "sentence": "fantastic job, you have done well, olly."}
+{"label": "query", "sentence": "please show me lists"}
+{"label": "confirm", "sentence": "would you check and confirm the last thing said."}
+{"label": "query", "sentence": "bring me the title of current music."}
+{"label": "query", "sentence": "Tell me my latest email"}
+{"label": "query", "sentence": "What is the name of song?"}
+{"label": "praise", "sentence": "ah it's good, olly."}
+{"label": "music", "sentence": "Play my Rap playlist"}
+{"label": "music", "sentence": "play 'i love you' and then next 'happy'"}
+{"label": "remove", "sentence": "clear future event"}
+{"label": "confirm", "sentence": "please can you confirm the question."}
+{"label": "negate", "sentence": "shit, you have done a task all in wrong manner."}
+{"label": "query", "sentence": "did ben's email have an attaachment"}
+{"label": "query", "sentence": "What are all the upcoming events"}
+{"label": "query", "sentence": "Am I going to have to worry about the snowplows burying my car in the driveway Tuesday?"}
+{"label": "remove", "sentence": "remove event"}
+{"label": "query", "sentence": "can I see my work lists"}
+{"label": "definition", "sentence": "Please describe this sunset for me."}
+{"label": "query", "sentence": "Please tell me the date and time?"}
+{"label": "query", "sentence": "How many likes does my status from yesterday have?"}
+{"label": "definition", "sentence": "Can you please tell me what is the meaning of the word turnt?"}
+{"label": "query", "sentence": "are there any email updates?"}
+{"label": "quirky", "sentence": "Do you feel emotions?"}
+{"label": "remove", "sentence": "disable my 3PM alarm"}
+{"label": "music", "sentence": "Play my yoga playlist."}
+{"label": "hue_lightoff", "sentence": "Put the lights off now."}
+{"label": "query", "sentence": "I need to know the time?"}
+{"label": "query", "sentence": "Is it warm outside?"}
+{"label": "factoid", "sentence": "how tall is Mel Gibson"}
+{"label": "quirky", "sentence": "what is the meangin of existence"}
+{"label": "hue_lightoff", "sentence": "Turn the lights off in the living room."}
+{"label": "createoradd", "sentence": "create a new list of my pending bills"}
+{"label": "query", "sentence": "s it going to be hot tomorrow"}
+{"label": "query", "sentence": "list all train times to ny"}
+{"label": "query", "sentence": "search if the restaurant does take out"}
+{"label": "query", "sentence": "From 4 to 6, when do I have a free break?"}
+{"label": "negate", "sentence": "hmm, you gave me incorrect information."}
+{"label": "query", "sentence": "how many muhurtham in this month?"}
+{"label": "query", "sentence": "please check for new email"}
+{"label": "query", "sentence": "What's going on in the world right now?"}
+{"label": "remove", "sentence": "Please turn off my alarm for this evening"}
+{"label": "definition", "sentence": "Ok Google,  can you tell me what the White House is?"}
+{"label": "query", "sentence": "Show me most recent emails"}
+{"label": "query", "sentence": "what day is it on 5th december?"}
+{"label": "query", "sentence": "what will be the weather update for monday noon"}
+{"label": "query", "sentence": "Show me the news."}
+{"label": "query", "sentence": "How many people are attending my next meeting?"}
+{"label": "negate", "sentence": "thanks but i think you do not understand me."}
+{"label": "factoid", "sentence": "What movie did Megan Fox star in?"}
+{"label": "query", "sentence": "what song is playing"}
+{"label": "query", "sentence": "Are there any alarms for today?"}
+{"label": "quirky", "sentence": "wats up"}
+{"label": "negate", "sentence": "you did not find the right address."}
+{"label": "query", "sentence": "what new is happening in business according to the economist"}
+{"label": "remove", "sentence": "ggg"}
+{"label": "query", "sentence": "climate details now"}
+{"label": "definition", "sentence": "Describe what a virtual reality headset does"}
+{"label": "query", "sentence": "were any new emails received"}
+{"label": "query", "sentence": "Is it raining later today?"}
+{"label": "praise", "sentence": "thank you for doing it, olly."}
+{"label": "query", "sentence": "What time is it currently on the east coast?"}
+{"label": "query", "sentence": "What time is it in Karachi right now."}
+{"label": "factoid", "sentence": "when is sunset"}
+{"label": "remove", "sentence": "Clean up my schedule"}
+{"label": "query", "sentence": "check item 5 on my to do list"}
+{"label": "music", "sentence": "get set need me music track"}
+{"label": "query", "sentence": "Any email from my client?"}
+{"label": "query", "sentence": "How many emails do I have?"}
+{"label": "recipe", "sentence": "What can I cook with broccoli and chicken?"}
+{"label": "query", "sentence": "get me the latest news in new delhi"}
+{"label": "query", "sentence": "open the site XYZnews.com"}
+{"label": "createoradd", "sentence": "Remind me to order more soap"}
+{"label": "factoid", "sentence": "africa info"}
+{"label": "query", "sentence": "Give the time of clasical music concert today in the city"}
+{"label": "query", "sentence": "check list"}
+{"label": "query", "sentence": "Tell me all my lists."}
+{"label": "music", "sentence": "Play the Billboard top 10."}
+{"label": "createoradd", "sentence": "add an item to the list"}
+{"label": "query", "sentence": "Can you tell me what's on the schedule for tomorrow?"}
+{"label": "confirm", "sentence": "i want you to check what i just said please."}
+{"label": "negate", "sentence": "i am sorry but that's incorrect answer."}
+{"label": "query", "sentence": "Keep me up to date with the world news."}
+{"label": "music", "sentence": "COULD YOU PLEASE PLAY THE SONG FROM THE ARTIST MADONNA."}
+{"label": "query", "sentence": "Is it storming right now?"}
+{"label": "remove", "sentence": "Delete all my appointments for today."}
+{"label": "query", "sentence": "Is the weather ok in Sydney?"}
+{"label": "factoid", "sentence": "Tell me about India location"}
+{"label": "taxi", "sentence": "PLEASE BOOK A TAXI IN UBER FOR ME TO GO TO THE AIRPORT TODAY."}
+{"label": "factoid", "sentence": "Is Elizabeth Taylor still alive?"}
+{"label": "query", "sentence": "show me events that are going on right now"}
+{"label": "query", "sentence": "show all emails of contract"}
+{"label": "dislikeness", "sentence": "Do not play rock metal"}
+{"label": "query", "sentence": "check email for <unk>"}
+{"label": "query", "sentence": "PDA, tell me the weather for this week."}
+{"label": "negate", "sentence": "i think you did it all wrong."}
+{"label": "createoradd", "sentence": "Add buy groceries to my to-do list for today"}
+{"label": "dislikeness", "sentence": "I don't like this song"}
+{"label": "quirky", "sentence": "I would like my PDA to Feed and Pet my dog when I'm not home"}
+{"label": "factoid", "sentence": "Olly, how old is Tom Cruise?"}
+{"label": "negate", "sentence": "no, i did not say it."}
+{"label": "query", "sentence": "What would you call this kind of music that we're listening to?"}
+{"label": "music", "sentence": "Play song: All the Small Things."}
+{"label": "music", "sentence": "play 'do re mi'"}
+{"label": "factoid", "sentence": "PDA look up someone"}
+{"label": "query", "sentence": "Is it supposed to rain tonight?"}
+{"label": "query", "sentence": "Yo PDA, what's the current time"}
+{"label": "query", "sentence": "Is there anything I need to be aware of?"}
+{"label": "query", "sentence": "Where is Tuesday's morning meeting?"}
+{"label": "query", "sentence": "check emails from {contact}"}
+{"label": "factoid", "sentence": "What is the population of Los Angeles?"}
+{"label": "query", "sentence": "Show grocery list"}
+{"label": "remove", "sentence": "Clear my calender"}
+{"label": "query", "sentence": "find out if the restaurant does takeaway orders"}
+{"label": "factoid", "sentence": "what is the distance between New York and Berlin?"}
+{"label": "factoid", "sentence": "Hey, I would like to know some key facts about X"}
+{"label": "music", "sentence": "After this one, play song"}
+{"label": "query", "sentence": "Tell my what I told Mom when we spoke of the recipe"}
+{"label": "createoradd", "sentence": "open my notes"}
+{"label": "music", "sentence": "I want to listen to Electric Slide"}
+{"label": "quirky", "sentence": "Are we friends?"}
+{"label": "hue_lightoff", "sentence": "Turn lights off in living room"}
+{"label": "query", "sentence": "Map out a route from here to Abita Brew Pub"}
+{"label": "query", "sentence": "What time is my appointment tomorrow?"}
+{"label": "remove", "sentence": "clear my schedule for today"}
+{"label": "quirky", "sentence": "Do you want to hear what have happened today?"}
+{"label": "query", "sentence": "What events do I have planned for the next two weeks?"}
+{"label": "query", "sentence": "emails in the last hour"}
+{"label": "remove", "sentence": "Cancel the alarm at xx:yy am/pm"}
+{"label": "recipe", "sentence": "What are the steps for biriyani meal"}
+{"label": "quirky", "sentence": "The meaning of life."}
+{"label": "query", "sentence": "What do I have planned for Friday?"}
+{"label": "quirky", "sentence": "I really enjoyed sunny day today"}
+{"label": "music", "sentence": "COULD YOU PLEASE PLAY THE CLASSICAL MUSIC FOR ME."}
+{"label": "query", "sentence": "what is the weather like right now?"}
+{"label": "query", "sentence": "What day of the week was February 4, 1972?"}
+{"label": "recipe", "sentence": "mix well."}
+{"label": "definition", "sentence": "Siri, what does Jon Snow's handsome face look like?"}
+{"label": "remove", "sentence": "computer(item name) should be removed from the list"}
+{"label": "negate", "sentence": "you did a mistake, please check that."}
+{"label": "query", "sentence": "show me my alarms i have set"}
+{"label": "query", "sentence": "let me know as soon as there is more news on _____"}
+{"label": "remove", "sentence": "change my alarm"}
+{"label": "factoid", "sentence": "Does Spain share its border with Morrocco?"}
+{"label": "music", "sentence": "Gather all my songs from Madonna"}
+{"label": "remove", "sentence": "cross out bread from shopping list"}
+{"label": "query", "sentence": "Get the latest news about formula one racing please."}
+{"label": "query", "sentence": "most viewed list"}
+{"label": "query", "sentence": "who sung this?"}
+{"label": "confirm", "sentence": "i like you to confirm question please."}
+{"label": "definition", "sentence": "What does a grapefruit look like?"}
+{"label": "query", "sentence": "What emails did I get yesterday?"}
+{"label": "music", "sentence": "play item 1"}
+{"label": "factoid", "sentence": "How far away is...?"}
+{"label": "query", "sentence": "Please give me update of cricket"}
+{"label": "remove", "sentence": "remove this event from my calender"}
+{"label": "negate", "sentence": "no, i did not ask for that."}
+{"label": "music", "sentence": "start play playlist1"}
+{"label": "query", "sentence": "When will my meeting with Sandy occur?"}
+{"label": "negate", "sentence": "no, i didn't ask for this response."}
+{"label": "music", "sentence": "Play random music"}
+{"label": "praise", "sentence": "i appreciate it, it is excellent job."}
+{"label": "confirm", "sentence": "i would like you confirm it please."}
+{"label": "praise", "sentence": "you did perfect job,, olly."}
+{"label": "query", "sentence": "Do I have any emails in the last hour?"}
+{"label": "query", "sentence": "check and see what will be the weather condition in New jersey, at 8 am tommorrow"}
+{"label": "query", "sentence": "Tell me the song track"}
+{"label": "query", "sentence": "Please tell me the latest on the Houston Texans draft picks."}
+{"label": "query", "sentence": "what is the headline from Chicago Tribune?"}
+{"label": "query", "sentence": "What time is it in Central time zone?"}
+{"label": "query", "sentence": "Hey PDA, has John sent me any email lately?"}
+{"label": "confirm", "sentence": "would you please check instruction."}
+{"label": "query", "sentence": "Did I receive any new email from Robert?"}
+{"label": "definition", "sentence": "What does the word labyrinth mean?"}
+{"label": "query", "sentence": "Please let me know tomorrow's weather in New York"}
+{"label": "music", "sentence": "Play from Smashing Pumpkins."}
+{"label": "query", "sentence": "Tell me the top stories on the LA Times"}
+{"label": "query", "sentence": "What is this song"}
+{"label": "createoradd", "sentence": "Start a grocery list"}
+{"label": "music", "sentence": "Can you play my Favorites playlist."}
+{"label": "factoid", "sentence": "With all of the information you can gather on the internet could you please provide me with the best probable explanation of who killed President Kennedy."}
+{"label": "music", "sentence": "Play Enrique"}
+{"label": "factoid", "sentence": "what is the 16th president"}
+{"label": "negate", "sentence": "shit, you've done a task wrong."}
+{"label": "query", "sentence": "Tell me the train ticket price of California to Chicago"}
+{"label": "remove", "sentence": "remove next event calendar"}
+{"label": "query", "sentence": "what is the title of the song?"}
+{"label": "praise", "sentence": "you've done that right i appreciate it, olly."}
+{"label": "negate", "sentence": "i think that's not the right response."}
+{"label": "query", "sentence": "What is the news today in Polk County, Florida?"}
+{"label": "negate", "sentence": "you did it wrong."}
+{"label": "query", "sentence": "we don't expect rain tomorrow, right?"}
+{"label": "hue_lightoff", "sentence": "PDA turn light off"}
+{"label": "negate", "sentence": "i am sorry but i think that was not the right response."}
+{"label": "confirm", "sentence": "will you check last thing said please."}
+{"label": "confirm", "sentence": "check and confirm my last question please."}
+{"label": "confirm", "sentence": "check what i last said please."}
+{"label": "quirky", "sentence": "i am angery"}
+{"label": "music", "sentence": "I am really feeling depressed right now, can you please play my most played songs to cheer me up?"}
+{"label": "query", "sentence": "Is Mary's birthday party tonight?"}
+{"label": "query", "sentence": "Are there any emails from the school about my conference?"}
+{"label": "negate", "sentence": "wait, i think you messed up my command."}
+{"label": "query", "sentence": "What time is it in Miami, Florida?"}
+{"label": "createoradd", "sentence": "set a list for...."}
+{"label": "remove", "sentence": "erase all the events in the calender"}
+{"label": "query", "sentence": "What is the exchange rate of US dollar to pound sterling?"}
+{"label": "query", "sentence": "When is my next dentist appointment?"}
+{"label": "query", "sentence": "What day it is on 22nd April?"}
+{"label": "quirky", "sentence": "PDA what should I do today?"}
+{"label": "definition", "sentence": "Define Love"}
+{"label": "confirm", "sentence": "can you please confirm what said."}
+{"label": "query", "sentence": "Could you please confirm if paradise does takeaway"}
+{"label": "query", "sentence": "How hot is today?"}
+{"label": "query", "sentence": "what time is it in Sweden as we speak?"}
+{"label": "remove", "sentence": "Erase that from my calendar"}
+{"label": "negate", "sentence": "sorry but i think it was not the right command."}
+{"label": "praise", "sentence": "great work, you did well, olly."}
+{"label": "confirm", "sentence": "can you confirm what i last said please."}
+{"label": "negate", "sentence": "i think this is not correct command."}
+{"label": "createoradd", "sentence": "create new list"}
+{"label": "query", "sentence": "following scenario to answer questions"}
+{"label": "factoid", "sentence": "When was Frank Sinatra born?"}
+{"label": "query", "sentence": "why did the calendar say that i have a 3pm meeting, check that out for me"}
+{"label": "music", "sentence": "Play Chopin"}
+{"label": "query", "sentence": "What time are my alarms set for?"}
+{"label": "query", "sentence": "I want to get the latest news on the Trump Healthcare bill."}
+{"label": "negate", "sentence": "no, you gave me not right information."}
+{"label": "query", "sentence": "Can I have my list"}
+{"label": "praise", "sentence": "that's great work."}
+{"label": "query", "sentence": "Is my order at domino's ready?"}
+{"label": "definition", "sentence": "tell me the defination of..."}
+{"label": "remove", "sentence": "i dont want any alarms"}
+{"label": "query", "sentence": "its not possible"}
+{"label": "recipe", "sentence": "Please explain the rice recipe ."}
+{"label": "factoid", "sentence": "where Ashwin hasted?"}
+{"label": "factoid", "sentence": "How smooth is marble floor?"}
+{"label": "praise", "sentence": "you did good work, thank you very much."}
+{"label": "query", "sentence": "How many people are following me on twitter now?"}
+{"label": "recipe", "sentence": "How to make fried rice?"}
+{"label": "recipe", "sentence": "explain in brief about fish fry"}
+{"label": "query", "sentence": "How cold is it outside today"}
+{"label": "recipe", "sentence": "how do i make cookies"}
+{"label": "query", "sentence": "did Mike send me an email"}

@@ -1,0 +1,85 @@
+{"label": "definition", "sentence": "I need the definition of president."}
+{"label": "query", "sentence": "What are the details of (event)"}
+{"label": "taxi", "sentence": "PDA, Taxi, now."}
+{"label": "query", "sentence": "I need to know all of the e-mails from contact pertaining to subject."}
+{"label": "quirky", "sentence": "why people who reads may not be the most courteous and well-born?"}
+{"label": "quirky", "sentence": "can you explain string theory to me"}
+{"label": "volume_other", "sentence": "change the volume of the speakers"}
+{"label": "confirm", "sentence": "check that."}
+{"label": "volume_other", "sentence": "Show volume settings"}
+{"label": "volume_other", "sentence": "Change the volume"}
+{"label": "createoradd", "sentence": "I think I ran out of this can you add it to my list?"}
+{"label": "querycontact", "sentence": "Open the contact x(Contact Name) in phonebook"}
+{"label": "negate", "sentence": "it is not what i just requested."}
+{"label": "factoid", "sentence": "Is California between Nevada and New York?"}
+{"label": "confirm", "sentence": "can you please check what i last said."}
+{"label": "taxi", "sentence": "Book a cab for new york"}
+{"label": "createoradd", "sentence": "Set up a newlist with the following"}
+{"label": "music", "sentence": "play music for me"}
+{"label": "praise", "sentence": "amazing work, you did well."}
+{"label": "createoradd", "sentence": "Can you add milk to my grocery list?"}
+{"label": "createoradd", "sentence": "Create a new list, please"}
+{"label": "volume_other", "sentence": "how can i adjust the volume"}
+{"label": "praise", "sentence": "it's excellent job, thank you very much."}
+{"label": "dislikeness", "sentence": "i don't like this band"}
+{"label": "hue_lightoff", "sentence": "check for the availability of shops nearby"}
+{"label": "music", "sentence": "Play pop music."}
+{"label": "createoradd", "sentence": "Olly, I need to create a list of grocery items which are generally required for an outing for two days when you travel out of the city."}
+{"label": "factoid", "sentence": "find details about President Donald Trump"}
+{"label": "hue_lightoff", "sentence": "Close the light"}
+{"label": "definition", "sentence": "synonyms"}
+{"label": "querycontact", "sentence": "Tell me about Mary S in my contacts"}
+{"label": "remove", "sentence": "PDA delete last item listed"}
+{"label": "querycontact", "sentence": "Where does Fred work?"}
+{"label": "definition", "sentence": "What is souffle?"}
+{"label": "dislikeness", "sentence": "this song is too length"}
+{"label": "music", "sentence": "Play all the list of country songs"}
+{"label": "hue_lightoff", "sentence": "Turn off the lights"}
+{"label": "definition", "sentence": "Use in a sentence."}
+{"label": "query", "sentence": "is the mail from chris about work?"}
+{"label": "negate", "sentence": "it was not correct."}
+{"label": "hue_lighton", "sentence": "Turn on the lights"}
+{"label": "recipe", "sentence": "Crockpot recipe for chicken alfredo"}
+{"label": "hue_lighton", "sentence": "Put the disco lights on"}
+{"label": "quirky", "sentence": "Order me something online"}
+{"label": "taxi", "sentence": "I am going to Chinatown in half an hour, book an Uber for me."}
+{"label": "praise", "sentence": "musch appreciated, that's good."}
+{"label": "hue_lighton", "sentence": "Turn on the lights that are outdoors."}
+{"label": "music", "sentence": "Alexa play pandora 90's dance party"}
+{"label": "hue_lighton", "sentence": "It's too dark in here"}
+{"label": "taxi", "sentence": "Can I get an Uber home from the Fox downtown as soon as possible?"}
+{"label": "praise", "sentence": "you are my star, i appreciate it."}
+{"label": "quirky", "sentence": "I need to talk to mom"}
+{"label": "confirm", "sentence": "will you check and confirm instruction."}
+{"label": "negate", "sentence": "no, i think you have done a task all wrong."}
+{"label": "factoid", "sentence": "What causes in burmuda triangle"}
+{"label": "dislikeness", "sentence": "I don't like it"}
+{"label": "hue_lightoff", "sentence": "LIGHTS turn off"}
+{"label": "remove", "sentence": "clear haircut today"}
+{"label": "factoid", "sentence": "PDA, Open Internet"}
+{"label": "negate", "sentence": "sorry but i think you messed up."}
+{"label": "confirm", "sentence": "would you check the details please."}
+{"label": "remove", "sentence": "Delete my whole calendar for today."}
+{"label": "confirm", "sentence": "did you get the details correctly?"}
+{"label": "querycontact", "sentence": "PDA What's Jesse's number?"}
+{"label": "recipe", "sentence": "What is the best oven temperature to roast potatoes?"}
+{"label": "querycontact", "sentence": "Jay's phone number"}
+{"label": "hue_lighton", "sentence": "Please turn on the lights in my house."}
+{"label": "praise", "sentence": "you are my hero, i appreciate it."}
+{"label": "definition", "sentence": "Siri, what does survey mean?"}
+{"label": "remove", "sentence": "Reschedule the party to Thursday."}
+{"label": "dislikeness", "sentence": "Do not play this song again"}
+{"label": "query", "sentence": "When is the next train to Glasgow from Aberdeen?"}
+{"label": "recipe", "sentence": "PDA look up recipe and guide for this dish"}
+{"label": "recipe", "sentence": "What spices are in Indian food?"}
+{"label": "music", "sentence": "play the song by michael jackson"}
+{"label": "quirky", "sentence": "what is your country?"}
+{"label": "taxi", "sentence": "flag me an uber for 10pm tonight"}
+{"label": "volume_other", "sentence": "Change volume level to maximum."}
+{"label": "dislikeness", "sentence": "skip this song"}
+{"label": "remove", "sentence": "This event needs to be deleted"}
+{"label": "negate", "sentence": "i am sorry but you did not interpret command right."}
+{"label": "recipe", "sentence": "Easy home cooking recipes"}
+{"label": "query", "sentence": "what is the music playing right now."}
+{"label": "hue_lightoff", "sentence": "i want the light to be switched off."}
+{"label": "factoid", "sentence": "What is the date of birth of Keanu Reeves?"}

@@ -1,0 +1,34 @@
+{"label": "repeat", "sentence": "i need to hear your instruction you just said again."}
+{"label": "quirky", "sentence": "wooo!"}
+{"label": "audiobook", "sentence": "Start reading book."}
+{"label": "ticket", "sentence": "Book me a train ticket at earliest time tomorrow."}
+{"label": "wemo_off", "sentence": "socket off"}
+{"label": "currency", "sentence": "What is the exchange rate of Euro today to dirham"}
+{"label": "factoid", "sentence": "Show me the demographic growth rate of Switzerland in the last ten years"}
+{"label": "post", "sentence": "Send tweet to United Airlines I'm angry you lost my bags"}
+{"label": "hue_lightchange", "sentence": "Change your colors to green."}
+{"label": "factoid", "sentence": "Is Adele going to go on tour?"}
+{"label": "recipe", "sentence": "How do I deglaze a pan?"}
+{"label": "repeat", "sentence": "can you reset."}
+{"label": "taxi", "sentence": "Book me a Uber for tomorrow night at 6 pm."}
+{"label": "joke", "sentence": "i want to hear a funny joke"}
+{"label": "ticket", "sentence": "Can you book a train ticket?"}
+{"label": "podcasts", "sentence": "forward episode of NYT podcast"}
+{"label": "joke", "sentence": "olly make me happy"}
+{"label": "game", "sentence": "Start a choice game"}
+{"label": "hue_lightchange", "sentence": "Replace the current light colours in the house with dark ones."}
+{"label": "audiobook", "sentence": "Continue audiobook playback"}
+{"label": "wemo_off", "sentence": "Shut down the plug"}
+{"label": "currency", "sentence": "What is the exchange rates in this region"}
+{"label": "recipe", "sentence": "how do i cook rise"}
+{"label": "game", "sentence": "Play real racing 3 game"}
+{"label": "taxi", "sentence": "Book a taxi at my home address for right now"}
+{"label": "radio", "sentence": "Scan the radio for howard stern"}
+{"label": "quirky", "sentence": "I hope we could eat cookies and watch movies together."}
+{"label": "dontcare", "sentence": "it is unimportant to me, olly."}
+{"label": "podcasts", "sentence": "Start next episode playing"}
+{"label": "dislikeness", "sentence": "I don't like it"}
+{"label": "post", "sentence": "Tweet complaint to Burger King"}
+{"label": "dislikeness", "sentence": "skip this song"}
+{"label": "radio", "sentence": "FM 93.5 radio songs"}
+{"label": "dontcare", "sentence": "that is unimportant for me, olly."}

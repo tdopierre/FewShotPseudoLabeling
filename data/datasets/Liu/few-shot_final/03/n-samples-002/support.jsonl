@@ -1,0 +1,34 @@
+{"label": "confirm", "sentence": "i'd like you check my last instruction please."}
+{"label": "volume_other", "sentence": "volume - level"}
+{"label": "maths", "sentence": "What is (9+4/5-3)^10?"}
+{"label": "praise", "sentence": "you are awesome, i appreciate it."}
+{"label": "radio", "sentence": "i need you to turn on the radio"}
+{"label": "movies", "sentence": "suggest movies and songs that I would like, but that aren't necessarily like ones I've already said I like"}
+{"label": "audiobook", "sentence": "play book"}
+{"label": "recipe", "sentence": "olly tell me how to cook spaghetti"}
+{"label": "order", "sentence": "Order a 12 piece honey mustard wing combo with seasonimg altnon the fries and a sprite as the drink."}
+{"label": "taxi", "sentence": "Check all cab companies and get a time booked for 3 pm."}
+{"label": "movies", "sentence": "what new movies are played in cinemas this week?"}
+{"label": "order", "sentence": "Hey Olly, order a side of hot wings with my previous order."}
+{"label": "radio", "sentence": "I want to hear this week's Midweek Motorsport."}
+{"label": "praise", "sentence": "you did good job,, olly."}
+{"label": "wemo_on", "sentence": "Turn on my wemo socket"}
+{"label": "hue_lightoff", "sentence": "by main power off"}
+{"label": "confirm", "sentence": "would you check and confirm the last thing said."}
+{"label": "hue_lightoff", "sentence": "turn off all the lights"}
+{"label": "traffic", "sentence": "how is the traffic today"}
+{"label": "negate", "sentence": "please correct the wrong command."}
+{"label": "hue_lightchange", "sentence": "Can you change the colour to red"}
+{"label": "negate", "sentence": "no, it is not what i wanted."}
+{"label": "audiobook", "sentence": "Open Audiobook"}
+{"label": "maths", "sentence": "3*2=6"}
+{"label": "podcasts", "sentence": "Could you skip ahead to the next episode?"}
+{"label": "volume_other", "sentence": "improve volume clarity"}
+{"label": "taxi", "sentence": "Find a taxi service close to me."}
+{"label": "podcasts", "sentence": "startet"}
+{"label": "hue_lightchange", "sentence": "Change the colour to red"}
+{"label": "wemo_on", "sentence": "Can you turn on the demo plug socket?"}
+{"label": "greet", "sentence": "How are you?"}
+{"label": "traffic", "sentence": "what about the newyork city traffic?"}
+{"label": "greet", "sentence": "Good morning"}
+{"label": "recipe", "sentence": "Find a recipe for German chocolate cake."}

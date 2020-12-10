@@ -1,0 +1,34 @@
+{"label": "hue_lighton", "sentence": "Please turn on the lights in my house."}
+{"label": "taxi", "sentence": "flag me an uber for 10pm tonight"}
+{"label": "dislikeness", "sentence": "Do not play this song again"}
+{"label": "praise", "sentence": "amazing work, you did well."}
+{"label": "music", "sentence": "play the song by michael jackson"}
+{"label": "factoid", "sentence": "find details about President Donald Trump"}
+{"label": "quirky", "sentence": "Order me something online"}
+{"label": "definition", "sentence": "I need the definition of president."}
+{"label": "querycontact", "sentence": "Open the contact x(Contact Name) in phonebook"}
+{"label": "dislikeness", "sentence": "this song is too length"}
+{"label": "query", "sentence": "is the mail from chris about work?"}
+{"label": "remove", "sentence": "PDA delete last item listed"}
+{"label": "remove", "sentence": "Delete my whole calendar for today."}
+{"label": "taxi", "sentence": "I am going to Chinatown in half an hour, book an Uber for me."}
+{"label": "volume_other", "sentence": "change the volume of the speakers"}
+{"label": "querycontact", "sentence": "Where does Fred work?"}
+{"label": "confirm", "sentence": "can you please check what i last said."}
+{"label": "hue_lightoff", "sentence": "i want the light to be switched off."}
+{"label": "praise", "sentence": "musch appreciated, that's good."}
+{"label": "definition", "sentence": "synonyms"}
+{"label": "recipe", "sentence": "Easy home cooking recipes"}
+{"label": "volume_other", "sentence": "Change the volume"}
+{"label": "quirky", "sentence": "why people who reads may not be the most courteous and well-born?"}
+{"label": "music", "sentence": "Play pop music."}
+{"label": "confirm", "sentence": "will you check and confirm instruction."}
+{"label": "negate", "sentence": "it was not correct."}
+{"label": "factoid", "sentence": "PDA, Open Internet"}
+{"label": "negate", "sentence": "i am sorry but you did not interpret command right."}
+{"label": "recipe", "sentence": "PDA look up recipe and guide for this dish"}
+{"label": "createoradd", "sentence": "Can you add milk to my grocery list?"}
+{"label": "query", "sentence": "What are the details of (event)"}
+{"label": "hue_lighton", "sentence": "Turn on the lights that are outdoors."}
+{"label": "createoradd", "sentence": "Set up a newlist with the following"}
+{"label": "hue_lightoff", "sentence": "LIGHTS turn off"}

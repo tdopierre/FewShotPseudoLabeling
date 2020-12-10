@@ -1,0 +1,626 @@
+{"global_ix": 6378, "sentence": "show the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 7228, "sentence": "play a sound track by mac dre", "label": "PlayMusic"}
+{"global_ix": 12947, "sentence": "play top-50 eighties theme from alain caron", "label": "PlayMusic"}
+{"global_ix": 3339, "sentence": "what are the timings for starship troopers 2", "label": "SearchScreeningEvent"}
+{"global_ix": 3551, "sentence": "what s the forecast for castolon in french southern territories around seven pm", "label": "GetWeather"}
+{"global_ix": 8485, "sentence": "play the view from the afternoon by malese jow on last fm", "label": "PlayMusic"}
+{"global_ix": 12087, "sentence": "i want to hear this is the night from proof", "label": "PlayMusic"}
+{"global_ix": 2835, "sentence": "play a symphony from the thirties", "label": "PlayMusic"}
+{"global_ix": 2535, "sentence": "is and the ship sails on playing at douglas theatre company 1 minute from now", "label": "SearchScreeningEvent"}
+{"global_ix": 2813, "sentence": "what time will the amco entertainment  be plying the teeth of the tiger", "label": "SearchScreeningEvent"}
+{"global_ix": 13195, "sentence": "show the forecast nearby in twenty two minutes in french polynesia", "label": "GetWeather"}
+{"global_ix": 13323, "sentence": "tell me the weather forecast for my current place at 15 o clock", "label": "GetWeather"}
+{"global_ix": 13608, "sentence": "show me the schedule of movie warning from space closest to movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 11800, "sentence": "find the closest films at a movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 10552, "sentence": "is the young guard playing at the closest cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 2080, "sentence": "i d like to hear chant songs from nineties", "label": "PlayMusic"}
+{"global_ix": 805, "sentence": "will it be warmer now in covenant life", "label": "GetWeather"}
+{"global_ix": 11060, "sentence": "find the schedule for films at cobb theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 854, "sentence": "i want to listen to swing music on iheart", "label": "PlayMusic"}
+{"global_ix": 1128, "sentence": "what amc theaters is the red dance playing at", "label": "SearchScreeningEvent"}
+{"global_ix": 3132, "sentence": "i d like to watch health warning at the closest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 8867, "sentence": "what is it like on 7/10/2023 in the current place", "label": "GetWeather"}
+{"global_ix": 4794, "sentence": "play hardcore music", "label": "PlayMusic"}
+{"global_ix": 1466, "sentence": "where can i find movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 4716, "sentence": "is it warm in sierra blanca now", "label": "GetWeather"}
+{"global_ix": 6692, "sentence": "can i get the movie times for films in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 11217, "sentence": "will it be freezing close to my current location", "label": "GetWeather"}
+{"global_ix": 938, "sentence": "what time is the rocketeer showing", "label": "SearchScreeningEvent"}
+{"global_ix": 14423, "sentence": "find animated movies close by", "label": "SearchScreeningEvent"}
+{"global_ix": 12697, "sentence": "i want to hear a soundtrack by dj ozma from the sixties", "label": "PlayMusic"}
+{"global_ix": 14410, "sentence": "is the nightmare showing six hours from now at the nearest cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 9549, "sentence": "play my entertaining playlist", "label": "PlayMusic"}
+{"global_ix": 7645, "sentence": "what time is tasher desh playing at the nearest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 7603, "sentence": "play rob dougan on youtube", "label": "PlayMusic"}
+{"global_ix": 2118, "sentence": "i d like to watch movies around here  can i see the movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 12101, "sentence": "play music from 2012 by yossif kobzon on last fm", "label": "PlayMusic"}
+{"global_ix": 1083, "sentence": "is love  marilyn playing", "label": "SearchScreeningEvent"}
+{"global_ix": 8369, "sentence": "will it be cold in allardt  aruba", "label": "GetWeather"}
+{"global_ix": 1406, "sentence": "what is the movie schedules at for douglas theatre company at 0 p m", "label": "SearchScreeningEvent"}
+{"global_ix": 1122, "sentence": "will it be windy at 4 pm in ny", "label": "GetWeather"}
+{"global_ix": 7573, "sentence": "what are the movie times for malco theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 8349, "sentence": "what is the forecast now in duson", "label": "GetWeather"}
+{"global_ix": 13770, "sentence": "what time is the brat playing at the movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 11175, "sentence": "find movie schedules in mjr theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 7885, "sentence": "is it going to get hotter at the halfbreed lake national wildlife refuge", "label": "GetWeather"}
+{"global_ix": 729, "sentence": "find movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 14405, "sentence": "show me the schedule for the oblong box", "label": "SearchScreeningEvent"}
+{"global_ix": 6450, "sentence": "what is the gearhart forecast", "label": "GetWeather"}
+{"global_ix": 10869, "sentence": "when is girls just want to have fun playing at the movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 11042, "sentence": "find the movie schedule for animated movies in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 12177, "sentence": "will it be overcast a month from now here", "label": "GetWeather"}
+{"global_ix": 5759, "sentence": "what will the weather be here", "label": "GetWeather"}
+{"global_ix": 8383, "sentence": "play top-50 peter frampton songs", "label": "PlayMusic"}
+{"global_ix": 8410, "sentence": "find movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 9610, "sentence": "i want to hear music by madeleine peyroux from 1991 on youtube", "label": "PlayMusic"}
+{"global_ix": 10211, "sentence": "play some noise music on netflix", "label": "PlayMusic"}
+{"global_ix": 8473, "sentence": "play frankie laine", "label": "PlayMusic"}
+{"global_ix": 548, "sentence": "show me the current movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 9967, "sentence": "what movies are showing at the showcase cinemas", "label": "SearchScreeningEvent"}
+{"global_ix": 14002, "sentence": "let me know the weather forecast around ten pm faraway from here in park narodowy brimstone hill fortress", "label": "GetWeather"}
+{"global_ix": 2531, "sentence": "play some music on vimeo", "label": "PlayMusic"}
+{"global_ix": 12360, "sentence": "play twenties tunes", "label": "PlayMusic"}
+{"global_ix": 14135, "sentence": "play music from e-type", "label": "PlayMusic"}
+{"global_ix": 8447, "sentence": "find the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 6442, "sentence": "play the song waar is de zon on slacker", "label": "PlayMusic"}
+{"global_ix": 14119, "sentence": "play jill sobule album", "label": "PlayMusic"}
+{"global_ix": 1454, "sentence": "what time will in the name of the son be playing", "label": "SearchScreeningEvent"}
+{"global_ix": 5701, "sentence": "is the swan available to watch at the movie house now", "label": "SearchScreeningEvent"}
+{"global_ix": 14060, "sentence": "how s the weather at petit manan national wildlife refuge and nearby right now", "label": "GetWeather"}
+{"global_ix": 2943, "sentence": "open youtube and play iron mountain depot from john lomax", "label": "PlayMusic"}
+{"global_ix": 9374, "sentence": "play the song two suns in the sunset by airi suzuki", "label": "PlayMusic"}
+{"global_ix": 10620, "sentence": "where the sky meets the land time playing", "label": "SearchScreeningEvent"}
+{"global_ix": 11623, "sentence": "show me movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 1195, "sentence": "can i hear a da brat ep", "label": "PlayMusic"}
+{"global_ix": 8820, "sentence": "where is boo to you too winnie the pooh playing", "label": "SearchScreeningEvent"}
+{"global_ix": 11427, "sentence": "play songs by wise", "label": "PlayMusic"}
+{"global_ix": 10236, "sentence": "what is the nearest cinema playing the oak", "label": "SearchScreeningEvent"}
+{"global_ix": 2270, "sentence": "what is the weather forecast in saint vincent and the grenadines", "label": "GetWeather"}
+{"global_ix": 878, "sentence": "where is the chief cook playing", "label": "SearchScreeningEvent"}
+{"global_ix": 6830, "sentence": "play some music from roberto carlos", "label": "PlayMusic"}
+{"global_ix": 4806, "sentence": "play some psychedelic rock", "label": "PlayMusic"}
+{"global_ix": 9135, "sentence": "play some chant music from 2008", "label": "PlayMusic"}
+{"global_ix": 12723, "sentence": "find movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 838, "sentence": "what is the weather in sint maarten", "label": "GetWeather"}
+{"global_ix": 11810, "sentence": "find the schedule for ghost world", "label": "SearchScreeningEvent"}
+{"global_ix": 10941, "sentence": "please give me the movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 4785, "sentence": "play the album pressure cracks with netflix", "label": "PlayMusic"}
+{"global_ix": 7553, "sentence": "please inform me when i can see the abdication at a movie theatre", "label": "SearchScreeningEvent"}
+{"global_ix": 13425, "sentence": "show films at the nearest cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 10013, "sentence": "what are the movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 5761, "sentence": "i d like to watch all on the red at 9 o clock", "label": "SearchScreeningEvent"}
+{"global_ix": 2025, "sentence": "warren island state park distant weather forecast for 11 am", "label": "GetWeather"}
+{"global_ix": 2500, "sentence": "is it supposed to be chilly in kuwait", "label": "GetWeather"}
+{"global_ix": 9826, "sentence": "where is the nearest movie theatre that is playing honeysuckle rose", "label": "SearchScreeningEvent"}
+{"global_ix": 3904, "sentence": "what is the weather forecast for papua new guinea", "label": "GetWeather"}
+{"global_ix": 12443, "sentence": "will it be freezing here at 06:31:22 am", "label": "GetWeather"}
+{"global_ix": 11708, "sentence": "movie schedule for harkins theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 7159, "sentence": "what will the weather be like in twenty two minutes at san pasqual battlefield state historic park", "label": "GetWeather"}
+{"global_ix": 7043, "sentence": "hows the weather supposed to be on april eleventh close by lyons ferry park", "label": "GetWeather"}
+{"global_ix": 7047, "sentence": "when is that forward center died at dawn playing at the closest cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 2648, "sentence": "what s the weather here at three pm", "label": "GetWeather"}
+{"global_ix": 8849, "sentence": "is the suicide shop playing at southern theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 12039, "sentence": "play chant music by ira losco on iheart", "label": "PlayMusic"}
+{"global_ix": 6650, "sentence": "is it going to be hot in chrisman", "label": "GetWeather"}
+{"global_ix": 4639, "sentence": "what is the forecast for de on 9/11/2035", "label": "GetWeather"}
+{"global_ix": 8182, "sentence": "play the most popular sound track from the 2006", "label": "PlayMusic"}
+{"global_ix": 7298, "sentence": "play music on my itunes", "label": "PlayMusic"}
+{"global_ix": 10268, "sentence": "play track ai se eu te pego on google music from artist maestro", "label": "PlayMusic"}
+{"global_ix": 9255, "sentence": "check the weather forecast for chisholm  kentucky", "label": "GetWeather"}
+{"global_ix": 8412, "sentence": "is it going to be colder in louisiana", "label": "GetWeather"}
+{"global_ix": 12785, "sentence": "play ik hou van jou by elena temnikova", "label": "PlayMusic"}
+{"global_ix": 9025, "sentence": "find half a truth", "label": "SearchScreeningEvent"}
+{"global_ix": 1783, "sentence": "will it be colder in tallgrass prairie national preserve", "label": "GetWeather"}
+{"global_ix": 4330, "sentence": "showtimes for the closest movie theatre that is showing operation autumn", "label": "SearchScreeningEvent"}
+{"global_ix": 11234, "sentence": "play sunshine reggae on youtube", "label": "PlayMusic"}
+{"global_ix": 376, "sentence": "is hail in the weather forecast for monterey bay national marine sanctuary", "label": "GetWeather"}
+{"global_ix": 3813, "sentence": "play some katiejane garside on vimeo", "label": "PlayMusic"}
+{"global_ix": 12492, "sentence": "what time is dive bomber playing", "label": "SearchScreeningEvent"}
+{"global_ix": 10816, "sentence": "what is the wauseon forecast", "label": "GetWeather"}
+{"global_ix": 13005, "sentence": "find cinemark theatres with films", "label": "SearchScreeningEvent"}
+{"global_ix": 3966, "sentence": "what is the weather forecast here", "label": "GetWeather"}
+{"global_ix": 4198, "sentence": "find the terror within", "label": "SearchScreeningEvent"}
+{"global_ix": 8732, "sentence": "play good music by general woo on deezer", "label": "PlayMusic"}
+{"global_ix": 2397, "sentence": "what is the weather of nebraska", "label": "GetWeather"}
+{"global_ix": 2633, "sentence": "play the eternal by juju mob on vimeo", "label": "PlayMusic"}
+{"global_ix": 8332, "sentence": "play some contemporary christian on groove shark", "label": "PlayMusic"}
+{"global_ix": 3493, "sentence": "i need to know the forecast for two am in grand lake towne", "label": "GetWeather"}
+{"global_ix": 10982, "sentence": "will it be warmer in poplar bluff", "label": "GetWeather"}
+{"global_ix": 10565, "sentence": "what time does the next movie play around here", "label": "SearchScreeningEvent"}
+{"global_ix": 3617, "sentence": "is it cold in breckenridge  colorado", "label": "GetWeather"}
+{"global_ix": 12201, "sentence": "will it snow this week in parc national de petrified forest", "label": "GetWeather"}
+{"global_ix": 1640, "sentence": "will it be chilly 17 hours from now in cold creek conservation area", "label": "GetWeather"}
+{"global_ix": 8982, "sentence": "find a movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 4514, "sentence": "i d like to watch heartbreak at pacific theatres at two pm", "label": "SearchScreeningEvent"}
+{"global_ix": 6098, "sentence": "play 1988 chant music on itunes", "label": "PlayMusic"}
+{"global_ix": 8962, "sentence": "can i get the movie schedule for the bow tie cinemas", "label": "SearchScreeningEvent"}
+{"global_ix": 1399, "sentence": "can i get the movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 7561, "sentence": "what animated movies are on the movie schedule close by", "label": "SearchScreeningEvent"}
+{"global_ix": 786, "sentence": "what films are playing at goodrich quality theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 11526, "sentence": "where animated movies does north american cinemas feature", "label": "SearchScreeningEvent"}
+{"global_ix": 11689, "sentence": "when is the prince who was a thief playing at the cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 12403, "sentence": "tell me the weather forecast for wy", "label": "GetWeather"}
+{"global_ix": 7398, "sentence": "play peja tunes", "label": "PlayMusic"}
+{"global_ix": 10251, "sentence": "find the movie schedule for b&b theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 4327, "sentence": "on may the thirteenth  2037 what will it be like in wilderville  montenegro", "label": "GetWeather"}
+{"global_ix": 8604, "sentence": "play the top song by amon amarth on groove shark", "label": "PlayMusic"}
+{"global_ix": 13741, "sentence": "where can i see animated movies that s nearby", "label": "SearchScreeningEvent"}
+{"global_ix": 6394, "sentence": "play 2006 chant music", "label": "PlayMusic"}
+{"global_ix": 7622, "sentence": "what will the weather be in four weeks around tsingy de bemaraha strict nature reserve", "label": "GetWeather"}
+{"global_ix": 15, "sentence": "will the wind die down at my current location by supper time", "label": "GetWeather"}
+{"global_ix": 6960, "sentence": "shoe the movie showings for the closest cinema showing international movies", "label": "SearchScreeningEvent"}
+{"global_ix": 7758, "sentence": "can you let me know when troopers three is scheduled", "label": "SearchScreeningEvent"}
+{"global_ix": 9620, "sentence": "is dummy playing at two a m", "label": "SearchScreeningEvent"}
+{"global_ix": 12655, "sentence": "what movie theatre is playing the deaths of ian stone", "label": "SearchScreeningEvent"}
+{"global_ix": 10509, "sentence": "find the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 11452, "sentence": "play a new tune by louis silvers", "label": "PlayMusic"}
+{"global_ix": 14145, "sentence": "go to itunes and play dr  lecter by david hodges", "label": "PlayMusic"}
+{"global_ix": 2448, "sentence": "play 1958 music", "label": "PlayMusic"}
+{"global_ix": 2606, "sentence": "how much rain in montana 12 months from now", "label": "GetWeather"}
+{"global_ix": 6747, "sentence": "is it forecast to be temperate here", "label": "GetWeather"}
+{"global_ix": 1184, "sentence": "is it chilly in ecola state park at 2 pm", "label": "GetWeather"}
+{"global_ix": 4917, "sentence": "when can i see we and our mountains", "label": "SearchScreeningEvent"}
+{"global_ix": 5332, "sentence": "what are the movie times for films playing in the area", "label": "SearchScreeningEvent"}
+{"global_ix": 4561, "sentence": "i want to hear a top five ballad from 2002", "label": "PlayMusic"}
+{"global_ix": 3521, "sentence": "play soundtrack by armand van helden", "label": "PlayMusic"}
+{"global_ix": 3542, "sentence": "play music from lastfm", "label": "PlayMusic"}
+{"global_ix": 5645, "sentence": "what time is atlantis  terre engloutie playing", "label": "SearchScreeningEvent"}
+{"global_ix": 9693, "sentence": "forecast for willits christmas island twenty three minutes from now", "label": "GetWeather"}
+{"global_ix": 12038, "sentence": "play chris goss on netflix", "label": "PlayMusic"}
+{"global_ix": 13749, "sentence": "play fifties music on slacker", "label": "PlayMusic"}
+{"global_ix": 6488, "sentence": "what is the forecast for around putnam lake", "label": "GetWeather"}
+{"global_ix": 4272, "sentence": "play some gothic rock", "label": "PlayMusic"}
+{"global_ix": 235, "sentence": "what films are at the nearest cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 296, "sentence": "find movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 13653, "sentence": "can you play me some britpop music", "label": "PlayMusic"}
+{"global_ix": 2864, "sentence": "give me the movie times at goodrich quality theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 1574, "sentence": "in 1 week is there going to be a depression in washington", "label": "GetWeather"}
+{"global_ix": 806, "sentence": "play rap album one by gene vincent", "label": "PlayMusic"}
+{"global_ix": 2961, "sentence": "what s the weather forecast for central  north dakota", "label": "GetWeather"}
+{"global_ix": 13280, "sentence": "can you give me the movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 5805, "sentence": "what are the movie schedules for any animated movies playing in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 12054, "sentence": "what time is rites of spring playing at marcus corporation", "label": "SearchScreeningEvent"}
+{"global_ix": 8180, "sentence": "what will the weather be like here on february 22  2024", "label": "GetWeather"}
+{"global_ix": 9827, "sentence": "show weather forecast close-by ms in 48 and a half weeks", "label": "GetWeather"}
+{"global_ix": 581, "sentence": "i need the wather for next week in the philippines", "label": "GetWeather"}
+{"global_ix": 12891, "sentence": "what is the weather forecast now in texas", "label": "GetWeather"}
+{"global_ix": 4188, "sentence": "play playlist chilled r&b", "label": "PlayMusic"}
+{"global_ix": 6369, "sentence": "what is the current position forecast for starting on july 22", "label": "GetWeather"}
+{"global_ix": 7289, "sentence": "play the newest melody by cisco adler on pandora", "label": "PlayMusic"}
+{"global_ix": 5275, "sentence": "what is the weather one minute from now in ocilla", "label": "GetWeather"}
+{"global_ix": 14473, "sentence": "where can i find the movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 5239, "sentence": "tell me when it ll be hot in melbourne  nj", "label": "GetWeather"}
+{"global_ix": 5639, "sentence": "play some eighties music", "label": "PlayMusic"}
+{"global_ix": 4359, "sentence": "play kk on zvooq", "label": "PlayMusic"}
+{"global_ix": 12146, "sentence": "will it be stormy on 4/3/2027 in new rochelle  wy", "label": "GetWeather"}
+{"global_ix": 10585, "sentence": "play my trabajo relax playlist", "label": "PlayMusic"}
+{"global_ix": 12887, "sentence": "tell me if it will storm at my current location", "label": "GetWeather"}
+{"global_ix": 1796, "sentence": "play the best 1981 sound track from ric fierabracci", "label": "PlayMusic"}
+{"global_ix": 4577, "sentence": "tell me the weather forecast for equatorial guinea", "label": "GetWeather"}
+{"global_ix": 14165, "sentence": "i want to hear anything from the rock symphonique genre please", "label": "PlayMusic"}
+{"global_ix": 10245, "sentence": "i want to go see a simple noodle story in seventeen seconds at goodrich quality theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 11815, "sentence": "what time can i watch son of rambow tonight at fox theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 933, "sentence": "play a twenties tune by jodie aysha", "label": "PlayMusic"}
+{"global_ix": 5323, "sentence": "play a chant by mike jones", "label": "PlayMusic"}
+{"global_ix": 7491, "sentence": "where is feast ii: no limit playing", "label": "SearchScreeningEvent"}
+{"global_ix": 11699, "sentence": "will it snow on apr  eighteenth  2029 in myanmar", "label": "GetWeather"}
+{"global_ix": 6928, "sentence": "on itunes play the latest anna yesipova ep", "label": "PlayMusic"}
+{"global_ix": 14425, "sentence": "what are the movie schedules in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 9169, "sentence": "what are the movie schedules for speakeasy theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 12516, "sentence": "find the closest movie theatre for films", "label": "SearchScreeningEvent"}
+{"global_ix": 893, "sentence": "what is the forecast for cold temps in nevada", "label": "GetWeather"}
+{"global_ix": 1368, "sentence": "will there be wind on january 24  2019 in ransom", "label": "GetWeather"}
+{"global_ix": 10027, "sentence": "what is the schedule for the fox and the child in cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 2485, "sentence": "play the top-five ballad sort from 2004", "label": "PlayMusic"}
+{"global_ix": 10779, "sentence": "is there a cloud in the sky in thornville on feb  fifth", "label": "GetWeather"}
+{"global_ix": 10141, "sentence": "what s the weather forecast for 3 hours from now at christmas island", "label": "GetWeather"}
+{"global_ix": 6958, "sentence": "what s the forecast for my current spot", "label": "GetWeather"}
+{"global_ix": 10340, "sentence": "will there be a cloud in the sky in 175 days from now in golconda in vt", "label": "GetWeather"}
+{"global_ix": 11017, "sentence": "play still life 1", "label": "PlayMusic"}
+{"global_ix": 1383, "sentence": "play some music from 2011 on lastfm", "label": "PlayMusic"}
+{"global_ix": 2459, "sentence": "play the best vanessa peters songs", "label": "PlayMusic"}
+{"global_ix": 1369, "sentence": "when is sunrise in american samoa", "label": "GetWeather"}
+{"global_ix": 14125, "sentence": "play a fifties album from dj yoda on last fm", "label": "PlayMusic"}
+{"global_ix": 6417, "sentence": "can you play a top song from a chyi chin concerto", "label": "PlayMusic"}
+{"global_ix": 8970, "sentence": "will it be chilly at 4 in druid hills american samoa", "label": "GetWeather"}
+{"global_ix": 7300, "sentence": "what will it be like in the current place at midnight", "label": "GetWeather"}
+{"global_ix": 545, "sentence": "i d like to watch apocalypse 2024", "label": "SearchScreeningEvent"}
+{"global_ix": 3726, "sentence": "play pop music with groove shark", "label": "PlayMusic"}
+{"global_ix": 10570, "sentence": "play some carmen mcrae from ed robertson off of itunes", "label": "PlayMusic"}
+{"global_ix": 1409, "sentence": "find the movie schedule for animated movies in the area", "label": "SearchScreeningEvent"}
+{"global_ix": 1460, "sentence": "play chant music by pappu venugopala rao on slacker", "label": "PlayMusic"}
+{"global_ix": 6142, "sentence": "what s the weather forecast for etna green in 11 months", "label": "GetWeather"}
+{"global_ix": 6282, "sentence": "play a new ballad by valy on iheart", "label": "PlayMusic"}
+{"global_ix": 927, "sentence": "what is the forecast for temperate weather in bellechester", "label": "GetWeather"}
+{"global_ix": 14131, "sentence": "live in l a joseph meyer please", "label": "PlayMusic"}
+{"global_ix": 14155, "sentence": "play the top-20 nawang khechog soundtrack", "label": "PlayMusic"}
+{"global_ix": 2762, "sentence": "i want to hear theme songs from zeebra from the sixties on slacker", "label": "PlayMusic"}
+{"global_ix": 5657, "sentence": "can i get the showtimes for films at malco theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 3079, "sentence": "play the song american patrol by lauryn hill", "label": "PlayMusic"}
+{"global_ix": 3252, "sentence": "where is the nearest movie theatre showing movies", "label": "SearchScreeningEvent"}
+{"global_ix": 6994, "sentence": "what is forecast in keyes summit in new mexico at 3 pm", "label": "GetWeather"}
+{"global_ix": 11816, "sentence": "play latest shaggy music", "label": "PlayMusic"}
+{"global_ix": 7332, "sentence": "what is the forecast for sanibel", "label": "GetWeather"}
+{"global_ix": 4022, "sentence": "play some 1954 songs on my itunes", "label": "PlayMusic"}
+{"global_ix": 1894, "sentence": "find the schedule for the nightmare six hours from now at the nearest cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 13452, "sentence": "what s the weather here at 2 pm", "label": "GetWeather"}
+{"global_ix": 14173, "sentence": "play a song by ramesh narayan from 1960", "label": "PlayMusic"}
+{"global_ix": 13145, "sentence": "what is the forecast for hot at ten o clock in idaho", "label": "GetWeather"}
+{"global_ix": 8782, "sentence": "find seven am movies at dipson theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 4752, "sentence": "can i get the movie times for fox theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 3156, "sentence": "open google music and play women of jazz playlist", "label": "PlayMusic"}
+{"global_ix": 5059, "sentence": "what s the forecast for north amityville", "label": "GetWeather"}
+{"global_ix": 1538, "sentence": "play isaac yamma slut", "label": "PlayMusic"}
+{"global_ix": 11923, "sentence": "weather here at two pm", "label": "GetWeather"}
+{"global_ix": 7842, "sentence": "play a sixties song", "label": "PlayMusic"}
+{"global_ix": 14117, "sentence": "i want to listen to an ep from 1998", "label": "PlayMusic"}
+{"global_ix": 10129, "sentence": "will there be sun in the manassas national battlefield park", "label": "GetWeather"}
+{"global_ix": 10386, "sentence": "what time is a ball at the anjo house playing", "label": "SearchScreeningEvent"}
+{"global_ix": 9385, "sentence": "show me the movie times for animated movies that are in theaters close by", "label": "SearchScreeningEvent"}
+{"global_ix": 9644, "sentence": "play drum & bass music", "label": "PlayMusic"}
+{"global_ix": 6310, "sentence": "play hasan saltik from 2004", "label": "PlayMusic"}
+{"global_ix": 630, "sentence": "i want to hear major harris s songs from the fifties", "label": "PlayMusic"}
+{"global_ix": 1124, "sentence": "play a track by deeyah khan", "label": "PlayMusic"}
+{"global_ix": 6319, "sentence": "will it be hotter in pecan grove", "label": "GetWeather"}
+{"global_ix": 14045, "sentence": "will it be warmer in the district of columbia on may 25  2033", "label": "GetWeather"}
+{"global_ix": 8816, "sentence": "find movies in the neighbourhood with movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 7635, "sentence": "play the top 1991 sound track", "label": "PlayMusic"}
+{"global_ix": 7516, "sentence": "is the lady and the highwayman playing at 7 a m  at dipson theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 10492, "sentence": "i need the movie kids in love at the movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 2349, "sentence": "will it be colder in delaware", "label": "GetWeather"}
+{"global_ix": 12114, "sentence": "find a movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 2099, "sentence": "play a melody by adassa from the twenties", "label": "PlayMusic"}
+{"global_ix": 7652, "sentence": "will it be chilly in milligan college  ak on law day", "label": "GetWeather"}
+{"global_ix": 10859, "sentence": "i want to hear some the roches", "label": "PlayMusic"}
+{"global_ix": 2538, "sentence": "movie schedules for animated movies playing in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 8759, "sentence": "play some sam moore", "label": "PlayMusic"}
+{"global_ix": 8675, "sentence": "what are the movie times for united paramount theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 7151, "sentence": "play some armik from the fourties", "label": "PlayMusic"}
+{"global_ix": 11775, "sentence": "what s the weather like around laos", "label": "GetWeather"}
+{"global_ix": 5334, "sentence": "play a theme from walerij leontjew", "label": "PlayMusic"}
+{"global_ix": 743, "sentence": "play a chant by mj cole", "label": "PlayMusic"}
+{"global_ix": 2212, "sentence": "play within you without you by distance on zvooq", "label": "PlayMusic"}
+{"global_ix": 13404, "sentence": "play wynton kelly music on netflix sort by popular", "label": "PlayMusic"}
+{"global_ix": 5395, "sentence": "find andreas hofer at elevenses", "label": "SearchScreeningEvent"}
+{"global_ix": 6349, "sentence": "where is puthri playing", "label": "SearchScreeningEvent"}
+{"global_ix": 5936, "sentence": "play the most popular music by ronald isley on google music", "label": "PlayMusic"}
+{"global_ix": 9406, "sentence": "is there a storm here", "label": "GetWeather"}
+{"global_ix": 4175, "sentence": "what is the baotianman national nature reserve forecast", "label": "GetWeather"}
+{"global_ix": 8581, "sentence": "please play every woman in me", "label": "PlayMusic"}
+{"global_ix": 5614, "sentence": "play the music genre synthpop", "label": "PlayMusic"}
+{"global_ix": 2208, "sentence": "show cloud forcast in 1 hour in ia", "label": "GetWeather"}
+{"global_ix": 9755, "sentence": "i need movie times for movies playing in the area", "label": "SearchScreeningEvent"}
+{"global_ix": 8478, "sentence": "i want to hear the top 5 jamie lidell songs", "label": "PlayMusic"}
+{"global_ix": 6706, "sentence": "play concerto from 1951", "label": "PlayMusic"}
+{"global_ix": 4177, "sentence": "play the top-ten chant doda songs from the twenties", "label": "PlayMusic"}
+{"global_ix": 10424, "sentence": "play some chanson music", "label": "PlayMusic"}
+{"global_ix": 12890, "sentence": "play music from the seventies", "label": "PlayMusic"}
+{"global_ix": 10091, "sentence": "play a record from 1982", "label": "PlayMusic"}
+{"global_ix": 12567, "sentence": "play pandora tunes from the fourties", "label": "PlayMusic"}
+{"global_ix": 889, "sentence": "i d like to watch movies at the closest movie theatre", "label": "SearchScreeningEvent"}
+{"global_ix": 8649, "sentence": "play fifties music on deezer", "label": "PlayMusic"}
+{"global_ix": 10116, "sentence": "what s the weather here in 52 and a half weeks", "label": "GetWeather"}
+{"global_ix": 13478, "sentence": "what is the forecast this evening for the calipuy national reservation", "label": "GetWeather"}
+{"global_ix": 10539, "sentence": "play  music from the thirties", "label": "PlayMusic"}
+{"global_ix": 11557, "sentence": "is it going to be cold in readstown at 4 am", "label": "GetWeather"}
+{"global_ix": 7173, "sentence": "play a record from 2015", "label": "PlayMusic"}
+{"global_ix": 250, "sentence": "how is the weather right now at my current place", "label": "GetWeather"}
+{"global_ix": 9486, "sentence": "how much hotter will it be once close to namibia", "label": "GetWeather"}
+{"global_ix": 3431, "sentence": "is it freezing in vega alta", "label": "GetWeather"}
+{"global_ix": 14133, "sentence": "play some seventies filipp kirkorow", "label": "PlayMusic"}
+{"global_ix": 10168, "sentence": "play gary chapman music from the fifties", "label": "PlayMusic"}
+{"global_ix": 5116, "sentence": "will it be sunny a lot in honduras next autumn", "label": "GetWeather"}
+{"global_ix": 2128, "sentence": "what is the weather like in detroit lakes", "label": "GetWeather"}
+{"global_ix": 10442, "sentence": "play the best song by henry rollins", "label": "PlayMusic"}
+{"global_ix": 2039, "sentence": "tell me the weather forecast one year from now in kulpsville  togo", "label": "GetWeather"}
+{"global_ix": 9778, "sentence": "what s the weather going to be in parkers prairie  va at 07:08:02 am", "label": "GetWeather"}
+{"global_ix": 11284, "sentence": "what movies are playing in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 1838, "sentence": "i want to hear the top tim madison", "label": "PlayMusic"}
+{"global_ix": 11925, "sentence": "play me a symphony by ricky bell", "label": "PlayMusic"}
+{"global_ix": 4874, "sentence": "what movie schedules at consolidated theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 2848, "sentence": "what is the movie schedule looking like", "label": "SearchScreeningEvent"}
+{"global_ix": 12977, "sentence": "play dj ozma top songs", "label": "PlayMusic"}
+{"global_ix": 9900, "sentence": "find a cineplex odeon corporation showing movies", "label": "SearchScreeningEvent"}
+{"global_ix": 12972, "sentence": "play a concerto from the nineties", "label": "PlayMusic"}
+{"global_ix": 769, "sentence": "can you pull up a track on zvooq by graham mcpherson", "label": "PlayMusic"}
+{"global_ix": 11778, "sentence": "what films are going to be shown at the nearest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 6222, "sentence": "play the top twenty chant by wise", "label": "PlayMusic"}
+{"global_ix": 12320, "sentence": "i d like to watch nathan the wise at the closest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 1573, "sentence": "will it be stormy in deposit", "label": "GetWeather"}
+{"global_ix": 6733, "sentence": "where is ennarukil nee irunthal playing", "label": "SearchScreeningEvent"}
+{"global_ix": 2362, "sentence": "play the newest martin solveig sound track", "label": "PlayMusic"}
+{"global_ix": 8781, "sentence": "what is the forecast here for september 16", "label": "GetWeather"}
+{"global_ix": 3411, "sentence": "weather for douthat state park on mar  10", "label": "GetWeather"}
+{"global_ix": 1564, "sentence": "play matt walker tunes", "label": "PlayMusic"}
+{"global_ix": 12664, "sentence": "what is the forecast for chandler", "label": "GetWeather"}
+{"global_ix": 10658, "sentence": "will it be cold in chatmoss albania 8 years and a half from now", "label": "GetWeather"}
+{"global_ix": 13155, "sentence": "find time for films at the north american cinemas", "label": "SearchScreeningEvent"}
+{"global_ix": 201, "sentence": "will it be hot on orthodox good friday in michigan and close-by", "label": "GetWeather"}
+{"global_ix": 14129, "sentence": "play a sixties soundtrack", "label": "PlayMusic"}
+{"global_ix": 13582, "sentence": "what is the temperate in uzbekistan", "label": "GetWeather"}
+{"global_ix": 2697, "sentence": "on oct  26  i will need to make reservations to eat in halibut point state park", "label": "GetWeather"}
+{"global_ix": 10514, "sentence": "does the yacoubian building start at 08:39 pm", "label": "SearchScreeningEvent"}
+{"global_ix": 7683, "sentence": "what is the movie schedule for cineplex odeon corporation", "label": "SearchScreeningEvent"}
+{"global_ix": 7639, "sentence": "tell me if it will be hot on jun  the 10th in san de fuca  sweden", "label": "GetWeather"}
+{"global_ix": 13143, "sentence": "show me some movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 4455, "sentence": "need weather forecast for stacy in vanuatu", "label": "GetWeather"}
+{"global_ix": 13310, "sentence": "use the service zvooq to play top-10 by artist coolio", "label": "PlayMusic"}
+{"global_ix": 2628, "sentence": "play some annie herring beat street on itunes", "label": "PlayMusic"}
+{"global_ix": 1148, "sentence": "how cold is it in princeton junction", "label": "GetWeather"}
+{"global_ix": 2370, "sentence": "please tell me the forecast for guinea-bissau", "label": "GetWeather"}
+{"global_ix": 8121, "sentence": "is there an expected blizzard in brook  tennessee today", "label": "GetWeather"}
+{"global_ix": 11628, "sentence": "what is the nearest cinema showing love in mandya", "label": "SearchScreeningEvent"}
+{"global_ix": 9089, "sentence": "play me some badass women on groove shark", "label": "PlayMusic"}
+{"global_ix": 8706, "sentence": "i want to hear the new movement from richard harvey", "label": "PlayMusic"}
+{"global_ix": 4257, "sentence": "how much wind will there be in nm on november 11th", "label": "GetWeather"}
+{"global_ix": 7921, "sentence": "is the johnstown flood playing", "label": "SearchScreeningEvent"}
+{"global_ix": 7318, "sentence": "showtimes for animated movies fro goodrich quality theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 10410, "sentence": "what is the weather like in roeland park  guadeloupe", "label": "GetWeather"}
+{"global_ix": 11558, "sentence": "can you play halloween by ajinoam nini", "label": "PlayMusic"}
+{"global_ix": 7886, "sentence": "will there be a lot of wind far away from here on sep  the twenty-third  2021", "label": "GetWeather"}
+{"global_ix": 10362, "sentence": "is it chilly in curacao", "label": "GetWeather"}
+{"global_ix": 9931, "sentence": "what is the weather forecast for three in whitewood  rhode island", "label": "GetWeather"}
+{"global_ix": 1164, "sentence": "what is the forecast at four am in zambia", "label": "GetWeather"}
+{"global_ix": 9976, "sentence": "play a popular gurdas maan track", "label": "PlayMusic"}
+{"global_ix": 4791, "sentence": "where can i get movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 9663, "sentence": "i want to hear some acid punk music", "label": "PlayMusic"}
+{"global_ix": 8224, "sentence": "will it be colder in oswego 16 weeks from now", "label": "GetWeather"}
+{"global_ix": 10896, "sentence": "weather in cairngorms-nationalpark close from freezing", "label": "GetWeather"}
+{"global_ix": 6907, "sentence": "is prophecy playing at malco theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 5087, "sentence": "11 seconds from now find a cinema with first monday in october", "label": "SearchScreeningEvent"}
+{"global_ix": 948, "sentence": "play some oleg anofriyev from 1960", "label": "PlayMusic"}
+{"global_ix": 10060, "sentence": "what s the weather forecast for wisconsin", "label": "GetWeather"}
+{"global_ix": 3124, "sentence": "what will the weather be like in russia in one hour from now", "label": "GetWeather"}
+{"global_ix": 8046, "sentence": "play newest soundtrack from 2008", "label": "PlayMusic"}
+{"global_ix": 9820, "sentence": "play a morton downey record with slacker", "label": "PlayMusic"}
+{"global_ix": 8754, "sentence": "play a ballad by giorgio moroder", "label": "PlayMusic"}
+{"global_ix": 8736, "sentence": "when is the bleeding house playing at amco entertainment", "label": "SearchScreeningEvent"}
+{"global_ix": 11317, "sentence": "play me leonid soybelman on vimeo", "label": "PlayMusic"}
+{"global_ix": 4921, "sentence": "play me the most popular lillian hardin song on itunes", "label": "PlayMusic"}
+{"global_ix": 9536, "sentence": "will there be a blizzard at seven in colorado", "label": "GetWeather"}
+{"global_ix": 14449, "sentence": "give me the movies in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 6103, "sentence": "movie schedules of movies in the neighbourhood at zero am", "label": "SearchScreeningEvent"}
+{"global_ix": 10891, "sentence": "play some seventies music on netflix", "label": "PlayMusic"}
+{"global_ix": 12601, "sentence": "is there fog in refugio", "label": "GetWeather"}
+{"global_ix": 2280, "sentence": "can i get the movie schedules for speakeasy theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 7562, "sentence": "find the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 5995, "sentence": "which movies are playing at amc theaters 1 second from now", "label": "SearchScreeningEvent"}
+{"global_ix": 5504, "sentence": "play the album everybody happy by lee aaron", "label": "PlayMusic"}
+{"global_ix": 10006, "sentence": "find the nearest movie theatre that plays sea racketeers", "label": "SearchScreeningEvent"}
+{"global_ix": 8704, "sentence": "play robert stoddard from 1988", "label": "PlayMusic"}
+{"global_ix": 10708, "sentence": "is it chillier in baconton ky", "label": "GetWeather"}
+{"global_ix": 7256, "sentence": "play the trail of the lonesome pine on netflix", "label": "PlayMusic"}
+{"global_ix": 8422, "sentence": "what s the weather in organ pipe cactus national monument", "label": "GetWeather"}
+{"global_ix": 14100, "sentence": "play music from the artist sean yseult and sort it through top-50", "label": "PlayMusic"}
+{"global_ix": 416, "sentence": "play clásicos del hip hop español", "label": "PlayMusic"}
+{"global_ix": 7965, "sentence": "please play a song by ahmad jamal", "label": "PlayMusic"}
+{"global_ix": 86, "sentence": "will it be freezing in the current position", "label": "GetWeather"}
+{"global_ix": 7471, "sentence": "what is the weather forecast for east cleveland  republic of the congo", "label": "GetWeather"}
+{"global_ix": 2959, "sentence": "play some sia furler on last fm", "label": "PlayMusic"}
+{"global_ix": 2259, "sentence": "play me the dinner playlist", "label": "PlayMusic"}
+{"global_ix": 8023, "sentence": "give me a list showtimes for the night of taneyamagahara", "label": "SearchScreeningEvent"}
+{"global_ix": 5280, "sentence": "which movies are playing at b&b theatres at 2 pm", "label": "SearchScreeningEvent"}
+{"global_ix": 14084, "sentence": "can you put on like a hurricane by paul landers", "label": "PlayMusic"}
+{"global_ix": 9576, "sentence": "where is the nearest movie theatre that is playing the king maker", "label": "SearchScreeningEvent"}
+{"global_ix": 10872, "sentence": "weather forecast of lakebay", "label": "GetWeather"}
+{"global_ix": 2358, "sentence": "find the schedule for movies at the megaplex theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 4156, "sentence": "will it get chillier within walking distance of pw", "label": "GetWeather"}
+{"global_ix": 4772, "sentence": "play dj shadow s a love hate masquerade", "label": "PlayMusic"}
+{"global_ix": 14476, "sentence": "what are the movie times", "label": "SearchScreeningEvent"}
+{"global_ix": 9079, "sentence": "what s the weather forecast for spain", "label": "GetWeather"}
+{"global_ix": 9544, "sentence": "what animated movies are in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 11493, "sentence": "how is the weather going to be this week in roseau  ia", "label": "GetWeather"}
+{"global_ix": 9903, "sentence": "what are the movietimes for films in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 4638, "sentence": "what is the weather forecast nearby sc", "label": "GetWeather"}
+{"global_ix": 12270, "sentence": "what is the forecast for here", "label": "GetWeather"}
+{"global_ix": 8003, "sentence": "will it be cloudy on sep  16 in palau", "label": "GetWeather"}
+{"global_ix": 14090, "sentence": "let me hear the good songs from james iha", "label": "PlayMusic"}
+{"global_ix": 9267, "sentence": "what is the temperature in western sahara or within the same area three seconds from now", "label": "GetWeather"}
+{"global_ix": 8832, "sentence": "find the closest cinema playing little red monkey", "label": "SearchScreeningEvent"}
+{"global_ix": 10645, "sentence": "what time is 30 days of night playing", "label": "SearchScreeningEvent"}
+{"global_ix": 10052, "sentence": "will there be a blizzard in neighboring niobrara valley preserve", "label": "GetWeather"}
+{"global_ix": 14068, "sentence": "weather in two hours  in uzbekistan", "label": "GetWeather"}
+{"global_ix": 6598, "sentence": "play glenn yarbrough tunes", "label": "PlayMusic"}
+{"global_ix": 1833, "sentence": "find out what films are being played in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 6298, "sentence": "what is the weather like in hebbronville venezuela", "label": "GetWeather"}
+{"global_ix": 8094, "sentence": "i d like to go to douglas theatre company to see in beaver valley  what times will the movie be playing", "label": "SearchScreeningEvent"}
+{"global_ix": 8, "sentence": "find worldly goods starting now at a movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 3737, "sentence": "is it going to be warm in palmview", "label": "GetWeather"}
+{"global_ix": 8212, "sentence": "what time is the nearest cinema playing the hopes of blind alley", "label": "SearchScreeningEvent"}
+{"global_ix": 571, "sentence": "will it be chillier at 06:05:48 in wagener réunion", "label": "GetWeather"}
+{"global_ix": 12681, "sentence": "play top rosanne cash", "label": "PlayMusic"}
+{"global_ix": 5638, "sentence": "can you play me something from the eighties on youtube", "label": "PlayMusic"}
+{"global_ix": 12471, "sentence": "will it be getting colder in sahuarita", "label": "GetWeather"}
+{"global_ix": 67, "sentence": "play the last sound track by soko from around 1975", "label": "PlayMusic"}
+{"global_ix": 8703, "sentence": "show me the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 3382, "sentence": "play lil hardin armstrong from itunes", "label": "PlayMusic"}
+{"global_ix": 4034, "sentence": "what s the weather like at powers lake", "label": "GetWeather"}
+{"global_ix": 12787, "sentence": "is it going to be warm on march the 12th in pendleton  delaware", "label": "GetWeather"}
+{"global_ix": 7053, "sentence": "tell me what movies are showing at seven am at the closest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 298, "sentence": "play tujiko noriko s ten years and running", "label": "PlayMusic"}
+{"global_ix": 13536, "sentence": "what is the weather going to be like this evening in arkansas", "label": "GetWeather"}
+{"global_ix": 3330, "sentence": "will the sun come out today in houston", "label": "GetWeather"}
+{"global_ix": 11245, "sentence": "find the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 12608, "sentence": "i need to see a list of films and movie times in the area", "label": "SearchScreeningEvent"}
+{"global_ix": 7806, "sentence": "what is the weather like in phnom sankos wildlife sanctuary", "label": "GetWeather"}
+{"global_ix": 1924, "sentence": "will it get cold in nevada seven weeks and a half from now", "label": "GetWeather"}
+{"global_ix": 13383, "sentence": "will it be overcast next summer not far from redington shores", "label": "GetWeather"}
+{"global_ix": 4405, "sentence": "give me the movie schedule for animated movies showing in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 6626, "sentence": "what will the weather be like in nickelsville", "label": "GetWeather"}
+{"global_ix": 11835, "sentence": "will it be cold in harveysburg wa", "label": "GetWeather"}
+{"global_ix": 7489, "sentence": "is the skull playing at loews cineplex", "label": "SearchScreeningEvent"}
+{"global_ix": 5529, "sentence": "what time is a movie in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 6085, "sentence": "play the top-ten soundtrack from kiara", "label": "PlayMusic"}
+{"global_ix": 2643, "sentence": "find me the showtimes for until death at the nearest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 14079, "sentence": "what will the weather be in sarygamyş sanctuary on august 21  2035", "label": "GetWeather"}
+{"global_ix": 5563, "sentence": "play a song from the thirties on zvooq", "label": "PlayMusic"}
+{"global_ix": 7149, "sentence": "can you give me weather details for my current spot", "label": "GetWeather"}
+{"global_ix": 13683, "sentence": "tell me when it will be humid here", "label": "GetWeather"}
+{"global_ix": 3408, "sentence": "is it foggy in phinizy swamp nature park", "label": "GetWeather"}
+{"global_ix": 12701, "sentence": "play tune from sonny stitt", "label": "PlayMusic"}
+{"global_ix": 13568, "sentence": "where is priorities on parade playing", "label": "SearchScreeningEvent"}
+{"global_ix": 6051, "sentence": "is it going to be foggy in jewell cemetery state historic site 7 weeks from now", "label": "GetWeather"}
+{"global_ix": 1948, "sentence": "what animated movies are playing now in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 10976, "sentence": "will it be cloudy in guadeloupe next year", "label": "GetWeather"}
+{"global_ix": 13541, "sentence": "movie schedules at amc theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 11116, "sentence": "will it be overcast at lunch time in saint vincent and the grenadines", "label": "GetWeather"}
+{"global_ix": 6240, "sentence": "how s the weather going to be on jul  2 in whiteside", "label": "GetWeather"}
+{"global_ix": 2334, "sentence": "what is the weather in current location on december the 23rd  2027", "label": "GetWeather"}
+{"global_ix": 9309, "sentence": "what is the six o clock forecast for west selmont  in montserrat", "label": "GetWeather"}
+{"global_ix": 9290, "sentence": "play some movement from 1959 on deezer", "label": "PlayMusic"}
+{"global_ix": 11980, "sentence": "when will third person singular number be playing", "label": "SearchScreeningEvent"}
+{"global_ix": 4709, "sentence": "find movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 13159, "sentence": "what s the forecast for my current location", "label": "GetWeather"}
+{"global_ix": 1018, "sentence": "can you use pandora to play a soundtrack from 1999 by david sitek", "label": "PlayMusic"}
+{"global_ix": 9229, "sentence": "please tell me the movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 5743, "sentence": "what will the weather be in wakarusa", "label": "GetWeather"}
+{"global_ix": 8540, "sentence": "give me the showtime for bobby yeah playing at the cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 12046, "sentence": "play my women of rock playlist", "label": "PlayMusic"}
+{"global_ix": 407, "sentence": "i d like to watch take this waltz", "label": "SearchScreeningEvent"}
+{"global_ix": 4069, "sentence": "play me music from the twenties on itunes", "label": "PlayMusic"}
+{"global_ix": 3032, "sentence": "what is the temperate in seattle heights and slovenia at seven pm", "label": "GetWeather"}
+{"global_ix": 14128, "sentence": "let s play jamie robertson s handover on vimeo", "label": "PlayMusic"}
+{"global_ix": 8792, "sentence": "what cinema is the railway children", "label": "SearchScreeningEvent"}
+{"global_ix": 5619, "sentence": "can i get the showtimes for films close by", "label": "SearchScreeningEvent"}
+{"global_ix": 8548, "sentence": "what s the weather here", "label": "GetWeather"}
+{"global_ix": 9323, "sentence": "tell me the weather forecast in greensburg", "label": "GetWeather"}
+{"global_ix": 3654, "sentence": "what s the weather forecast for here in august", "label": "GetWeather"}
+{"global_ix": 8225, "sentence": "find the schedule for fear chamber", "label": "SearchScreeningEvent"}
+{"global_ix": 12024, "sentence": "find national amusements showing the trouble with harry", "label": "SearchScreeningEvent"}
+{"global_ix": 14137, "sentence": "play a bob burns song", "label": "PlayMusic"}
+{"global_ix": 12122, "sentence": "play some sabah from the eighties", "label": "PlayMusic"}
+{"global_ix": 1313, "sentence": "play me the most popular peja song on slacker", "label": "PlayMusic"}
+{"global_ix": 2072, "sentence": "play my hardstyle  baby playlist on netflix", "label": "PlayMusic"}
+{"global_ix": 10426, "sentence": "play satire", "label": "PlayMusic"}
+{"global_ix": 7090, "sentence": "play i believe from chico buarque off of iheart", "label": "PlayMusic"}
+{"global_ix": 3036, "sentence": "what time are films showing in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 3117, "sentence": "is it cold now in carlos  il", "label": "GetWeather"}
+{"global_ix": 1698, "sentence": "play fifties music by ahmed abdul malik", "label": "PlayMusic"}
+{"global_ix": 1646, "sentence": "what animated movies are playing amc theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 12893, "sentence": "play the tune by adam yauch", "label": "PlayMusic"}
+{"global_ix": 2685, "sentence": "will there be hail in dean creek wildlife area on feb  25  2031", "label": "GetWeather"}
+{"global_ix": 2771, "sentence": "i m wondering if i can watch heyy babyy at a cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 10034, "sentence": "will it be warm 1 week from now in dc", "label": "GetWeather"}
+{"global_ix": 5844, "sentence": "use iheart radio to play eighties music from hugh masekela", "label": "PlayMusic"}
+{"global_ix": 6771, "sentence": "can you play an ep by tatjana iwanowna bulanowa", "label": "PlayMusic"}
+{"global_ix": 5600, "sentence": "what is the weather forecast in brunei", "label": "GetWeather"}
+{"global_ix": 1467, "sentence": "tell me the weather for next week at cathedral state park", "label": "GetWeather"}
+{"global_ix": 9624, "sentence": "play masashi hamauzu s newest symphony on itunes", "label": "PlayMusic"}
+{"global_ix": 8731, "sentence": "find the schedule for the voice in the fog at night at the closest movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 6188, "sentence": "is f i s t  at malco theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 13727, "sentence": "at ten am what will the weather be like nearby in cyprus", "label": "GetWeather"}
+{"global_ix": 8323, "sentence": "what s the forecast for wendell", "label": "GetWeather"}
+{"global_ix": 600, "sentence": "will it be temperate in the same area in vi", "label": "GetWeather"}
+{"global_ix": 10087, "sentence": "play me the best charles neidich song", "label": "PlayMusic"}
+{"global_ix": 3875, "sentence": "is people of the cumberland playing at landmark theatres now", "label": "SearchScreeningEvent"}
+{"global_ix": 9938, "sentence": "use youtube to play music from dorothy ashby from the year 2002", "label": "PlayMusic"}
+{"global_ix": 13301, "sentence": "find the movie schedule for 20:45:24", "label": "SearchScreeningEvent"}
+{"global_ix": 5519, "sentence": "play my fusion fest playlist on youtube", "label": "PlayMusic"}
+{"global_ix": 7225, "sentence": "what s the weather in waretown lebanon", "label": "GetWeather"}
+{"global_ix": 7096, "sentence": "please play some black metal music", "label": "PlayMusic"}
+{"global_ix": 12, "sentence": "find on dress parade", "label": "SearchScreeningEvent"}
+{"global_ix": 8342, "sentence": "play the playlist  hardstyle  baby", "label": "PlayMusic"}
+{"global_ix": 5179, "sentence": "what will be the temperate in tyresta national park on 7/18/2030", "label": "GetWeather"}
+{"global_ix": 6702, "sentence": "play fourties chant music on last fm", "label": "PlayMusic"}
+{"global_ix": 6842, "sentence": "tell me if there will be hail at tea time in nordland", "label": "GetWeather"}
+{"global_ix": 1963, "sentence": "what will the weather be like 1 second from now in pugu hills forest reserve", "label": "GetWeather"}
+{"global_ix": 4901, "sentence": "play chant from freddy fender on iheart", "label": "PlayMusic"}
+{"global_ix": 14076, "sentence": "will there be a cloud in vi in 14 minutes", "label": "GetWeather"}
+{"global_ix": 11095, "sentence": "can i get the the showtimes for the jade faced assassin cinema", "label": "SearchScreeningEvent"}
+{"global_ix": 9700, "sentence": "play me some music by prince alla from the twenties", "label": "PlayMusic"}
+{"global_ix": 14027, "sentence": "what s the weather in benton city", "label": "GetWeather"}
+{"global_ix": 12113, "sentence": "is it warmer in monson  u s  minor outlying islands", "label": "GetWeather"}
+{"global_ix": 293, "sentence": "what movies can i see in the area", "label": "SearchScreeningEvent"}
+{"global_ix": 4939, "sentence": "play that new song from 1970", "label": "PlayMusic"}
+{"global_ix": 7956, "sentence": "will it rain today in circleville", "label": "GetWeather"}
+{"global_ix": 2042, "sentence": "play midnight special", "label": "PlayMusic"}
+{"global_ix": 4132, "sentence": "play music by otis redding", "label": "PlayMusic"}
+{"global_ix": 9766, "sentence": "play some fifties tunes by mike mccready", "label": "PlayMusic"}
+{"global_ix": 6263, "sentence": "find movie schedule for animated movies in the area", "label": "SearchScreeningEvent"}
+{"global_ix": 4743, "sentence": "what movie house is playing something for the birds", "label": "SearchScreeningEvent"}
+{"global_ix": 917, "sentence": "is goodbye mr  chips showing twelve minutes from now", "label": "SearchScreeningEvent"}
+{"global_ix": 2203, "sentence": "when is good will evil playing at loews cineplex entertainment", "label": "SearchScreeningEvent"}
+{"global_ix": 11088, "sentence": "when is the blood of others playing", "label": "SearchScreeningEvent"}
+{"global_ix": 11981, "sentence": "find the movie schedules for cineplex odeon corporation", "label": "SearchScreeningEvent"}
+{"global_ix": 2787, "sentence": "what films are showing at kerasotes theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 2302, "sentence": "is there any fog warning in dauset trails nature center now", "label": "GetWeather"}
+{"global_ix": 12392, "sentence": "in the neighbourhood find movies", "label": "SearchScreeningEvent"}
+{"global_ix": 8957, "sentence": "is it chillier in mint hill fm", "label": "GetWeather"}
+{"global_ix": 13487, "sentence": "will the weather be cloudy seven weeks from now in hinckley", "label": "GetWeather"}
+{"global_ix": 6500, "sentence": "when is em4jay playing at the movie theatre", "label": "SearchScreeningEvent"}
+{"global_ix": 5986, "sentence": "i want to hear a gucci mane song from last fm from 2002", "label": "PlayMusic"}
+{"global_ix": 8293, "sentence": "play music off itunes", "label": "PlayMusic"}
+{"global_ix": 8470, "sentence": "use itunes to play dancing playlist", "label": "PlayMusic"}
+{"global_ix": 4052, "sentence": "create a theme station with jim creeggan records and collabs", "label": "PlayMusic"}
+{"global_ix": 7732, "sentence": "what movies are at loews cineplex", "label": "SearchScreeningEvent"}
+{"global_ix": 8553, "sentence": "will it be cold at 1 am in boon", "label": "GetWeather"}
+{"global_ix": 5829, "sentence": "what is the weather forecast going to be on august 15  2038 for hoffman hills state recreation area", "label": "GetWeather"}
+{"global_ix": 2574, "sentence": "find movies with movie schedules in the neighborhood", "label": "SearchScreeningEvent"}
+{"global_ix": 7249, "sentence": "play some mark tremonti from the thirties", "label": "PlayMusic"}
+{"global_ix": 11785, "sentence": "will it be hot in keachi", "label": "GetWeather"}
+{"global_ix": 3470, "sentence": "play the most popular song from chae yeon off of spotify", "label": "PlayMusic"}
+{"global_ix": 317, "sentence": "play party anthems", "label": "PlayMusic"}
+{"global_ix": 11085, "sentence": "show me the movie schedule for neighborhood cinema group", "label": "SearchScreeningEvent"}
+{"global_ix": 10439, "sentence": "play record from the seventies", "label": "PlayMusic"}
+{"global_ix": 13014, "sentence": "what s the weather like in topock", "label": "GetWeather"}
+{"global_ix": 5532, "sentence": "will the weather be cloudy at 0 pm at my current position", "label": "GetWeather"}
+{"global_ix": 1571, "sentence": "tell me the weather forecast 1 hour from now for town west  nevada", "label": "GetWeather"}
+{"global_ix": 14092, "sentence": "i want to play music from iheart", "label": "PlayMusic"}
+{"global_ix": 737, "sentence": "play playlist the realest down south", "label": "PlayMusic"}
+{"global_ix": 10463, "sentence": "will it be snowy on january 26th in trentwood  illinois", "label": "GetWeather"}
+{"global_ix": 6125, "sentence": "when is we stick together through thick and thin playing at arclight hollywood", "label": "SearchScreeningEvent"}
+{"global_ix": 9547, "sentence": "is it freezing in offerman  california", "label": "GetWeather"}
+{"global_ix": 13629, "sentence": "show movie schedules", "label": "SearchScreeningEvent"}
+{"global_ix": 10125, "sentence": "will it be nice here and in the same area", "label": "GetWeather"}
+{"global_ix": 12057, "sentence": "play me a frank farian ep", "label": "PlayMusic"}
+{"global_ix": 1333, "sentence": "what is the weather like right now for fort adams", "label": "GetWeather"}
+{"global_ix": 14442, "sentence": "is no time to be young showing at amc theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 11504, "sentence": "i d like to watch the holy office at cooper foundation", "label": "SearchScreeningEvent"}
+{"global_ix": 1598, "sentence": "what is the weather here", "label": "GetWeather"}
+{"global_ix": 2205, "sentence": "play a sound track by vegard sverre tveitan", "label": "PlayMusic"}
+{"global_ix": 11443, "sentence": "what is the movie schedules for animated movies in the neighbourhood", "label": "SearchScreeningEvent"}
+{"global_ix": 13427, "sentence": "find the schedule for to shoot an elephant at the nearest movie theatre", "label": "SearchScreeningEvent"}
+{"global_ix": 2345, "sentence": "play shara worden", "label": "PlayMusic"}
+{"global_ix": 4224, "sentence": "what s the weather this summer in djibouti", "label": "GetWeather"}
+{"global_ix": 6033, "sentence": "find movies nearest to a movie house", "label": "SearchScreeningEvent"}
+{"global_ix": 8341, "sentence": "play my mellow beats playlist please", "label": "PlayMusic"}
+{"global_ix": 3732, "sentence": "give me the weather forecast for here", "label": "GetWeather"}
+{"global_ix": 622, "sentence": "find movie schedules for bow tie cinemas", "label": "SearchScreeningEvent"}
+{"global_ix": 1339, "sentence": "what will the weather be like at ten am in austria", "label": "GetWeather"}
+{"global_ix": 13999, "sentence": "will it be rainy at sunrise in ramey saudi arabia", "label": "GetWeather"}
+{"global_ix": 3085, "sentence": "show me the movie schedule", "label": "SearchScreeningEvent"}
+{"global_ix": 13250, "sentence": "will it be hot in amenia  wi", "label": "GetWeather"}
+{"global_ix": 1650, "sentence": "is it chillier at narew national park", "label": "GetWeather"}
+{"global_ix": 7180, "sentence": "what is the weather in gem", "label": "GetWeather"}
+{"global_ix": 6646, "sentence": "play the top caleigh peters", "label": "PlayMusic"}
+{"global_ix": 4262, "sentence": "what s the weather forecast for the northern mariana islands on 8/4/2024", "label": "GetWeather"}
+{"global_ix": 109, "sentence": "what time will paris by night aired", "label": "SearchScreeningEvent"}
+{"global_ix": 5299, "sentence": "what s the weather forecast for mi for august 20th", "label": "GetWeather"}
+{"global_ix": 10048, "sentence": "play music on groove shark", "label": "PlayMusic"}
+{"global_ix": 78, "sentence": "i want to hear any tune from the twenties", "label": "PlayMusic"}
+{"global_ix": 7559, "sentence": "play the track fight on  state by yuvan shankar raja", "label": "PlayMusic"}
+{"global_ix": 13319, "sentence": "is it going to be freezing in lolita", "label": "GetWeather"}
+{"global_ix": 2695, "sentence": "play addicted to you by hank ballard", "label": "PlayMusic"}
+{"global_ix": 7417, "sentence": "is love coach playing at speakeasy theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 7959, "sentence": "give me the movie schedule for cineplex odeon corporation", "label": "SearchScreeningEvent"}
+{"global_ix": 1797, "sentence": "what time is the dungeonmaster playing at amc theaters", "label": "SearchScreeningEvent"}
+{"global_ix": 9943, "sentence": "what time is phera playing", "label": "SearchScreeningEvent"}
+{"global_ix": 5472, "sentence": "want to know the blizzard weather condition in lake catherine", "label": "GetWeather"}
+{"global_ix": 730, "sentence": "play the top-20 best chicane songs on deezer", "label": "PlayMusic"}
+{"global_ix": 8826, "sentence": "what is the loco weather forecast", "label": "GetWeather"}
+{"global_ix": 4839, "sentence": "tell me the weather forecast nearby my current location", "label": "GetWeather"}
+{"global_ix": 5493, "sentence": "what are the movie schedules for great escape theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 10737, "sentence": "use spotify to play music", "label": "PlayMusic"}
+{"global_ix": 10592, "sentence": "play el cant dels ocells by vini lopez", "label": "PlayMusic"}
+{"global_ix": 6872, "sentence": "find the movie schedule for fox theatres at supper time", "label": "SearchScreeningEvent"}
+{"global_ix": 4612, "sentence": "what will the weather be in cummings mississippi in eleven years", "label": "GetWeather"}
+{"global_ix": 173, "sentence": "she me movie times at mann theatres", "label": "SearchScreeningEvent"}
+{"global_ix": 5286, "sentence": "what is the movie schedule for movies close by", "label": "SearchScreeningEvent"}
+{"global_ix": 4483, "sentence": "can you play that last ep from the twenties", "label": "PlayMusic"}
+{"global_ix": 4712, "sentence": "what time is the man who dared playing at the movie theatre", "label": "SearchScreeningEvent"}
+{"global_ix": 11825, "sentence": "play the newest phil stacey", "label": "PlayMusic"}
+{"global_ix": 6040, "sentence": "advise me on the movie schedule of films that will be playing at 07:31:32 pm at a place close by", "label": "SearchScreeningEvent"}
+{"global_ix": 6487, "sentence": "what animated movies are playing nearby right now", "label": "SearchScreeningEvent"}
+{"global_ix": 13025, "sentence": "play a herbie fields record from the sixties", "label": "PlayMusic"}
+{"global_ix": 2443, "sentence": "will it get warmer in centenary around the evening", "label": "GetWeather"}
+{"global_ix": 9369, "sentence": "show the movie schedule and movies around here", "label": "SearchScreeningEvent"}

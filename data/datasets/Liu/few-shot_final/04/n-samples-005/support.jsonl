@@ -1,0 +1,85 @@
+{"label": "hue_lighton", "sentence": "Lights on!"}
+{"label": "traffic", "sentence": "Will traffic be good when I leave in 5 minutes?"}
+{"label": "explain", "sentence": "please further rephrase me about what you have said."}
+{"label": "traffic", "sentence": "Should I go through the valley or on the 10 to get to Westwood?"}
+{"label": "explain", "sentence": "again rephrase what you just said now please."}
+{"label": "explain", "sentence": "clarify me on your answers again please."}
+{"label": "repeat", "sentence": "let's try that one more again please."}
+{"label": "addcontact", "sentence": "create new contact with email"}
+{"label": "createoradd", "sentence": "PDA can you create a list for me."}
+{"label": "maths", "sentence": "How any times does 50 go into 1 million?"}
+{"label": "querycontact", "sentence": "Please check and tell me contact details of Mongomery LLc company"}
+{"label": "querycontact", "sentence": "can you pull up jeff"}
+{"label": "createoradd", "sentence": "Add mow lawn to things to do list"}
+{"label": "volume_up", "sentence": "Please increase the volume of the current song"}
+{"label": "joke", "sentence": "I want to hear a good joke."}
+{"label": "querycontact", "sentence": "Please contact Michael M from my list with this text."}
+{"label": "music", "sentence": "Please play Top Country."}
+{"label": "repeat", "sentence": "could you tell me what i have said once again please."}
+{"label": "factoid", "sentence": "How would I do an PSSO in my knitting project?"}
+{"label": "explain", "sentence": "please once again clarify."}
+{"label": "podcasts", "sentence": "following podcast episode start"}
+{"label": "factoid", "sentence": "How old is Barack Obamba?"}
+{"label": "factoid", "sentence": "When is Jared Leto's birthday?"}
+{"label": "music", "sentence": "play the track 8 from google play music ."}
+{"label": "addcontact", "sentence": "PDA add Dale@gmail.com to my contacts."}
+{"label": "volume_up", "sentence": "Could you speak up?"}
+{"label": "recipe", "sentence": "Tell me the recipe to  make cake"}
+{"label": "createoradd", "sentence": "Please add deodorant to my shopping list."}
+{"label": "recipe", "sentence": "What ingredient can be used to replace white wine"}
+{"label": "traffic", "sentence": "tell me current situation of traffic near central park road."}
+{"label": "dislikeness", "sentence": "I never want to hear that song again"}
+{"label": "volume_up", "sentence": "louder"}
+{"label": "dislikeness", "sentence": "Do not play rock metal"}
+{"label": "convert", "sentence": "what time is it in someplace when it's sometime in otherplace?"}
+{"label": "factoid", "sentence": "What bra size is julianne hough?"}
+{"label": "repeat", "sentence": "could you try what you just said one more again."}
+{"label": "recipe", "sentence": "how to cook"}
+{"label": "dislikeness", "sentence": "I do not enjoy this song."}
+{"label": "convert", "sentence": "It is 5:45 am in Liverpool, what time is now New York?"}
+{"label": "createoradd", "sentence": "I need to start a list called..."}
+{"label": "sendemail", "sentence": "Email to Matthew with content: Project finished, send me invoice please."}
+{"label": "traffic", "sentence": "What's traffic look like over the Golden Gate Bridge?"}
+{"label": "repeat", "sentence": "i need to hear the word spoken again."}
+{"label": "maths", "sentence": "What does two plus two equal?"}
+{"label": "podcasts", "sentence": "go forward please"}
+{"label": "sendemail", "sentence": "Please send the following email to Uncle John: Yes, I will be there."}
+{"label": "podcasts", "sentence": "skip to next episode"}
+{"label": "addcontact", "sentence": "alexa update my contacts with the new contact sam@gmail.com"}
+{"label": "traffic", "sentence": "how will my drive me"}
+{"label": "maths", "sentence": "do you know how to answer this math question?"}
+{"label": "hue_lighton", "sentence": "lights out"}
+{"label": "joke", "sentence": "Tell a joke."}
+{"label": "querycontact", "sentence": "PDA What's Jesse's Address?"}
+{"label": "music", "sentence": "After this one, play song"}
+{"label": "querycontact", "sentence": "Where Seth lives?"}
+{"label": "addcontact", "sentence": "add the new email o my contacts"}
+{"label": "volume_up", "sentence": "Please turn up the volume to 21."}
+{"label": "podcasts", "sentence": "locate my podcast"}
+{"label": "joke", "sentence": "joke me"}
+{"label": "sendemail", "sentence": "Please send a business email about the time of the meeting change to Lauren."}
+{"label": "convert", "sentence": "The time difference between Lagos and New York is what?"}
+{"label": "recipe", "sentence": "Do I have enough ingredients in my refrigerator?"}
+{"label": "maths", "sentence": "What is the result of 100 minus 50?"}
+{"label": "convert", "sentence": "please Can i know what time will it be at 6 pm here in Australia?"}
+{"label": "explain", "sentence": "could you please once again elaborate to me."}
+{"label": "maths", "sentence": "I need to figure out this percentage."}
+{"label": "hue_lighton", "sentence": "Switch on the lights"}
+{"label": "addcontact", "sentence": "Add work email address"}
+{"label": "dislikeness", "sentence": "Never, ever play me any country."}
+{"label": "convert", "sentence": "If it is noon in Virginia, what time is it in California?"}
+{"label": "joke", "sentence": "PDA, I want to listen to a joke."}
+{"label": "repeat", "sentence": "i need to hear your instruction you just said again."}
+{"label": "createoradd", "sentence": "This item should be added to the list"}
+{"label": "dislikeness", "sentence": "That background song is terrible."}
+{"label": "music", "sentence": "Assistant, please play Royksopp Running to the Sea"}
+{"label": "music", "sentence": "Start the satellite music feed."}
+{"label": "podcasts", "sentence": "Let me hear that podcast"}
+{"label": "sendemail", "sentence": "Compose an email that says.... and send it to...."}
+{"label": "recipe", "sentence": "olly what's the recipe for lasagna"}
+{"label": "hue_lighton", "sentence": "Turn on the lights"}
+{"label": "factoid", "sentence": "Give me a biography of Donald Trump"}
+{"label": "hue_lighton", "sentence": "and the light began"}
+{"label": "joke", "sentence": "Do you have a funny joke for me?"}
+{"label": "volume_up", "sentence": "set the volume higher"}
+{"label": "sendemail", "sentence": "Send an email to... that says...."}

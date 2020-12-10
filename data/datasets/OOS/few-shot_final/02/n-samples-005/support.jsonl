@@ -1,0 +1,230 @@
+{"global_ix": 449, "sentence": "assure my bank i really am going to california", "label": "travel_notification"}
+{"global_ix": 9750, "sentence": "please read my shopping list", "label": "shopping_list"}
+{"global_ix": 22527, "sentence": "how is the traffic on my way to the venue", "label": "traffic"}
+{"global_ix": 4400, "sentence": "please move $100 from my checking to saving account", "label": "transfer"}
+{"global_ix": 5434, "sentence": "share the nutrition info for brownies with me", "label": "nutrition_info"}
+{"global_ix": 13005, "sentence": "check my calendar to see if an event called final exams exists", "label": "calendar"}
+{"global_ix": 9937, "sentence": "my phone is lost, can you help with that", "label": "find_phone"}
+{"global_ix": 9659, "sentence": "turns out i made a fraudulent transaction", "label": "report_fraud"}
+{"global_ix": 16204, "sentence": "would you tell me my spending limit", "label": "credit_limit"}
+{"global_ix": 6378, "sentence": "how do i get my check directly deposited", "label": "direct_deposit"}
+{"global_ix": 20315, "sentence": "can you tell me something funny", "label": "tell_joke"}
+{"global_ix": 2663, "sentence": "i wanna know some things to do in phoenix", "label": "travel_suggestion"}
+{"global_ix": 6683, "sentence": "i cracked my card and need a replacement", "label": "damaged_card"}
+{"global_ix": 7420, "sentence": "what are some hot travel destinations", "label": "travel_suggestion"}
+{"global_ix": 16916, "sentence": "add dentist appointment to my calendar for march 1", "label": "calendar_update"}
+{"global_ix": 14561, "sentence": "please send ten dollars from bank of america to capital one", "label": "transfer"}
+{"global_ix": 14487, "sentence": "something's come up so i need to cancel my reservation so now", "label": "cancel_reservation"}
+{"global_ix": 22318, "sentence": "where can i get gas to get to sioux falls", "label": "gas"}
+{"global_ix": 7306, "sentence": "what are the steps to set up direct deposit to my chase account", "label": "direct_deposit"}
+{"global_ix": 13583, "sentence": "how much did i spend on my most recent transaction", "label": "transactions"}
+{"global_ix": 11138, "sentence": "what's the name you like to be called", "label": "what_is_your_name"}
+{"global_ix": 14273, "sentence": "i need to know the transactions i made on the 10th", "label": "transactions"}
+{"global_ix": 6038, "sentence": "approximately how long does it take to get to the resort in miami", "label": "distance"}
+{"global_ix": 18229, "sentence": "tell me what my calendar looks like for april 13", "label": "calendar"}
+{"global_ix": 21053, "sentence": "how much did i spend on gear two weeks ago", "label": "spending_history"}
+{"global_ix": 11874, "sentence": "where's my phone", "label": "find_phone"}
+{"global_ix": 11498, "sentence": "does russia have any travel alerts i should be aware of", "label": "travel_alert"}
+{"global_ix": 5028, "sentence": "what's my yearly salary", "label": "income"}
+{"global_ix": 5565, "sentence": "how much gas do i have in the tank", "label": "gas"}
+{"global_ix": 20855, "sentence": "i need to know my credit's limit", "label": "credit_limit"}
+{"global_ix": 19188, "sentence": "how many cups in a quart", "label": "measurement_conversion"}
+{"global_ix": 7709, "sentence": "is there a travel alert in spain", "label": "travel_alert"}
+{"global_ix": 13388, "sentence": "what do you like doing in your free time", "label": "what_are_your_hobbies"}
+{"global_ix": 12210, "sentence": "set a reminder for when the turkey is finished cooking", "label": "reminder_update"}
+{"global_ix": 19233, "sentence": "i think there's a fraudulent transaction on my account", "label": "report_fraud"}
+{"global_ix": 17833, "sentence": "what would you like me to call you", "label": "what_is_your_name"}
+{"global_ix": 16483, "sentence": "help me change my insurance", "label": "insurance_change"}
+{"global_ix": 3277, "sentence": "show me my transactions on make up at sephora", "label": "transactions"}
+{"global_ix": 13500, "sentence": "tell me how to locate the interest rate for my jonah account", "label": "interest_rate"}
+{"global_ix": 20088, "sentence": "i need a timer set for 15 minutes", "label": "timer"}
+{"global_ix": 22426, "sentence": "what would the date be 5 days from today", "label": "date"}
+{"global_ix": 12652, "sentence": "my card has a deep crease through the middle so i would like to report it", "label": "damaged_card"}
+{"global_ix": 17466, "sentence": "set a timer for two minutes", "label": "timer"}
+{"global_ix": 712, "sentence": "what is some trivia about frog", "label": "fun_fact"}
+{"global_ix": 3549, "sentence": "my card is scuffed up and won't work", "label": "damaged_card"}
+{"global_ix": 17334, "sentence": "direct deposit", "label": "direct_deposit"}
+{"global_ix": 23495, "sentence": "what will i get paid this year", "label": "income"}
+{"global_ix": 21949, "sentence": "how many days do i have left of pto", "label": "pto_balance"}
+{"global_ix": 1770, "sentence": "should i know about any travel alerts before traveling in the usa", "label": "travel_alert"}
+{"global_ix": 989, "sentence": "book a flight from pensacola, fl to houston, tx on 17 february 2019 and returning on 7 march 2019", "label": "book_flight"}
+{"global_ix": 3597, "sentence": "so, does it take long to get to dodger stadium in anaheim", "label": "distance"}
+{"global_ix": 4039, "sentence": "i would like to know the credit limit for my citibank card", "label": "credit_limit"}
+{"global_ix": 8745, "sentence": "what's tomorrow on the calender", "label": "date"}
+{"global_ix": 7105, "sentence": "tell me a joke about cars", "label": "tell_joke"}
+{"global_ix": 20131, "sentence": "i need to set up a vacation request, what do i need to give you", "label": "pto_request"}
+{"global_ix": 4121, "sentence": "ai how are you doing on this fine day", "label": "greeting"}
+{"global_ix": 17297, "sentence": "set a reminder to check the steak", "label": "reminder_update"}
+{"global_ix": 7095, "sentence": "remove the birthday party this friday from my schedule", "label": "calendar_update"}
+{"global_ix": 16683, "sentence": "can you tell me the current date", "label": "date"}
+{"global_ix": 13712, "sentence": "can i cancel my reservations", "label": "cancel_reservation"}
+{"global_ix": 19335, "sentence": "how close is a gas station to mcdonalds", "label": "directions"}
+{"global_ix": 5602, "sentence": "can you help me change my insurance policy", "label": "insurance_change"}
+{"global_ix": 22244, "sentence": "is traffic heavy on my route to washington", "label": "traffic"}
+{"global_ix": 22907, "sentence": "i have how many vacation days saved up", "label": "pto_balance"}
+{"global_ix": 18311, "sentence": "count how many sick days i've used", "label": "pto_used"}
+{"global_ix": 12689, "sentence": "between october 7th and october 10th, i'd like for there to be a pto request for me", "label": "pto_request"}
+{"global_ix": 19630, "sentence": "do you have nutrition facts for cheerios", "label": "nutrition_info"}
+{"global_ix": 5745, "sentence": "i lost my phone, can you help me find it", "label": "find_phone"}
+{"global_ix": 7807, "sentence": "send a notification to my bank of my travel dates from february 19th to 26th to peru", "label": "travel_notification"}
+{"global_ix": 3646, "sentence": "please change your response language to english", "label": "change_language"}
+{"global_ix": 3785, "sentence": "how healthy are french fries", "label": "nutrition_info"}
+{"global_ix": 10883, "sentence": "what's the amount of my income", "label": "income"}
+{"global_ix": 10140, "sentence": "please tell me how to go about asking for a vacation", "label": "pto_request"}
+{"global_ix": 494, "sentence": "what is there to do in craberra", "label": "travel_suggestion"}
+{"global_ix": 21464, "sentence": "alerts for travel in colombia", "label": "travel_alert"}
+{"global_ix": 6592, "sentence": "what's a good chili recipe", "label": "recipe"}
+{"global_ix": 22977, "sentence": "where do i go to get private client account's interest rate", "label": "interest_rate"}
+{"global_ix": 2499, "sentence": "what is there on january 1st on my calendar", "label": "calendar"}
+{"global_ix": 22585, "sentence": "how many days did i take off", "label": "pto_used"}
+{"global_ix": 3192, "sentence": "do you know what the interest rate is on my account", "label": "interest_rate"}
+{"global_ix": 10595, "sentence": "does the calendar already have easter noted on it", "label": "calendar"}
+{"global_ix": 2015, "sentence": "i must switch to a new insurance plan", "label": "insurance_change"}
+{"global_ix": 414, "sentence": "i need for you to tell me what is on my shopping list", "label": "shopping_list"}
+{"global_ix": 12671, "sentence": "fun facts about tigers", "label": "fun_fact"}
+{"global_ix": 7427, "sentence": "what is 2 inches in meters", "label": "measurement_conversion"}
+{"global_ix": 19781, "sentence": "how long is the wait at cheesecake factory", "label": "how_busy"}
+{"global_ix": 17801, "sentence": "how much have i spent on alcohol recently", "label": "spending_history"}
+{"global_ix": 11688, "sentence": "what are your favorite hobbies", "label": "what_are_your_hobbies"}
+{"global_ix": 3899, "sentence": "i need to make a report due to fraudulent activity on my card", "label": "report_fraud"}
+{"global_ix": 15407, "sentence": "please send ann a text and tell her i will be home in 20 minutes", "label": "text"}
+{"global_ix": 10618, "sentence": "where's the routing number for wells fargo", "label": "routing"}
+{"global_ix": 5674, "sentence": "is there milk on my shopping list", "label": "shopping_list"}
+{"global_ix": 11313, "sentence": "clear my calendar for september 6th", "label": "calendar_update"}
+{"global_ix": 20385, "sentence": "i have to cancel my reservation", "label": "cancel_reservation"}
+{"global_ix": 15391, "sentence": "how would you convert yards to inches", "label": "measurement_conversion"}
+{"global_ix": 10550, "sentence": "display the routing number for account huntington", "label": "routing"}
+{"global_ix": 7260, "sentence": "does applebees do reservations", "label": "accept_reservations"}
+{"global_ix": 7320, "sentence": "how do you spend your spare time", "label": "what_are_your_hobbies"}
+{"global_ix": 16796, "sentence": "what steps do i need to take to switch my insurance plan from an hmo to a high deductible ppo plan", "label": "insurance_change"}
+{"global_ix": 4446, "sentence": "i want to set up direct deposit what do i need to do", "label": "direct_deposit"}
+{"global_ix": 12677, "sentence": "since we're out of checks i want help purchasing new ones", "label": "order_checks"}
+{"global_ix": 7848, "sentence": "can you find out the waiting times for mr joes pizza", "label": "how_busy"}
+{"global_ix": 20179, "sentence": "im going to be in canada from august 10th until august 12th", "label": "travel_notification"}
+{"global_ix": 605, "sentence": "i need to take a flight from florida to alabama on january 25th and i need to get back by the 30th", "label": "book_flight"}
+{"global_ix": 17640, "sentence": "bring up all purchases from target", "label": "transactions"}
+{"global_ix": 17476, "sentence": "i am going to south america, let my bank know", "label": "travel_notification"}
+{"global_ix": 19767, "sentence": "get me directions to phoenix", "label": "directions"}
+{"global_ix": 15879, "sentence": "please make your language setting french", "label": "change_language"}
+{"global_ix": 480, "sentence": "i'm looking for flights that depart on the 3rd and return on z from monday to friday", "label": "book_flight"}
+{"global_ix": 22750, "sentence": "i want to hear jokes about toddlers", "label": "tell_joke"}
+{"global_ix": 22816, "sentence": "check my calendar for march 4th 2019, please", "label": "calendar"}
+{"global_ix": 5886, "sentence": "hello, how is it going", "label": "greeting"}
+{"global_ix": 10737, "sentence": "tell me some fun tourist attractions in london", "label": "travel_suggestion"}
+{"global_ix": 12938, "sentence": "i really need to order some more checks for my savings account", "label": "order_checks"}
+{"global_ix": 22239, "sentence": "check how much pto i have left", "label": "pto_balance"}
+{"global_ix": 8500, "sentence": "where is the nearest gas station", "label": "directions"}
+{"global_ix": 17290, "sentence": "can you tell me how to set up direct depost", "label": "direct_deposit"}
+{"global_ix": 10705, "sentence": "text robby hello", "label": "text"}
+{"global_ix": 5991, "sentence": "what is the highway mpg of this car", "label": "mpg"}
+{"global_ix": 2510, "sentence": "take bread off my shopping list and add milk", "label": "shopping_list_update"}
+{"global_ix": 2379, "sentence": "could you make a flight reservation with air emirates from orlando to london", "label": "book_flight"}
+{"global_ix": 2570, "sentence": "what things do you enjoy doing", "label": "what_are_your_hobbies"}
+{"global_ix": 6728, "sentence": "how does my gas tank look", "label": "gas"}
+{"global_ix": 11903, "sentence": "can you tell me my current interest rate", "label": "interest_rate"}
+{"global_ix": 4265, "sentence": "can you talk to me in italian", "label": "change_language"}
+{"global_ix": 17346, "sentence": "tell me a random fact", "label": "fun_fact"}
+{"global_ix": 11669, "sentence": "i need help investigating a suspicious transaction", "label": "report_fraud"}
+{"global_ix": 4804, "sentence": "what's the total of days i've taken for me time so far", "label": "pto_used"}
+{"global_ix": 11117, "sentence": "tell me the date 650 days from now", "label": "date"}
+{"global_ix": 23516, "sentence": "is the restaurant busy at lunchtime", "label": "how_busy"}
+{"global_ix": 18572, "sentence": "how many vacation days have i used", "label": "pto_used"}
+{"global_ix": 23410, "sentence": "what do you like to do in your spare time", "label": "what_are_your_hobbies"}
+{"global_ix": 352, "sentence": "i want directions to phoenix", "label": "directions"}
+{"global_ix": 16915, "sentence": "know any dad jokes", "label": "tell_joke"}
+{"global_ix": 11232, "sentence": "there's a messed up transaction on my account from mcdonald's", "label": "report_fraud"}
+{"global_ix": 19967, "sentence": "can you text christopher and tell them im on my way", "label": "text"}
+{"global_ix": 5965, "sentence": "is tomato on my shopping list", "label": "shopping_list"}
+{"global_ix": 12725, "sentence": "will you tell me my spending limit", "label": "credit_limit"}
+{"global_ix": 16861, "sentence": "clear my calendar for this friday", "label": "calendar_update"}
+{"global_ix": 16906, "sentence": "how long to be seated at carrabas", "label": "how_busy"}
+{"global_ix": 10602, "sentence": "report the card has been damaged", "label": "damaged_card"}
+{"global_ix": 6515, "sentence": "can you set a reminder for the meeting", "label": "reminder_update"}
+{"global_ix": 3270, "sentence": "why was my card not accepted yesterday", "label": "card_declined"}
+{"global_ix": 730, "sentence": "alert my bank and let them know that i'm travelling to london", "label": "travel_notification"}
+{"global_ix": 8267, "sentence": "create a timer for me", "label": "timer"}
+{"global_ix": 9355, "sentence": "does sidetracks take reservations", "label": "accept_reservations"}
+{"global_ix": 15770, "sentence": "how are you doing, ai", "label": "greeting"}
+{"global_ix": 19135, "sentence": "i can't figure out why my card was declined at target", "label": "card_declined"}
+{"global_ix": 11785, "sentence": "i would like you to add milk if it is not on my shopping list already", "label": "shopping_list_update"}
+{"global_ix": 16720, "sentence": "can i get some more checkbooks mailed to me, please", "label": "order_checks"}
+{"global_ix": 14142, "sentence": "at around noon what is the traffic typically like on the route to the hopsital", "label": "traffic"}
+{"global_ix": 7938, "sentence": "do they take reservations at outback steakhouse", "label": "accept_reservations"}
+{"global_ix": 23280, "sentence": "i need a pto request for march 3rd and 4th", "label": "pto_request"}
+{"global_ix": 5261, "sentence": "do i have enough gas in my car to make it to dallas", "label": "gas"}
+{"global_ix": 12176, "sentence": "i would like to get a new insurance plan", "label": "insurance_change"}
+{"global_ix": 16909, "sentence": "can you remind me to finish a task", "label": "reminder_update"}
+{"global_ix": 19355, "sentence": "why was my card declined for my monthly netflix subscription payment", "label": "card_declined"}
+{"global_ix": 11473, "sentence": "what date is today", "label": "date"}
+{"global_ix": 6748, "sentence": "do i have peanuts on my shopping list if not please add it", "label": "shopping_list_update"}
+{"global_ix": 394, "sentence": "transfer $500 from my money market savings account to my checking account", "label": "transfer"}
+{"global_ix": 388, "sentence": "do you know your name", "label": "what_is_your_name"}
+{"global_ix": 6475, "sentence": "start a timer for me", "label": "timer"}
+{"global_ix": 5955, "sentence": "can you tell me the drive time to the nearest gas station", "label": "distance"}
+{"global_ix": 4315, "sentence": "how long will it take me to get to walmart", "label": "distance"}
+{"global_ix": 4644, "sentence": "where is the nearest walmart", "label": "directions"}
+{"global_ix": 15936, "sentence": "what will the traffic be like if i headed out to work right now", "label": "traffic"}
+{"global_ix": 7316, "sentence": "what is the traffic like on the way to town", "label": "traffic"}
+{"global_ix": 16322, "sentence": "take off fries from the shopping list", "label": "shopping_list_update"}
+{"global_ix": 19615, "sentence": "how much money have i recently spent on stuff", "label": "spending_history"}
+{"global_ix": 14606, "sentence": "what is the miles per gallon", "label": "mpg"}
+{"global_ix": 5734, "sentence": "please find the routing number for chase bank accounts opened in new york", "label": "routing"}
+{"global_ix": 23554, "sentence": "did i put bread on my shopping list", "label": "shopping_list"}
+{"global_ix": 21510, "sentence": "if i can, i'd like to get some more checkbooks mailed to me", "label": "order_checks"}
+{"global_ix": 16690, "sentence": "what's the mpg of this car", "label": "mpg"}
+{"global_ix": 9867, "sentence": "how many vacation days are available to me", "label": "pto_balance"}
+{"global_ix": 9837, "sentence": "add cherrios to the shopping list", "label": "shopping_list_update"}
+{"global_ix": 7941, "sentence": "i dropped my card in my gasoline and the printing wore off", "label": "damaged_card"}
+{"global_ix": 11994, "sentence": "how is life treating you", "label": "greeting"}
+{"global_ix": 2205, "sentence": "tell me what my savings account routing number is", "label": "routing"}
+{"global_ix": 20761, "sentence": "how many miles per gallon do i get", "label": "mpg"}
+{"global_ix": 1236, "sentence": "how much did i spend on movies last week", "label": "spending_history"}
+{"global_ix": 23265, "sentence": "from december 22nd to the 25th, make me a pto request", "label": "pto_request"}
+{"global_ix": 6652, "sentence": "put cancel abc on my calendar for next thursday", "label": "calendar_update"}
+{"global_ix": 7695, "sentence": "can you tell me where i left my phone", "label": "find_phone"}
+{"global_ix": 8921, "sentence": "how much vacation do i have saved", "label": "pto_balance"}
+{"global_ix": 11050, "sentence": "select a new language", "label": "change_language"}
+{"global_ix": 22503, "sentence": "what are four inches in centimeters", "label": "measurement_conversion"}
+{"global_ix": 3556, "sentence": "send $20 from debit to steve's account", "label": "transfer"}
+{"global_ix": 1184, "sentence": "what is my payment going to be", "label": "income"}
+{"global_ix": 12264, "sentence": "can you search for the best new york style cheesecake recipes please", "label": "recipe"}
+{"global_ix": 10667, "sentence": "i would like to hear a joke", "label": "tell_joke"}
+{"global_ix": 17105, "sentence": "why was my card declined just now when i tried to buy a jeep at carmax", "label": "card_declined"}
+{"global_ix": 14506, "sentence": "i would like to hear all transactions made on my amex for the last ten days", "label": "transactions"}
+{"global_ix": 5438, "sentence": "text chrissy, i'm on my way", "label": "text"}
+{"global_ix": 600, "sentence": "share the nutrition info for cake with me", "label": "nutrition_info"}
+{"global_ix": 6129, "sentence": "how much money am i making", "label": "income"}
+{"global_ix": 12631, "sentence": "what's the credit limit on my account", "label": "credit_limit"}
+{"global_ix": 20275, "sentence": "set reminder to feed cat tonight at 6pm", "label": "reminder_update"}
+{"global_ix": 10631, "sentence": "text matt and tell him i will be late tonight", "label": "text"}
+{"global_ix": 7138, "sentence": "i want to travel this year but i need some suggestions", "label": "travel_suggestion"}
+{"global_ix": 9310, "sentence": "there is no need to confirm my reservation", "label": "cancel_reservation"}
+{"global_ix": 4327, "sentence": "undo my reservation for 5 at the loft", "label": "cancel_reservation"}
+{"global_ix": 7315, "sentence": "find instructions on baking lemon cake", "label": "recipe"}
+{"global_ix": 16411, "sentence": "i want your language changed to chinese", "label": "change_language"}
+{"global_ix": 6882, "sentence": "what's a good fun fact about great britain", "label": "fun_fact"}
+{"global_ix": 22151, "sentence": "do people call you by a certain name what is it", "label": "what_is_your_name"}
+{"global_ix": 21228, "sentence": "what's 32 degrees fahrenheit in celsisus", "label": "measurement_conversion"}
+{"global_ix": 12308, "sentence": "can you find me a recipe for ribs", "label": "recipe"}
+{"global_ix": 18609, "sentence": "where do i find the routing number for nfcu", "label": "routing"}
+{"global_ix": 2884, "sentence": "i need to know how much of my pto has been used at this point", "label": "pto_used"}
+{"global_ix": 21440, "sentence": "do you know what this car's mpg is", "label": "mpg"}
+{"global_ix": 14189, "sentence": "send 1200 dollars between usaa and navy federal accounts", "label": "transfer"}
+{"global_ix": 3658, "sentence": "i'd like to know the nutritional content of eggs, please", "label": "nutrition_info"}
+{"global_ix": 12580, "sentence": "would you book me a flight to miami from dallas on southwest airlines", "label": "book_flight"}
+{"global_ix": 15339, "sentence": "can you locate my phone", "label": "find_phone"}
+{"global_ix": 22543, "sentence": "how much time to reach doctors office", "label": "distance"}
+{"global_ix": 16134, "sentence": "can i safely travel to brazil", "label": "travel_alert"}
+{"global_ix": 17165, "sentence": "what is the wait like at apple bees", "label": "how_busy"}
+{"global_ix": 3935, "sentence": "create a new timer", "label": "timer"}
+{"global_ix": 20255, "sentence": "how do i make lassagna", "label": "recipe"}
+{"global_ix": 2247, "sentence": "do i have enough funds in my card", "label": "card_declined"}
+{"global_ix": 23481, "sentence": "does nopa in san francisco take reservations", "label": "accept_reservations"}
+{"global_ix": 22218, "sentence": "can you share some trivia with me about us history", "label": "fun_fact"}
+{"global_ix": 20659, "sentence": "are you well", "label": "greeting"}
+{"global_ix": 22346, "sentence": "give me your name so i can use you", "label": "what_is_your_name"}
+{"global_ix": 21919, "sentence": "i'd like to order more checks for my savings account", "label": "order_checks"}
+{"global_ix": 16656, "sentence": "do they take reservations at olive garden", "label": "accept_reservations"}
+{"global_ix": 327, "sentence": "how much gas do i currently have", "label": "gas"}
+{"global_ix": 23086, "sentence": "have i spent a lot on food recently", "label": "spending_history"}
+{"global_ix": 6670, "sentence": "what is the interest rate on my scotiabank account", "label": "interest_rate"}

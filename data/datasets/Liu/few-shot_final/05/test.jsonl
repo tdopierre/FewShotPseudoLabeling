@@ -1,0 +1,582 @@
+{"label": "praise", "sentence": "it is great one, thank you."}
+{"label": "praise", "sentence": "that's cool,, olly."}
+{"label": "quirky", "sentence": "Show me all my commands."}
+{"label": "hue_lightdim", "sentence": "Please darken the lights."}
+{"label": "quirky", "sentence": "Where did he was yesterday?"}
+{"label": "explain", "sentence": "s2, i couldn't get what you have said."}
+{"label": "quirky", "sentence": "Olly, i had a long, hard day."}
+{"label": "post", "sentence": "post this pic to facebook"}
+{"label": "post", "sentence": "Please send a tweet to Food Lion about not having a clean restroom."}
+{"label": "praise", "sentence": "musch appreciated."}
+{"label": "podcasts", "sentence": "proceed to the next episode"}
+{"label": "affirm", "sentence": "correcly."}
+{"label": "praise", "sentence": "you rock, thank you so much, olly."}
+{"label": "affirm", "sentence": "yeah you've got my instructions correcly."}
+{"label": "hue_lightup", "sentence": "please brighten the room"}
+{"label": "hue_lightoff", "sentence": "Turn off light in bedroom"}
+{"label": "maths", "sentence": "What is 14 divided by 2?"}
+{"label": "game", "sentence": "Lets play checkers"}
+{"label": "explain", "sentence": "s1, please clarify me about your answers once again."}
+{"label": "maths", "sentence": "PDA: What's 2 plus 2"}
+{"label": "podcasts", "sentence": "Start with the first episode of that podcast."}
+{"label": "praise", "sentence": "you've done it right thank you so much, olly."}
+{"label": "hue_lightoff", "sentence": "Turn all lights off during the day."}
+{"label": "explain", "sentence": "can't understand that."}
+{"label": "game", "sentence": "can you take a role of enemy in the game of coc"}
+{"label": "joke", "sentence": "I want to hear a joke."}
+{"label": "affirm", "sentence": "yes strongly agreed."}
+{"label": "praise", "sentence": "it's fantastic work, musch appreciated, olly."}
+{"label": "praise", "sentence": "that is good one, i appreciate it."}
+{"label": "praise", "sentence": "that was good one, thank you so much."}
+{"label": "maths", "sentence": "What's 13+14?"}
+{"label": "hue_lightup", "sentence": "brighten lights in living room"}
+{"label": "explain", "sentence": "i am unclear about your response."}
+{"label": "post", "sentence": "tweet @bobburgers they screwed up my order and i had to wait an extra hour"}
+{"label": "explain", "sentence": "s2, i did not quite catch up with you."}
+{"label": "addcontact", "sentence": "Can you add a new email to my contacts?"}
+{"label": "quirky", "sentence": "Please note today a terrible things happened to me because my friend behaved rudely on me."}
+{"label": "quirky", "sentence": "What is the best chocolate chip cookie recipe"}
+{"label": "post", "sentence": "Tweet Lfix and let them know my app crashed."}
+{"label": "wemo_off", "sentence": "Please turn off the smart plug socket."}
+{"label": "praise", "sentence": "you are so helpful, thank you so much, olly."}
+{"label": "affirm", "sentence": "you've done answer right."}
+{"label": "joke", "sentence": "Do you have a joke?"}
+{"label": "explain", "sentence": "i was unclear about your answer."}
+{"label": "quirky", "sentence": "about ckicket"}
+{"label": "locations", "sentence": "Olly, get me a local restaurant."}
+{"label": "likeness", "sentence": "save opinion on song"}
+{"label": "quirky", "sentence": "Teach me about exposure settings that would be best for a cloudy day in Alaska."}
+{"label": "post", "sentence": "Tweet Target about how poorly their service was"}
+{"label": "praise", "sentence": "thank you for that information."}
+{"label": "post", "sentence": "refresh this complaint."}
+{"label": "hue_lightdim", "sentence": "Lower brightness of lights."}
+{"label": "affirm", "sentence": "yeap great."}
+{"label": "praise", "sentence": "that's excellent, thanks, olly."}
+{"label": "praise", "sentence": "that's cool, thanks, olly."}
+{"label": "post", "sentence": "Tweet Best Buy about my bad experence."}
+{"label": "joke", "sentence": "funny story"}
+{"label": "explain", "sentence": "s2, i can't catch that."}
+{"label": "post", "sentence": "Olly, write a small text on Facebook"}
+{"label": "podcasts", "sentence": "Please play the ESPN FC podcast following the Barcelona UCL comeback."}
+{"label": "explain", "sentence": "s2, do not get your answer."}
+{"label": "affirm", "sentence": "yeap you've done that right."}
+{"label": "praise", "sentence": "amazing work, you did well."}
+{"label": "podcasts", "sentence": "Please play next episode of podcast."}
+{"label": "praise", "sentence": "that's cool, musch appreciated."}
+{"label": "addcontact", "sentence": "Please add an email to my contacts."}
+{"label": "affirm", "sentence": "yes your understanding is confirmed."}
+{"label": "hue_lightup", "sentence": "Can we turn up the lights?"}
+{"label": "explain", "sentence": "s1, further rephrase me about what you just said now please."}
+{"label": "hue_lightdim", "sentence": "Give me some dim light"}
+{"label": "quirky", "sentence": "Alexa, today I had a lunch with my longtime sweetheart. Play me a nice song to the mood."}
+{"label": "affirm", "sentence": "that's excellent."}
+{"label": "hue_lightdim", "sentence": "is it ok to lower tge lights"}
+{"label": "game", "sentence": "let us play cross-words"}
+{"label": "game", "sentence": "Let's play a game.  How about tic-tac-toe"}
+{"label": "post", "sentence": "Tweet to OLX costumer service the next, I didn't receive my order number 1176"}
+{"label": "quirky", "sentence": "Whats happening in my day"}
+{"label": "praise", "sentence": "you are awesome, thanks."}
+{"label": "hue_lightoff", "sentence": "Turn off the lights in the bathroom"}
+{"label": "maths", "sentence": "#NAME?"}
+{"label": "explain", "sentence": "can you please explain more on last sentence to me."}
+{"label": "affirm", "sentence": "yeap you got answer perfectly."}
+{"label": "quirky", "sentence": "I got invited to the pub on Saturday"}
+{"label": "quirky", "sentence": "Definitions"}
+{"label": "affirm", "sentence": "you have gotten command perfectly."}
+{"label": "explain", "sentence": "once again explain your answer."}
+{"label": "praise", "sentence": "it's cool, thank you very much."}
+{"label": "explain", "sentence": "i can't quite catch that."}
+{"label": "hue_lightoff", "sentence": "Turn off bedroom light at 9:30 pm."}
+{"label": "podcasts", "sentence": "play next BBC4 podcast"}
+{"label": "post", "sentence": "Tweet a complaint to comcast"}
+{"label": "locations", "sentence": "Are there any veg restaurants in Phoenix?"}
+{"label": "explain", "sentence": "i can't get that."}
+{"label": "quirky", "sentence": "Please tell me how to do my daughters 8th grade math"}
+{"label": "addcontact", "sentence": "add this email to my contacts"}
+{"label": "praise", "sentence": "thanks for asssistance."}
+{"label": "praise", "sentence": "that's cool, thank you very much, olly."}
+{"label": "locations", "sentence": "Please look up local restaurants that are open now."}
+{"label": "locations", "sentence": "Tell me what shops are nearby"}
+{"label": "affirm", "sentence": "yeap you have gotten my instructions perfectly."}
+{"label": "game", "sentence": "Play for me the game Cricket"}
+{"label": "hue_lightup", "sentence": "Can you turn the lights up?"}
+{"label": "game", "sentence": "Do a tournament with me in Candy Crush"}
+{"label": "hue_lightup", "sentence": "Increase brightness in the room"}
+{"label": "joke", "sentence": "Tell me joke."}
+{"label": "explain", "sentence": "s2, i was not clear about your answer."}
+{"label": "locations", "sentence": "Where is the nearest smoke shop"}
+{"label": "explain", "sentence": "could you clarify me on it further."}
+{"label": "maths", "sentence": "tell me if 540 is subtracted seven time by 28."}
+{"label": "quirky", "sentence": "read a poem for me"}
+{"label": "likeness", "sentence": "I like top 40 music"}
+{"label": "affirm", "sentence": "yeap get it right."}
+{"label": "post", "sentence": "Please send a complaint about my horrible experience with a company"}
+{"label": "post", "sentence": "I want to post on Facebook."}
+{"label": "post", "sentence": "Send a funny message to all of my friends"}
+{"label": "quirky", "sentence": "I wish it had wider range of conversation"}
+{"label": "explain", "sentence": "will you please elaborate me about what you have said again."}
+{"label": "praise", "sentence": "you are my star, musch appreciated, olly."}
+{"label": "hue_lightoff", "sentence": "Turn off the lights in the living room, please."}
+{"label": "quirky", "sentence": "get me details of this person"}
+{"label": "explain", "sentence": "s2, i was not so clear about what you have just said."}
+{"label": "podcasts", "sentence": "Play the young mummy's podcast."}
+{"label": "addcontact", "sentence": "Add apahelp@yahoo.com in my contact list."}
+{"label": "explain", "sentence": "i was unclear about your words."}
+{"label": "podcasts", "sentence": "Play next episode of Cashing In With TJ Miller"}
+{"label": "podcasts", "sentence": "Please play Jocko's podcast"}
+{"label": "explain", "sentence": "please rephrase your answers again."}
+{"label": "addcontact", "sentence": "Add a new email"}
+{"label": "explain", "sentence": "will you please rephrase me more on it."}
+{"label": "quirky", "sentence": "Olly my day was extremely hard ."}
+{"label": "quirky", "sentence": "What is the purpose of life?"}
+{"label": "post", "sentence": "PDA, contact hershey customer support twitter"}
+{"label": "post", "sentence": "tweet a customer complaint to the subway website alexa"}
+{"label": "maths", "sentence": "What is 23 times 52?"}
+{"label": "affirm", "sentence": "yes you have got my instructions perfectly."}
+{"label": "quirky", "sentence": "notifications"}
+{"label": "maths", "sentence": "How many inches make one feet?"}
+{"label": "praise", "sentence": "it's fantastic job, appreciated."}
+{"label": "explain", "sentence": "s1, could you rephrase me on your words further please."}
+{"label": "quirky", "sentence": "What features do you have planned to release in the future?"}
+{"label": "quirky", "sentence": "Do you think I should see a movie or go out to dinner?"}
+{"label": "quirky", "sentence": "I do not know how to answer this question, you left a word or two out."}
+{"label": "post", "sentence": "Olly, tweet a message to At&t and tell them my service is bad."}
+{"label": "praise", "sentence": "that's cool, thank you."}
+{"label": "quirky", "sentence": "alexa how much do you know about me"}
+{"label": "post", "sentence": "Twitter to destination XL that they run out of sizes too fast."}
+{"label": "locations", "sentence": "Which is the best place to visit in this month ?"}
+{"label": "quirky", "sentence": "Do you have feelings?"}
+{"label": "post", "sentence": "i had a horrible service at olive garden i need to tweet them"}
+{"label": "hue_lightoff", "sentence": "Turn the bathroom lights off."}
+{"label": "praise", "sentence": "you are awesome, thank you, olly."}
+{"label": "explain", "sentence": "i don't understand what you just said now."}
+{"label": "likeness", "sentence": "please save that song"}
+{"label": "maths", "sentence": "What's 3 plus 355?"}
+{"label": "quirky", "sentence": "Olly, I have to tell you about my day."}
+{"label": "praise", "sentence": "you rock, thank you very much."}
+{"label": "joke", "sentence": "Search for new jokes"}
+{"label": "quirky", "sentence": "answer"}
+{"label": "praise", "sentence": "you are hero,."}
+{"label": "affirm", "sentence": "got command right."}
+{"label": "praise", "sentence": "it's helpful, i appreciate it."}
+{"label": "affirm", "sentence": "yeap you get that perfectly."}
+{"label": "praise", "sentence": "you are my hero, thank you so much, olly."}
+{"label": "affirm", "sentence": "yes you've gotten my instructions exactly."}
+{"label": "likeness", "sentence": "Please record what I have said about this song."}
+{"label": "praise", "sentence": "oh it was great one, olly."}
+{"label": "post", "sentence": "tweet at esurance 'you suck'"}
+{"label": "hue_lightdim", "sentence": "Reduce light intensity"}
+{"label": "affirm", "sentence": "fantastic response."}
+{"label": "explain", "sentence": "what do you mean by saying this."}
+{"label": "hue_lightdim", "sentence": "lower the intensity of light"}
+{"label": "quirky", "sentence": "Would you provide me with the answer to this question"}
+{"label": "joke", "sentence": "Please tell me a joke that I'll think is funny."}
+{"label": "praise", "sentence": "it is useful, i appreciate it."}
+{"label": "hue_lightup", "sentence": "Bring up all the runner lights"}
+{"label": "locations", "sentence": "Olly, what's close by for dinner?"}
+{"label": "affirm", "sentence": "that was confirmed."}
+{"label": "quirky", "sentence": "Tell me about what latest inventions are our scientists doing these days?"}
+{"label": "affirm", "sentence": "good response to the command."}
+{"label": "explain", "sentence": "s1, please will you elaborate me more on what you have said."}
+{"label": "explain", "sentence": "please rephrase more on the last sentence to me."}
+{"label": "affirm", "sentence": "yeah wonderful response to the command."}
+{"label": "quirky", "sentence": "how you know me"}
+{"label": "praise", "sentence": "great job, you did well."}
+{"label": "quirky", "sentence": "Can you tell me who create you?"}
+{"label": "quirky", "sentence": "What features are you going to add in the future?"}
+{"label": "explain", "sentence": "your response was not so clear to me."}
+{"label": "podcasts", "sentence": "Play the next podcast episode."}
+{"label": "likeness", "sentence": "This song was very good!"}
+{"label": "game", "sentence": "lets play pinball"}
+{"label": "game", "sentence": "PLEASE PLAY MY CRICKET GAME."}
+{"label": "praise", "sentence": "that's helpful, i appreciate it, olly."}
+{"label": "quirky", "sentence": "I want to buy over-ear headphones with Minimum Frequency Response of 15 Hz and Maximum Frequency Response 22000 Hz."}
+{"label": "quirky", "sentence": "Good Morning, Vietnam!"}
+{"label": "hue_lightoff", "sentence": "Turn off this light"}
+{"label": "praise", "sentence": "appreciate help."}
+{"label": "locations", "sentence": "Where is the nearest gas station?"}
+{"label": "affirm", "sentence": "yeap command was confirmed."}
+{"label": "podcasts", "sentence": "load my playlist titled country favorites and play it"}
+{"label": "quirky", "sentence": "Tell me about the latest media trends"}
+{"label": "podcasts", "sentence": "play my country favorites playlist for me"}
+{"label": "quirky", "sentence": "My day was full of work Olly."}
+{"label": "quirky", "sentence": "Tell me more about the Japan Day Festival."}
+{"label": "likeness", "sentence": "Save my opinion on Adele's song."}
+{"label": "affirm", "sentence": "yeah you've done that exactly."}
+{"label": "wemo_off", "sentence": "Switch off the smart socket"}
+{"label": "hue_lightoff", "sentence": "please turn off the kitchen"}
+{"label": "quirky", "sentence": "show me reviews of Donald Trump"}
+{"label": "explain", "sentence": "could you clarify me more on what you have said please."}
+{"label": "explain", "sentence": "s1, please elaborate me on your answer further."}
+{"label": "podcasts", "sentence": "find the beginning of the podcast"}
+{"label": "explain", "sentence": "s1, could you please again rephrase me about what you said now."}
+{"label": "quirky", "sentence": "I hope tomorrow will be better."}
+{"label": "praise", "sentence": "it was cool, musch appreciated, olly."}
+{"label": "quirky", "sentence": "Nightime"}
+{"label": "quirky", "sentence": "i am angery"}
+{"label": "hue_lightdim", "sentence": "lower the overhead lights"}
+{"label": "affirm", "sentence": "yeap excellent response to command."}
+{"label": "quirky", "sentence": "Why do starving people keep having kids?"}
+{"label": "hue_lightoff", "sentence": "Shut the living room lights."}
+{"label": "quirky", "sentence": "Tell me something I can do to help my community today ?"}
+{"label": "explain", "sentence": "what do you mean."}
+{"label": "praise", "sentence": "good work, you did well."}
+{"label": "joke", "sentence": "Olly, do you know what a joke is?"}
+{"label": "quirky", "sentence": "How people are thinking in such a manner that they can hide everything from God"}
+{"label": "affirm", "sentence": "yeah got that perfectly."}
+{"label": "explain", "sentence": "i don't catch up with you."}
+{"label": "praise", "sentence": "excellent work, you did well."}
+{"label": "hue_lightoff", "sentence": "Please turn off the light"}
+{"label": "podcasts", "sentence": "Play the newest morning show podcast."}
+{"label": "post", "sentence": "Tweet long wait time and unprofessional employees."}
+{"label": "quirky", "sentence": "review latest movies"}
+{"label": "explain", "sentence": "s2, i was unclear about your answer."}
+{"label": "praise", "sentence": "it's cool, thank you so much, olly."}
+{"label": "post", "sentence": "Please put this photo on my Instagram."}
+{"label": "praise", "sentence": "you rock,, olly."}
+{"label": "quirky", "sentence": "nice to talk to you"}
+{"label": "game", "sentence": "bring up papa pear saga"}
+{"label": "locations", "sentence": "are there any shopping centers nearby"}
+{"label": "maths", "sentence": "do you know math?"}
+{"label": "game", "sentence": "game name"}
+{"label": "quirky", "sentence": "Ok Google, what do you think of Trump"}
+{"label": "quirky", "sentence": "i'm so happy today Olly, I got tickets for the concert"}
+{"label": "post", "sentence": "use facebook to post"}
+{"label": "joke", "sentence": "What's a good joke?"}
+{"label": "quirky", "sentence": "I would like my PDA to update all  breaking news across the world"}
+{"label": "wemo_off", "sentence": "I want the wemo socket off."}
+{"label": "affirm", "sentence": "yeap confirmed."}
+{"label": "likeness", "sentence": "make this my favorite"}
+{"label": "praise", "sentence": "you have done that right thank you."}
+{"label": "praise", "sentence": "excellent work, you've done well."}
+{"label": "likeness", "sentence": "Save my spotify preferences"}
+{"label": "post", "sentence": "Compose a tweet for Youtube."}
+{"label": "praise", "sentence": "great job, you've done well, olly."}
+{"label": "locations", "sentence": "PLEASE COULD YOU TELL ME THE GOOD RESTAURANT IN NEW YORK.."}
+{"label": "post", "sentence": "Facebook Status: Busy day"}
+{"label": "praise", "sentence": "oh it's excellent."}
+{"label": "affirm", "sentence": "you've gotten my instructions correcly."}
+{"label": "quirky", "sentence": "Horoscope"}
+{"label": "quirky", "sentence": "If I have $2000 in my savings account, how much will I have by the end of the year with interest?"}
+{"label": "hue_lightup", "sentence": "Cortana, increase the brightness of the lights."}
+{"label": "podcasts", "sentence": "Play a podcast from my favorties list."}
+{"label": "game", "sentence": "Play Solitaire"}
+{"label": "locations", "sentence": "locate local pizza shops"}
+{"label": "affirm", "sentence": "it's fantastic."}
+{"label": "praise", "sentence": "appreciated, it's nice one, olly."}
+{"label": "addcontact", "sentence": "alexa add sam@gmail.com to my contacts list"}
+{"label": "affirm", "sentence": "yeah get answer right."}
+{"label": "explain", "sentence": "could you elaborate further on your answers to me."}
+{"label": "hue_lightdim", "sentence": "minimize the lights"}
+{"label": "quirky", "sentence": "Fashion"}
+{"label": "quirky", "sentence": "What would happen if healthcare in the United States where free?"}
+{"label": "praise", "sentence": "it's cool, thanks."}
+{"label": "podcasts", "sentence": "forward episode of NYT podcast"}
+{"label": "quirky", "sentence": "find recent events of the celebrity"}
+{"label": "wemo_off", "sentence": "Keep the socket in off condition"}
+{"label": "likeness", "sentence": "Save this song in my favorites."}
+{"label": "hue_lightdim", "sentence": "change the lights to dim"}
+{"label": "explain", "sentence": "s2, i was not so clear about what you said."}
+{"label": "quirky", "sentence": "Wimbledon Grand slamm tennis"}
+{"label": "praise", "sentence": "you are my hero, thank you so much."}
+{"label": "affirm", "sentence": "yeap you have understood my instructions right."}
+{"label": "quirky", "sentence": "Does Mr T have a family?"}
+{"label": "affirm", "sentence": "you've got the command exactly."}
+{"label": "hue_lightoff", "sentence": "pls turn off all the lights outdoor"}
+{"label": "locations", "sentence": "Find tacos near my home"}
+{"label": "hue_lightoff", "sentence": "Lights off in the kitchen, please."}
+{"label": "quirky", "sentence": "Tell me if I can travel the whole world in a day"}
+{"label": "post", "sentence": "I want to post on LinkedIn."}
+{"label": "quirky", "sentence": "what mistakes do you usually make"}
+{"label": "likeness", "sentence": "Rate this song to the maximum."}
+{"label": "praise", "sentence": "that is nice one, i appreciate it."}
+{"label": "likeness", "sentence": "I WANT TO SAY SOMETHING ABOUT THIS SONG."}
+{"label": "hue_lightup", "sentence": "Please increase the light."}
+{"label": "maths", "sentence": "PDA: I've got $300 for the month, how much can I spend every day this month?"}
+{"label": "explain", "sentence": "explain this again to me please."}
+{"label": "post", "sentence": "PDA, tweet a complaint to kohl's customer service"}
+{"label": "likeness", "sentence": "Olly I love Kfix so much he's by far my favorite"}
+{"label": "quirky", "sentence": "Calculate the costs of cable and internet providers in my area. Where can I save the most?"}
+{"label": "affirm", "sentence": "you have done answer perfectly."}
+{"label": "quirky", "sentence": "Start a conversation with me about sports"}
+{"label": "affirm", "sentence": "yes that's great."}
+{"label": "explain", "sentence": "what you have said is not so clear."}
+{"label": "affirm", "sentence": "yeap it's good."}
+{"label": "praise", "sentence": "ah that's perfect job, olly."}
+{"label": "quirky", "sentence": "What would you look like if you were a real human being?"}
+{"label": "maths", "sentence": "how to calculate trigonametry"}
+{"label": "maths", "sentence": "Convert 10 miles to kilometers"}
+{"label": "podcasts", "sentence": "play musician play list"}
+{"label": "hue_lightoff", "sentence": "PDA, shut of the lights"}
+{"label": "praise", "sentence": "you did excellent job,, olly."}
+{"label": "hue_lightdim", "sentence": "Please turn down the lights"}
+{"label": "game", "sentence": "Olly, lets play tic tac toe."}
+{"label": "explain", "sentence": "could you further clarify me about it please."}
+{"label": "quirky", "sentence": "When is the first 70 degree day forecast?"}
+{"label": "explain", "sentence": "explain your words again to me please."}
+{"label": "affirm", "sentence": "yeap got it perfectly."}
+{"label": "explain", "sentence": "i can't catch up with you."}
+{"label": "podcasts", "sentence": "podcast play"}
+{"label": "quirky", "sentence": "what is the most concern issue in USA today and what can be done to deal with it effectively ."}
+{"label": "hue_lightoff", "sentence": "Turn all the lights off."}
+{"label": "explain", "sentence": "please explain me on it once again."}
+{"label": "quirky", "sentence": "describe about it"}
+{"label": "quirky", "sentence": "PDA I bought cruiser tickets"}
+{"label": "explain", "sentence": "could you rephrase that further to me."}
+{"label": "hue_lightdim", "sentence": "lower the light intensity"}
+{"label": "hue_lightup", "sentence": "Increase the light a little."}
+{"label": "praise", "sentence": "thanks for listening."}
+{"label": "likeness", "sentence": "I like top 20 music."}
+{"label": "affirm", "sentence": "yeap you've gotten that correcly."}
+{"label": "affirm", "sentence": "yeah that was confirmed."}
+{"label": "post", "sentence": "Post a status on my twitter account"}
+{"label": "praise", "sentence": "it is useful, thank you."}
+{"label": "locations", "sentence": "Olly, Where can I got to grab some drinks in west chester"}
+{"label": "podcasts", "sentence": "I would like to listen to this mornings Mike and Mike podcast."}
+{"label": "praise", "sentence": "thank you so much, olly."}
+{"label": "quirky", "sentence": "Please give me the wnning lottory numbers for this weekend."}
+{"label": "hue_lightdim", "sentence": "can you lower the lights"}
+{"label": "maths", "sentence": "is equal to"}
+{"label": "podcasts", "sentence": "Play next episode of Con Man."}
+{"label": "game", "sentence": "Play GTA vice city game."}
+{"label": "podcasts", "sentence": "Play most recent podcast upload."}
+{"label": "podcasts", "sentence": "I want to listen to the latest Mike and mike podcast."}
+{"label": "greet", "sentence": "hi"}
+{"label": "praise", "sentence": "that's cool, appreciated, olly."}
+{"label": "affirm", "sentence": "yeap perfectly."}
+{"label": "quirky", "sentence": "show me a funny video on youtube"}
+{"label": "quirky", "sentence": "Can you give me the details of upcoming annual function on 26th March?"}
+{"label": "post", "sentence": "Please tweet a complaint about slow service at Applebee's"}
+{"label": "affirm", "sentence": "you did that perfectly."}
+{"label": "podcasts", "sentence": "I'd like to listen to a podcast now."}
+{"label": "locations", "sentence": "recommend me some shops to shopping in Angel"}
+{"label": "quirky", "sentence": "I had a great day today."}
+{"label": "quirky", "sentence": "What's an interesting fact not many people know?"}
+{"label": "hue_lightoff", "sentence": "Light off living room."}
+{"label": "affirm", "sentence": "yes get your understanding right."}
+{"label": "maths", "sentence": "What is the answer to 2 plus 2?"}
+{"label": "post", "sentence": "tweet 'I am doing well' on Twitter"}
+{"label": "affirm", "sentence": "great response to the command."}
+{"label": "joke", "sentence": "What is your best joke"}
+{"label": "quirky", "sentence": "Today the following happened to me: I had a meeting with George"}
+{"label": "quirky", "sentence": "PDA, learn that when I say Mom, I mean Giselle Adams."}
+{"label": "hue_lightoff", "sentence": "Turn lights off."}
+{"label": "game", "sentence": "Load a fun game that I can play with you."}
+{"label": "quirky", "sentence": "i am sad"}
+{"label": "post", "sentence": "open gallery post video name"}
+{"label": "hue_lightup", "sentence": "Lighten the light"}
+{"label": "wemo_off", "sentence": "Turn off my wemo socket"}
+{"label": "affirm", "sentence": "yes you have gotten it exactly."}
+{"label": "quirky", "sentence": "How do you think the world ends?"}
+{"label": "podcasts", "sentence": "Play that podcast I was listening to yesterday."}
+{"label": "quirky", "sentence": "ABOUT REALITY IN WORLD"}
+{"label": "locations", "sentence": "what is the nearest pizza shop"}
+{"label": "quirky", "sentence": "Tell me more about John Smith."}
+{"label": "praise", "sentence": "you are my star, appreciated."}
+{"label": "post", "sentence": "Please positive tweet on Hp services."}
+{"label": "podcasts", "sentence": "Play podcast a."}
+{"label": "greet", "sentence": "Hello Olly, how are you today?"}
+{"label": "quirky", "sentence": "what's on your mind today?"}
+{"label": "quirky", "sentence": "How much is a call per minute to Mauritania?"}
+{"label": "post", "sentence": "Complain to..."}
+{"label": "hue_lightup", "sentence": "Lights brighter"}
+{"label": "affirm", "sentence": "yes you've done command exactly."}
+{"label": "praise", "sentence": "you have done it correctly musch appreciated, olly."}
+{"label": "game", "sentence": "Let's play global thermonuclear war."}
+{"label": "podcasts", "sentence": "Can I see the next episode of the podcast?"}
+{"label": "maths", "sentence": "Olly, what's the sum of the two numbers 4 and 6"}
+{"label": "hue_lightoff", "sentence": "PDA turn office lights off"}
+{"label": "wemo_off", "sentence": "Shut off the socket"}
+{"label": "praise", "sentence": "that's good one, olly."}
+{"label": "quirky", "sentence": "I need to have location services on, can you check?"}
+{"label": "praise", "sentence": "i appreciate it, that's good."}
+{"label": "quirky", "sentence": "opinion about latest gadgets."}
+{"label": "locations", "sentence": "Give me some cafes near downtown Fort Lauderdale."}
+{"label": "likeness", "sentence": "PDA I love to rock out with my sock out."}
+{"label": "explain", "sentence": "s1, please again explain last sentence."}
+{"label": "post", "sentence": "Please update my status on platform X"}
+{"label": "quirky", "sentence": "Anything i need to know?"}
+{"label": "quirky", "sentence": "Olly today was a tiring day"}
+{"label": "quirky", "sentence": "Job interview preparation"}
+{"label": "locations", "sentence": "where are Italian restaurants in my area"}
+{"label": "praise", "sentence": "you've done it right thank you very much, olly."}
+{"label": "post", "sentence": "Help complaint to consumer service"}
+{"label": "praise", "sentence": "fantastic job, you've done well, olly."}
+{"label": "affirm", "sentence": "yeah you have understood that right."}
+{"label": "affirm", "sentence": "yeah strongly agree."}
+{"label": "affirm", "sentence": "yeap exactly."}
+{"label": "addcontact", "sentence": "Save the email to my contact"}
+{"label": "quirky", "sentence": "I need to keep two toddlers busy - tell me what to do"}
+{"label": "locations", "sentence": "where is the nearest restaurant here?"}
+{"label": "quirky", "sentence": "where I went today?"}
+{"label": "post", "sentence": "Hello can you give the contact details for a particular service centre."}
+{"label": "hue_lightup", "sentence": "a little brighter thanks"}
+{"label": "explain", "sentence": "would you explain more on your response to me."}
+{"label": "podcasts", "sentence": "Find ... podcast and play it."}
+{"label": "game", "sentence": "Can you play tic tac toe?"}
+{"label": "affirm", "sentence": "yeap you've got your understanding right."}
+{"label": "explain", "sentence": "please again explain to me."}
+{"label": "joke", "sentence": "I would like to hear some good funny jokes."}
+{"label": "praise", "sentence": "thanks, it's perfect, olly."}
+{"label": "post", "sentence": "Please say the following on Facebook:"}
+{"label": "affirm", "sentence": "yeap that's exact."}
+{"label": "post", "sentence": "tweet a customer complaint on the service at the long horn steak house alexa"}
+{"label": "maths", "sentence": "could you  calculate 5 + 5?"}
+{"label": "likeness", "sentence": "I like the songs of Yeshudas please play it."}
+{"label": "quirky", "sentence": "Beam me up scotty"}
+{"label": "post", "sentence": "Manage facebook status"}
+{"label": "explain", "sentence": "can you elaborate me on your answers again."}
+{"label": "locations", "sentence": "Find Restaurants within 100 miles"}
+{"label": "post", "sentence": "Send a tweet to Amazon customer service that the package was delivered late"}
+{"label": "praise", "sentence": "well done, thank you so much."}
+{"label": "game", "sentence": "search for the teams that are playing"}
+{"label": "post", "sentence": "Tweet complaint to consumer service"}
+{"label": "wemo_off", "sentence": "Can we deactive the socket"}
+{"label": "quirky", "sentence": "Will there be a World War IV?"}
+{"label": "praise", "sentence": "thank you very much for doing that."}
+{"label": "hue_lightoff", "sentence": "Bedroom lights off now."}
+{"label": "locations", "sentence": "List all the shops that are located in Milan"}
+{"label": "hue_lightoff", "sentence": "Turn the lamp off"}
+{"label": "post", "sentence": "send tweet to @bobburgers they screwed up my order and i had to wait an extra hour"}
+{"label": "quirky", "sentence": "Answer this question. What's the first boss in Super Mario Bros?"}
+{"label": "post", "sentence": "Tweet consumer service that the delivery is late."}
+{"label": "podcasts", "sentence": "Go back"}
+{"label": "explain", "sentence": "i was not clear about your answers."}
+{"label": "post", "sentence": "Tweet a complaint to Amazon about delayed shipment"}
+{"label": "podcasts", "sentence": "Network podcast"}
+{"label": "explain", "sentence": "s2, didn't get that."}
+{"label": "quirky", "sentence": "tell me about this person"}
+{"label": "addcontact", "sentence": "Cortana, add something@gmail.com to my contacts."}
+{"label": "greet", "sentence": "how are you"}
+{"label": "likeness", "sentence": "I find rap music really enjoyable."}
+{"label": "affirm", "sentence": "yes got that perfectly."}
+{"label": "podcasts", "sentence": "Start playing podcast about books."}
+{"label": "explain", "sentence": "s2, i am not clear about what you have said."}
+{"label": "quirky", "sentence": "Whats it near"}
+{"label": "post", "sentence": "Post this status to my social media account."}
+{"label": "explain", "sentence": "i can not quite catch up with you."}
+{"label": "game", "sentence": "Olly, i want to play some video games"}
+{"label": "post", "sentence": "tweet a complaint to telephone exchange"}
+{"label": "quirky", "sentence": "any latest updates for the games."}
+{"label": "explain", "sentence": "explain more on what you've just said to me."}
+{"label": "explain", "sentence": "i could not quite catch up with you."}
+{"label": "praise", "sentence": "ah it's excellent, olly."}
+{"label": "praise", "sentence": "i appreciate response, olly."}
+{"label": "locations", "sentence": "list shops in second street"}
+{"label": "affirm", "sentence": "yeap please."}
+{"label": "game", "sentence": "create a playing teams and play with them"}
+{"label": "likeness", "sentence": "Send this song to my favorites"}
+{"label": "quirky", "sentence": "What is inflation and explain it's relationship with the economy?"}
+{"label": "quirky", "sentence": "I would love to talk about music"}
+{"label": "joke", "sentence": "Show me a funny joke."}
+{"label": "praise", "sentence": "you rock, i appreciate it."}
+{"label": "wemo_off", "sentence": "Please turn off my smart plug socket."}
+{"label": "hue_lightoff", "sentence": "turn off the living room light"}
+{"label": "quirky", "sentence": "what is the factor that let modi win the election"}
+{"label": "likeness", "sentence": "my review"}
+{"label": "quirky", "sentence": "where are you from?"}
+{"label": "explain", "sentence": "s2, i was unclear about your response."}
+{"label": "praise", "sentence": "it's cool, i appreciate it."}
+{"label": "hue_lightup", "sentence": "increase the bright of the light"}
+{"label": "joke", "sentence": "Find me the best knock knock joke on the internet."}
+{"label": "post", "sentence": "Tweet at United Airlines I'm angry you lost my bags"}
+{"label": "explain", "sentence": "i did not catch that."}
+{"label": "affirm", "sentence": "yeap good response."}
+{"label": "game", "sentence": "Do you want to play?"}
+{"label": "explain", "sentence": "could you clarify me on this once again please."}
+{"label": "quirky", "sentence": "open the door"}
+{"label": "explain", "sentence": "could you further clarify what you have said to me please."}
+{"label": "hue_lightdim", "sentence": "Please dim the lights in the bedrooms"}
+{"label": "quirky", "sentence": "Trump"}
+{"label": "explain", "sentence": "can you rephrase me further on that."}
+{"label": "affirm", "sentence": "good."}
+{"label": "praise", "sentence": "that was useful, i appreciate it."}
+{"label": "explain", "sentence": "s2, don't understand that."}
+{"label": "explain", "sentence": "s2, i am not so clear about what you have just said."}
+{"label": "quirky", "sentence": "What type of stone is in this ring"}
+{"label": "explain", "sentence": "your words is not so clear."}
+{"label": "quirky", "sentence": "Hi, you there"}
+{"label": "podcasts", "sentence": "strong lt angree"}
+{"label": "praise", "sentence": "appreciated, that's amazing."}
+{"label": "locations", "sentence": "Please find the most popular store in the area."}
+{"label": "hue_lightoff", "sentence": "Bedroom light off!"}
+{"label": "addcontact", "sentence": "Make this email a new contact."}
+{"label": "praise", "sentence": "it's helpful, musch appreciated, olly."}
+{"label": "post", "sentence": "Tweet Macy's a complaint about their sales clerk."}
+{"label": "explain", "sentence": "s1, could you rephrase further on what you have said to me please."}
+{"label": "wemo_off", "sentence": "Power off please"}
+{"label": "podcasts", "sentence": "back one episode"}
+{"label": "locations", "sentence": "Where is the closest Sweet Frog?"}
+{"label": "praise", "sentence": "it was awesome, thank you so much."}
+{"label": "podcasts", "sentence": "Next podcast."}
+{"label": "explain", "sentence": "s1, could you please again clarify what you have just said."}
+{"label": "likeness", "sentence": "This is the best band ever"}
+{"label": "praise", "sentence": "wonderful job, you have done well, olly."}
+{"label": "praise", "sentence": "you did nice job, appreciated, olly."}
+{"label": "explain", "sentence": "could not get your answer."}
+{"label": "quirky", "sentence": "i just want some more information about the poetry"}
+{"label": "locations", "sentence": "Search for nearby Chinese restaurants"}
+{"label": "explain", "sentence": "please again explain."}
+{"label": "game", "sentence": "Fight me in Street Fighter"}
+{"label": "locations", "sentence": "Where can I get Shawarma in this area ?"}
+{"label": "explain", "sentence": "clarify what you have said once again to me please."}
+{"label": "post", "sentence": "set a consumer service complain"}
+{"label": "explain", "sentence": "s1, again explain to me please."}
+{"label": "quirky", "sentence": "heating levels at what times in the apt"}
+{"label": "likeness", "sentence": "This song is my favourite"}
+{"label": "quirky", "sentence": "what time the costco close"}
+{"label": "wemo_off", "sentence": "Turn off the wemo plug"}
+{"label": "quirky", "sentence": "Compare price of  a audio device from all websites with free shipping?"}
+{"label": "praise", "sentence": "you've done it correctly, olly."}
+{"label": "praise", "sentence": "you did fantastic work,, olly."}
+{"label": "quirky", "sentence": "AN OBJECT IS AN INVISIBLE"}
+{"label": "hue_lightup", "sentence": "brighten more light."}
+{"label": "hue_lightoff", "sentence": "please turn lights off"}
+{"label": "affirm", "sentence": "command was confirmed."}
+{"label": "post", "sentence": "Please tweet 'Waited 65 minutes for a table at TGI Fridays.  Never going back'"}
+{"label": "hue_lightoff", "sentence": "Sandle"}
+{"label": "game", "sentence": "Open FIFA 17"}
+{"label": "podcasts", "sentence": "play my play list"}
+{"label": "quirky", "sentence": "what is the history of smart phones"}
+{"label": "post", "sentence": "att"}
+{"label": "affirm", "sentence": "yes your understanding was perfect."}
+{"label": "affirm", "sentence": "yeah."}
+{"label": "affirm", "sentence": "amazing response to the command."}
+{"label": "hue_lightoff", "sentence": "Turn off my room lights."}
+{"label": "podcasts", "sentence": "Skip to the next episode."}
+{"label": "post", "sentence": "Write on twitter that customer service in this location is horrible"}
+{"label": "quirky", "sentence": "how to abs in six week"}
+{"label": "maths", "sentence": "what is ___ +-x etc ____"}
+{"label": "affirm", "sentence": "you get your understanding right."}
+{"label": "praise", "sentence": "you helped a lot,."}
+{"label": "post", "sentence": "Send twitter to mattel that they need to stop making toys in china."}
+{"label": "likeness", "sentence": "PDA I love hip-hop"}
+{"label": "post", "sentence": "Check me into home on Facebook"}
+{"label": "joke", "sentence": "Let me laugh hearing some good joke"}
+{"label": "praise", "sentence": "fantastic job, you've done well."}
+{"label": "game", "sentence": "play angry bird"}
+{"label": "quirky", "sentence": "PDA, tell me a place that has snow now"}
+{"label": "praise", "sentence": "thank you for completing it, olly."}
+{"label": "podcasts", "sentence": "Play the next episode of this podcast."}
+{"label": "praise", "sentence": "thanks."}
+{"label": "podcasts", "sentence": "Play a podcast from my library"}
+{"label": "post", "sentence": "Tweet complaint at Verizon."}
+{"label": "explain", "sentence": "can you please clarify me more on your answers."}
+{"label": "quirky", "sentence": "show me what I can do with fitness"}
+{"label": "podcasts", "sentence": "go to favourite list"}
+{"label": "quirky", "sentence": "Tell me more about my events."}
+{"label": "explain", "sentence": "what you have said is not clear to me."}
+{"label": "explain", "sentence": "please further elaborate your response."}
+{"label": "praise", "sentence": "that's good, thanks."}
+{"label": "quirky", "sentence": "What is your name?"}
+{"label": "hue_lightoff", "sentence": "PDA turn off the light"}
+{"label": "game", "sentence": "Play mindsweeper with me."}
+{"label": "hue_lightup", "sentence": "Pull up lights control."}
+{"label": "praise", "sentence": "amazing job, you have done well."}
+{"label": "quirky", "sentence": "Please tell me how to get to Terre Haute, IN?"}
+{"label": "praise", "sentence": "excellent job, you have done well."}
+{"label": "explain", "sentence": "please further rephrase me about what you have said."}
+{"label": "post", "sentence": "BIRTH DAY WHISHES"}
+{"label": "praise", "sentence": "that is great one."}
+{"label": "locations", "sentence": "Where can I get a good burger within 5 miles."}
+{"label": "podcasts", "sentence": "Search for podcasts that cover men's issues."}
