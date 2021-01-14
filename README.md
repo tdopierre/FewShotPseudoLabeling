@@ -46,3 +46,14 @@ python get_pseudo_labels.py hierarchical \
     --output path/to/output
 ```
 This script will compute pseudo labels using labeled and unlabeled data. The default output location is `runs/`.
+
+## Reference
+If you use the data or codes in this repository, please cite our paper.
+```bash
+@inproceedings{dopierre-etal-2020-shot,
+    title = "Few-shot Pseudo-Labeling for Intent Detection",
+    author = "Dopierre, Thomas  and Gravier, Christophe  and Subercaze, Julien  and Logerais, Wilfried",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    year = "2020",
+}
+```
