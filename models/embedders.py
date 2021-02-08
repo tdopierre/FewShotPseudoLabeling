@@ -11,7 +11,7 @@ logger = Logger('FSID')
 
 
 class Embedder:
-    def __init__(self, language):
+    def __init__(self, language=None):
         self.language = language
 
     def check_download(self):
@@ -23,11 +23,11 @@ class Embedder:
 
 class FastTextEmbedder(Embedder):
     def __init__(self, language):
-        import fastText
+        import fasttext
 
         super(FastTextEmbedder, self).__init__(language=language)
         self.language = language  # type: str
-        self.fasttext = fastText.load_model(self.check_download())  # type: fastText.FastText
+        self.fasttext = fasttext.load_model(self.check_download())
 
     def check_download(self):
         current_model_path = os.path.join(FASTTEXT_MODELS_PATH, f'cc.{self.language}.300.bin')
@@ -68,7 +68,7 @@ class ELMoEmbedder(Embedder):
 
 class BERTEmbedder(Embedder):
     def __init__(self, config_name_or_path, device=torch.device("cpu") if not torch.cuda.is_available() else torch.device("cuda")):
-        from transformers import BertModel, BertTokenizer, BertConfig, AutoConfig, AutoModel, AutoTokenizer
+        from transformers import AutoModel, AutoTokenizer
 
         super(BERTEmbedder, self).__init__()
         self.device = device
@@ -92,7 +92,7 @@ class BERTEmbedder(Embedder):
             e['input_ids'] = e['input_ids'][:max_len]
             e['token_type_ids'] = e['token_type_ids'][:max_len]
             pad_len = max_len - len(e['input_ids'])
-            input_ids.append(e['input_ids'] + (pad_len) * [self.tokenizer.pad_token_id])
+            input_ids.append(e['input_ids'] + pad_len * [self.tokenizer.pad_token_id])
             attention_masks.append([1 for _ in e['input_ids']] + [0] * pad_len)
             token_type_ids.append(e['token_type_ids'] + [0] * pad_len)
 
