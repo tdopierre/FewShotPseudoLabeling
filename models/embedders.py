@@ -1,6 +1,4 @@
 import os
-import fastText
-import elmoformanylangs
 import re
 import string
 from util.constants import FASTTEXT_MODELS_PATH, ELMO_MODELS_PATH
@@ -10,7 +8,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-from transformers import BertModel, BertTokenizer, BertConfig, AutoConfig, AutoModel, AutoTokenizer
 import numpy as np
 
 logger = Logger('FSID')
@@ -29,6 +26,8 @@ class Embedder:
 
 class FastTextEmbedder(Embedder):
     def __init__(self, language):
+        import fastText
+
         super(FastTextEmbedder, self).__init__(language=language)
         self.language = language  # type: str
         self.fasttext = fastText.load_model(self.check_download())  # type: fastText.FastText
@@ -46,6 +45,8 @@ class FastTextEmbedder(Embedder):
 
 class ELMoEmbedder(Embedder):
     def __init__(self, language):
+        import elmoformanylangs
+
         super(ELMoEmbedder, self).__init__(language=language)
         self.language = language  # type:str
         self.elmo = elmoformanylangs.Embedder(self.check_download())
@@ -70,6 +71,8 @@ class ELMoEmbedder(Embedder):
 
 class BERTEmbedder(nn.Module):
     def __init__(self, config_name_or_path, device=torch.device("cpu") if not torch.cuda.is_available() else torch.device("cuda")):
+        from transformers import BertModel, BertTokenizer, BertConfig, AutoConfig, AutoModel, AutoTokenizer
+
         super(BERTEmbedder, self).__init__()
         self.device = device
         logger.info(f"Loading Encoder @ {config_name_or_path}")
