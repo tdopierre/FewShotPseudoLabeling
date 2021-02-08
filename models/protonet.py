@@ -15,9 +15,14 @@ from transformers import BertModel, BertTokenizer, BertConfig, AutoConfig, AutoM
 import warnings
 import logging
 
+from models.embedders import BERTEncoder
+
 logging.basicConfig()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
+
+device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+logger.info(f"Using device {device}")
 
 warnings.simplefilter('ignore')
 
@@ -213,7 +218,7 @@ def load_weights(filename, protonet, use_gpu):
 
 def run_proto(train_path, model_name_or_path, test_input_path=None, test_output_path=None, refined=False):
     import numpy as np
-    from util.data import get_jsonl_data
+    from util.data import load_data_jsonl
     import random
     import collections
     import os
@@ -223,15 +228,17 @@ def run_proto(train_path, model_name_or_path, test_input_path=None, test_output_
         os.makedirs(os.path.dirname(test_output_path), exist_ok=True)
     if test_input_path:
         test_sentences = [line.strip() for line in open(test_input_path, 'r').readlines() if len(line.strip())]
+    else:
+        test_sentences = list()
     # train_path = f'data/datasets/Liu/few-shot_final/01/train.jsonl'
 
     # Load model
-    bert = BERTEncoder(model_name_or_path).to(device)
+    bert = BERTEncoder(model_name_or_path)
     net = Protonet(encoder=bert)
     optimizer = torch.optim.Adam(net.parameters(), lr=2e-5)
 
     # Load data
-    data = get_jsonl_data(train_path)
+    data = load_data_jsonl(train_path)
     print("Data loaded")
     data_dict = collections.defaultdict(list)
     for d in data:

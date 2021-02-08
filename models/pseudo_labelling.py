@@ -169,11 +169,11 @@ class FoldUnfoldPseudoLabeler:
         n_batches = len(range(0, len(unlabeled_data), batch_size))
 
         all_recovered = list()
-        labeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in labeled_data]))
+        labeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in labeled_data], detached=True))
 
         for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
             logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
-            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in unlabeled_data_chunk]))
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in unlabeled_data_chunk], detached=True))
             labels = [d['label'] for d in labeled_data] + ['' for _ in unlabeled_data_chunk]
             labels_vocab = Vocab([d['label'] for d in labeled_data])
             embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)

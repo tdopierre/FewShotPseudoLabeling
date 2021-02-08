@@ -17,7 +17,7 @@ class Embedder:
     def check_download(self):
         pass
 
-    def embed_sentences(self, sentences):
+    def embed_sentences(self, sentences, **kwargs):
         pass
 
 
@@ -35,7 +35,7 @@ class FastTextEmbedder(Embedder):
             raise FileNotFoundError(f'FastText model was not found at {current_model_path}.')
         return current_model_path
 
-    def embed_sentences(self, sentences):
+    def embed_sentences(self, sentences, **kwargs):
         embeddings = [self.fasttext.get_sentence_vector(str(s)) for s in sentences]
         return embeddings
 
@@ -60,44 +60,47 @@ class ELMoEmbedder(Embedder):
         sentence_tokenized = sentence.split()
         return sentence_tokenized
 
-    def embed_sentences(self, sentences):
+    def embed_sentences(self, sentences, **kwargs):
         sentences_tokenized = [self._tokenize(s) for s in sentences]
         embedded = self.elmo.sents2elmo(sentences_tokenized, output_layer=-2)
         return [e.mean((0, 1)) for e in embedded]
 
 
 class BERTEmbedder(Embedder):
-    def __init__(self, config_name_or_path, device=torch.device("cpu") if not torch.cuda.is_available() else torch.device("cuda")):
-        from transformers import AutoModel, AutoTokenizer
+    def __init__(self, config_name_or_path):
+        from transformers import AutoTokenizer, AutoModel
+        import torch
+        self.device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
         super(BERTEmbedder, self).__init__()
-        self.device = device
-        logger.info(f"Loading Encoder @ {config_name_or_path}")
+        logger.info(f"Loading Encoder @ {config_name_or_path} on device {self.device}")
         self.tokenizer = AutoTokenizer.from_pretrained(config_name_or_path)
         self.bert = AutoModel.from_pretrained(config_name_or_path).to(self.device)
         logger.info(f"Encoder loaded.")
 
-    def embed_sentences(self, sentences: List[str]):
-        batch_size = 2
+    def embed_sentences(self, sentences: List[str], detached: bool = False, **kwargs):
+        batch_size = 64
         if len(sentences) > batch_size:
-            return torch.cat([self.embed_sentences(sentences[i:i + batch_size]) for i in range(0, len(sentences), batch_size)], 0)
-        encoded_plus = [self.tokenizer.encode_plus(s, max_length=256) for s in sentences]
-        max_len = max([len(e['input_ids']) for e in encoded_plus])
+            vecs = [self.embed_sentences(sentences[ix:ix + batch_size], detached=detached) for ix in range(0, len(sentences), batch_size)]
+            if detached:
+                import numpy as np
+                return np.concatenate(vecs, axis=0)
+            else:
+                return torch.cat(vecs, dim=0)
 
-        input_ids = list()
-        attention_masks = list()
-        token_type_ids = list()
+        padding = "max_length"
 
-        for e in encoded_plus:
-            e['input_ids'] = e['input_ids'][:max_len]
-            e['token_type_ids'] = e['token_type_ids'][:max_len]
-            pad_len = max_len - len(e['input_ids'])
-            input_ids.append(e['input_ids'] + pad_len * [self.tokenizer.pad_token_id])
-            attention_masks.append([1 for _ in e['input_ids']] + [0] * pad_len)
-            token_type_ids.append(e['token_type_ids'] + [0] * pad_len)
+        batch = self.tokenizer.batch_encode_plus(
+            sentences,
+            return_tensors="pt",
+            max_length=128,
+            truncation=True,
+            padding=padding
+        )
+        batch = {k: v.to(self.device) for k, v in batch.items()}
 
-        _, x = self.bert.forward(input_ids=torch.Tensor(input_ids).long().to(self.device),
-                                 attention_mask=torch.Tensor(attention_masks).long().to(self.device),
-                                 token_type_ids=torch.Tensor(token_type_ids).long().to(self.device))
-
-        return x.cpu().detach().numpy().tolist()
+        fw = self.bert.forward(**batch)
+        embeddings = fw.pooler_output
+        if detached:
+            embeddings = embeddings.detach().cpu().numpy()
+        return embeddings
