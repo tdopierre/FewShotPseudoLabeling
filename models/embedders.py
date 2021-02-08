@@ -1,14 +1,11 @@
 import os
 import re
 import string
+from typing import List
+
 from util.constants import FASTTEXT_MODELS_PATH, ELMO_MODELS_PATH
 from util.logging import Logger
 import torch
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-import torch.optim as optim
-import numpy as np
 
 logger = Logger('FSID')
 
@@ -69,7 +66,7 @@ class ELMoEmbedder(Embedder):
         return [e.mean((0, 1)) for e in embedded]
 
 
-class BERTEmbedder(nn.Module):
+class BERTEmbedder(Embedder):
     def __init__(self, config_name_or_path, device=torch.device("cpu") if not torch.cuda.is_available() else torch.device("cuda")):
         from transformers import BertModel, BertTokenizer, BertConfig, AutoConfig, AutoModel, AutoTokenizer
 
@@ -80,10 +77,10 @@ class BERTEmbedder(nn.Module):
         self.bert = AutoModel.from_pretrained(config_name_or_path).to(self.device)
         logger.info(f"Encoder loaded.")
 
-    def forward(self, sentences):
+    def embed_sentences(self, sentences: List[str]):
         batch_size = 2
         if len(sentences) > batch_size:
-            return torch.cat([self.forward(sentences[i:i + batch_size]) for i in range(0, len(sentences), batch_size)], 0)
+            return torch.cat([self.embed_sentences(sentences[i:i + batch_size]) for i in range(0, len(sentences), batch_size)], 0)
         encoded_plus = [self.tokenizer.encode_plus(s, max_length=256) for s in sentences]
         max_len = max([len(e['input_ids']) for e in encoded_plus])
 
