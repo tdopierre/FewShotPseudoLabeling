@@ -5,7 +5,7 @@ This repository contains code for the paper [Few-shot Pseudo-Labeling for Intent
 ### Install
 This repository uses the [virtualenv](https://virtualenv.pypa.io/en/latest/) environment.
 ```bash
-# Install pipenv
+# Create environment
 python3 -m virtualenv .venv --python=python3.6
 
 # Install environment
