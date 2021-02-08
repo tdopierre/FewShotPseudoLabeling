@@ -74,11 +74,11 @@ class NaiveKNNPseudoLabeler:
         n_batches = len(range(0, len(unlabeled_data), batch_size))
 
         all_recovered = list()
-        labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
+        labeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in labeled_data]))
 
         for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
             logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
-            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in unlabeled_data_chunk]))
             embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
             w = (1 - pairwise_distances(embeddings, embeddings, metric='cosine')).astype(np.float32)
             all_recovered += get_nKNN_pseudo_labels(w, labeled_data, unlabeled_data_chunk, temperature=temperature)
@@ -112,11 +112,11 @@ class SpectralPseudoLabeler:
         n_batches = len(range(0, len(unlabeled_data), batch_size))
 
         all_recovered = list()
-        labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
+        labeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in labeled_data]))
 
         for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
             logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
-            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in unlabeled_data_chunk]))
             embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
 
             nn = NearestNeighbors(n_neighbors=10, metric='cosine')
@@ -169,11 +169,11 @@ class FoldUnfoldPseudoLabeler:
         n_batches = len(range(0, len(unlabeled_data), batch_size))
 
         all_recovered = list()
-        labeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in labeled_data]))
+        labeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in labeled_data]))
 
         for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
             logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
-            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['input'] for d in unlabeled_data_chunk]))
+            unlabeled_embeddings = np.array(self.embedder.embed_sentences([d['sentence'] for d in unlabeled_data_chunk]))
             labels = [d['label'] for d in labeled_data] + ['' for _ in unlabeled_data_chunk]
             labels_vocab = Vocab([d['label'] for d in labeled_data])
             embeddings = np.concatenate((labeled_embeddings, unlabeled_embeddings), axis=0)
@@ -274,15 +274,15 @@ class AggregatedPseudoLabeler:
             **kwargs
         )
 
-        nknn_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in nknn_pseudo_labels]
-        spectral_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in spectral_pseudo_labels]
-        hierarchical_sentences_and_pseudo_labels = [(d['data']['input'], d['pseudo_label']) for d in
+        nknn_sentences_and_pseudo_labels = [(d['data']['sentence'], d['pseudo_label']) for d in nknn_pseudo_labels]
+        spectral_sentences_and_pseudo_labels = [(d['data']['sentence'], d['pseudo_label']) for d in spectral_pseudo_labels]
+        hierarchical_sentences_and_pseudo_labels = [(d['data']['sentence'], d['pseudo_label']) for d in
                                                     hierarchical_pseudo_labels]
 
         common = set(nknn_sentences_and_pseudo_labels) & set(spectral_sentences_and_pseudo_labels) & set(
             hierarchical_sentences_and_pseudo_labels)
 
-        return [d for d in hierarchical_pseudo_labels if (d['data']['input'], d['pseudo_label']) in common]
+        return [d for d in hierarchical_pseudo_labels if (d['data']['sentence'], d['pseudo_label']) in common]
 
 
 class SelfTrainingPseudoLabeler:
@@ -303,7 +303,7 @@ class TFIDFSelfTrainingPseudoLabeler(SelfTrainingPseudoLabeler):
     def fit(self, path):
         train_data = load_data_jsonl(path)
         self.tfidf = TfidfVectorizer()
-        X = self.tfidf.fit_transform([str(d['input']) for d in train_data])
+        X = self.tfidf.fit_transform([str(d['sentence']) for d in train_data])
         self.logreg = LogisticRegression(C=100.0)
         self.labels_vocab = Vocab([d['label'] for d in train_data])
         y = [self.labels_vocab(d['label']) for d in train_data]
@@ -328,7 +328,7 @@ class TFIDFSelfTrainingPseudoLabeler(SelfTrainingPseudoLabeler):
 
         for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
             logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
-            X = self.tfidf.transform([str(d['input']) for d in unlabeled_data_chunk])
+            X = self.tfidf.transform([str(d['sentence']) for d in unlabeled_data_chunk])
             predictions = self.logreg.predict_proba(X)
             pseudo_labels = predictions.argmax(1)
             pseudo_labels_scores = predictions.max(1)
@@ -350,7 +350,7 @@ class EmbeddedSelfTrainingPseudoLabeler(SelfTrainingPseudoLabeler):
 
     def fit(self, path):
         train_data = load_data_jsonl(path)
-        X = self.embedder.embed_sentences([str(d['input']) for d in train_data])
+        X = self.embedder.embed_sentences([str(d['sentence']) for d in train_data])
         self.logreg = LogisticRegression(C=100.0)
         self.labels_vocab = Vocab([d['label'] for d in train_data])
         y = [self.labels_vocab(d['label']) for d in train_data]
@@ -375,7 +375,7 @@ class EmbeddedSelfTrainingPseudoLabeler(SelfTrainingPseudoLabeler):
 
         for batch_ix, unlabeled_data_chunk in enumerate(unlabeled_data_chunks):
             logger.info(f'Finding pseudo labels for batch {batch_ix + 1}/{n_batches}')
-            X = self.embedder.embed_sentences([str(d['input']) for d in unlabeled_data_chunk])
+            X = self.embedder.embed_sentences([str(d['sentence']) for d in unlabeled_data_chunk])
             predictions = self.logreg.predict_proba(X)
             pseudo_labels = predictions.argmax(1)
             pseudo_labels_scores = predictions.max(1)
